@@ -306,7 +306,20 @@ self.__SERVER_FILES_MANIFEST={
     "turbopack": {
       "root": "/Users/tomasdobry/Projects/techtalk"
     },
-    "distDirRoot": ".next"
+    "distDirRoot": ".next",
+    "_originalRedirects": [
+      {
+        "source": "/:path*",
+        "has": [
+          {
+            "type": "host",
+            "value": "www.techtalk.tech"
+          }
+        ],
+        "destination": "https://techtalk.tech/:path*",
+        "permanent": true
+      }
+    ]
   },
   "appDir": "/Users/tomasdobry/Projects/techtalk",
   "relativeAppDir": "",

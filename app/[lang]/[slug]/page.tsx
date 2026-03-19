@@ -10,15 +10,44 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string; slug: string }> }): Promise<Metadata> {
-  const { slug } = await params;
+  const { lang, slug } = await params;
   const article = getArticle(slug);
   if (!article) return {};
+
+  const langMap: Record<string, string> = { en: "en_US", cs: "cs_CZ", de: "de_DE", fr: "fr_FR", es: "es_ES", pl: "pl_PL", zh: "zh_CN" };
+  const baseTopic = slug.replace(/-[a-z]{2}$/, "");
+  const allArticles = getAllArticles();
+  const hrefLangs = allArticles
+    .filter(a => a.slug.replace(/-[a-z]{2}$/, "") === baseTopic && a.slug !== slug)
+    .map(a => ({ hrefLang: a.lang, href: `https://techtalk.tech/${a.lang}/${a.slug}` }));
+
   return {
-    title: `${article.title} — TechTalk`,
+    title: article.title,
     description: article.description,
     keywords: article.tags,
-    alternates: { types: { "application/rss+xml": "/feed.xml" } },
-    openGraph: { title: article.title, description: article.description, type: "article", publishedTime: article.publishedAt, tags: article.tags, ...(article.image ? { images: [{ url: article.image, width: 800, height: 450 }] } : {}) },
+    alternates: {
+      canonical: `https://techtalk.tech/${lang}/${slug}`,
+      languages: Object.fromEntries(hrefLangs.map(h => [h.hrefLang, h.href])),
+      types: { "application/rss+xml": "/feed.xml" },
+    },
+    openGraph: {
+      title: article.title,
+      description: article.description,
+      type: "article",
+      publishedTime: article.publishedAt,
+      tags: article.tags,
+      locale: langMap[lang] || "en_US",
+      alternateLocale: Object.keys(langMap).filter(l => l !== lang).map(l => langMap[l]),
+      url: `https://techtalk.tech/${lang}/${slug}`,
+      siteName: "TechTalk",
+      ...(article.image ? { images: [{ url: article.image, width: 800, height: 450, alt: article.imageAlt || article.title }] } : {}),
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: article.title,
+      description: article.description,
+      ...(article.image ? { images: [article.image] } : {}),
+    },
   };
 }
 
@@ -70,7 +99,22 @@ export default async function ArticlePage({ params }: { params: Promise<{ lang: 
 
   const rel = (article as any).related || getArticlesByLang(lang).filter((a: any) => a.slug !== slug).slice(0, 3);
 
-  const jsonLd = { "@context": "https://schema.org", "@type": "Article", headline: article.title, description: article.description, datePublished: article.publishedAt, publisher: { "@type": "Organization", name: "TechTalk", url: "https://techtalk.tech" }, ...(article.image ? { image: article.image } : {}), inLanguage: article.lang };
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: article.title,
+    description: article.description,
+    datePublished: article.publishedAt,
+    dateModified: article.publishedAt,
+    author: { "@type": "Organization", name: "TechTalk", url: "https://techtalk.tech" },
+    publisher: { "@type": "Organization", name: "TechTalk", url: "https://techtalk.tech", logo: { "@type": "ImageObject", url: "https://techtalk.tech/favicon.svg" } },
+    mainEntityOfPage: { "@type": "WebPage", "@id": `https://techtalk.tech/${lang}/${slug}` },
+    ...(article.image ? { image: { "@type": "ImageObject", url: article.image, width: 800, height: 450 } } : {}),
+    inLanguage: article.lang,
+    keywords: article.tags?.join(", "),
+    articleSection: article.category,
+    wordCount: article.content?.split(/\s+/).length || 500,
+  };
 
   return (
     <main className="max-w-3xl mx-auto px-6 py-16">
