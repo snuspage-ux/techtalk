@@ -12,4 +12,5 @@ export interface Article {
   image?: string;
   imageAlt?: string;
   backlinks?: { text: string; url: string }[];
+  related?: { slug: string; lang: string; title: string }[];
 }

@@ -4,7 +4,7 @@
   "title": "RoomFlip.io — design d'intérieur IA à petit budget",
   "description": "Téléchargez une photo et obtenez des suggestions de redesign IA en quelques secondes.",
   "excerpt": "Téléchargez une photo et obtenez des suggestions de redesign IA en quelques secondes.",
-  "content": "## Qu'est-ce que RoomFlip ?\n\nRoomFlip.io est un outil de design d'intérieur alimenté par l'IA. Photo, style, résultat en 30 secondes.\n\n## Prix\n\nGratuit avec 3 crédits. Packs à partir de $5 pour 20 transformations.\n\n## Verdict\n\nPour l'inspiration rapide et la visualisation, RoomFlip fait mouche.",
+  "content": "## Qu'est-ce que RoomFlip ?\n\nRoomFlip.io est un outil de design d'intérieur alimenté par l'IA. Photo, style, résultat en 30 secondes.\n\n## Prix\n\nGratuit avec 3 crédits. Packs à partir de $5 pour 20 transformations.\n\n## Verdict\n\nPour l'inspiration rapide et la visualisation, RoomFlip fait mouche.\n\nSee also: [FileTools.eu — conversion de fichiers gratuite qui fonctionne](/fr/filetools-review-fr)",
   "category": "creative",
   "tags": [
     "design intérieur IA",
@@ -20,5 +20,17 @@
     }
   ],
   "image": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=800&q=80",
-  "imageAlt": "Elegant dining room"
+  "imageAlt": "Elegant dining room",
+  "related": [
+    {
+      "slug": "tubevoice-review-fr",
+      "lang": "fr",
+      "title": "TubeVoice avis — doublage IA pour vidéos YouTube"
+    },
+    {
+      "slug": "filetools-review-fr",
+      "lang": "fr",
+      "title": "FileTools.eu — conversion de fichiers gratuite qui fonctionne"
+    }
+  ]
 }

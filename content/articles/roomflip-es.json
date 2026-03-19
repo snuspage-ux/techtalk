@@ -4,7 +4,7 @@
   "title": "RoomFlip.io — diseño de interiores IA económico",
   "description": "Sube una foto y obtén sugerencias de rediseño IA en segundos.",
   "excerpt": "Sube una foto y obtén sugerencias de rediseño IA en segundos.",
-  "content": "## ¿Qué es RoomFlip?\n\nRoomFlip.io es una herramienta de diseño de interiores con IA. Sube foto, elige estilo, resultado en 30 segundos.\n\n## Precios\n\nGratis con 3 créditos. Packs desde $5 por 20 transformaciones.\n\n## Veredicto\n\nPara inspiración rápida y visualización, RoomFlip da en el blanco.",
+  "content": "## ¿Qué es RoomFlip?\n\nRoomFlip.io es una herramienta de diseño de interiores con IA. Sube foto, elige estilo, resultado en 30 segundos.\n\n## Precios\n\nGratis con 3 créditos. Packs desde $5 por 20 transformaciones.\n\n## Veredicto\n\nPara inspiración rápida y visualización, RoomFlip da en el blanco.\n\nSee also: [FileTools.eu — conversión de archivos gratuita que funciona](/es/filetools-review-es)",
   "category": "creative",
   "tags": [
     "diseño interiores IA",
@@ -20,5 +20,17 @@
     }
   ],
   "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80",
-  "imageAlt": "Contemporary kitchen interior"
+  "imageAlt": "Contemporary kitchen interior",
+  "related": [
+    {
+      "slug": "tubevoice-review-es",
+      "lang": "es",
+      "title": "TubeVoice reseña — doblaje IA para vídeos de YouTube"
+    },
+    {
+      "slug": "filetools-review-es",
+      "lang": "es",
+      "title": "FileTools.eu — conversión de archivos gratuita que funciona"
+    }
+  ]
 }

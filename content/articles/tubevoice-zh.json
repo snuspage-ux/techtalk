@@ -4,7 +4,7 @@
   "title": "TubeVoice评测 — YouTube视频AI配音工具",
   "description": "我们测试了TubeVoice，一款将YouTube视频翻译和配音成50多种语言的AI工具。",
   "excerpt": "我们测试了TubeVoice，一款将YouTube视频翻译和配音成50多种语言的AI工具。",
-  "content": "## 什么是TubeVoice？\n\nTubeVoice是一个网页工具，可以将任何YouTube视频翻译并配音成其他语言。粘贴链接，选择目标语言和质量——2-5分钟出结果。\n\n## 三个质量等级\n\n**Basic**使用Google Chirp3-HD语音（1积分/分钟）。**Standard**使用ElevenLabs Flash（3积分/分钟）。**Premium**使用自动声音克隆（6积分/分钟）。\n\n## 价格\n\n20个免费积分。套餐从$20起（200积分）。\n\n## 结论\n\nPremium声音克隆令人印象深刻。对于经常观看外语YouTube内容的用户来说，这是一个可靠的工具。",
+  "content": "## 什么是TubeVoice？\n\nTubeVoice是一个网页工具，可以将任何YouTube视频翻译并配音成其他语言。粘贴链接，选择目标语言和质量——2-5分钟出结果。\n\n## 三个质量等级\n\n**Basic**使用Google Chirp3-HD语音（1积分/分钟）。**Standard**使用ElevenLabs Flash（3积分/分钟）。**Premium**使用自动声音克隆（6积分/分钟）。\n\n## 价格\n\n20个免费积分。套餐从$20起（200积分）。\n\n## 结论\n\nPremium声音克隆令人印象深刻。对于经常观看外语YouTube内容的用户来说，这是一个可靠的工具。\n\nSee also: [RoomFlip.io — 经济实惠的AI室内设计](/zh/roomflip-review-zh)",
   "category": "ai",
   "tags": [
     "AI配音",
@@ -20,5 +20,17 @@
     }
   ],
   "image": "https://images.unsplash.com/photo-1593078166039-c9878df5c520?w=800&q=80",
-  "imageAlt": "Sound mixing console"
+  "imageAlt": "Sound mixing console",
+  "related": [
+    {
+      "slug": "roomflip-review-zh",
+      "lang": "zh",
+      "title": "RoomFlip.io — 经济实惠的AI室内设计"
+    },
+    {
+      "slug": "filetools-review-zh",
+      "lang": "zh",
+      "title": "FileTools.eu — 真正好用的免费在线文件转换"
+    }
+  ]
 }

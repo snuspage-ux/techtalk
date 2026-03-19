@@ -4,7 +4,7 @@
   "title": "RoomFlip.io — AI interior design on a budget",
   "description": "Upload a photo of your room and get AI-generated redesign suggestions in seconds. Multiple styles, from minimalist to industrial.",
   "excerpt": "Upload a photo of your room and get AI-generated redesign suggestions in seconds. Multiple styles, from minimalist to industrial.",
-  "content": "## What is RoomFlip?\n\nRoomFlip.io is an AI-powered interior design tool. Upload a photo of any room, pick a style, and the AI generates a redesigned version while keeping the room's structure intact.\n\n## How it works\n\nThe tool uses image-to-image AI models to transform room photos. Upload your image, select a style (minimalist, scandinavian, industrial, bohemian, etc.), and get results in about 30 seconds.\n\nThe AI preserves room layout — walls, windows, doors stay in place. Furniture, colors, and decor change to match the selected style.\n\n## Use cases\n\nRenters looking for inspiration without committing. Homeowners planning renovations. Interior design students exploring concepts. Real estate agents staging properties virtually.\n\n## Pricing\n\nFree tier with 3 credits. Paid packs starting at $5 for 20 transformations.\n\n## Verdict\n\nRoomFlip won't replace a professional interior designer, but for quick inspiration and visualization, it hits the mark. The structure preservation is impressive — results look like realistic redesigns, not random AI art.",
+  "content": "## What is RoomFlip?\n\nRoomFlip.io is an AI-powered interior design tool. Upload a photo of any room, pick a style, and the AI generates a redesigned version while keeping the room's structure intact.\n\n## How it works\n\nThe tool uses image-to-image AI models to transform room photos. Upload your image, select a style (minimalist, scandinavian, industrial, bohemian, etc.), and get results in about 30 seconds.\n\nThe AI preserves room layout — walls, windows, doors stay in place. Furniture, colors, and decor change to match the selected style.\n\n## Use cases\n\nRenters looking for inspiration without committing. Homeowners planning renovations. Interior design students exploring concepts. Real estate agents staging properties virtually.\n\n## Pricing\n\nFree tier with 3 credits. Paid packs starting at $5 for 20 transformations.\n\n## Verdict\n\nRoomFlip won't replace a professional interior designer, but for quick inspiration and visualization, it hits the mark. The structure preservation is impressive — results look like realistic redesigns, not random AI art.\n\nSee also: [TubeVoice review — AI dubbing for YouTube videos](/en/tubevoice-review-en)",
   "category": "creative",
   "tags": [
     "AI interior design",
@@ -21,5 +21,17 @@
     }
   ],
   "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=80",
-  "imageAlt": "Modern living room interior"
+  "imageAlt": "Modern living room interior",
+  "related": [
+    {
+      "slug": "tubevoice-review-en",
+      "lang": "en",
+      "title": "TubeVoice review — AI dubbing for YouTube videos"
+    },
+    {
+      "slug": "filetools-review-en",
+      "lang": "en",
+      "title": "FileTools.eu — free online file conversion that actually works"
+    }
+  ]
 }

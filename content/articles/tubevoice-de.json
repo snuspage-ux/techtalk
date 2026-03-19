@@ -4,7 +4,7 @@
   "title": "TubeVoice Test — KI-Synchronisation für YouTube-Videos",
   "description": "Wir haben TubeVoice getestet, ein KI-Tool zur Übersetzung und Synchronisation von YouTube-Videos in über 50 Sprachen.",
   "excerpt": "Wir haben TubeVoice getestet, ein KI-Tool zur Übersetzung und Synchronisation von YouTube-Videos in über 50 Sprachen.",
-  "content": "## Was ist TubeVoice?\n\nTubeVoice ist ein webbasiertes Tool, das YouTube-Videos in andere Sprachen übersetzt und synchronisiert. Link einfügen, Zielsprache und Qualität wählen — fertig in 2-5 Minuten.\n\n## Drei Qualitätsstufen\n\n**Basic** mit Google Chirp3-HD Stimmen (1 Credit/Min). **Standard** mit ElevenLabs Flash (3 Credits/Min). **Premium** mit automatischer Stimmklonung (6 Credits/Min).\n\n## Preise\n\n20 kostenlose Credits. Pakete ab $20 für 200 Credits. Kein Abonnement nötig.\n\n## Fazit\n\nDie Premium-Stimmklonung überzeugt. Für den Preis ein solides Tool, besonders für regelmäßige Zuschauer ausländischer YouTube-Inhalte.",
+  "content": "## Was ist TubeVoice?\n\nTubeVoice ist ein webbasiertes Tool, das YouTube-Videos in andere Sprachen übersetzt und synchronisiert. Link einfügen, Zielsprache und Qualität wählen — fertig in 2-5 Minuten.\n\n## Drei Qualitätsstufen\n\n**Basic** mit Google Chirp3-HD Stimmen (1 Credit/Min). **Standard** mit ElevenLabs Flash (3 Credits/Min). **Premium** mit automatischer Stimmklonung (6 Credits/Min).\n\n## Preise\n\n20 kostenlose Credits. Pakete ab $20 für 200 Credits. Kein Abonnement nötig.\n\n## Fazit\n\nDie Premium-Stimmklonung überzeugt. Für den Preis ein solides Tool, besonders für regelmäßige Zuschauer ausländischer YouTube-Inhalte.\n\nSee also: [RoomFlip.io — KI-Innendesign zum kleinen Preis](/de/roomflip-review-de)",
   "category": "ai",
   "tags": [
     "KI-Synchronisation",
@@ -20,5 +20,17 @@
     }
   ],
   "image": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=800&q=80",
-  "imageAlt": "Headphones on desk with screen"
+  "imageAlt": "Headphones on desk with screen",
+  "related": [
+    {
+      "slug": "filetools-review-de",
+      "lang": "de",
+      "title": "FileTools.eu — kostenlose Dateikonvertierung die funktioniert"
+    },
+    {
+      "slug": "roomflip-review-de",
+      "lang": "de",
+      "title": "RoomFlip.io — KI-Innendesign zum kleinen Preis"
+    }
+  ]
 }

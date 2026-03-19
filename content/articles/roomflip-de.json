@@ -4,7 +4,7 @@
   "title": "RoomFlip.io — KI-Innendesign zum kleinen Preis",
   "description": "Laden Sie ein Foto hoch und erhalten Sie KI-generierte Neugestaltungsvorschläge in Sekunden.",
   "excerpt": "Laden Sie ein Foto hoch und erhalten Sie KI-generierte Neugestaltungsvorschläge in Sekunden.",
-  "content": "## Was ist RoomFlip?\n\nRoomFlip.io ist ein KI-gestütztes Innendesign-Tool. Foto hochladen, Stil wählen, Ergebnis in 30 Sekunden.\n\n## Preise\n\nKostenlos mit 3 Credits. Pakete ab $5 für 20 Transformationen.\n\n## Fazit\n\nFür schnelle Inspiration und Visualisierung trifft RoomFlip ins Schwarze.",
+  "content": "## Was ist RoomFlip?\n\nRoomFlip.io ist ein KI-gestütztes Innendesign-Tool. Foto hochladen, Stil wählen, Ergebnis in 30 Sekunden.\n\n## Preise\n\nKostenlos mit 3 Credits. Pakete ab $5 für 20 Transformationen.\n\n## Fazit\n\nFür schnelle Inspiration und Visualisierung trifft RoomFlip ins Schwarze.\n\nSee also: [TubeVoice Test — KI-Synchronisation für YouTube-Videos](/de/tubevoice-review-de)",
   "category": "creative",
   "tags": [
     "KI-Innendesign",
@@ -20,5 +20,17 @@
     }
   ],
   "image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=800&q=80",
-  "imageAlt": "Scandinavian style room"
+  "imageAlt": "Scandinavian style room",
+  "related": [
+    {
+      "slug": "tubevoice-review-de",
+      "lang": "de",
+      "title": "TubeVoice Test — KI-Synchronisation für YouTube-Videos"
+    },
+    {
+      "slug": "filetools-review-de",
+      "lang": "de",
+      "title": "FileTools.eu — kostenlose Dateikonvertierung die funktioniert"
+    }
+  ]
 }

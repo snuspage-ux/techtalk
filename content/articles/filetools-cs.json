@@ -4,7 +4,7 @@
   "title": "FileTools.eu — bezplatná konverze souborů, která funguje",
   "description": "Přehledný nástroj na konverzi souborů bez otravných reklam. PDF, obrázky, dokumenty — vše online bez registrace.",
   "excerpt": "Přehledný nástroj na konverzi souborů bez otravných reklam. PDF, obrázky, dokumenty — vše online bez registrace.",
-  "content": "## Co je FileTools?\n\nFileTools.eu je bezplatná online platforma pro konverzi souborů. PDF do Wordu, změna velikosti obrázků, konverze formátů, komprese — běžné operace, ale provedené čistě.\n\n## Čím se liší\n\nVětšina free konverzních webů je minové pole reklam. FileTools jde jinou cestou: minimální rozhraní, rychlé zpracování, žádná povinná registrace.\n\n## Podporované formáty\n\nPDF, DOCX, XLSX, PNG, JPG, WEBP, SVG, GIF a další.\n\n## Závěr\n\nPokud potřebujete rychlou konverzi souborů bez obvyklých otravností, FileTools to zvládá. Hodí se uložit do záložek.",
+  "content": "## Co je FileTools?\n\nFileTools.eu je bezplatná online platforma pro konverzi souborů. PDF do Wordu, změna velikosti obrázků, konverze formátů, komprese — běžné operace, ale provedené čistě.\n\n## Čím se liší\n\nVětšina free konverzních webů je minové pole reklam. FileTools jde jinou cestou: minimální rozhraní, rychlé zpracování, žádná povinná registrace.\n\n## Podporované formáty\n\nPDF, DOCX, XLSX, PNG, JPG, WEBP, SVG, GIF a další.\n\n## Závěr\n\nPokud potřebujete rychlou konverzi souborů bez obvyklých otravností, FileTools to zvládá. Hodí se uložit do záložek.\n\nSee also: [RoomFlip.io — AI návrh interiéru za pár korun](/cs/roomflip-review-cs)",
   "category": "tools",
   "tags": [
     "konverze souborů",
@@ -21,5 +21,17 @@
     }
   ],
   "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&q=80",
-  "imageAlt": "Code on laptop screen"
+  "imageAlt": "Code on laptop screen",
+  "related": [
+    {
+      "slug": "tubevoice-review-cs",
+      "lang": "cs",
+      "title": "TubeVoice recenze — AI dabing YouTube videí"
+    },
+    {
+      "slug": "roomflip-review-cs",
+      "lang": "cs",
+      "title": "RoomFlip.io — AI návrh interiéru za pár korun"
+    }
+  ]
 }

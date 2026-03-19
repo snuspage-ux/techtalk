@@ -2,6 +2,7 @@ import { getAllArticles, getArticle, getArticlesByLang } from "@/lib/articles";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
+import { ShareButtons } from "@/components/ShareButtons";
 
 export async function generateStaticParams() {
   return getAllArticles().map((a) => ({ lang: a.lang, slug: a.slug }));
@@ -15,14 +16,8 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
     title: `${article.title} — TechTalk`,
     description: article.description,
     keywords: article.tags,
-    openGraph: {
-      title: article.title,
-      description: article.description,
-      type: "article",
-      publishedTime: article.publishedAt,
-      tags: article.tags,
-      ...(article.image ? { images: [{ url: article.image, width: 800, height: 450 }] } : {}),
-    },
+    alternates: { types: { "application/rss+xml": "/feed.xml" } },
+    openGraph: { title: article.title, description: article.description, type: "article", publishedTime: article.publishedAt, tags: article.tags, ...(article.image ? { images: [{ url: article.image, width: 800, height: 450 }] } : {}) },
   };
 }
 
@@ -39,14 +34,15 @@ function renderContent(content: string, backlinks?: { text: string; url: string 
     if (t.startsWith("### ")) elements.push(<h3 key={i} className="text-lg font-bold text-white mt-8 mb-3">{t.slice(4)}</h3>);
     else if (t.startsWith("## ")) elements.push(<h2 key={i} className="text-2xl font-bold text-white mt-12 mb-4">{t.slice(3)}</h2>);
     else {
-      const parts = t.split(/(\*\*[^*]+\*\*)/g);
+      const parts = t.split(/(\*\*[^*]+\*\*|\[[^\]]+\]\([^)]+\))/g);
       elements.push(
         <p key={i} className="text-zinc-300 leading-relaxed mb-4">
-          {parts.map((p, j) =>
-            p.startsWith("**") && p.endsWith("**")
-              ? <strong key={j} className="text-white font-semibold">{p.slice(2, -2)}</strong>
-              : p
-          )}
+          {parts.map((p: string, j: number) => {
+            if (p.startsWith("**") && p.endsWith("**")) return <strong key={j} className="text-white font-semibold">{p.slice(2, -2)}</strong>;
+            const m = p.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
+            if (m) return <Link key={j} href={m[2]} className="text-violet-400 hover:text-violet-300 underline underline-offset-4 transition-colors">{m[1]}</Link>;
+            return p;
+          })}
         </p>
       );
     }
@@ -56,7 +52,7 @@ function renderContent(content: string, backlinks?: { text: string; url: string 
       <div key="bl" className="mt-12 p-6 rounded-xl bg-violet-500/[0.05] border border-violet-500/10">
         <h3 className="text-sm font-semibold text-zinc-300 mb-3">Tools mentioned in this article</h3>
         <div className="flex flex-wrap gap-3">
-          {backlinks.map((bl, i) => (
+          {backlinks.map((bl: {text:string;url:string}, i: number) => (
             <a key={i} href={bl.url} target="_blank" rel="noopener" className="text-sm text-violet-400 hover:text-violet-300 underline underline-offset-4 transition-colors">{bl.text} →</a>
           ))}
         </div>
@@ -71,18 +67,9 @@ export default async function ArticlePage({ params }: { params: Promise<{ lang: 
   const article = getArticle(slug);
   if (!article || article.lang !== lang) notFound();
 
-  const related = getArticlesByLang(lang).filter(a => a.slug !== slug).slice(0, 3);
+  const rel = (article as any).related || getArticlesByLang(lang).filter((a: any) => a.slug !== slug).slice(0, 3);
 
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    headline: article.title,
-    description: article.description,
-    datePublished: article.publishedAt,
-    publisher: { "@type": "Organization", name: "TechTalk", url: "https://techtalk.tech" },
-    ...(article.image ? { image: article.image } : {}),
-    inLanguage: article.lang,
-  };
+  const jsonLd = { "@context": "https://schema.org", "@type": "Article", headline: article.title, description: article.description, datePublished: article.publishedAt, publisher: { "@type": "Organization", name: "TechTalk", url: "https://techtalk.tech" }, ...(article.image ? { image: article.image } : {}), inLanguage: article.lang };
 
   return (
     <main className="max-w-3xl mx-auto px-6 py-16">
@@ -101,24 +88,23 @@ export default async function ArticlePage({ params }: { params: Promise<{ lang: 
           <img src={article.image} alt={article.imageAlt || article.title} className="w-full h-64 md:h-80 object-cover" />
         </div>
       )}
-      <div className="article-content">{renderContent(article.content, article.backlinks)}</div>
+      <div>{renderContent(article.content, article.backlinks)}</div>
       <div className="mt-12 flex flex-wrap gap-2">
-        {article.tags.map(t => (
+        {article.tags.map((t: string) => (
           <span key={t} className="text-[10px] px-2.5 py-1 rounded-full bg-white/[0.04] text-zinc-500 border border-white/[0.06]">{t}</span>
         ))}
       </div>
-
-      {/* Related articles */}
-      {related.length > 0 && (
-        <section className="mt-20 pt-12 border-t border-white/[0.06]">
+      <ShareButtons url={`https://techtalk.tech/${lang}/${slug}`} title={article.title} />
+      {rel.length > 0 && (
+        <section className="mt-16 pt-12 border-t border-white/[0.06]">
           <h2 className="text-sm font-semibold text-zinc-400 uppercase tracking-wider mb-6">More articles</h2>
           <div className="grid gap-4 md:grid-cols-3">
-            {related.map(r => (
+            {rel.map((r: any) => { const full = getArticle(r.slug); return (
               <Link key={r.slug} href={`/${r.lang}/${r.slug}`} className="group block rounded-xl border border-white/[0.06] bg-[#111118] p-4 hover:border-violet-500/20 transition-colors">
-                {r.image && <img src={r.image} alt={r.imageAlt || r.title} className="w-full h-24 object-cover rounded-lg mb-3" loading="lazy" />}
+                {full?.image && <img src={full.image} alt={r.title} className="w-full h-24 object-cover rounded-lg mb-3" loading="lazy" />}
                 <h3 className="text-sm font-semibold text-white group-hover:text-violet-300 transition-colors line-clamp-2">{r.title}</h3>
               </Link>
-            ))}
+            ); })}
           </div>
         </section>
       )}

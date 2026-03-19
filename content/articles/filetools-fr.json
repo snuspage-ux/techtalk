@@ -4,7 +4,7 @@
   "title": "FileTools.eu — conversion de fichiers gratuite qui fonctionne",
   "description": "Un outil de conversion propre sans publicités envahissantes. PDF, images, documents — tout en ligne sans inscription.",
   "excerpt": "Un outil de conversion propre sans publicités envahissantes. PDF, images, documents — tout en ligne sans inscription.",
-  "content": "## Qu'est-ce que FileTools ?\n\nFileTools.eu est une plateforme gratuite de conversion de fichiers en ligne. PDF vers Word, redimensionnement d'images, conversion de formats — proprement exécuté.\n\n## Formats supportés\n\nPDF, DOCX, XLSX, PNG, JPG, WEBP, SVG, GIF et plus.\n\n## Verdict\n\nConversion rapide sans les nuisances habituelles des outils web.",
+  "content": "## Qu'est-ce que FileTools ?\n\nFileTools.eu est une plateforme gratuite de conversion de fichiers en ligne. PDF vers Word, redimensionnement d'images, conversion de formats — proprement exécuté.\n\n## Formats supportés\n\nPDF, DOCX, XLSX, PNG, JPG, WEBP, SVG, GIF et plus.\n\n## Verdict\n\nConversion rapide sans les nuisances habituelles des outils web.\n\nSee also: [RoomFlip.io — design d'intérieur IA à petit budget](/fr/roomflip-review-fr)",
   "category": "tools",
   "tags": [
     "conversion fichiers",
@@ -20,5 +20,17 @@
     }
   ],
   "image": "https://images.unsplash.com/photo-1586953208270-767fc7370c0a?w=800&q=80",
-  "imageAlt": "Digital files and folders"
+  "imageAlt": "Digital files and folders",
+  "related": [
+    {
+      "slug": "roomflip-review-fr",
+      "lang": "fr",
+      "title": "RoomFlip.io — design d'intérieur IA à petit budget"
+    },
+    {
+      "slug": "tubevoice-review-fr",
+      "lang": "fr",
+      "title": "TubeVoice avis — doublage IA pour vidéos YouTube"
+    }
+  ]
 }

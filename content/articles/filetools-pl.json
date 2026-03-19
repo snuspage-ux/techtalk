@@ -4,7 +4,7 @@
   "title": "FileTools.eu — darmowa konwersja plików, która działa",
   "description": "Przejrzyste narzędzie do konwersji bez nachalnych reklam. PDF, obrazy, dokumenty — online bez rejestracji.",
   "excerpt": "Przejrzyste narzędzie do konwersji bez nachalnych reklam. PDF, obrazy, dokumenty — online bez rejestracji.",
-  "content": "## Czym jest FileTools?\n\nFileTools.eu to darmowa platforma do konwersji plików online. PDF do Word, zmiana rozmiaru obrazów, konwersja formatów.\n\n## Obsługiwane formaty\n\nPDF, DOCX, XLSX, PNG, JPG, WEBP, SVG, GIF i więcej.\n\n## Werdykt\n\nSzybka konwersja plików bez typowych problemów narzędzi webowych.",
+  "content": "## Czym jest FileTools?\n\nFileTools.eu to darmowa platforma do konwersji plików online. PDF do Word, zmiana rozmiaru obrazów, konwersja formatów.\n\n## Obsługiwane formaty\n\nPDF, DOCX, XLSX, PNG, JPG, WEBP, SVG, GIF i więcej.\n\n## Werdykt\n\nSzybka konwersja plików bez typowych problemów narzędzi webowych.\n\nSee also: [TubeVoice recenzja — AI dubbing filmów z YouTube](/pl/tubevoice-review-pl)",
   "category": "tools",
   "tags": [
     "konwersja plików",
@@ -20,5 +20,17 @@
     }
   ],
   "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
-  "imageAlt": "Analytics dashboard"
+  "imageAlt": "Analytics dashboard",
+  "related": [
+    {
+      "slug": "roomflip-review-pl",
+      "lang": "pl",
+      "title": "RoomFlip.io — AI projektowanie wnętrz w przystępnej cenie"
+    },
+    {
+      "slug": "tubevoice-review-pl",
+      "lang": "pl",
+      "title": "TubeVoice recenzja — AI dubbing filmów z YouTube"
+    }
+  ]
 }

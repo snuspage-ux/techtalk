@@ -4,7 +4,7 @@
   "title": "FileTools.eu — conversión de archivos gratuita que funciona",
   "description": "Una herramienta de conversión limpia sin anuncios molestos. PDF, imágenes, documentos — todo online sin registro.",
   "excerpt": "Una herramienta de conversión limpia sin anuncios molestos. PDF, imágenes, documentos — todo online sin registro.",
-  "content": "## ¿Qué es FileTools?\n\nFileTools.eu es una plataforma gratuita de conversión de archivos online. PDF a Word, cambio de tamaño de imágenes, conversión de formatos.\n\n## Formatos soportados\n\nPDF, DOCX, XLSX, PNG, JPG, WEBP, SVG, GIF y más.\n\n## Veredicto\n\nConversión rápida sin las molestias habituales de herramientas web.",
+  "content": "## ¿Qué es FileTools?\n\nFileTools.eu es una plataforma gratuita de conversión de archivos online. PDF a Word, cambio de tamaño de imágenes, conversión de formatos.\n\n## Formatos soportados\n\nPDF, DOCX, XLSX, PNG, JPG, WEBP, SVG, GIF y más.\n\n## Veredicto\n\nConversión rápida sin las molestias habituales de herramientas web.\n\nSee also: [RoomFlip.io — diseño de interiores IA económico](/es/roomflip-review-es)",
   "category": "tools",
   "tags": [
     "conversión archivos",
@@ -20,5 +20,17 @@
     }
   ],
   "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
-  "imageAlt": "Data center servers"
+  "imageAlt": "Data center servers",
+  "related": [
+    {
+      "slug": "roomflip-review-es",
+      "lang": "es",
+      "title": "RoomFlip.io — diseño de interiores IA económico"
+    },
+    {
+      "slug": "tubevoice-review-es",
+      "lang": "es",
+      "title": "TubeVoice reseña — doblaje IA para vídeos de YouTube"
+    }
+  ]
 }

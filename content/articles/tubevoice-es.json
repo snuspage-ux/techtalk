@@ -4,7 +4,7 @@
   "title": "TubeVoice reseña — doblaje IA para vídeos de YouTube",
   "description": "Probamos TubeVoice, una herramienta IA que traduce y dobla vídeos de YouTube a más de 50 idiomas.",
   "excerpt": "Probamos TubeVoice, una herramienta IA que traduce y dobla vídeos de YouTube a más de 50 idiomas.",
-  "content": "## ¿Qué es TubeVoice?\n\nTubeVoice es una herramienta web que toma cualquier vídeo de YouTube y crea una versión doblada en otro idioma. Pega un enlace, elige idioma y calidad — resultado en 2-5 minutos.\n\n## Tres niveles de calidad\n\n**Basic** con voces Google Chirp3-HD (1 crédito/min). **Standard** con ElevenLabs Flash (3 créditos/min). **Premium** con clonación de voz automática (6 créditos/min).\n\n## Precios\n\n20 créditos gratis. Packs desde $20 por 200 créditos.\n\n## Veredicto\n\nLa clonación de voz Premium es impresionante. Una herramienta sólida para quien ve contenido de YouTube extranjero regularmente.",
+  "content": "## ¿Qué es TubeVoice?\n\nTubeVoice es una herramienta web que toma cualquier vídeo de YouTube y crea una versión doblada en otro idioma. Pega un enlace, elige idioma y calidad — resultado en 2-5 minutos.\n\n## Tres niveles de calidad\n\n**Basic** con voces Google Chirp3-HD (1 crédito/min). **Standard** con ElevenLabs Flash (3 créditos/min). **Premium** con clonación de voz automática (6 créditos/min).\n\n## Precios\n\n20 créditos gratis. Packs desde $20 por 200 créditos.\n\n## Veredicto\n\nLa clonación de voz Premium es impresionante. Una herramienta sólida para quien ve contenido de YouTube extranjero regularmente.\n\nSee also: [RoomFlip.io — diseño de interiores IA económico](/es/roomflip-review-es)",
   "category": "ai",
   "tags": [
     "doblaje IA",
@@ -20,5 +20,17 @@
     }
   ],
   "image": "https://images.unsplash.com/photo-1516280030429-27679b3dc9cf?w=800&q=80",
-  "imageAlt": "Multilingual subtitles on screen"
+  "imageAlt": "Multilingual subtitles on screen",
+  "related": [
+    {
+      "slug": "filetools-review-es",
+      "lang": "es",
+      "title": "FileTools.eu — conversión de archivos gratuita que funciona"
+    },
+    {
+      "slug": "roomflip-review-es",
+      "lang": "es",
+      "title": "RoomFlip.io — diseño de interiores IA económico"
+    }
+  ]
 }

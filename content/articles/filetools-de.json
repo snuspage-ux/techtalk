@@ -4,7 +4,7 @@
   "title": "FileTools.eu — kostenlose Dateikonvertierung die funktioniert",
   "description": "Ein sauberes Dateikonvertierungstool ohne Werbe-Überflutung. PDF, Bilder, Dokumente — alles online ohne Registrierung.",
   "excerpt": "Ein sauberes Dateikonvertierungstool ohne Werbe-Überflutung. PDF, Bilder, Dokumente — alles online ohne Registrierung.",
-  "content": "## Was ist FileTools?\n\nFileTools.eu ist eine kostenlose Online-Plattform zur Dateikonvertierung. PDF zu Word, Bildgrößenänderung, Formatkonvertierung — sauber umgesetzt.\n\n## Unterstützte Formate\n\nPDF, DOCX, XLSX, PNG, JPG, WEBP, SVG, GIF und mehr.\n\n## Fazit\n\nSchnelle Dateikonvertierung ohne die üblichen Web-Tool-Ärgernisse.",
+  "content": "## Was ist FileTools?\n\nFileTools.eu ist eine kostenlose Online-Plattform zur Dateikonvertierung. PDF zu Word, Bildgrößenänderung, Formatkonvertierung — sauber umgesetzt.\n\n## Unterstützte Formate\n\nPDF, DOCX, XLSX, PNG, JPG, WEBP, SVG, GIF und mehr.\n\n## Fazit\n\nSchnelle Dateikonvertierung ohne die üblichen Web-Tool-Ärgernisse.\n\nSee also: [TubeVoice Test — KI-Synchronisation für YouTube-Videos](/de/tubevoice-review-de)",
   "category": "tools",
   "tags": [
     "Dateikonvertierung",
@@ -20,5 +20,17 @@
     }
   ],
   "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
-  "imageAlt": "Business workspace with papers"
+  "imageAlt": "Business workspace with papers",
+  "related": [
+    {
+      "slug": "roomflip-review-de",
+      "lang": "de",
+      "title": "RoomFlip.io — KI-Innendesign zum kleinen Preis"
+    },
+    {
+      "slug": "tubevoice-review-de",
+      "lang": "de",
+      "title": "TubeVoice Test — KI-Synchronisation für YouTube-Videos"
+    }
+  ]
 }

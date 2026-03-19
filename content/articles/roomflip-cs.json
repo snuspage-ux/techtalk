@@ -4,7 +4,7 @@
   "title": "RoomFlip.io — AI návrh interiéru za pár korun",
   "description": "Nahrajte fotku pokoje a získejte AI návrhy přestavby během sekund. Více stylů od minimalismu po industrial.",
   "excerpt": "Nahrajte fotku pokoje a získejte AI návrhy přestavby během sekund. Více stylů od minimalismu po industrial.",
-  "content": "## Co je RoomFlip?\n\nRoomFlip.io je AI nástroj pro návrh interiérů. Nahrajte fotku pokoje, vyberte styl a AI vygeneruje přepracovanou verzi se zachováním struktury místnosti.\n\n## Jak to funguje\n\nNástroj používá AI modely pro transformaci fotek pokojů. Nahrajte obrázek, vyberte styl (minimalismus, skandinávský, industrial, bohémský atd.) a výsledky dostanete za 30 sekund.\n\n## Ceny\n\nFree tier se 3 kredity. Placené balíčky od $5 za 20 transformací.\n\n## Závěr\n\nRoomFlip nenahradí profesionálního designéra, ale pro rychlou inspiraci a vizualizaci to funguje výborně.",
+  "content": "## Co je RoomFlip?\n\nRoomFlip.io je AI nástroj pro návrh interiérů. Nahrajte fotku pokoje, vyberte styl a AI vygeneruje přepracovanou verzi se zachováním struktury místnosti.\n\n## Jak to funguje\n\nNástroj používá AI modely pro transformaci fotek pokojů. Nahrajte obrázek, vyberte styl (minimalismus, skandinávský, industrial, bohémský atd.) a výsledky dostanete za 30 sekund.\n\n## Ceny\n\nFree tier se 3 kredity. Placené balíčky od $5 za 20 transformací.\n\n## Závěr\n\nRoomFlip nenahradí profesionálního designéra, ale pro rychlou inspiraci a vizualizaci to funguje výborně.\n\nSee also: [FileTools.eu — bezplatná konverze souborů, která funguje](/cs/filetools-review-cs)",
   "category": "creative",
   "tags": [
     "AI interiérový design",
@@ -20,5 +20,17 @@
     }
   ],
   "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=800&q=80",
-  "imageAlt": "Minimalist bedroom design"
+  "imageAlt": "Minimalist bedroom design",
+  "related": [
+    {
+      "slug": "tubevoice-review-cs",
+      "lang": "cs",
+      "title": "TubeVoice recenze — AI dabing YouTube videí"
+    },
+    {
+      "slug": "filetools-review-cs",
+      "lang": "cs",
+      "title": "FileTools.eu — bezplatná konverze souborů, která funguje"
+    }
+  ]
 }

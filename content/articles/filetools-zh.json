@@ -4,7 +4,7 @@
   "title": "FileTools.eu — 真正好用的免费在线文件转换",
   "description": "一个干净的文件转换工具，没有烦人的广告。PDF、图片、文档——在线无需注册。",
   "excerpt": "一个干净的文件转换工具，没有烦人的广告。PDF、图片、文档——在线无需注册。",
-  "content": "## 什么是FileTools？\n\nFileTools.eu是一个免费的在线文件转换平台。PDF转Word、图片大小调整、格式转换。\n\n## 支持的格式\n\nPDF、DOCX、XLSX、PNG、JPG、WEBP、SVG、GIF等。\n\n## 结论\n\n快速文件转换，没有常见的网页工具烦恼。",
+  "content": "## 什么是FileTools？\n\nFileTools.eu是一个免费的在线文件转换平台。PDF转Word、图片大小调整、格式转换。\n\n## 支持的格式\n\nPDF、DOCX、XLSX、PNG、JPG、WEBP、SVG、GIF等。\n\n## 结论\n\n快速文件转换，没有常见的网页工具烦恼。\n\nSee also: [TubeVoice评测 — YouTube视频AI配音工具](/zh/tubevoice-review-zh)",
   "category": "tools",
   "tags": [
     "文件转换",
@@ -20,5 +20,17 @@
     }
   ],
   "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
-  "imageAlt": "Spreadsheet data on screen"
+  "imageAlt": "Spreadsheet data on screen",
+  "related": [
+    {
+      "slug": "tubevoice-review-zh",
+      "lang": "zh",
+      "title": "TubeVoice评测 — YouTube视频AI配音工具"
+    },
+    {
+      "slug": "roomflip-review-zh",
+      "lang": "zh",
+      "title": "RoomFlip.io — 经济实惠的AI室内设计"
+    }
+  ]
 }
