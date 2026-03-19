@@ -3,6 +3,7 @@
   "/_global-error/page": "/_global-error",
   "/_not-found/page": "/_not-found",
   "/about/page": "/about",
+  "/api/comments/route": "/api/comments",
   "/category/[cat]/page": "/category/[cat]",
   "/feed.xml/route": "/feed.xml",
   "/page": "/",

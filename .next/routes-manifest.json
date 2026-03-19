@@ -66,6 +66,12 @@
       "namedRegex": "^/about(?:/)?$"
     },
     {
+      "page": "/api/comments",
+      "regex": "^/api/comments(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/comments(?:/)?$"
+    },
+    {
       "page": "/feed.xml",
       "regex": "^/feed\\.xml(?:/)?$",
       "routeKeys": {},
