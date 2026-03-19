@@ -1,4 +1,4 @@
-import { getAllArticles, getArticle } from "@/lib/articles";
+import { getAllArticles, getArticle, getArticlesByLang } from "@/lib/articles";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
@@ -15,9 +15,18 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
     title: `${article.title} — TechTalk`,
     description: article.description,
     keywords: article.tags,
-    openGraph: { title: article.title, description: article.description, type: "article", ...(article.image ? { images: [article.image] } : {}) },
+    openGraph: {
+      title: article.title,
+      description: article.description,
+      type: "article",
+      publishedTime: article.publishedAt,
+      tags: article.tags,
+      ...(article.image ? { images: [{ url: article.image, width: 800, height: 450 }] } : {}),
+    },
   };
 }
+
+const CAT_COLORS: Record<string, string> = { ai: "text-violet-400 bg-violet-500/10 border-violet-500/20", tools: "text-emerald-400 bg-emerald-500/10 border-emerald-500/20", web: "text-blue-400 bg-blue-500/10 border-blue-500/20", creative: "text-amber-400 bg-amber-500/10 border-amber-500/20" };
 
 function renderContent(content: string, backlinks?: { text: string; url: string }[]) {
   const lines = content.split("\n");
@@ -45,12 +54,10 @@ function renderContent(content: string, backlinks?: { text: string; url: string 
   if (backlinks?.length) {
     elements.push(
       <div key="bl" className="mt-12 p-6 rounded-xl bg-violet-500/[0.05] border border-violet-500/10">
-        <h3 className="text-sm font-semibold text-zinc-300 mb-3">Related tools mentioned in this article:</h3>
+        <h3 className="text-sm font-semibold text-zinc-300 mb-3">Tools mentioned in this article</h3>
         <div className="flex flex-wrap gap-3">
           {backlinks.map((bl, i) => (
-            <a key={i} href={bl.url} target="_blank" rel="noopener" className="text-sm text-violet-400 hover:text-violet-300 underline underline-offset-4 transition-colors">
-              {bl.text} →
-            </a>
+            <a key={i} href={bl.url} target="_blank" rel="noopener" className="text-sm text-violet-400 hover:text-violet-300 underline underline-offset-4 transition-colors">{bl.text} →</a>
           ))}
         </div>
       </div>
@@ -64,11 +71,25 @@ export default async function ArticlePage({ params }: { params: Promise<{ lang: 
   const article = getArticle(slug);
   if (!article || article.lang !== lang) notFound();
 
+  const related = getArticlesByLang(lang).filter(a => a.slug !== slug).slice(0, 3);
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: article.title,
+    description: article.description,
+    datePublished: article.publishedAt,
+    publisher: { "@type": "Organization", name: "TechTalk", url: "https://techtalk.tech" },
+    ...(article.image ? { image: article.image } : {}),
+    inLanguage: article.lang,
+  };
+
   return (
     <main className="max-w-3xl mx-auto px-6 py-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <Link href="/" className="text-sm text-zinc-500 hover:text-violet-400 transition-colors mb-8 inline-block">← Back to TechTalk</Link>
       <div className="flex items-center gap-3 text-xs text-zinc-500 mb-6">
-        <span className="uppercase">{article.category}</span>
+        <Link href={`/category/${article.category}`} className={`px-2 py-0.5 rounded-full border ${CAT_COLORS[article.category] || ""}`}>{article.category}</Link>
         <span className="w-1 h-1 rounded-full bg-zinc-600" />
         <time>{new Date(article.publishedAt).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</time>
         <span className="w-1 h-1 rounded-full bg-zinc-600" />
@@ -77,15 +98,30 @@ export default async function ArticlePage({ params }: { params: Promise<{ lang: 
       <h1 className="text-3xl md:text-4xl font-bold tracking-tight mb-8 leading-tight">{article.title}</h1>
       {article.image && (
         <div className="mb-10 rounded-2xl overflow-hidden border border-white/[0.06]">
-          <img src={article.image} alt={article.imageAlt || article.title} className="w-full h-64 md:h-80 object-cover" loading="lazy" />
+          <img src={article.image} alt={article.imageAlt || article.title} className="w-full h-64 md:h-80 object-cover" />
         </div>
       )}
-      <div>{renderContent(article.content, article.backlinks)}</div>
-      <div className="mt-16 flex flex-wrap gap-2">
+      <div className="article-content">{renderContent(article.content, article.backlinks)}</div>
+      <div className="mt-12 flex flex-wrap gap-2">
         {article.tags.map(t => (
           <span key={t} className="text-[10px] px-2.5 py-1 rounded-full bg-white/[0.04] text-zinc-500 border border-white/[0.06]">{t}</span>
         ))}
       </div>
+
+      {/* Related articles */}
+      {related.length > 0 && (
+        <section className="mt-20 pt-12 border-t border-white/[0.06]">
+          <h2 className="text-sm font-semibold text-zinc-400 uppercase tracking-wider mb-6">More articles</h2>
+          <div className="grid gap-4 md:grid-cols-3">
+            {related.map(r => (
+              <Link key={r.slug} href={`/${r.lang}/${r.slug}`} className="group block rounded-xl border border-white/[0.06] bg-[#111118] p-4 hover:border-violet-500/20 transition-colors">
+                {r.image && <img src={r.image} alt={r.imageAlt || r.title} className="w-full h-24 object-cover rounded-lg mb-3" loading="lazy" />}
+                <h3 className="text-sm font-semibold text-white group-hover:text-violet-300 transition-colors line-clamp-2">{r.title}</h3>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
     </main>
   );
 }

@@ -23,6 +23,14 @@
   },
   "dynamicRoutes": [
     {
+      "page": "/category/[cat]",
+      "regex": "^/category/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPcat": "nxtPcat"
+      },
+      "namedRegex": "^/category/(?<nxtPcat>[^/]+?)(?:/)?$"
+    },
+    {
       "page": "/[lang]/[slug]",
       "regex": "^/([^/]+?)/([^/]+?)(?:/)?$",
       "routeKeys": {
@@ -50,6 +58,12 @@
       "regex": "^/_not\\-found(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/_not\\-found(?:/)?$"
+    },
+    {
+      "page": "/about",
+      "regex": "^/about(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/about(?:/)?$"
     },
     {
       "page": "/robots.txt",

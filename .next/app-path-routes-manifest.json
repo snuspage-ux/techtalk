@@ -2,6 +2,8 @@
   "/[lang]/[slug]/page": "/[lang]/[slug]",
   "/_global-error/page": "/_global-error",
   "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/category/[cat]/page": "/category/[cat]",
   "/page": "/",
   "/robots.txt/route": "/robots.txt",
   "/sitemap.xml/route": "/sitemap.xml"
