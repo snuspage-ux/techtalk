@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { ShareButtons } from "@/components/ShareButtons";
+import { Comments } from "@/components/Comments";
 
 export async function generateStaticParams() {
   return getAllArticles().map((a) => ({ lang: a.lang, slug: a.slug }));
@@ -95,6 +96,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ lang: 
         ))}
       </div>
       <ShareButtons url={`https://techtalk.tech/${lang}/${slug}`} title={article.title} />
+      <Comments lang={lang} slug={slug} />
       {rel.length > 0 && (
         <section className="mt-16 pt-12 border-t border-white/[0.06]">
           <h2 className="text-sm font-semibold text-zinc-400 uppercase tracking-wider mb-6">More articles</h2>
