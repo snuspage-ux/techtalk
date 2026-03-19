@@ -15,7 +15,7 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
     title: `${article.title} — TechTalk`,
     description: article.description,
     keywords: article.tags,
-    openGraph: { title: article.title, description: article.description, type: "article" },
+    openGraph: { title: article.title, description: article.description, type: "article", ...(article.image ? { images: [article.image] } : {}) },
   };
 }
 
@@ -75,6 +75,11 @@ export default async function ArticlePage({ params }: { params: Promise<{ lang: 
         <span>{article.readingTime} min read</span>
       </div>
       <h1 className="text-3xl md:text-4xl font-bold tracking-tight mb-8 leading-tight">{article.title}</h1>
+      {article.image && (
+        <div className="mb-10 rounded-2xl overflow-hidden border border-white/[0.06]">
+          <img src={article.image} alt={article.imageAlt || article.title} className="w-full h-64 md:h-80 object-cover" loading="lazy" />
+        </div>
+      )}
       <div>{renderContent(article.content, article.backlinks)}</div>
       <div className="mt-16 flex flex-wrap gap-2">
         {article.tags.map(t => (

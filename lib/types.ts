@@ -9,5 +9,7 @@ export interface Article {
   tags: string[];
   publishedAt: string;
   readingTime: number;
+  image?: string;
+  imageAlt?: string;
   backlinks?: { text: string; url: string }[];
 }
