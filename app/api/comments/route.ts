@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 
 const SUPABASE_URL = "https://api.tubevoice.io";
-const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBydXRkYXVza25ybnFxcWlhZGx1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzE3MTU3OTQsImV4cCI6MjA4NzI5MTc5NH0.aEMwMsRkGJmBSsNJNPIxpBMRJnDiKQrFMGBDqz6OGDM";
+const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBydXRkYXVza25ybnFxcWlhZGx1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzE3MTU3OTQsImV4cCI6MjA4NzI5MTc5NH0.JHEeCCZUe4bWTJLuFcWBzY5ygX0wYelG3wGIyvP5KS8";
 
 const headers = {
   apikey: SUPABASE_KEY,
