@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-grow-multilingual-cs",
+  "lang": "cs",
+  "title": "Jak rozjet vícejazyčný YouTube kanál s AI dabingem",
+  "description": "Praktický návod, jak rozšířit publikum na YouTube do dalších jazyků pomocí TubeVoice. Konkrétní kroky, žádné kecy.",
+  "excerpt": "Vaše videa už fungují. Teď je rozjeďte v dalších 7 jazycích — bez jediného nového nahrávání.",
+  "content": "Většina YouTuberů ignoruje 80 % svého potenciálního publika. Důvod? Jazyk.\n\nPublikujete česky. Fajn. Ale váš návod na rekonstrukci kuchyně by bodoval i v němčině, španělštině nebo polštině. Jenže jste ho nikdy nedabovali.\n\n## Proč vícejazyčnost teď frčí\n\nYouTube algoritmus zachází s každou jazykovou verzí jako se samostatným obsahem. Dabované video nekonkuruje originálu — otevírá nový trh. Kanály, které přidaly 3+ jazyky, zaznamenaly 40-120% nárůst celkových zhlédnutí za půl roku.\n\nStarý způsob znamenal najímat dabéry, ručně synchronizovat zvuk a platit 200-500 dolarů za video za jazyk. To dělaly jen mediální firmy.\n\n## Zkratka: AI dabing přes TubeVoice\n\n[TubeVoice](https://tubevoice.io) vezme vaše hotové video a vyrobí dabované verze v jiných jazycích. Nahrajete, vyberete jazyky, stáhnete. Klonování hlasu zachová váš tón i tempo.\n\nTady je můj postup krok za krokem.\n\n**Krok 1: Vyberte 5 nejlepších videí.** Otevřete YouTube Studio, seřaďte podle zhlédnutí. Tato videa už dokázala, že fungují — zaslouží si nejširší dosah.\n\n**Krok 2: Zvolte 3 cílové jazyky.** Nelijte se hned do 15 jazyků. Začněte s angličtinou, němčinou a španělštinou — obrovské YouTube populace, relativně málo obsloužené v niche obsahu.\n\n**Krok 3: Dabujte a nahrajte jako neveřejné.** Prožeňte top 5 přes [TubeVoice](https://tubevoice.io), stáhněte dabované soubory a nahrajte je jako neveřejné. Podívejte se na jedno z každého jazyka. Zkontrolujte výslovnost a timing.\n\n**Krok 4: Optimalizujte metadata.** Titulky a popisy potřebují pořádný překlad — ne slovo od slova, ale lokalizovaný. Pokud potřebujete převést formáty titulků, [FileTools](https://filetools.eu) zvládne SRT-na-VTT a podobné konverze čistě.\n\n**Krok 5: Publikujte a sledujte zvlášť.** Použijte tabulku. Sledujte zhlédnutí, watch time a CTR podle jazyka. Po 30 dnech zdvojnásobte sázku na jazyky, které performují.\n\n## Co s vizuálním obsahem?\n\nPokud vaše videa ukazují návrhy pokojů nebo produktové vizualizace, zvažte lokalizaci náhledů. [RoomFlip](https://roomflip.io) umí přegenerovat interiérové snímky v regionálně vhodném stylu — skandinávský pro severské trhy, teplý mediteránní pro španělské publikum.\n\n## Realistická očekávání\n\nDabovaná videa nepřekonají originál přes noc. Čekejte 10-30 % zhlédnutí originálu v prvním měsíci. Ve třetím měsíci začne složený efekt. Někteří tvůrci hlásí, že jejich španělská verze předčila anglický originál do roka.\n\nMatematika je jednoduchá: 5 videí × 3 jazyky = 15 nových kusů obsahu. To je 15 nových šancí na doporučení. Nula nového natáčení.\n\nZačněte pěti. Uvidíte.",
+  "category": "ai",
+  "tags": [
+    "tubevoice",
+    "youtube",
+    "dabing",
+    "vícejazyčnost",
+    "růst"
+  ],
+  "publishedAt": "2026-03-19",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&q=80",
+  "imageAlt": "YouTube studio s vlajkami různých jazyků na obrazovce",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

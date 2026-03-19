@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-grow-multilingual-en",
+  "lang": "en",
+  "title": "How to grow a multilingual YouTube channel with AI dubbing",
+  "description": "A practical guide to expanding your YouTube audience across languages using TubeVoice. Real steps, real numbers, no fluff.",
+  "excerpt": "Your videos already work. Now make them work in 7 more languages — without recording a single new voiceover.",
+  "content": "Most YouTubers leave 80% of their potential audience on the table. The reason is simple: language.\n\nYou publish in English. Great. But your tutorial on kitchen renovations would crush it in German, Spanish, and Portuguese too. You just never dubbed it.\n\n## Why multilingual matters now\n\nYouTube's algorithm treats each language version as a separate piece of content. A dubbed video doesn't compete with your original — it opens a new market. Channels that added 3+ language versions saw 40-120% growth in total views within six months.\n\nThe old way meant hiring voice actors, syncing audio manually, and spending $200-500 per video per language. Nobody outside media companies did that.\n\n## The shortcut: AI dubbing with TubeVoice\n\n[TubeVoice](https://tubevoice.io) takes your existing video and produces dubbed versions in other languages. Upload, pick languages, download. The voice cloning keeps your tone and pacing intact.\n\nHere's how I'd approach it step by step.\n\n**Step 1: Pick your top 5 performers.** Go to YouTube Studio, sort by views. These videos already proved they work — they deserve the widest reach.\n\n**Step 2: Choose 3 target languages.** Don't go all-in on 15 languages day one. Start with Spanish, German, and Portuguese — huge YouTube populations, relatively underserved in niche content.\n\n**Step 3: Dub and upload as unlisted first.** Run your top 5 through [TubeVoice](https://tubevoice.io), download the dubbed files, and upload them as unlisted. Watch one from each language. Check for weird pronunciation or timing issues.\n\n**Step 4: Optimize metadata.** Titles and descriptions need proper translation — not word-for-word, but localized. If you need to convert subtitle files between formats, [FileTools](https://filetools.eu) handles SRT-to-VTT and similar conversions clean.\n\n**Step 5: Publish and track separately.** Use a spreadsheet. Track views, watch time, and CTR per language. After 30 days, double down on languages that perform.\n\n## What about visual content?\n\nIf your videos show room designs, product mockups, or visual concepts, consider localizing thumbnails too. Tools like [RoomFlip](https://roomflip.io) can regenerate interior shots with region-appropriate styles — Scandinavian for Nordic markets, warm Mediterranean for Spanish audiences.\n\n## Realistic expectations\n\nYour dubbed videos won't match your original's performance overnight. Expect 10-30% of the original's views in month one. By month three, the compounding kicks in. Some creators report their Spanish versions outperforming the English original within a year.\n\nThe math is straightforward: 5 videos × 3 languages = 15 new pieces of content. That's 15 new chances to get recommended. Zero new filming required.\n\nStart with five. See what happens.",
+  "category": "ai",
+  "tags": [
+    "tubevoice",
+    "youtube",
+    "dubbing",
+    "multilingual",
+    "growth"
+  ],
+  "publishedAt": "2026-03-19",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&q=80",
+  "imageAlt": "YouTube studio with multiple language flags on screen",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}
