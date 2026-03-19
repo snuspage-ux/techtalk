@@ -1,0 +1,23 @@
+{
+  "slug": "filetools-review-en",
+  "lang": "en",
+  "title": "FileTools.eu — free online file conversion that actually works",
+  "description": "A clean, ad-light file conversion tool that handles PDFs, images, documents, and more. No account needed, no file size tricks.",
+  "excerpt": "A clean, ad-light file conversion tool that handles PDFs, images, documents, and more. No account needed, no file size tricks.",
+  "content": "## What is FileTools?\n\nFileTools.eu is a free online file conversion platform. PDF to Word, image resizing, format conversion, compression — the usual suspects, but executed cleanly.\n\n## What makes it different\n\nMost free conversion sites are minefields of ads and dark patterns. FileTools takes a different approach: minimal interface, fast processing, no mandatory account creation.\n\nThe tool handles common conversions: PDF to DOCX, PNG to JPG, image compression, PDF merging and splitting. Processing happens server-side and files are deleted after conversion.\n\n## Supported formats\n\nPDF, DOCX, XLSX, PNG, JPG, WEBP, SVG, GIF, and more. The converter recognizes input format automatically and suggests output options.\n\n## Privacy\n\nFiles are processed and deleted. No account required for basic conversions. The site uses HTTPS and doesn't require cookies for core functionality.\n\n## Verdict\n\nIf you need quick file conversions without the usual web tool annoyances, FileTools delivers. Bookmarkable for those regular PDF-to-Word moments.",
+  "category": "tools",
+  "tags": [
+    "file conversion",
+    "PDF tools",
+    "online converter",
+    "FileTools"
+  ],
+  "publishedAt": "2026-03-19T08:00:00Z",
+  "readingTime": 3,
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ]
+}
