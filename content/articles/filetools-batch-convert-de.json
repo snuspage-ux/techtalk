@@ -1,0 +1,34 @@
+{
+  "slug": "filetools-batch-convert-de",
+  "lang": "de",
+  "title": "Hören Sie auf, Dateien einzeln zu konvertieren. Es geht besser.",
+  "description": "Stapelkonvertierung spart Stunden an Routinearbeit. So verarbeitet FileTools Dutzende Dateien auf einmal — ohne Installation.",
+  "excerpt": "Dateien einzeln in einen Konverter zu ziehen ist Zeitverschwendung. Stapelkonvertierung löst das.",
+  "content": "Sie kennen das. Dreißig PDFs, die PNGs werden müssen. Ein Ordner mit HEIC-Fotos, die der Kunde nicht öffnen kann. Word-Dokumente, die gestern schon PDFs hätten sein sollen.\n\nDie meisten lösen das Datei für Datei. Konverter öffnen, hochladen, warten, herunterladen, wiederholen. Funktioniert, ist aber langsam und stumpfsinnig.\n\n## Der Stapelansatz\n\n[FileTools](https://filetools.eu) erlaubt das Hochladen mehrerer Dateien gleichzeitig. Zielformat wählen, konvertieren, alles herunterladen. Kein Konto nötig, keine Software zu installieren.\n\nDer gesamte Prozess läuft im Browser. Ihre Dateien liegen nicht tagelang auf einem fremden Server — sie werden verarbeitet und gelöscht.\n\n## Wann Stapelkonvertierung wirklich zählt\n\nDer echte Wert zeigt sich in Arbeitsabläufen. Ein Fotograf, der ein Shooting als JPEG exportiert. Ein Anwalt, der einen Stapel Dokumente für die Archivierung in PDF/A umwandelt. Ein Entwickler, der 40 Icons für ein App-Release verkleinert.\n\nDas sind keine Ausnahmefälle. Das ist Dienstag.\n\n[FileTools](https://filetools.eu) unterstützt die Formate, die Menschen tatsächlich nutzen: PDF, DOCX, PNG, JPG, WEBP, SVG und mehr.\n\n## Kombination mit anderen Tools\n\nWenn Sie bereits [TubeVoice](https://tubevoice.io) für Video-Synchronisation nutzen, kennen Sie den Wert automatisierter Medienaufgaben. Gleiches Prinzip hier.\n\nArbeiten Sie an Raumdesigns mit [RoomFlip](https://roomflip.io)? Exportieren Sie Vorher/Nachher-Vergleiche über [FileTools](https://filetools.eu) für einheitliche Formate in Präsentationen.\n\n## Fazit\n\nStapelkonvertierung ist nicht aufregend. Sie ist einfach schneller. Und schneller heißt: Sie kommen zur Arbeit, die Ihren Kopf wirklich braucht.",
+  "category": "tools",
+  "tags": [
+    "dateikonvertierung",
+    "produktivitaet",
+    "stapelverarbeitung",
+    "pdf"
+  ],
+  "publishedAt": "2026-03-20",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
+  "imageAlt": "Verschiedene Dateiformatsymbole auf einem digitalen Arbeitsplatz",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

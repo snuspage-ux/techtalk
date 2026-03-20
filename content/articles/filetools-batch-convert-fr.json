@@ -1,0 +1,34 @@
+{
+  "slug": "filetools-batch-convert-fr",
+  "lang": "fr",
+  "title": "Arrêtez de convertir vos fichiers un par un. Il y a mieux.",
+  "description": "La conversion par lot fait gagner des heures de travail répétitif. Voici comment FileTools traite des dizaines de fichiers d'un coup — sans installation.",
+  "excerpt": "Glisser des fichiers un par un dans un convertisseur tue la productivité. La conversion par lot règle ça.",
+  "content": "Vous connaissez la situation. Trente PDF à transformer en PNG. Un dossier de photos HEIC que votre client ne peut pas ouvrir. Des documents Word qui auraient dû être des PDF hier.\n\nLa plupart des gens règlent ça fichier par fichier. Ouvrir un convertisseur, envoyer, attendre, télécharger, recommencer. Ça marche, mais c'est lent et abrutissant.\n\n## L'approche par lot\n\n[FileTools](https://filetools.eu) permet de déposer plusieurs fichiers en même temps. Choisissez le format cible, lancez la conversion, téléchargez tout. Pas de compte requis, pas de logiciel à installer.\n\nTout se passe dans le navigateur. Vos fichiers ne restent pas sur un serveur étranger — ils sont traités puis supprimés.\n\n## Quand la conversion par lot compte vraiment\n\nLa vraie valeur apparaît dans les flux de travail. Un photographe qui exporte une séance en JPEG. Un avocat qui convertit une pile de documents en PDF/A pour l'archivage. Un développeur qui redimensionne 40 icônes pour une mise à jour.\n\nCe ne sont pas des cas rares. C'est un mardi ordinaire.\n\n[FileTools](https://filetools.eu) gère les formats que les gens utilisent vraiment : PDF, DOCX, PNG, JPG, WEBP, SVG et plus.\n\n## En combinaison avec d'autres outils\n\nSi vous utilisez déjà [TubeVoice](https://tubevoice.io) pour le doublage vidéo, vous connaissez la valeur de l'automatisation des tâches média répétitives. Même principe ici.\n\nVous travaillez sur des redesigns d'intérieur avec [RoomFlip](https://roomflip.io) ? Exportez vos comparaisons avant/après via [FileTools](https://filetools.eu) pour des formats cohérents.\n\n## Le mot de la fin\n\nLa conversion par lot n'a rien de glamour. C'est juste plus rapide. Et plus rapide veut dire que vous passez au travail qui a vraiment besoin de votre cerveau.",
+  "category": "tools",
+  "tags": [
+    "conversion-fichiers",
+    "productivite",
+    "traitement-par-lot",
+    "pdf"
+  ],
+  "publishedAt": "2026-03-20",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
+  "imageAlt": "Icônes de formats de fichiers sur un espace de travail numérique",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

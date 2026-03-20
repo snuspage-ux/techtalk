@@ -1,0 +1,34 @@
+{
+  "slug": "filetools-batch-convert-cs",
+  "lang": "cs",
+  "title": "Přestaňte konvertovat soubory jeden po druhém. Jde to líp.",
+  "description": "Hromadná konverze souborů ušetří hodiny rutinní práce. Takhle FileTools zpracuje desítky souborů najednou — bez instalace.",
+  "excerpt": "Přetahovat soubory do konvertoru jeden po druhém je ztráta času. Hromadná konverze to řeší.",
+  "content": "Znáte to. Třicet PDF, ze kterých potřebujete PNG. Složka HEIC fotek, které klient neotevře. Wordovské dokumenty, které měly být PDF už včera.\n\nVětšina lidí to řeší soubor po souboru. Otevřít konvertor, nahrát, čekat, stáhnout, opakovat. Funguje to, ale je to pomalé a otupující.\n\n## Hromadný přístup\n\n[FileTools](https://filetools.eu) umožňuje nahrát víc souborů najednou. Zvolíte cílový formát, spustíte konverzi, stáhnete vše. Bez registrace, bez instalace.\n\nCelý proces běží v prohlížeči. Soubory nezůstávají na cizím serveru — zpracují se a smažou.\n\n## Kdy hromadná konverze opravdu pomůže\n\nSkutečná hodnota se ukáže v pracovních postupech. Fotograf exportující focení do JPEG. Právník převádějící balík dokumentů do PDF/A pro archivaci. Vývojář zmenšující 40 ikon pro novou verzi appky.\n\nTohle nejsou okrajové případy. Tohle je úterý.\n\n[FileTools](https://filetools.eu) podporuje formáty, které lidi reálně používají: PDF, DOCX, PNG, JPG, WEBP, SVG a další. Žádné zamykání za obskurními formáty.\n\n## Kombinace s dalšími nástroji\n\nPokud už používáte [TubeVoice](https://tubevoice.io) pro dabování videí, znáte hodnotu automatizace opakujících se mediálních úkolů. Tady platí totéž — nechte nástroj dělat nudnou část.\n\nPracujete na redesignech interiérů s [RoomFlip](https://roomflip.io)? Exportujte srovnání před/po přes [FileTools](https://filetools.eu) pro konzistentní formáty do prezentací.\n\n## Závěr\n\nHromadná konverze není vzrušující. Je prostě rychlejší. A rychlejší znamená, že se dostanete k práci, která opravdu potřebuje váš mozek.",
+  "category": "tools",
+  "tags": [
+    "konverze-souboru",
+    "produktivita",
+    "hromadne-zpracovani",
+    "pdf"
+  ],
+  "publishedAt": "2026-03-20",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
+  "imageAlt": "Ikony různých formátů souborů na digitálním pracovním stole",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}
