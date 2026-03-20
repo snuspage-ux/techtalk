@@ -1,0 +1,31 @@
+{
+  "slug": "roomflip-before-after-de",
+  "lang": "de",
+  "title": "5 Räume mit KI umgestaltet — ehrliche Vorher-Nachher-Ergebnisse",
+  "description": "Wir haben 5 echte Raumfotos bei RoomFlip hochgeladen und die KI-Entwürfe mit der Realität verglichen. Was funktioniert und was nicht.",
+  "excerpt": "KI-Innendesign klingt gut. Wir haben es an 5 echten Räumen getestet.",
+  "content": "Überall heißt es, KI werde Innenarchitekten ersetzen. Gewagte These. Also haben wir fünf echte Raumfotos genommen — unaufgeräumt, hässlich, bewohnt — und sie durch [RoomFlip](https://roomflip.io) gejagt.\n\n## Raum 1: Das beige Wohnzimmer\n\nDas Original war schmerzhaft generisch. Beige Wände, beiges Sofa, beiger Teppich. RoomFlip schlug einen skandinavischen Umbau mit warmen Holztönen und einer Akzentwand vor. Das Rendering wirkte überraschend stimmig — keine schwebenden Möbel, keine unmögliche Beleuchtung.\n\n**Urteil:** Würden wir tatsächlich umsetzen. Allein die Farbpalette war es wert.\n\n## Raum 2: Beengtes Homeoffice\n\n8 Quadratmeter mit einem Schreibtisch an der Wand. [RoomFlip](https://roomflip.io) schlug einen Eckschreibtisch mit vertikalen Regalen vor. Clevere Raumnutzung. Ein Regal durchdrang im Rendering das Fenster, aber das Gesamtkonzept stimmte.\n\n**Urteil:** Zu 80 % brauchbar. Kleine Anpassungen nötig.\n\n## Raum 3: 90er-Jahre-Küche\n\nEichenschränke, Fliesenarbeitsplatte, Neonlicht. Die KI ging modern — glatte Fronten, Quarz-Arbeitsplatte, Pendelleuchten. Das Layout blieb erhalten, was wichtig ist, weil Leitungen verlegen ein Vermögen kostet.\n\n**Urteil:** Das beste Ergebnis der fünf. Praktisch und ansehnlich.\n\n## Raum 4: Teenager-Zimmer\n\nPoster überall, zusammengewürfelte Möbel. RoomFlip generierte ein minimalistisches Setup, das kein Teenager akzeptieren würde. Als wir „Gaming-Zimmer\" als Stil angaben, passte es — RGB-Akzente, Dual-Monitor-Schreibtisch, saubere Kabelführung.\n\n**Urteil:** Der Stil-Prompt macht den Unterschied. Konkret sein.\n\n## Raum 5: Leere Mietwohnung\n\nKahle Wände, Standardboden. Wir wollten sehen, ob KI die Wohnung für Inserate inszenieren kann. Das Ergebnis sah aus wie ein Immobilieninserat einer mittelgroßen Agentur — genau das Ziel.\n\n**Urteil:** Perfekt für Vermieter. Deutlich günstiger als physisches Staging.\n\n## Was wir gelernt haben\n\nKI-Innendesign ersetzt keinen menschlichen Designer bei komplexen Umbauten. Aber für schnelle Inspiration, Mietwohnungs-Staging oder Farbexperimente liefert [RoomFlip](https://roomflip.io) ab. Foto hochladen, Stil wählen, Ergebnis in unter einer Minute. Die Renderings sind nicht makellos, aber gut genug für echte Entscheidungen.\n\nDesign-Dateien in andere Formate konvertieren? [FileTools](https://filetools.eu) erledigt Bildkonvertierungen ohne den üblichen Bloatware-Ballast.",
+  "category": "creative",
+  "tags": [
+    "Innendesign",
+    "KI",
+    "Vorher Nachher",
+    "RoomFlip",
+    "Einrichtung"
+  ],
+  "publishedAt": "2026-03-20",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=800&q=80",
+  "imageAlt": "Wohnzimmer vor und nach KI-Umgestaltung",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": []
+}

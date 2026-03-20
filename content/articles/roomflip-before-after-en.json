@@ -1,0 +1,31 @@
+{
+  "slug": "roomflip-before-after-en",
+  "lang": "en",
+  "title": "5 rooms we redesigned with AI — honest before & after results",
+  "description": "We uploaded 5 real room photos to RoomFlip and compared the AI-generated designs with reality. Here's what worked and what didn't.",
+  "excerpt": "AI interior design sounds great in theory. We tested it on 5 actual rooms to see if the results hold up.",
+  "content": "We keep hearing that AI will replace interior designers. Bold claim. So we grabbed five real room photos — messy, ugly, lived-in — and ran them through [RoomFlip](https://roomflip.io) to see what happens.\n\n## Room 1: The beige living room\n\nThe original was painfully generic. Beige walls, beige couch, beige carpet. RoomFlip suggested a Scandinavian makeover with warm wood tones and a statement wall. The render looked surprisingly coherent — no floating furniture or impossible lighting.\n\n**Verdict:** Would actually do this. The color palette alone was worth it.\n\n## Room 2: A cramped home office\n\n8 square meters with a desk shoved against the wall. [RoomFlip](https://roomflip.io) proposed a corner desk layout with vertical shelving. Smart use of space. One shelf clipped through the window in the render, but the overall concept was solid.\n\n**Verdict:** 80% usable. Minor tweaks needed.\n\n## Room 3: Dated kitchen from the 90s\n\nOak cabinets, tile countertops, fluorescent lighting. The AI went modern — flat fronts, quartz counters, pendant lights. It kept the original layout, which matters because moving plumbing costs a fortune.\n\n**Verdict:** The best result of the five. Practical and good-looking.\n\n## Room 4: Teenager's bedroom\n\nPosters everywhere, mismatched furniture. RoomFlip generated a minimalist setup that no teenager would accept. When we specified \"gaming room\" as the style, it nailed it — RGB accents, dual monitor desk, proper cable management visualization.\n\n**Verdict:** Style prompts matter. Be specific.\n\n## Room 5: Empty rental apartment\n\nBlank walls, standard flooring. We wanted to see if AI could stage it for listing photos. The result looked like a real estate listing from a mid-range agency — which is exactly what we wanted.\n\n**Verdict:** Perfect for landlords. Way cheaper than physical staging.\n\n## What we learned\n\nAI interior design won't replace a human designer for complex renovations. But for quick inspiration, rental staging, or color exploration, [RoomFlip](https://roomflip.io) delivers. Upload a photo, pick a style, get results in under a minute. The renders aren't flawless, but they're good enough to make real decisions from.\n\nNeed to convert your design mockups to different formats? [FileTools](https://filetools.eu) handles image conversions without the usual bloatware.",
+  "category": "creative",
+  "tags": [
+    "interior design",
+    "AI",
+    "before after",
+    "RoomFlip",
+    "home improvement"
+  ],
+  "publishedAt": "2026-03-20",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=800&q=80",
+  "imageAlt": "Living room before and after AI redesign",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": []
+}

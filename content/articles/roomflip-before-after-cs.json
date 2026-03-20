@@ -1,0 +1,31 @@
+{
+  "slug": "roomflip-before-after-cs",
+  "lang": "cs",
+  "title": "5 pokojů, které jsme předělali s AI — upřímné výsledky před a po",
+  "description": "Nahráli jsme 5 fotek reálných pokojů do RoomFlip a porovnali AI návrhy s realitou. Co funguje a co ne.",
+  "excerpt": "AI interiérový design zní skvěle. Otestovali jsme ho na 5 skutečných pokojích.",
+  "content": "Všude se píše, že AI nahradí interiérové designéry. Odvážné tvrzení. Vzali jsme pět fotek reálných pokojů — neúklid, ošklivé stěny, normální bydlení — a pustili je přes [RoomFlip](https://roomflip.io).\n\n## Pokoj 1: Béžový obývák\n\nOriginál byl zoufale generický. Béžové stěny, béžová sedačka, béžový koberec. RoomFlip navrhl skandinávskou proměnu s teplým dřevem a výraznou stěnou. Render vypadal překvapivě soudržně — žádný vznášející se nábytek ani nemožné osvětlení.\n\n**Verdikt:** Tohle bychom fakt udělali. Samotná barevná paleta stála za to.\n\n## Pokoj 2: Stísněná pracovna\n\n8 metrů čtverečních se stolem přirazaným ke zdi. [RoomFlip](https://roomflip.io) navrhl rohový stůl s vertikálními policemi. Chytré využití prostoru. Jedna police v renderu pronikla oknem, ale celkový koncept seděl.\n\n**Verdikt:** Z 80 % použitelné. Drobné úpravy nutné.\n\n## Pokoj 3: Kuchyně z 90. let\n\nDubové skříňky, dlaždicová deska, zářivky. AI šel do moderny — rovné fronty, quartz deska, závěsná světla. Zachoval původní dispozici, což je klíčové, protože přesouvat vodu stojí jmění.\n\n**Verdikt:** Nejlepší výsledek z pěti. Praktické a hezké.\n\n## Pokoj 4: Pokoj teenagera\n\nPlakáty všude, nesourodý nábytek. RoomFlip vygeneroval minimalistický setup, který by žádný teenager nepřijal. Když jsme zadali styl „herní pokoj\", trefil se — RGB akcenty, dual monitor stůl, vizualizace cable managementu.\n\n**Verdikt:** Na stylovém zadání záleží. Buďte konkrétní.\n\n## Pokoj 5: Prázdný nájemní byt\n\nHolé zdi, standardní podlaha. Chtěli jsme zjistit, jestli AI dokáže byt nastylovat pro inzerátní fotky. Výsledek vypadal jako inzerát střední realitky — přesně co jsme chtěli.\n\n**Verdikt:** Ideální pro pronajímatele. Mnohem levnější než fyzický staging.\n\n## Co jsme zjistili\n\nAI interiérový design nenahradí lidského designéra u složitých rekonstrukcí. Ale pro rychlou inspiraci, staging nájemních bytů nebo zkoušení barev [RoomFlip](https://roomflip.io) funguje. Nahrajte fotku, vyberte styl, výsledek za minutu. Rendery nejsou dokonalé, ale stačí na reálná rozhodnutí.\n\nPotřebujete převést designové podklady do jiných formátů? [FileTools](https://filetools.eu) zvládne konverze obrázků bez obvyklého bloatwaru.",
+  "category": "creative",
+  "tags": [
+    "interiérový design",
+    "AI",
+    "před a po",
+    "RoomFlip",
+    "bydlení"
+  ],
+  "publishedAt": "2026-03-20",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=800&q=80",
+  "imageAlt": "Obývací pokoj před a po AI redesignu",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": []
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "roomflip-before-after-fr",
+  "lang": "fr",
+  "title": "5 pièces relookées par l'IA — résultats avant/après sans filtre",
+  "description": "Nous avons uploadé 5 photos de pièces réelles sur RoomFlip et comparé les designs IA avec la réalité.",
+  "excerpt": "Le design d'intérieur par IA, ça donne quoi concrètement ? Test sur 5 pièces.",
+  "content": "On lit partout que l'IA va remplacer les décorateurs d'intérieur. Affirmation audacieuse. On a pris cinq photos de pièces réelles — en désordre, moches, habitées — et on les a passées dans [RoomFlip](https://roomflip.io).\n\n## Pièce 1 : Le salon beige\n\nL'original était désespérément générique. Murs beiges, canapé beige, moquette beige. RoomFlip a proposé une transformation scandinave avec des tons bois chauds et un mur d'accent. Le rendu était étonnamment cohérent — pas de meubles flottants ni d'éclairage impossible.\n\n**Verdict :** On le ferait. La palette de couleurs seule valait le coup.\n\n## Pièce 2 : Un bureau à domicile exigu\n\n8 mètres carrés avec un bureau collé au mur. [RoomFlip](https://roomflip.io) a proposé un bureau d'angle avec des étagères verticales. Utilisation maline de l'espace. Une étagère traversait la fenêtre dans le rendu, mais le concept global tenait la route.\n\n**Verdict :** Utilisable à 80 %. Quelques retouches nécessaires.\n\n## Pièce 3 : Cuisine des années 90\n\nPlacards en chêne, plan de travail carrelé, néons. L'IA est partie sur du moderne — façades lisses, quartz, suspensions. Elle a gardé l'agencement d'origine, ce qui compte parce que déplacer la plomberie coûte une fortune.\n\n**Verdict :** Le meilleur résultat des cinq. Pratique et esthétique.\n\n## Pièce 4 : Chambre d'ado\n\nPosters partout, meubles dépareillés. RoomFlip a généré un setup minimaliste qu'aucun ado n'accepterait. Quand on a précisé « salle gaming », il a visé juste — accents RGB, bureau double écran, câbles bien rangés.\n\n**Verdict :** Le prompt de style fait la différence. Soyez précis.\n\n## Pièce 5 : Appartement locatif vide\n\nMurs nus, sol standard. On voulait voir si l'IA pouvait le mettre en scène pour des photos d'annonce. Le résultat ressemblait à une annonce immobilière d'agence moyenne — exactement ce qu'on voulait.\n\n**Verdict :** Parfait pour les propriétaires. Bien moins cher qu'un staging physique.\n\n## Ce qu'on retient\n\nLe design d'intérieur par IA ne remplacera pas un décorateur humain pour les rénovations complexes. Mais pour l'inspiration rapide, le staging locatif ou l'exploration de couleurs, [RoomFlip](https://roomflip.io) fait le job. Photo uploadée, style choisi, résultat en moins d'une minute. Les rendus ne sont pas parfaits, mais suffisants pour prendre de vraies décisions.\n\nBesoin de convertir vos maquettes dans d'autres formats ? [FileTools](https://filetools.eu) gère les conversions d'images sans bloatware.",
+  "category": "creative",
+  "tags": [
+    "décoration",
+    "IA",
+    "avant après",
+    "RoomFlip",
+    "aménagement"
+  ],
+  "publishedAt": "2026-03-20",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=800&q=80",
+  "imageAlt": "Salon avant et après relooking par IA",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": []
+}

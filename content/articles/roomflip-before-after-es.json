@@ -1,0 +1,31 @@
+{
+  "slug": "roomflip-before-after-es",
+  "lang": "es",
+  "title": "5 habitaciones rediseñadas con IA — resultados honestos del antes y después",
+  "description": "Subimos 5 fotos reales a RoomFlip y comparamos los diseños generados por IA con la realidad.",
+  "excerpt": "El diseño de interiores con IA suena genial. Lo probamos en 5 habitaciones reales.",
+  "content": "Se repite por todas partes que la IA reemplazará a los diseñadores de interiores. Afirmación atrevida. Tomamos cinco fotos de habitaciones reales — desordenadas, feas, vividas — y las pasamos por [RoomFlip](https://roomflip.io).\n\n## Habitación 1: El salón beige\n\nEl original era dolorosamente genérico. Paredes beige, sofá beige, alfombra beige. RoomFlip sugirió una transformación escandinava con madera cálida y una pared de acento. El render se veía sorprendentemente coherente — sin muebles flotantes ni iluminación imposible.\n\n**Veredicto:** Lo haríamos. Solo la paleta de colores valió la pena.\n\n## Habitación 2: Oficina en casa diminuta\n\n8 metros cuadrados con un escritorio pegado a la pared. [RoomFlip](https://roomflip.io) propuso un escritorio en esquina con estanterías verticales. Uso inteligente del espacio. Una estantería atravesaba la ventana en el render, pero el concepto general funcionaba.\n\n**Veredicto:** 80 % aprovechable. Ajustes menores necesarios.\n\n## Habitación 3: Cocina de los 90\n\nArmarios de roble, encimera de azulejo, fluorescentes. La IA fue a lo moderno — frentes lisos, cuarzo, lámparas colgantes. Mantuvo la distribución original, lo cual importa porque mover fontanería cuesta una fortuna.\n\n**Veredicto:** El mejor resultado de los cinco. Práctico y bonito.\n\n## Habitación 4: Dormitorio de adolescente\n\nPósters por todas partes, muebles dispares. RoomFlip generó un setup minimalista que ningún adolescente aceptaría. Cuando especificamos „sala gaming\" como estilo, acertó — acentos RGB, escritorio con dos monitores, cables ordenados.\n\n**Veredicto:** El prompt de estilo marca la diferencia. Sé concreto.\n\n## Habitación 5: Piso de alquiler vacío\n\nParedes desnudas, suelo estándar. Queríamos ver si la IA podía prepararlo para fotos de anuncio. El resultado parecía un anuncio inmobiliario de una agencia media — justo lo que buscábamos.\n\n**Veredicto:** Perfecto para caseros. Mucho más barato que el staging físico.\n\n## Qué aprendimos\n\nEl diseño de interiores con IA no reemplazará a un diseñador humano en renovaciones complejas. Pero para inspiración rápida, staging de alquileres o explorar colores, [RoomFlip](https://roomflip.io) cumple. Sube una foto, elige un estilo, resultado en menos de un minuto. Los renders no son perfectos, pero bastan para tomar decisiones reales.\n\n¿Necesitas convertir tus maquetas a otros formatos? [FileTools](https://filetools.eu) maneja conversiones de imagen sin bloatware.",
+  "category": "creative",
+  "tags": [
+    "diseño de interiores",
+    "IA",
+    "antes después",
+    "RoomFlip",
+    "hogar"
+  ],
+  "publishedAt": "2026-03-20",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=800&q=80",
+  "imageAlt": "Salón antes y después del rediseño con IA",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": []
+}
