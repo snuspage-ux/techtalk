@@ -1,0 +1,43 @@
+{
+  "slug": "tubevoice-dubbing-vs-subtitles-cs",
+  "lang": "cs",
+  "title": "Dabing vs titulky: proč přeložený zvuk vyhrává na YouTube",
+  "description": "Titulky ztrácí 70 % diváků v první minutě. AI dabing je udrží. Rozebereme retenční data a ukážeme, jak TubeVoice mění pravidla hry.",
+  "excerpt": "Titulky jsou práce navíc. Dabované video působí přirozeně. Čísla to potvrzují.",
+  "content": "## Titulky jsou kompromis\n\nStrávíte týdny na videu. Přidáte španělské titulky. Po měsíci se podíváte do analytiky — 80 % španělsky mluvících diváků odešlo před třicátou vteřinou.\n\nTohle se děje pořád. Titulky vyžadují od diváka úsilí. Musí rozdělit pozornost mezi čtení a sledování. Na mobilu — odkud jde většina YouTube provozu — je drobný text titulků na hranici čitelnosti.\n\n## Retenční propast existuje\n\nTvůrci, kteří přešli z titulků na dabovaný zvuk, hlásí konzistentně 2-3× delší průměrnou dobu sledování v cizojazyčných trzích. Důvod je prostý: dabovaná videa nepůsobí cize. Diváci sledují vizuály, vnímají střih, reagují na tempo — a přitom poslouchají ve svém jazyce.\n\nNejde jen o pohodlí. Algoritmus YouTube odměňuje watch time nad téměř vším ostatním. Vyšší retence znamená víc doporučení. Víc doporučení znamená organický růst na trzích, které jste nikdy aktivně necílili.\n\n## AI dabing změnil ekonomiku\n\nProfesionální dabingová studia účtují tisíce za video za jazyk. Pro sólo tvůrce nebo malý tým to není reálné. Potřebovali byste garantované ROI na každém trhu, než se zavážete.\n\n[TubeVoice](https://tubevoice.io) tohle otočil. Nahrajete video, vyberete cílové jazyky, dostanete zpět dabovaný zvuk. Tři úrovně kvality — od rychlých draftů po studiovou kvalitu. Cena za jazyk klesla z tisíců na jednotky dolarů.\n\nPraktický dopad: můžete dabovat do 10 jazyků a sledovat, které trhy reagují, místo hádání, který jeden jazyk by se mohl vyplatit.\n\n## Co se skutečně stane s kanálem\n\nTech recenzent s 50K odběrateli nadaboval 20 videí do portugalštiny a hindštiny přes [TubeVoice](https://tubevoice.io). Do tří měsíců tyto dva jazyky tvořily 35 % celkových zhlédnutí kanálu. Původní anglický obsah nepřišel o nic — byl to čistý aditivní růst.\n\nJiný tvůrce v kulinářské nice daboval do francouzštiny a němčiny. Francouzština zabodovala. Němčina ne. Ale zjistit to stálo pod 50 $, ne 5 000 $ za studio.\n\n## Titulky mají pořád místo\n\nPřístupnost. SEO. Diváci, co sledují beze zvuku na veřejnosti. Pro tyto případy titulky fungují. Chytrý tah je obojí — dabovaný zvuk jako hlavní stopa, titulky jako záloha.\n\n[TubeVoice](https://tubevoice.io) generuje přepisy spolu s dabovaným zvukem, takže si nevybíráte jedno nebo druhé. Získáte retenční výhody dabingu i přístupnost textu.\n\n## Závěr\n\nPokud to myslíte vážně s mezinárodním růstem na YouTube, samotné titulky nestačí. Diváci chtějí obsah slyšet ve svém jazyce, ne ho číst. AI dabingové nástroje jako [TubeVoice](https://tubevoice.io) to zpřístupňují komukoli, nejen velkým studiím s velkými rozpočty.",
+  "category": "ai",
+  "tags": [
+    "tubevoice",
+    "youtube",
+    "dabing",
+    "titulky",
+    "ai",
+    "lokalizace"
+  ],
+  "publishedAt": "2026-03-21",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=800&q=80",
+  "imageAlt": "Osoba nahrávající video s profesionálním mikrofonem",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "tubevoice-review-cs",
+    "tubevoice-grow-multilingual-cs"
+  ]
+}

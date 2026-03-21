@@ -290,6 +290,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/cs/tubevoice-dubbing-vs-subtitles-cs": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/cs/tubevoice-dubbing-vs-subtitles-cs.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/cs/tubevoice-grow-multilingual-cs": {
       "experimentalBypassFor": [
         {
@@ -425,6 +449,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/[lang]/[slug]",
       "dataRoute": "/de/roomflip-review-de.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/de/tubevoice-dubbing-vs-subtitles-de": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/de/tubevoice-dubbing-vs-subtitles-de.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -602,6 +650,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/en/tubevoice-dubbing-vs-subtitles-en": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/en/tubevoice-dubbing-vs-subtitles-en.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/en/tubevoice-grow-multilingual-en": {
       "experimentalBypassFor": [
         {
@@ -737,6 +809,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/[lang]/[slug]",
       "dataRoute": "/es/roomflip-review-es.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/es/tubevoice-dubbing-vs-subtitles-es": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/es/tubevoice-dubbing-vs-subtitles-es.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -914,6 +1010,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/fr/tubevoice-dubbing-vs-subtitles-fr": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/fr/tubevoice-dubbing-vs-subtitles-fr.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/fr/tubevoice-grow-multilingual-fr": {
       "experimentalBypassFor": [
         {
@@ -1073,6 +1193,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/[lang]/[slug]",
       "dataRoute": "/pl/roomflip-review-pl.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/pl/tubevoice-dubbing-vs-subtitles-pl": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/pl/tubevoice-dubbing-vs-subtitles-pl.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -1275,6 +1419,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/[lang]/[slug]",
       "dataRoute": "/zh/roomflip-review-zh.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/zh/tubevoice-dubbing-vs-subtitles-zh": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/zh/tubevoice-dubbing-vs-subtitles-zh.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
