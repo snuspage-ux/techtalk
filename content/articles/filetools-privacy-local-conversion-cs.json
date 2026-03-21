@@ -1,0 +1,34 @@
+{
+  "slug": "filetools-privacy-local-conversion-cs",
+  "lang": "cs",
+  "title": "Vaše soubory nemusí opouštět počítač, aby se zkonvertovaly",
+  "description": "Většina online konvertorů nahraje soubory na vzdálený server. FileTools konvertuje přímo v prohlížeči. Tady je proč na tom záleží.",
+  "excerpt": "Konverze souborů neznamená, že musíte své dokumenty svěřit cizímu serveru.",
+  "content": "Pokaždé, když nahrajete soubor do online konvertoru, důvěřujete serveru, o kterém nic nevíte. Kdo ho provozuje? Kde je hostovaný? Jak dlouho si vaše data nechávají? Většina lidí se neptá.\n\n## Problém s nahráváním\n\nTradiční konvertory fungují takto: pošlete soubor na jejich server, ten ho zpracuje, vy si stáhnete výsledek. Jenže váš soubor teď existuje na infrastruktuře, kterou neovládáte.\n\nU fotky z dovolené to asi nevadí. U smlouvy, lékařské zprávy nebo výpisu z účtu? To je jiná.\n\n## Jak to řeší [FileTools](https://filetools.eu)\n\n[FileTools](https://filetools.eu) zpracovává soubory přímo ve vašem prohlížeči. Konverze běží na vašem stroji. Dokumenty, obrázky ani PDF nikam necestují.\n\nNení to marketingový trik. Otevřete si síťovou záložku prohlížeče při konverzi. Nic neodchází.\n\n## Koho by to mělo zajímat\n\nKaždého, kdo pracuje s citlivými dokumenty. Právníky konvertující spisy do PDF. Účetní přeformátovávající tabulky. HR oddělení zpracovávající osobní údaje zaměstnanců. Freelancery pod NDA.\n\nPokud vaše práce zahrnuje důvěrnost — a většina ano — záleží na tom, kde se soubory zpracovávají.\n\n## Plnohodnotný konvertor\n\nSoukromí neznamená omezení. [FileTools](https://filetools.eu) zvládá PDF, DOCX, obrázky, WEBP, SVG a desítky dalších formátů. Funguje i hromadná konverze. Bez registrace, bez instalace.\n\nPodobně jako [TubeVoice](https://tubevoice.io) řeší dabování videí nebo [RoomFlip](https://roomflip.io) redesign interiérů — každý nástroj řeší jeden problém čistě. FileTools dělá totéž pro konverzi souborů, bez kompromisů v soukromí.\n\n## Jednoduchý test\n\nAž budete příště konvertovat něco citlivého, zeptejte se: musí tento soubor opustit můj počítač? S [FileTools](https://filetools.eu) je odpověď ne.",
+  "category": "tools",
+  "tags": [
+    "konverze-souborů",
+    "soukromí",
+    "nástroje",
+    "pdf"
+  ],
+  "publishedAt": "2026-03-21",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1563986768609-322da13575f2?w=800&q=80",
+  "imageAlt": "Zamčený visací zámek na klávesnici notebooku symbolizující ochranu souborů",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

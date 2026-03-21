@@ -1,0 +1,34 @@
+{
+  "slug": "filetools-privacy-local-conversion-es",
+  "lang": "es",
+  "title": "Tus archivos no necesitan salir de tu ordenador para convertirse",
+  "description": "La mayoría de conversores online suben tus archivos a servidores remotos. FileTools convierte directamente en tu navegador. Esto importa.",
+  "excerpt": "Convertir archivos no debería significar entregar tus documentos a un servidor desconocido.",
+  "content": "Cada vez que subes un archivo a un conversor online, estás confiando en un servidor del que no sabes nada. ¿Quién lo gestiona? ¿Dónde está alojado? ¿Cuánto tiempo guardan tus datos? La mayoría nunca pregunta.\n\n## El problema de subir archivos\n\nLos conversores tradicionales funcionan así: envías tu archivo a su servidor, lo procesan, descargas el resultado. Pero tu archivo ahora existe en una infraestructura que no controlas.\n\nPara una foto de vacaciones, quizá da igual. Para un contrato, historial médico o extracto bancario, la cosa cambia.\n\n## Cómo lo resuelve [FileTools](https://filetools.eu)\n\n[FileTools](https://filetools.eu) procesa los archivos directamente en tu navegador. La conversión ocurre en tu máquina. Tus documentos, imágenes y PDFs no viajan a ningún servidor remoto.\n\nNo es un truco de marketing. Abre la pestaña de red de tu navegador mientras conviertes. Nada sale.\n\n## A quién le importa\n\nA cualquiera que maneje documentos sensibles. Abogados convirtiendo expedientes a PDF. Contables reformateando hojas de cálculo. Departamentos de RRHH procesando datos de empleados. Freelancers bajo acuerdos de confidencialidad.\n\nSi tu trabajo implica confidencialidad — y la mayoría sí — dónde se procesan tus archivos importa.\n\n## Un conversor completo\n\nPrivacidad no significa limitación. [FileTools](https://filetools.eu) maneja PDF, DOCX, imágenes, WEBP, SVG y docenas de formatos más. La conversión por lotes también funciona. Sin cuenta, sin instalación.\n\nComo [TubeVoice](https://tubevoice.io) resuelve el doblaje de vídeos o [RoomFlip](https://roomflip.io) el diseño de interiores — cada herramienta hace una cosa bien. FileTools hace lo mismo para la conversión de archivos, sin comprometer tu privacidad.\n\n## La prueba sencilla\n\nLa próxima vez que conviertas algo sensible, pregúntate: ¿necesita este archivo salir de mi ordenador? Con [FileTools](https://filetools.eu), la respuesta es no.",
+  "category": "tools",
+  "tags": [
+    "conversión-archivos",
+    "privacidad",
+    "herramientas-web",
+    "pdf"
+  ],
+  "publishedAt": "2026-03-21",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1563986768609-322da13575f2?w=800&q=80",
+  "imageAlt": "Candado cerrado en un teclado de portátil que simboliza la privacidad de archivos",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

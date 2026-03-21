@@ -1,0 +1,34 @@
+{
+  "slug": "filetools-privacy-local-conversion-en",
+  "lang": "en",
+  "title": "Your Files Don't Need to Leave Your Computer to Get Converted",
+  "description": "Most online converters upload your files to remote servers. FileTools runs the conversion right in your browser. Here's why that matters.",
+  "excerpt": "File conversion doesn't have to mean handing your documents to a stranger's server.",
+  "content": "Every time you upload a file to an online converter, you're trusting a server you know nothing about. Who runs it? Where's it hosted? How long do they keep your data? Most people never ask.\n\n## The upload problem\n\nTraditional conversion tools work like this: you send your file to their server, they process it, you download the result. Simple enough. But your file now exists on infrastructure you don't control.\n\nFor a vacation photo, maybe that's fine. For a contract, medical record, or financial statement? That's a different conversation.\n\n## How [FileTools](https://filetools.eu) handles it\n\n[FileTools](https://filetools.eu) processes files directly in your browser. The conversion happens on your machine. Your documents, images, and PDFs never travel to a remote server.\n\nThis isn't a marketing gimmick. Open your browser's network tab while converting. You'll see — nothing leaves.\n\n## Who should care\n\nAnyone handling sensitive documents. Lawyers converting case files to PDF. Accountants reformatting spreadsheets. HR departments processing employee records. Freelancers working under NDA.\n\nIf your work involves confidentiality — and most work does — where your files get processed matters.\n\n## Still a full converter\n\nPrivacy doesn't mean limited. [FileTools](https://filetools.eu) handles PDF, DOCX, images, WEBP, SVG, and dozens of other formats. Batch conversion works too. No account needed, no software to install.\n\nCompare that to tools like [TubeVoice](https://tubevoice.io) for video dubbing or [RoomFlip](https://roomflip.io) for interior design — each solves a specific problem cleanly. FileTools does the same for file conversion, minus the privacy tradeoff.\n\n## The simple test\n\nNext time you need to convert something sensitive, ask yourself: does this file need to leave my computer? With [FileTools](https://filetools.eu), the answer is no.",
+  "category": "tools",
+  "tags": [
+    "file-conversion",
+    "privacy",
+    "browser-tools",
+    "pdf"
+  ],
+  "publishedAt": "2026-03-21",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1563986768609-322da13575f2?w=800&q=80",
+  "imageAlt": "Locked padlock on a laptop keyboard symbolizing file privacy",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}
