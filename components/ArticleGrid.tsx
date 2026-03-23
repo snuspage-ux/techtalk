@@ -52,8 +52,8 @@ function ArticleCard({ a }: { a: Article }) {
 }
 
 export function ArticleGrid({ articles }: { articles: Article[] }) {
-  const [lang, setLang] = useState<string | null>(null);
-  const filtered = lang ? articles.filter(a => a.lang === lang) : articles;
+  const [lang, setLang] = useState<string | null>("_pending");
+  const filtered = lang === "_pending" ? [] : lang ? articles.filter(a => a.lang === lang) : articles;
   const featured = filtered[0];
   const rest = filtered.slice(1);
 
