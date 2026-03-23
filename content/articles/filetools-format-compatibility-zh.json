@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-format-compatibility-zh",
+  "lang": "zh",
+  "title": "为什么文件格式兼容性仍然搞砸一切",
+  "description": "文件格式本应无缝工作，但现实并非如此。FileTools 无需安装任何软件就能解决这个问题。",
+  "excerpt": "你以为把 HEIC 转成 JPG 早就不是问题了。并没有。但也不必那么痛苦。",
+  "content": "没人会因为文件格式而兴奋地醒来。但每个人都遇到过打不开的 .webp、在 Google Docs 里显示错乱的 .docx，或者 Windows 读不了的 HEIC 照片。\n\n问题不在技术层面。转换器到处都是。问题在于摩擦。你搜索\"HEIC 转 JPG\"，落在某个可疑网站上，看一段广告，把文件上传到不知道哪里，然后祈祷。\n\n## 兼容性鸿沟在加深\n\n新格式不断出现。AVIF 用于图片。OPUS 用于音频。Apple 推 HEIC。Google 推 WebP。Microsoft 热爱 DOCX。每个平台为自己的生态优化，其他人自求多福。\n\nPhotoshop 或 LibreOffice 这类桌面软件能处理一部分——前提是你装了、找到了导出设置、还有 20 分钟的空闲时间。\n\n## 浏览器端转换改变了规则\n\n[FileTools](https://filetools.eu) 用不同的方式解决问题。打开网站，拖入文件，选择输出格式，完成。无需安装。无需账号。不上传到远程服务器——转换直接在你的浏览器中运行。\n\n最后一点比听起来重要得多。你的文件永远不会离开你的电脑。对于处理合同、医疗文档或客户照片的人来说，这不是锦上添花，而是基本要求。\n\n## 当下真正好用的功能\n\n[FileTools](https://filetools.eu) 解决的最常见问题：\n\n- **HEIC → JPG/PNG** — Apple 照片在其他地方打不开\n- **WebP → JPG** — 截图和网页图片转为标准格式\n- **PDF → Word** — 从锁定的 PDF 获得可编辑文档\n- **图片压缩** — 缩小文件体积而不损失可见画质\n\n每次转换只需几秒。没有排队，没有处理时间，没有等邮件发下载链接。\n\n## 不是所有事都需要一个 App\n\n为每个任务安装软件的本能正在消亡。年轻用户根本不会考虑——他们期望工具在浏览器里直接运行。\n\n[FileTools](https://filetools.eu) 填补了\"我需要 Photoshop\"和\"我直接截图算了\"之间的空白。专业到能做正经工作，简单到父母也能用。\n\n如果你在制作多语言视频内容，[TubeVoice](https://tubevoice.io) 解决了类似的摩擦问题——无需录音棚就能把视频配音成 50 多种语言。\n\n## 格式战争不会结束\n\nApple、Google 和 Microsoft 会继续推自己的专有格式。新格式还会出现。对快速、私密、免安装转换的需求不会消失，只会增长。\n\n别再装转换器了。别再把文件上传到随机网站了。浏览器就能搞定。",
+  "category": "tools",
+  "tags": [
+    "file-conversion",
+    "filetools",
+    "browser-tools",
+    "productivity",
+    "privacy"
+  ],
+  "publishedAt": "2026-03-23",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
+  "imageAlt": "屏幕上的数字文件和格式图标",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": []
+}
