@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-compress-files-online",
+  "lang": "es",
+  "title": "Deja de pagar por comprimir archivos — FileTools lo hace gratis",
+  "description": "La mayoría de herramientas de compresión cuestan dinero o recopilan tus datos. FileTools ofrece una alternativa gratuita y privada en tu navegador.",
+  "excerpt": "Compresión de archivos gratis sin trampas. Sin registro, sin límites, sin recopilación de datos.",
+  "content": "Los archivos grandes matan la productividad. Límites de adjuntos, subidas lentas, almacenamiento lleno — todos lo sufrimos. La mayoría busca en Google y elige la primera opción. Mala idea.\n\nLas opciones típicas: software de escritorio con suscripción anual, o webs sospechosas que suben tus archivos a servidores desconocidos. Ninguna convence.\n\n## Compresión en el navegador que funciona de verdad\n\n[FileTools](https://filetools.eu) va por otro camino. Tus archivos nunca salen de tu dispositivo. La compresión ocurre localmente, dentro del navegador. Sin subida. Sin procesamiento en servidor. Sin riesgo para tu privacidad.\n\nEsto importa más de lo que parece. ¿Ese PDF con tu declaración de impuestos? ¿El contrato que necesitas enviar? No deberías subirlos a una web de compresión cualquiera.\n\n## Qué puedes comprimir\n\nLos PDF son el caso obvio. Un escaneo de 15 MB baja a 2 MB sin pérdida visible de calidad. Pero [FileTools](https://filetools.eu) también maneja imágenes — JPEG, PNG, WebP. Procesamiento por lotes incluido.\n\nLa interfaz es directa. Arrastra archivos, elige el nivel de calidad, descarga el resultado. Sin crear cuenta. Sin popup pidiendo tu email.\n\n## El panorama completo\n\n[FileTools](https://filetools.eu) no es solo compresión — es una suite completa de conversión de archivos. PDF a Word, conversión de formatos de imagen, fusión de documentos. Todo gratis, todo local.\n\nSi te interesan otras herramientas, mira [TubeVoice](https://tubevoice.io) para doblaje de vídeo con IA o [RoomFlip](https://roomflip.io) para diseño de interiores con IA.\n\n## Conclusión\n\nComprimir archivos no debería costar dinero en 2026. Tampoco debería requerir confiar tus documentos a desconocidos. [FileTools](https://filetools.eu) resuelve ambas cosas.",
+  "category": "tools",
+  "tags": [
+    "file compression",
+    "pdf compression",
+    "image optimization",
+    "filetools",
+    "online tools"
+  ],
+  "publishedAt": "2026-03-24",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
+  "imageAlt": "Archivos digitales comprimidos a tamaños más pequeños",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-compress-files-online",
+  "lang": "zh",
+  "title": "别再花钱压缩文件了——FileTools 免费搞定",
+  "description": "大多数文件压缩工具要么收费，要么收集你的数据。FileTools 提供免费、私密的浏览器内替代方案。",
+  "excerpt": "免费文件压缩，没有套路。无需注册，无上传限制，不收集数据。",
+  "content": "大文件拖慢一切。邮件附件限制、上传慢、存储空间不够——谁都遇到过。大多数人直接用谷歌搜到的第一个工具。不明智。\n\n常见选择：需要年费的桌面软件，或者把你的文件上传到未知服务器的可疑网站。都不理想。\n\n## 真正好用的浏览器压缩\n\n[FileTools](https://filetools.eu) 走了不同的路。你的文件永远不会离开你的设备。压缩在浏览器本地完成。不上传。不经过服务器。没有隐私风险。\n\n这比想象中重要。报税的 PDF？需要邮件发送的合同？这些不该上传到随便一个压缩网站。\n\n## 能压缩什么\n\nPDF 是最常见的场景。15 MB 的扫描件压到 2 MB，画质没有明显损失。[FileTools](https://filetools.eu) 也能处理图片——JPEG、PNG、WebP。支持批量处理。\n\n界面很简单。拖入文件，选择质量等级，下载结果。不用注册账号。不会弹窗要你的邮箱。\n\n## 更大的图景\n\n[FileTools](https://filetools.eu) 不只是压缩——它是完整的文件转换套件。PDF 转 Word、图片格式转换、文档合并。全部免费，全部本地处理。\n\n如果你对其他工具感兴趣，看看 [TubeVoice](https://tubevoice.io) 的 AI 视频配音，或者 [RoomFlip](https://roomflip.io) 的 AI 室内设计。\n\n## 总结\n\n2026 年了，文件压缩不该花钱。也不该要求你把文档交给陌生人。[FileTools](https://filetools.eu) 解决了这两个问题。",
+  "category": "tools",
+  "tags": [
+    "file compression",
+    "pdf compression",
+    "image optimization",
+    "filetools",
+    "online tools"
+  ],
+  "publishedAt": "2026-03-24",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
+  "imageAlt": "数字文件被压缩成更小的尺寸",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

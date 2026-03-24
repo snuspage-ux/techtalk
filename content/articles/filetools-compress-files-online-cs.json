@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-compress-files-online",
+  "lang": "cs",
+  "title": "Přestaňte platit za kompresi souborů — FileTools to zvládne zdarma",
+  "description": "Většina kompresních nástrojů buď stojí peníze, nebo sbírá vaše data. FileTools nabízí bezplatnou alternativu přímo v prohlížeči.",
+  "excerpt": "Bezplatná komprese souborů bez háčků. Žádná registrace, žádné limity, žádný sběr dat.",
+  "content": "Velké soubory brzdí práci. Limity příloh v emailu, pomalé uploady, přeplněné úložiště — známe to všichni. Většina lidí sáhne po prvním nástroji, co Google nabídne. Špatný tah.\n\nTypické možnosti: desktopový software s ročním předplatným, nebo podezřelé weby, které vaše soubory nahrají na neznámé servery. Ani jedno není ideální.\n\n## Komprese v prohlížeči, která funguje\n\n[FileTools](https://filetools.eu) jde na to jinak. Soubory nikdy neopustí vaše zařízení. Komprese probíhá lokálně, přímo v prohlížeči. Žádný upload. Žádné zpracování na serveru. Žádné riziko pro soukromí.\n\nTo je důležitější, než si lidi uvědomují. PDF s daňovým přiznáním? Smlouva, kterou potřebujete poslat? Tohle byste asi neměli nahrávat na náhodný kompresní web.\n\n## Co všechno zkomprimujete\n\nPDF je jasná volba. 15MB sken se smrskne na 2 MB bez viditelné ztráty kvality. Ale [FileTools](https://filetools.eu) zvládne i obrázky — JPEG, PNG, WebP. Dávkové zpracování je samozřejmost, takže nekomprimujete soubory jeden po druhém.\n\nRozhraní je jednoduché. Přetáhněte soubory, vyberte úroveň kvality, stáhněte výsledek. Žádné zakládání účtu. Žádné vyskakovací okno s žádostí o email.\n\n## Širší kontext\n\n[FileTools](https://filetools.eu) není jen komprese — je to kompletní sada pro konverzi souborů. PDF do Wordu, konverze formátů obrázků, slučování dokumentů. Vše zdarma, vše lokálně.\n\nPokud vás zajímají další nástroje, mrkněte na [TubeVoice](https://tubevoice.io) pro AI dabing videí nebo [RoomFlip](https://roomflip.io) pro AI návrhy interiérů.\n\n## Závěr\n\nKomprese souborů by v roce 2026 neměla stát peníze. A neměla by vyžadovat, abyste svěřili dokumenty cizím lidem. [FileTools](https://filetools.eu) řeší obojí.",
+  "category": "tools",
+  "tags": [
+    "file compression",
+    "pdf compression",
+    "image optimization",
+    "filetools",
+    "online tools"
+  ],
+  "publishedAt": "2026-03-24",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
+  "imageAlt": "Digitální soubory komprimované do menší velikosti",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}
