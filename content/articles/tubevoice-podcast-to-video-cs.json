@@ -1,0 +1,31 @@
+{
+  "slug": "tubevoice-podcast-to-video-cs",
+  "lang": "cs",
+  "title": "Přeměňte podcast na vícejazyčná YouTube videa",
+  "description": "Podcasterům unikají miliony zhlédnutí. TubeVoice převede audio epizody na dabovaný videoobsah pro globální publikum.",
+  "excerpt": "Váš podcast už má skvělý obsah. Teď ho rozjeďte v 50+ jazycích na YouTube.",
+  "content": "Většina podcasterů vydá audio a možná sestříhá pár shorts. Tím to končí. Přitom YouTube je druhý největší vyhledávač na světě a 80 % jeho uživatelů nemluví anglicky.\n\nChytří tvůrci to dělají jinak. Vezmou epizodu podcastu, přidají jednoduché vizuály nebo záznam obrazovky a přes [TubeVoice](https://tubevoice.io) vyrobí dabované verze v desítkách jazyků. Jedna epizoda = 10, 20, klidně 50 videí.\n\n## Proč video poráží samotné audio\n\nObjevování podcastů je rozbité. Algoritmy Apple Podcasts a Spotify favorizují pořady, které už mají momentum. YouTube naopak aktivně doporučuje obsah novým divákům. Španělsky mluvící divák v Mexico City váš anglický podcast nikdy nenajde — ale dabované YouTube video? To se mu objeví ve feedu.\n\nMatematika je jednoduchá. Pokud anglická epizoda má 5 000 zhlédnutí, španělský dabing vytáhne třeba 3 000. Portugalský 2 000. Vynásobte deseti jazyky a z jednoho obsahu máte 30 000+ zhlédnutí.\n\n## Jak workflow reálně vypadá\n\nNahrajte podcast jako obvykle. Exportujte audio. Máte-li video, tím lépe — talking head nebo screen share stačí. Nahrajte na [TubeVoice](https://tubevoice.io), vyberte cílové jazyky a nechte AI udělat dabing. Klonování hlasu zachová váš tón a přednes. Žádné robotické TTS.\n\nVětšina tvůrců to dávkuje. Nahrávka v pondělí, upload v úterý, dabované verze publikují průběžně během týdne. Celý proces zabere minuty aktivní práce na jazyk.\n\n## Reálná čísla od reálných tvůrců\n\nTech podcast s 8 000 anglickými odběrateli přidal německé a japonské daby přes [TubeVoice](https://tubevoice.io). Během tří měsíců měl německý kanál 12 000 odběratelů. Japonský 6 500. Stejný obsah, nové publikum, nula nahrávání navíc.\n\nTohle není teorie. Děje se to právě teď ve vzdělávání, businessu i zábavě.\n\n## Háček (žádný není)\n\nMožná si říkáte, že dabované audio zní divně. Před pěti lety byste měli pravdu. Moderní klonování hlasu je jiná liga. [TubeVoice](https://tubevoice.io) zachová vaše vokální charakteristiky — výšku, tempo, důraz — a produkuje přirozenou řeč v cílovém jazyce. Posluchači ve Francii slyší francouzsky mluvící verzi vás, ne překladatele.\n\nJediná otázka je, proč jste ještě nezačali. Obsah už máte. Publikum čeká.",
+  "category": "ai",
+  "tags": [
+    "podcasting",
+    "youtube",
+    "dabing",
+    "vícejazyčnost",
+    "tubevoice"
+  ],
+  "publishedAt": "2026-03-25",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800&q=80",
+  "imageAlt": "Mikrofon v podcastovém studiu s barevnou vizualizací zvukových vln",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "TubeVoice - AI Video Dubbing",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": []
+}
