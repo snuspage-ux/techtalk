@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-merge-pdfs-pl",
+  "lang": "pl",
+  "title": "Łączenie PDF bez instalowania czegokolwiek",
+  "description": "Jak połączyć wiele plików PDF w jeden za pomocą FileTools — za darmo, szybko i całkowicie w przeglądarce.",
+  "excerpt": "Nie potrzebujesz Adobe. Nie potrzebujesz aplikacji. Połączysz PDF-y w kilka sekund.",
+  "content": "Pięć PDF-ów. Umowa, dwa załączniki, list przewodni i faktura. Klient chce jeden plik. Brzmi znajomo?\n\nWiększość ludzi sięga po Adobe Acrobat. Inni ściągają podejrzane programy. Jedno i drugie to przesada.\n\n## Prostsza droga\n\n[FileTools](https://filetools.eu) działa w całości w przeglądarce. Wrzucasz PDF-y, przeciągasz w odpowiednią kolejność, klikasz połącz. Gotowe. Połączony plik pobiera się od razu.\n\nBez konta. Bez instalacji. Bez ograniczeń rozmiaru.\n\n## Co się dzieje z twoimi plikami?\n\nNic nie opuszcza twojego komputera. [FileTools](https://filetools.eu) przetwarza wszystko po stronie klienta za pomocą WebAssembly. Dokumenty zostają w pamięci przeglądarki i znikają po zamknięciu karty.\n\nTo ważne, jeśli pracujesz z umowami, dokumentacją medyczną lub czymkolwiek wrażliwym. Większość narzędzi online wysyła twoje pliki na serwer. FileTools nie.\n\n## Więcej niż łączenie\n\nChcesz skompresować połączony PDF do maila? [FileTools](https://filetools.eu) to też potrafi — razem z dzieleniem, konwersją do Worda i wyciąganiem stron.\n\nJeśli pracujesz z wideo, [TubeVoice](https://tubevoice.io) robi coś podobnego dla wielojęzycznego dubbingu. Ta sama filozofia: zrobić jedną rzecz dobrze, zrobić ją w przeglądarce.\n\n## Haczyk\n\nNie ma żadnego. [FileTools](https://filetools.eu) jest za darmo. Bez znaków wodnych, bez blokowania podstawowych funkcji za paywallem.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "łączenie",
+    "konwerter",
+    "przeglądarka",
+    "prywatność"
+  ],
+  "publishedAt": "2026-03-26",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "Stos dokumentów na biurku",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": []
+}

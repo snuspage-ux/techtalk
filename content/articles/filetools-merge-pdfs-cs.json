@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-merge-pdfs-cs",
+  "lang": "cs",
+  "title": "Sloučení PDF bez instalace čehokoli",
+  "description": "Jak spojit více PDF souborů do jednoho pomocí FileTools — zdarma, rychle a přímo v prohlížeči.",
+  "excerpt": "Nepotřebujete Adobe. Nepotřebujete desktopovou aplikaci. PDF sloučíte za pár sekund.",
+  "content": "Máte pět PDF. Smlouvu, dvě přílohy, průvodní dopis a fakturu. Klient chce jeden soubor. Známé?\n\nVětšina lidí sáhne po Adobe Acrobatu. Jiní stahují podezřelé programy. Obojí je zbytečné.\n\n## Jednodušší cesta\n\n[FileTools](https://filetools.eu) běží celý v prohlížeči. Nahrajete PDF, přetáhnete je do správného pořadí, kliknete na sloučit. Hotovo. Výsledný soubor se rovnou stáhne.\n\nŽádný účet. Žádná instalace. Žádné omezení velikosti.\n\n## Co se stane s vašimi soubory?\n\nNic neopustí váš počítač. [FileTools](https://filetools.eu) zpracovává vše na straně klienta pomocí WebAssembly. Dokumenty zůstanou v paměti prohlížeče a zmizí, jakmile zavřete záložku.\n\nTo je důležité, pokud pracujete se smlouvami, zdravotní dokumentací nebo čímkoli citlivým. Většina online nástrojů vaše soubory nahraje na server. FileTools ne.\n\n## Víc než sloučení\n\nSloučené PDF možná budete chtít zkomprimovat pro email. [FileTools](https://filetools.eu) to zvládne taky — spolu s rozdělením, převodem do Wordu a extrakcí stránek.\n\nPokud pracujete s video obsahem, [TubeVoice](https://tubevoice.io) dělá něco podobného pro vícejazyčný dabing. Stejná filozofie: udělat jednu věc dobře, udělat ji v prohlížeči.\n\n## Háček\n\nŽádný. [FileTools](https://filetools.eu) je zdarma. Žádné vodoznaky, žádné premium funkce zamčené za paywall. Slučujte kolik chcete.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "sloučení",
+    "konvertor",
+    "prohlížeč",
+    "soukromí"
+  ],
+  "publishedAt": "2026-03-26",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "Hromada dokumentů na stole",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": []
+}

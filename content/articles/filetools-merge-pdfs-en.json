@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-merge-pdfs-en",
+  "lang": "en",
+  "title": "Merge PDFs Without Installing Anything",
+  "description": "How to combine multiple PDF files into one using FileTools — free, fast, and entirely in your browser.",
+  "excerpt": "You don't need Adobe. You don't need a desktop app. Here's how to merge PDFs in seconds.",
+  "content": "You have five PDFs. A contract, two appendices, a cover letter, and an invoice. Your client wants one file. Sound familiar?\n\nMost people reach for Adobe Acrobat. Others download sketchy desktop tools. Both are overkill.\n\n## The simpler way\n\n[FileTools](https://filetools.eu) runs entirely in your browser. Upload your PDFs, drag them into order, hit merge. Done. The combined file downloads immediately.\n\nNo account. No installation. No file size lectures.\n\n## What happens to your files?\n\nNothing leaves your machine. [FileTools](https://filetools.eu) processes everything client-side using WebAssembly. Your documents stay in your browser's memory and disappear when you close the tab.\n\nThis matters if you handle contracts, medical records, or anything remotely sensitive. Most online PDF tools upload your files to a server. FileTools doesn't.\n\n## Beyond merging\n\nOnce you have your merged PDF, you might need to compress it for email. [FileTools](https://filetools.eu) handles that too — along with splitting, converting to Word, and extracting pages.\n\nIf you work with video content, [TubeVoice](https://tubevoice.io) does something similar for multilingual dubbing — taking complexity and making it disappear. Same philosophy: do one thing well, do it in the browser.\n\n## The catch\n\nThere isn't one. [FileTools](https://filetools.eu) is free. No watermarks, no \"premium tier\" upsells on basic features. Merge as many PDFs as your browser can handle.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "merge",
+    "file-converter",
+    "browser-tool",
+    "privacy"
+  ],
+  "publishedAt": "2026-03-26",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "Stack of documents on a desk",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": []
+}

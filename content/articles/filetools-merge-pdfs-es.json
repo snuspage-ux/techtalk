@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-merge-pdfs-es",
+  "lang": "es",
+  "title": "Unir PDFs sin instalar nada",
+  "description": "Cómo combinar varios archivos PDF en uno con FileTools — gratis, rápido y directamente en el navegador.",
+  "excerpt": "No necesitas Adobe. No necesitas una app de escritorio. Une tus PDFs en segundos.",
+  "content": "Cinco PDFs. Un contrato, dos anexos, una carta de presentación y una factura. Tu cliente quiere un solo archivo. ¿Te suena?\n\nLa mayoría recurre a Adobe Acrobat. Otros descargan herramientas sospechosas. Ambas opciones son excesivas.\n\n## La vía rápida\n\n[FileTools](https://filetools.eu) funciona íntegramente en el navegador. Sube tus PDFs, arrástralos en el orden correcto, pulsa unir. Listo. El archivo combinado se descarga al momento.\n\nSin cuenta. Sin instalación. Sin límites de tamaño.\n\n## ¿Qué pasa con tus archivos?\n\nNada sale de tu máquina. [FileTools](https://filetools.eu) procesa todo en el lado del cliente con WebAssembly. Tus documentos se quedan en la memoria del navegador y desaparecen al cerrar la pestaña.\n\nEsto importa si manejas contratos, historiales médicos o cualquier dato sensible. La mayoría de herramientas online suben tus archivos a un servidor. FileTools no.\n\n## Más que unir\n\n¿Necesitas comprimir el PDF resultante para un email? [FileTools](https://filetools.eu) también lo hace — junto con dividir, convertir a Word y extraer páginas.\n\nSi trabajas con vídeo, [TubeVoice](https://tubevoice.io) hace algo parecido para el doblaje multilingüe. Misma filosofía: hacer una cosa bien, hacerla en el navegador.\n\n## La trampa\n\nNo la hay. [FileTools](https://filetools.eu) es gratis. Sin marcas de agua, sin funciones básicas bloqueadas tras un muro de pago.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "unir",
+    "convertidor",
+    "navegador",
+    "privacidad"
+  ],
+  "publishedAt": "2026-03-26",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "Pila de documentos en un escritorio",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": []
+}

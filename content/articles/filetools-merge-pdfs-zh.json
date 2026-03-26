@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-merge-pdfs-zh",
+  "lang": "zh",
+  "title": "无需安装任何软件即可合并PDF",
+  "description": "如何使用FileTools将多个PDF文件合并为一个——免费、快速，完全在浏览器中完成。",
+  "excerpt": "不需要Adobe，不需要桌面应用。几秒钟就能合并PDF。",
+  "content": "五个PDF文件。一份合同、两个附件、一封求职信和一张发票。客户要一个文件。听着耳熟吧？\n\n大多数人会打开Adobe Acrobat。也有人去下载来路不明的工具。都没必要。\n\n## 更简单的办法\n\n[FileTools](https://filetools.eu)完全在浏览器里运行。上传PDF，拖动排序，点击合并。搞定。合并后的文件立刻下载。\n\n不用注册。不用安装。不限文件大小。\n\n## 你的文件去哪了？\n\n哪儿也没去。[FileTools](https://filetools.eu)用WebAssembly在客户端处理一切。文档留在浏览器内存里，关闭标签页就消失。\n\n处理合同、病历或敏感资料时这很重要。大多数在线工具会把文件上传到服务器。FileTools不会。\n\n## 不止合并\n\n合并后的PDF需要压缩发邮件？[FileTools](https://filetools.eu)也能做——还有拆分、转Word、提取页面。\n\n做视频内容的话，[TubeVoice](https://tubevoice.io)在多语言配音方面做着类似的事。同样的理念：把一件事做好，在浏览器里做。\n\n## 有什么陷阱吗？\n\n没有。[FileTools](https://filetools.eu)完全免费。没有水印，基本功能不藏在付费墙后面。",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "合并",
+    "文件转换",
+    "浏览器工具",
+    "隐私"
+  ],
+  "publishedAt": "2026-03-26",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "桌上的一摞文件",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": []
+}

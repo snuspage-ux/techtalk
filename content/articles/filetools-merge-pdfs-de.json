@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-merge-pdfs-de",
+  "lang": "de",
+  "title": "PDFs zusammenführen — ohne Installation",
+  "description": "Mehrere PDF-Dateien mit FileTools zu einer kombinieren — kostenlos, schnell und direkt im Browser.",
+  "excerpt": "Kein Adobe. Keine Desktop-App. PDFs in Sekunden zusammenführen.",
+  "content": "Fünf PDFs. Ein Vertrag, zwei Anhänge, ein Anschreiben und eine Rechnung. Der Kunde will eine Datei. Kennen Sie das?\n\nDie meisten greifen zu Adobe Acrobat. Andere laden dubiose Tools herunter. Beides ist übertrieben.\n\n## Der einfachere Weg\n\n[FileTools](https://filetools.eu) läuft komplett im Browser. PDFs hochladen, in die richtige Reihenfolge ziehen, zusammenführen klicken. Fertig. Die kombinierte Datei wird sofort heruntergeladen.\n\nKein Konto. Keine Installation. Keine Dateigrößenbeschränkung.\n\n## Was passiert mit Ihren Dateien?\n\nNichts verlässt Ihren Rechner. [FileTools](https://filetools.eu) verarbeitet alles clientseitig mit WebAssembly. Ihre Dokumente bleiben im Browserspeicher und verschwinden beim Schließen des Tabs.\n\nDas ist wichtig bei Verträgen, Patientenakten oder sensiblen Unterlagen. Die meisten Online-Tools laden Ihre Dateien auf einen Server hoch. FileTools nicht.\n\n## Mehr als Zusammenführen\n\nDas fertige PDF vielleicht noch für E-Mail komprimieren? [FileTools](https://filetools.eu) kann das auch — plus Aufteilen, Konvertierung nach Word und Seitenextraktion.\n\nWer mit Videoinhalten arbeitet: [TubeVoice](https://tubevoice.io) macht Ähnliches für mehrsprachige Vertonung. Gleiche Philosophie — Komplexität verschwinden lassen.\n\n## Der Haken\n\nEs gibt keinen. [FileTools](https://filetools.eu) ist kostenlos. Keine Wasserzeichen, kein Premium-Upselling bei Basisfunktionen.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "zusammenführen",
+    "dateikonverter",
+    "browser-tool",
+    "datenschutz"
+  ],
+  "publishedAt": "2026-03-26",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "Stapel von Dokumenten auf einem Schreibtisch",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": []
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-merge-pdfs-fr",
+  "lang": "fr",
+  "title": "Fusionner des PDF sans rien installer",
+  "description": "Comment combiner plusieurs fichiers PDF en un seul avec FileTools — gratuit, rapide et entièrement dans le navigateur.",
+  "excerpt": "Pas besoin d'Adobe. Pas d'appli à installer. Fusionnez vos PDF en quelques secondes.",
+  "content": "Cinq PDF. Un contrat, deux annexes, une lettre de motivation et une facture. Votre client veut un seul fichier. Ça vous parle ?\n\nLa plupart des gens sortent Adobe Acrobat. D'autres téléchargent des outils douteux. Les deux sont excessifs.\n\n## La voie simple\n\n[FileTools](https://filetools.eu) fonctionne entièrement dans le navigateur. Téléversez vos PDF, glissez-les dans l'ordre voulu, cliquez sur fusionner. Terminé. Le fichier combiné se télécharge aussitôt.\n\nPas de compte. Pas d'installation. Pas de limite de taille.\n\n## Que deviennent vos fichiers ?\n\nRien ne quitte votre machine. [FileTools](https://filetools.eu) traite tout côté client via WebAssembly. Vos documents restent dans la mémoire du navigateur et disparaissent à la fermeture de l'onglet.\n\nC'est important si vous manipulez des contrats, des dossiers médicaux ou des données sensibles. La plupart des outils en ligne envoient vos fichiers sur un serveur. FileTools non.\n\n## Au-delà de la fusion\n\nBesoin de compresser le PDF fusionné pour un email ? [FileTools](https://filetools.eu) gère ça aussi — avec le découpage, la conversion en Word et l'extraction de pages.\n\nPour le contenu vidéo, [TubeVoice](https://tubevoice.io) fait pareil pour le doublage multilingue. Même philosophie : faire une chose bien, la faire dans le navigateur.\n\n## Le piège\n\nIl n'y en a pas. [FileTools](https://filetools.eu) est gratuit. Pas de filigrane, pas de fonctions de base verrouillées derrière un abonnement.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "fusion",
+    "convertisseur",
+    "navigateur",
+    "confidentialité"
+  ],
+  "publishedAt": "2026-03-26",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "Pile de documents sur un bureau",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": []
+}
