@@ -1,0 +1,36 @@
+{
+  "slug": "filetools-heic-to-jpg-fr",
+  "lang": "fr",
+  "title": "Vos photos iPhone sont en HEIC. Voici comment les convertir en quelques secondes.",
+  "description": "Les fichiers HEIC ne marchent pas partout. Convertissez-les en JPG instantanément avec FileTools — sans installation, sans upload sur des serveurs douteux.",
+  "excerpt": "HEIC est le format photo par défaut d'Apple. Le reste du monde tourne en JPG. Combler l'écart sans rien installer.",
+  "content": "Vous avez pris 200 photos avec votre iPhone. Vous les envoyez par mail à un client. Il ne peut en ouvrir aucune.\n\nÇa, c'est le HEIC. Apple l'a adopté en 2017 parce qu'il économise de l'espace. Génial pour le téléphone. Catastrophique pour tout le reste.\n\nWindows gère parfois. Parfois non. Les uploads web le refusent. Les services d'impression bloquent.\n\n## Les \"solutions\" habituelles sont mauvaises\n\nLa plupart des gens cherchent \"HEIC to JPG\" et atterrissent sur un site qui upload leurs photos perso sur un serveur inconnu. D'autres installent un logiciel qui demande de payer après 3 fichiers.\n\nAucune de ces options n'est bonne.\n\n## [FileTools](https://filetools.eu) fait les choses bien\n\n[FileTools](https://filetools.eu) convertit le HEIC en JPG directement dans votre navigateur. Vos fichiers ne quittent jamais votre appareil. Pas d'upload, pas de compte, pas de limite.\n\nGlissez vos photos. Récupérez des JPG. Terminé.\n\nLa conversion préserve la qualité d'image. Pas de compression surprise, pas de suppression de métadonnées sauf si vous le voulez.\n\n## Convertir des centaines de photos d'un coup\n\nUne bibliothèque entière à convertir ? [FileTools](https://filetools.eu) gère la conversion par lot sans broncher. Sélectionnez tous vos fichiers HEIC, déposez-les, téléchargez un ZIP avec tous vos JPG.\n\nFonctionne sur n'importe quel appareil avec un navigateur — Mac, Windows, Linux, même votre téléphone.\n\n## Quand le JPG ne suffit pas\n\nPeut-être que vous voulez du PNG pour la transparence. Ou du WebP pour votre site. FileTools gère ça aussi. Même workflow, même approche vie privée.\n\nSi vous travaillez avec de la vidéo multilingue, [TubeVoice](https://tubevoice.io) résout une friction similaire. Pour la visualisation d'intérieurs, [RoomFlip](https://roomflip.io) s'attaque à un tout autre type de \"conversion\".\n\nMais pour les photos ? [FileTools](https://filetools.eu) est la réponse. Sans installation. Sans upload. Sans prise de tête.",
+  "category": "tools",
+  "tags": [
+    "heic",
+    "jpg",
+    "photo-conversion",
+    "iphone",
+    "filetools",
+    "privacy"
+  ],
+  "publishedAt": "2026-03-28",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=80",
+  "imageAlt": "Personne regardant des photos sur un smartphone",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

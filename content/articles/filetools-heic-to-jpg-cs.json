@@ -1,0 +1,36 @@
+{
+  "slug": "filetools-heic-to-jpg-cs",
+  "lang": "cs",
+  "title": "Fotky z iPhonu jsou HEIC. Takhle je převedete na JPG za pár sekund.",
+  "description": "HEIC soubory nefungují všude. Převeďte je na JPG okamžitě přes FileTools — bez instalace, bez nahrávání na cizí servery.",
+  "excerpt": "HEIC je výchozí formát fotek z iPhonu. Zbytek světa jede na JPG. Překonejte ten rozdíl bez instalace čehokoliv.",
+  "content": "Nafotili jste 200 fotek na iPhone. Pošlete je klientovi mailem. Neotevře ani jednu.\n\nTo je HEIC. Apple ho zavedl v roce 2017, protože šetří místo. Skvělé pro telefon. Katastrofa pro všechno ostatní.\n\nWindows to občas zvládne. Občas ne. Webové uploady to odmítnou. Tiskárny se zaseknou. Mámin Android? Ani náhodou.\n\n## Obvyklá \"řešení\" nestojí za nic\n\nVětšina lidí vygooglí \"HEIC to JPG\" a skončí na stránce, která nahraje jejich osobní fotky na neznámý server. Jiní instalují software, který po 3 souborech chce zaplatit.\n\nAni jedno není dobrý nápad.\n\n## [FileTools](https://filetools.eu) to dělá správně\n\n[FileTools](https://filetools.eu) převede HEIC na JPG přímo v prohlížeči. Soubory neopouštějí vaše zařízení. Žádný upload, žádný účet, žádný limit.\n\nPřetáhněte fotky. Dostanete JPG. Hotovo.\n\nKonverze zachovává kvalitu. Žádná překvapivá komprese, žádné odstraňování metadat, pokud to sami nechcete.\n\n## Dávkový převod stovek fotek naráz\n\nPotřebujete převést celou knihovnu? [FileTools](https://filetools.eu) zvládne dávkovou konverzi bez problémů. Vyberte všechny HEIC soubory, přetáhněte je, stáhněte ZIP se všemi JPG.\n\nFunguje na čemkoliv s prohlížečem — Mac, Windows, Linux, i na telefonu.\n\n## Když JPG není to pravé\n\nTřeba chcete PNG kvůli průhlednosti. Nebo WebP pro web. FileTools to umí taky. Stejný postup, stejný přístup k soukromí.\n\nPokud pracujete s videem napříč jazyky, [TubeVoice](https://tubevoice.io) řeší podobný problém — zpřístupnění obsahu tam, kde formát překáží. Pro vizualizaci interiérů zas [RoomFlip](https://roomflip.io) řeší úplně jiný druh \"převodu\".\n\nAle na fotky? [FileTools](https://filetools.eu) je odpověď. Bez instalace. Bez uploadu. Bez keců.",
+  "category": "tools",
+  "tags": [
+    "heic",
+    "jpg",
+    "photo-conversion",
+    "iphone",
+    "filetools",
+    "privacy"
+  ],
+  "publishedAt": "2026-03-28",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=80",
+  "imageAlt": "Člověk prohlížející fotky na telefonu",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

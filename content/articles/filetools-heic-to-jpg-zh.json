@@ -1,0 +1,36 @@
+{
+  "slug": "filetools-heic-to-jpg-zh",
+  "lang": "zh",
+  "title": "你的iPhone照片是HEIC格式，几秒钟就能转成JPG",
+  "description": "HEIC文件不是哪里都能打开。用FileTools立即转换成JPG——无需安装，不上传到陌生服务器。",
+  "excerpt": "HEIC是苹果默认的照片格式，但其他地方都用JPG。不用安装任何东西就能搞定格式转换。",
+  "content": "你用iPhone拍了200张照片，发邮件给客户，对方一张都打不开。\n\n这就是HEIC。苹果在2017年采用了这个格式，因为它省存储空间。对手机来说很好，对其他一切来说很糟。\n\nWindows有时能打开，有时不行。网页上传会拒绝。打印服务直接报错。\n\n## 常见的\"解决方案\"都不靠谱\n\n大多数人搜\"HEIC转JPG\"，然后找到某个网站把私人照片上传到不知名的服务器。还有人装桌面软件，转3个文件后就要付费。\n\n两种方案都不好。\n\n## [FileTools](https://filetools.eu)的做法才对\n\n[FileTools](https://filetools.eu)直接在浏览器里把HEIC转成JPG。文件不会离开你的设备。不上传，不注册，不限数量。\n\n拖入照片，拿到JPG，完事。\n\n转换保持原始画质。不会偷偷压缩，不会删除元数据——除非你自己选择。\n\n## 一次批量转换几百张\n\n要转换整个照片库？[FileTools](https://filetools.eu)轻松处理批量转换。选中所有HEIC文件，拖进去，下载包含所有JPG的ZIP。\n\n任何有浏览器的设备都能用——Mac、Windows、Linux，甚至手机。\n\n## 当你不需要JPG时\n\n也许你要PNG做透明背景，或者WebP给网站用。FileTools也支持。同样的操作流程，同样注重隐私。\n\n如果你做多语言视频，[TubeVoice](https://tubevoice.io)解决类似的格式壁垒问题。室内设计可视化方面，[RoomFlip](https://roomflip.io)处理的是另一种\"转换\"。\n\n但说到照片，[FileTools](https://filetools.eu)就是答案。不用装软件，不用上传，不用折腾。",
+  "category": "tools",
+  "tags": [
+    "heic",
+    "jpg",
+    "photo-conversion",
+    "iphone",
+    "filetools",
+    "privacy"
+  ],
+  "publishedAt": "2026-03-28",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=80",
+  "imageAlt": "一个人在手机上浏览照片",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}
