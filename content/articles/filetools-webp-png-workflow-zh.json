@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-webp-png-workflow-zh",
+  "lang": "zh",
+  "title": "WebP转PNG来回转换：你唯一需要的指南",
+  "description": "别再跟WebP文件较劲了。FileTools秒转PNG——无需上传，无需注册。",
+  "excerpt": "WebP无处不在。你的工具不一定支持它。这是最快的解决方案。",
+  "content": "WebP赢了。Google推了它，浏览器接受了它，现在你从网上截的每张图都是.webp文件，你的老软件打不开。\n\n问题不在格式本身。WebP确实更好——文件更小，质量不错。问题在于其他一切。Photoshop最近才加了原生支持。一半的印刷厂还在拒绝它。客户要PNG。CMS要JPEG。现实就是这么乱。\n\n## 最快的方法\n\n[FileTools](https://filetools.eu)几秒钟搞定。拖入WebP文件，选PNG，完成。不用注册。不用邮箱。转换在浏览器里运行——你的文件从不离开你的电脑。\n\n最后这点很重要。大多数在线转换器把你的图片上传到某个服务器，在那里转换，再发回来。你把文件交给了陌生人。[FileTools](https://filetools.eu)一切在客户端完成。什么都不会上传到任何地方。\n\n## 什么时候保留WebP\n\n别盲目转换所有东西。如果图片留在网上，就保持WebP。更小的文件意味着更快的加载。[TubeVoice](https://tubevoice.io)在整个平台使用优化过的图片——性能很重要。\n\n转换为PNG的场景：\n- 需要透明度和无损质量\n- 印刷生产要求\n- 你的设计工具处理不了WebP\n- 客户或平台明确要求PNG\n\n## 批量处理\n\n有50张WebP产品照片？一张张来太痛苦。[FileTools](https://filetools.eu)支持批量转换——选择所有文件，选输出格式，一次搞定。仍然是本地处理，仍然是私密的。\n\n有些设计师保持简单的工作流：从Figma导出WebP用于网络，批量通过FileTools转成印刷用PNG。两种格式，一个来源，零麻烦。\n\n## PNG转WebP：反方向\n\n有时候你继承了一个文件夹的巨大PNG，需要放到网上。PNG转WebP通常能减少25-35%的文件大小，没有明显的质量损失。你的网站加载更快。用户停留更久。\n\n[RoomFlip](https://roomflip.io)每天处理数千张房间照片——大规模的格式优化是个真实的问题。对于更小的操作，FileTools给你同样的能力，不需要基础设施。\n\n## 总结\n\n格式转换很无聊。它应该花五秒，而不是五分钟去找工具、注册账号、盯着进度条。这就是[FileTools](https://filetools.eu)的意义——它让开路，让你干活。",
+  "category": "tools",
+  "tags": [
+    "webp",
+    "png",
+    "图片转换",
+    "filetools",
+    "网页优化"
+  ],
+  "publishedAt": "2026-03-30",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&q=80",
+  "imageAlt": "屏幕上的图片格式转换工作流程",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

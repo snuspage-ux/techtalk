@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-webp-png-workflow-cs",
+  "lang": "cs",
+  "title": "WebP do PNG a zpět: Jediný návod, který potřebujete",
+  "description": "Přestaňte se trápit s WebP soubory. FileTools je převede na PNG okamžitě — bez uploadu, bez registrace.",
+  "excerpt": "WebP je všude. Vaše nástroje ho ne vždy podporují. Tady je nejrychlejší řešení.",
+  "content": "WebP vyhrál. Google ho protlačil, prohlížeče ho přijaly a teď je každý screenshot z webu .webp soubor, který váš starší software neotevře.\n\nProblém není formát samotný. WebP je objektivně lepší — menší soubory, slušná kvalita. Problém je všechno kolem. Photoshop přidal nativní podporu teprve nedávno. Polovina tiskáren ho pořád odmítá. Klient chce PNG. CMS chce JPEG. Realita je chaotická.\n\n## Rychlá cesta\n\n[FileTools](https://filetools.eu) to vyřeší za pár sekund. Přetáhněte WebP soubor, vyberte PNG, hotovo. Žádný účet. Žádný email. Konverze běží v prohlížeči — soubory neopustí váš počítač.\n\nTo poslední je důležité. Většina online konvertorů nahraje obrázky na server, tam je převede a pošle zpět. Svěřujete soubory cizím lidem. [FileTools](https://filetools.eu) všechno zpracuje na straně klienta. Nikam se nic nenahrává.\n\n## Kdy nechat WebP\n\nNepřevádějte všechno naslepo. Pokud obrázek zůstane na webu, nechte ho jako WebP. Menší soubor znamená rychlejší načítání. [TubeVoice](https://tubevoice.io) používá optimalizované obrázky napříč platformou přesně z tohoto důvodu — výkon se počítá.\n\nPřevádějte na PNG když:\n- Potřebujete průhlednost A bezztrátovou kvalitu\n- Tisková produkce to vyžaduje\n- Váš designový nástroj si s WebP neporadí\n- Klient nebo platforma výslovně požaduje PNG\n\n## Dávkové zpracování\n\nMáte 50 produktových fotek ve WebP? Jedna po jedné je utrpení. [FileTools](https://filetools.eu) podporuje dávkovou konverzi — vyberte všechny soubory, zvolte výstupní formát, převeďte najednou. Pořád lokálně, pořád soukromě.\n\nNěkteří designéři mají jednoduchý workflow: export z Figmy jako WebP pro web, dávka přes FileTools pro tiskové PNG. Dva formáty, jeden zdroj, nula starostí.\n\n## PNG do WebP: Opačný směr\n\nObčas zdědíte složku obřích PNG a potřebujete je dostat na web. Konverze PNG do WebP typicky sníží velikost o 25–35 % bez viditelné ztráty kvality. Web se načte rychleji. Uživatelé zůstanou déle.\n\n[RoomFlip](https://roomflip.io) zpracovává tisíce fotek místností denně — optimalizace formátů ve velkém měřítku je reálný problém. Pro menší operace vám FileTools dá stejnou schopnost bez infrastruktury.\n\n## Shrnutí\n\nKonverze formátů je nuda. Měla by trvat pět sekund, ne pět minut hledání nástrojů, zakládání účtů a čekání na progress bary. Přesně o tom je [FileTools](https://filetools.eu) — ustoupí z cesty a nechá vás pracovat.",
+  "category": "tools",
+  "tags": [
+    "webp",
+    "png",
+    "konverze obrázků",
+    "filetools",
+    "optimalizace"
+  ],
+  "publishedAt": "2026-03-30",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&q=80",
+  "imageAlt": "Workflow konverze obrázkových formátů na obrazovce",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

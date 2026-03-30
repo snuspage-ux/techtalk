@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-webp-png-workflow-es",
+  "lang": "es",
+  "title": "WebP a PNG y viceversa: la única guía que necesitas",
+  "description": "Deja de pelear con archivos WebP. FileTools los convierte a PNG al instante — sin subir nada, sin registro.",
+  "excerpt": "WebP está en todos lados. Tus herramientas no siempre lo soportan. Aquí está la solución más rápida.",
+  "content": "WebP ganó. Google lo impuso, los navegadores lo adoptaron, y ahora cada captura de pantalla de la web es un archivo .webp que tu software viejo no puede abrir.\n\nEl problema no es el formato. WebP es objetivamente mejor — archivos más pequeños, calidad decente. El problema es todo lo demás. Photoshop añadió soporte nativo hace poco. La mitad de las imprentas todavía lo rechazan. Tu cliente quiere PNG. Tu CMS quiere JPEG. La realidad es un desorden.\n\n## El camino rápido\n\n[FileTools](https://filetools.eu) lo resuelve en segundos. Arrastra tu archivo WebP, elige PNG, listo. Sin cuenta. Sin email. La conversión corre en tu navegador — tus archivos nunca salen de tu máquina.\n\nEso último importa. La mayoría de convertidores online suben tus imágenes a un servidor, las convierten ahí y te las devuelven. Estás confiando tus archivos a desconocidos. [FileTools](https://filetools.eu) hace todo del lado del cliente. Nada se sube a ningún lado.\n\n## Cuándo mantener WebP\n\nNo conviertas todo a ciegas. Si la imagen se queda en la web, déjala como WebP. Archivo más pequeño significa carga más rápida. [TubeVoice](https://tubevoice.io) usa imágenes optimizadas en toda su plataforma — el rendimiento importa.\n\nConvierte a PNG cuando:\n- Necesitas transparencia Y calidad sin pérdida\n- La producción de impresión lo requiere\n- Tu herramienta de diseño no soporta WebP\n- Un cliente o plataforma exige PNG específicamente\n\n## Procesamiento por lotes\n\n¿50 fotos de producto en WebP? Una por una es un martirio. [FileTools](https://filetools.eu) soporta conversión por lotes — selecciona todos los archivos, elige el formato de salida, convierte de una vez. Sigue siendo local, sigue siendo privado.\n\nAlgunos diseñadores mantienen un workflow simple: exportar desde Figma como WebP para web, pasar el lote por FileTools para PNGs listos para impresión. Dos formatos, una fuente, cero complicaciones.\n\n## PNG a WebP: la otra dirección\n\nA veces heredas una carpeta de PNGs enormes y necesitas ponerlos online. Convertir PNG a WebP reduce el tamaño entre un 25 y 35 % sin pérdida visible de calidad. Tu sitio carga más rápido. Tus usuarios se quedan más tiempo.\n\n[RoomFlip](https://roomflip.io) procesa miles de fotos de habitaciones al día — la optimización de formatos a escala es un problema real. Para operaciones más pequeñas, FileTools te da la misma capacidad sin infraestructura.\n\n## En resumen\n\nLa conversión de formatos es aburrida. Debería tomar cinco segundos, no cinco minutos buscando herramientas, creando cuentas y mirando barras de progreso. De eso se trata [FileTools](https://filetools.eu) — se quita del medio y te deja trabajar.",
+  "category": "tools",
+  "tags": [
+    "webp",
+    "png",
+    "conversión de imágenes",
+    "filetools",
+    "optimización web"
+  ],
+  "publishedAt": "2026-03-30",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&q=80",
+  "imageAlt": "Flujo de conversión de formatos de imagen en pantalla",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}
