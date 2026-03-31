@@ -21,8 +21,18 @@ export default async function CategoryPage({ params }: { params: Promise<{ cat: 
   const articles = getArticlesByCategory(cat);
   const label = CAT_LABELS[cat] || cat;
 
+  const breadcrumbLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://techtalk.tech" },
+      { "@type": "ListItem", position: 2, name: label, item: `https://techtalk.tech/category/${cat}` },
+    ],
+  };
+
   return (
     <main className="max-w-6xl mx-auto px-6 py-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
       <h1 className="text-4xl font-bold tracking-tight mb-2">{label}</h1>
       <p className="text-zinc-500 mb-12">{articles.length} articles</p>
       {articles.length === 0 ? (

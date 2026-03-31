@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-document-conversion",
+  "lang": "fr",
+  "title": "Convertir des fichiers Word, Excel et PowerPoint en ligne — sans logiciel",
+  "description": "Arrêtez d'installer des suites bureautiques juste pour convertir un fichier. FileTools gère DOCX, XLSX et PPTX directement dans votre navigateur.",
+  "excerpt": "Vous avez un .docx et il vous faut un PDF. Classique. Voici la méthode la plus rapide.",
+  "content": "## Le problème que tout le monde ignore\n\nQuelqu'un vous envoie un fichier Word. Vous n'avez pas Word. Ou vous avez Word mais le client veut un PDF. Ou votre collègue a exporté un tableur en .xlsx et votre outil ne lit que le .csv.\n\nÇa arrive tous les jours. La plupart des gens installent une suite bureautique complète ou téléchargent leurs fichiers sur des sites de conversion douteux bourrés de pubs.\n\nIl y a mieux.\n\n## Comment [FileTools](https://filetools.eu) règle ça\n\n[FileTools](https://filetools.eu) convertit entre les formats bureautiques directement dans le navigateur. DOCX vers PDF. XLSX vers CSV. PPTX vers PDF. Sans inscription. Sans installation. Sans limite de taille.\n\nLa conversion tourne en local quand c'est possible. Votre rapport trimestriel ne finit pas sur le serveur de quelqu'un d'autre. C'est important.\n\n## Quels formats sont pris en charge ?\n\nLes principaux :\n\n- **Word** — DOCX ↔ PDF, DOCX ↔ TXT\n- **Excel** — XLSX ↔ CSV, XLSX ↔ PDF\n- **PowerPoint** — PPTX → PDF\n- **Images** — JPG, PNG, WebP, HEIC (gamme complète)\n\nVous pouvez aussi fusionner des PDF, compresser des fichiers et convertir plusieurs documents en lot.\n\n## Quand ça fait vraiment gagner du temps\n\nLes freelances qui envoient des factures. Les étudiants qui rendent des travaux. Les équipes qui partagent des rapports entre différents outils. Tous ceux qui se heurtent à un mur de format et ont juste besoin du fichier converti — maintenant, pas après un téléchargement de 500 Mo.\n\n[FileTools](https://filetools.eu) fait une chose et la fait bien. Ouvrez le site, déposez votre fichier, choisissez le format de sortie, terminé.\n\n## À noter aussi\n\nSi vous travaillez avec du contenu vidéo, [TubeVoice](https://tubevoice.io) résout une friction similaire — il prend des vidéos YouTube et les double dans d'autres langues. Domaine différent, même philosophie : supprimer la barrière, obtenir le résultat.\n\nPour la conversion de documents, [FileTools](https://filetools.eu) reste le bon choix. Ajoutez-le en favori et arrêtez d'installer ce dont vous n'avez pas besoin.",
+  "category": "tools",
+  "tags": [
+    "conversion de fichiers",
+    "convertisseur de documents",
+    "pdf",
+    "docx",
+    "outils en ligne"
+  ],
+  "publishedAt": "2026-03-31",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&q=80",
+  "imageAlt": "Écran d'ordinateur avec conversion de documents",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-batch-convert",
+    "filetools-merge-pdfs",
+    "filetools-compress-files-online"
+  ]
+}

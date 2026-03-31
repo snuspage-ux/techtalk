@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-document-conversion",
+  "lang": "zh",
+  "title": "在线转换 Word、Excel 和 PowerPoint 文件 - 无需安装软件",
+  "description": "别再为了转换一个文件就安装整套办公软件了。FileTools 直接在浏览器中处理 DOCX、XLSX 和 PPTX。",
+  "excerpt": "收到 .docx 文件却需要 PDF。太常见了。这是最快的解决方法。",
+  "content": "## 所有人都忽略的问题\n\n有人发给你一个 Word 文件。你没装 Word。或者你有 Word，但客户要 PDF。又或者同事把表格导出成 .xlsx，而你的工具只能读 .csv。\n\n这种事天天发生。大多数人要么装一整套办公软件，要么把文件传到满是广告的可疑转换网站。\n\n有更好的办法。\n\n## [FileTools](https://filetools.eu) 怎么解决\n\n[FileTools](https://filetools.eu) 直接在浏览器中转换办公格式。DOCX 转 PDF。XLSX 转 CSV。PPTX 转 PDF。不用注册。不用安装。没有文件大小限制。\n\n转换尽可能在本地运行，你的季度报告不会跑到别人的服务器上。这很重要。\n\n## 支持哪些格式？\n\n主要的：\n\n- **Word** — DOCX ↔ PDF、DOCX ↔ TXT\n- **Excel** — XLSX ↔ CSV、XLSX ↔ PDF\n- **PowerPoint** — PPTX → PDF\n- **图片** — JPG、PNG、WebP、HEIC（全套）\n\n还能合并 PDF、压缩文件、批量转换多个文档。\n\n## 什么时候真正省时间\n\n发发票的自由职业者。交作业的学生。跨工具共享报告的团队。所有撞上格式墙、只需要把文件转好的人——现在就要，不是等下完 500 MB 之后。\n\n[FileTools](https://filetools.eu) 做一件事，把它做好。打开网站，拖入文件，选输出格式，搞定。\n\n## 顺便一提\n\n如果你做视频内容，[TubeVoice](https://tubevoice.io) 解决类似的障碍——把 YouTube 视频配音成其他语言。领域不同，理念相同：消除障碍，拿到结果。\n\n文档转换这事，[FileTools](https://filetools.eu) 就是答案。收藏它，别再装不需要的东西了。",
+  "category": "tools",
+  "tags": [
+    "文件转换",
+    "文档转换器",
+    "PDF",
+    "DOCX",
+    "在线工具"
+  ],
+  "publishedAt": "2026-03-31",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&q=80",
+  "imageAlt": "笔记本电脑屏幕显示文档转换流程",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-batch-convert",
+    "filetools-merge-pdfs",
+    "filetools-compress-files-online"
+  ]
+}

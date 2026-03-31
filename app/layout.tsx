@@ -10,11 +10,12 @@ export const metadata: Metadata = {
   keywords: [
     "tech magazine", "AI tools review", "software reviews", "web development",
     "YouTube dubbing AI", "file converter online", "AI interior design",
-    "TubeVoice", "FileTools", "RoomFlip",
+    "TubeVoice", "FileTools", "RoomFlip", "KupSledujici",
     "AI video translation", "online tools comparison", "productivity software",
     "tech blog", "multilingual tech magazine",
     "recenze AI nástrojů", "KI-Tools Test", "outils IA avis",
     "herramientas IA reseña", "narzędzia AI recenzja", "AI工具评测",
+    "social media marketing", "Instagram growth", "TikTok marketing",
   ],
   metadataBase: new URL("https://techtalk.tech"),
   alternates: {
@@ -54,24 +55,42 @@ export const metadata: Metadata = {
   },
 };
 
-const jsonLd = {
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  name: "TechTalk",
-  url: "https://techtalk.tech",
-  description: "Independent tech magazine reviewing AI tools and digital software.",
-  inLanguage: ["en", "cs", "de", "fr", "es", "pl", "zh"],
-  publisher: {
-    "@type": "Organization",
+const jsonLd = [
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
     name: "TechTalk",
     url: "https://techtalk.tech",
+    description: "Independent tech magazine reviewing AI tools and digital software.",
+    inLanguage: ["en", "cs", "de", "fr", "es", "pl", "zh"],
+    publisher: {
+      "@type": "Organization",
+      name: "TechTalk",
+      url: "https://techtalk.tech",
+    },
+    potentialAction: {
+      "@type": "SearchAction",
+      target: "https://techtalk.tech/?q={search_term_string}",
+      "query-input": "required name=search_term_string",
+    },
   },
-  potentialAction: {
-    "@type": "SearchAction",
-    target: "https://techtalk.tech/?q={search_term_string}",
-    "query-input": "required name=search_term_string",
+  {
+    "@context": "https://schema.org",
+    "@type": "NewsMediaOrganization",
+    name: "TechTalk",
+    url: "https://techtalk.tech",
+    logo: {
+      "@type": "ImageObject",
+      url: "https://techtalk.tech/favicon.svg",
+    },
+    description: "Independent tech magazine covering AI tools, digital productivity, web development, and creative software. Published in 7 languages.",
+    foundingDate: "2026",
+    publishingPrinciples: "https://techtalk.tech/about",
+    actionableFeedbackPolicy: "https://techtalk.tech/about",
+    sameAs: [],
+    diversityPolicy: "https://techtalk.tech/about",
   },
-};
+];
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
@@ -80,7 +99,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         <link rel="alternate" type="application/rss+xml" title="TechTalk RSS" href="/feed.xml" />
         <meta name="theme-color" content="#0a0a0f" />
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+        {jsonLd.map((ld, i) => (
+          <script key={i} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(ld) }} />
+        ))}
       </head>
       <body className="antialiased min-h-screen flex flex-col">
         <nav className="border-b border-white/[0.06] bg-[#0a0a0f]/80 backdrop-blur-md sticky top-0 z-50">
@@ -116,6 +137,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                   <a href="https://tubevoice.io" target="_blank" rel="noopener" className="block text-zinc-500 hover:text-white transition-colors">TubeVoice — AI Video Dubbing</a>
                   <a href="https://roomflip.io" target="_blank" rel="noopener" className="block text-zinc-500 hover:text-white transition-colors">RoomFlip — AI Interior Design</a>
                   <a href="https://filetools.eu" target="_blank" rel="noopener" className="block text-zinc-500 hover:text-white transition-colors">FileTools — Free File Converter</a>
+                  <a href="https://kupsledujici.cz" target="_blank" rel="noopener" className="block text-zinc-500 hover:text-white transition-colors">KupSledujici — Social Media Growth</a>
                 </nav>
               </div>
               <div>

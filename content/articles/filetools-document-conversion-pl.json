@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-document-conversion",
+  "lang": "pl",
+  "title": "Konwertuj pliki Word, Excel i PowerPoint online — bez instalacji",
+  "description": "Przestań instalować pakiety biurowe tylko po to, żeby skonwertować plik. FileTools obsłuży DOCX, XLSX i PPTX prosto w przeglądarce.",
+  "excerpt": "Masz .docx, a potrzebujesz PDF. Klasyka. Oto najszybszy sposób.",
+  "content": "## Problem, który wszyscy ignorują\n\nKtoś wysyła ci plik Word. Nie masz Worda. Albo masz Worda, ale klient chce PDF. Albo kolega wyeksportował arkusz jako .xlsx, a twoje narzędzie czyta tylko .csv.\n\nTo się zdarza codziennie. Większość ludzi albo instaluje cały pakiet biurowy, albo wrzuca pliki na podejrzane strony do konwersji oblepione reklamami.\n\nJest lepszy sposób.\n\n## Jak to rozwiązuje [FileTools](https://filetools.eu)\n\n[FileTools](https://filetools.eu) konwertuje między formatami biurowymi bezpośrednio w przeglądarce. DOCX na PDF. XLSX na CSV. PPTX na PDF. Bez rejestracji. Bez instalacji. Bez sztuczek z rozmiarem pliku.\n\nKonwersja działa lokalnie tam, gdzie to możliwe. Twój raport kwartalny nie trafia na cudzy serwer. To ma znaczenie.\n\n## Jakie formaty są obsługiwane?\n\nGłówne:\n\n- **Word** — DOCX ↔ PDF, DOCX ↔ TXT\n- **Excel** — XLSX ↔ CSV, XLSX ↔ PDF\n- **PowerPoint** — PPTX → PDF\n- **Obrazy** — JPG, PNG, WebP, HEIC (pełen zestaw)\n\nMożesz też łączyć pliki PDF, kompresować pliki i konwertować wiele dokumentów jednocześnie.\n\n## Kiedy to naprawdę oszczędza czas\n\nFreelancerzy wysyłający faktury. Studenci oddający prace. Zespoły dzielące się raportami między różnymi narzędziami. Każdy, kto uderza w ścianę formatów i po prostu potrzebuje skonwertowanego pliku — teraz, nie po pobraniu 500 MB.\n\n[FileTools](https://filetools.eu) robi jedną rzecz i robi ją dobrze. Otwórz stronę, upuść plik, wybierz format wyjściowy, gotowe.\n\n## Warto też wspomnieć\n\nJeśli pracujesz z treściami wideo, [TubeVoice](https://tubevoice.io) rozwiązuje podobny problem — bierze filmy z YouTube i dubbinguje je na inne języki. Inna dziedzina, ta sama filozofia: usuń barierę, dostań wynik.\n\nDo konwersji dokumentów [FileTools](https://filetools.eu) to strzał w dziesiątkę. Dodaj do zakładek i przestań instalować to, czego nie potrzebujesz.",
+  "category": "tools",
+  "tags": [
+    "konwersja plików",
+    "konwerter dokumentów",
+    "pdf",
+    "docx",
+    "narzędzia online"
+  ],
+  "publishedAt": "2026-03-31",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&q=80",
+  "imageAlt": "Ekran laptopa z konwersją dokumentów",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-batch-convert",
+    "filetools-merge-pdfs",
+    "filetools-compress-files-online"
+  ]
+}

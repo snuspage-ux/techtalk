@@ -99,6 +99,18 @@ export default async function ArticlePage({ params }: { params: Promise<{ lang: 
 
   const rel = (article as any).related || getArticlesByLang(lang).filter((a: any) => a.slug !== slug).slice(0, 3);
 
+  const CAT_LABELS: Record<string, string> = { ai: "AI & Machine Learning", tools: "Tools & Productivity", web: "Web Development", creative: "Creative Software" };
+
+  const breadcrumbLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://techtalk.tech" },
+      { "@type": "ListItem", position: 2, name: CAT_LABELS[article.category] || article.category, item: `https://techtalk.tech/category/${article.category}` },
+      { "@type": "ListItem", position: 3, name: article.title, item: `https://techtalk.tech/${lang}/${slug}` },
+    ],
+  };
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
@@ -119,6 +131,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ lang: 
   return (
     <main className="max-w-3xl mx-auto px-6 py-16">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
       <Link href="/" className="text-sm text-zinc-500 hover:text-violet-400 transition-colors mb-8 inline-block">← Back to TechTalk</Link>
       <div className="flex items-center gap-3 text-xs text-zinc-500 mb-6">
         <Link href={`/category/${article.category}`} className={`px-2 py-0.5 rounded-full border ${CAT_COLORS[article.category] || ""}`}>{article.category}</Link>

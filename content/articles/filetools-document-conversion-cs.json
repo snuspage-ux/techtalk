@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-document-conversion",
+  "lang": "cs",
+  "title": "Převod Word, Excel a PowerPoint souborů online — bez instalace",
+  "description": "Přestaňte instalovat kancelářské balíky kvůli jednomu převodu. FileTools zvládne DOCX, XLSX i PPTX přímo v prohlížeči.",
+  "excerpt": "Dostali jste .docx a potřebujete PDF. Klasika. Tady je nejrychlejší cesta.",
+  "content": "## Problém, který všichni ignorují\n\nNěkdo vám pošle wordovský soubor. Nemáte Word. Nebo Word máte, ale klient chce PDF. Nebo kolega vyexportoval tabulku jako .xlsx a váš nástroj čte jen .csv.\n\nTohle se děje denně. Většina lidí buď nainstaluje celý kancelářský balík, nebo nahraje soubor na pochybný konverzní web plný reklam.\n\nExistuje lepší varianta.\n\n## Jak to řeší [FileTools](https://filetools.eu)\n\n[FileTools](https://filetools.eu) převádí mezi kancelářskými formáty přímo v prohlížeči. DOCX na PDF. XLSX na CSV. PPTX na PDF. Bez registrace. Bez instalace. Bez omezení velikosti.\n\nKonverze běží lokálně kde to jde, takže vaše čtvrtletní zpráva neskončí na cizím serveru. To je důležité.\n\n## Jaké formáty jsou podporované?\n\nTy hlavní:\n\n- **Word** — DOCX ↔ PDF, DOCX ↔ TXT\n- **Excel** — XLSX ↔ CSV, XLSX ↔ PDF\n- **PowerPoint** — PPTX → PDF\n- **Obrázky** — JPG, PNG, WebP, HEIC (kompletní sada)\n\nMůžete taky slučovat PDF, komprimovat soubory a dávkově převádět víc dokumentů najednou.\n\n## Kdy to reálně šetří čas\n\nFreelanceři posílající faktury. Studenti odevzdávající práce. Týmy sdílející reporty napříč nástroji. Kdokoliv, kdo narazí na formátovou zeď a prostě potřebuje ten soubor převést — teď, ne po stažení 500 MB.\n\n[FileTools](https://filetools.eu) dělá jednu věc a dělá ji dobře. Otevřete web, přetáhněte soubor, vyberte formát, hotovo.\n\n## Za zmínku\n\nPokud pracujete s video obsahem, [TubeVoice](https://tubevoice.io) řeší podobnou překážku — vezme YouTube videa a nadabuje je do jiných jazyků. Jiná oblast, stejná filozofie: odstraňte bariéru, získejte výsledek.\n\nNa převod dokumentů je ale [FileTools](https://filetools.eu) jasná volba. Uložte si záložku a přestaňte instalovat, co nepotřebujete.",
+  "category": "tools",
+  "tags": [
+    "konverze souborů",
+    "převod dokumentů",
+    "pdf",
+    "docx",
+    "online nástroje"
+  ],
+  "publishedAt": "2026-03-31",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&q=80",
+  "imageAlt": "Obrazovka notebooku s konverzí dokumentů",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-batch-convert",
+    "filetools-merge-pdfs",
+    "filetools-compress-files-online"
+  ]
+}

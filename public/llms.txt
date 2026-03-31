@@ -1,0 +1,32 @@
+# TechTalk.tech
+
+> Independent tech magazine covering AI tools, digital productivity, web development, and creative software. Published in 7 languages.
+
+TechTalk is an independent technology magazine that reviews and analyzes software tools across several categories:
+
+## Categories
+
+- **AI & Machine Learning**: Reviews of AI-powered tools for video dubbing, voice cloning, content generation
+- **Tools & Productivity**: File converters, online utilities, workflow automation
+- **Web Development**: Frameworks, hosting, development tools and practices
+- **Creative Software**: AI interior design, image editing, creative applications
+
+## Tools We Review
+
+- [TubeVoice](https://tubevoice.io): AI video dubbing and voice cloning platform for YouTube creators
+- [FileTools](https://filetools.eu): Free online file conversion (PDF, images, documents)
+- [RoomFlip](https://roomflip.io): AI-powered interior design tool for room visualization
+- [KupSledujici](https://kupsledujici.cz): Social media growth and marketing platform
+
+## Languages
+
+Articles are published in English, Czech (Čeština), German (Deutsch), French (Français), Spanish (Español), Polish (Polski), and Chinese (中文).
+
+## Content
+
+All articles are original, independent reviews. No sponsored content, no affiliate pressure. We test the tools we write about.
+
+## Feeds
+
+- RSS: https://techtalk.tech/feed.xml
+- Sitemap: https://techtalk.tech/sitemap.xml

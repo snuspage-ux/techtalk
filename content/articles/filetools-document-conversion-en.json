@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-document-conversion",
+  "lang": "en",
+  "title": "Convert Word, Excel and PowerPoint Files Online — No Software Needed",
+  "description": "Stop installing bloated office suites just to convert a file. FileTools handles DOCX, XLSX and PPTX conversions right in your browser.",
+  "excerpt": "You got a .docx but need a PDF. Classic. Here's the fastest way to handle it.",
+  "content": "## The Problem Everyone Ignores\n\nSomeone sends you a Word file. You don't have Word. Or you have Word but need a PDF for a client. Or your teammate exported a spreadsheet as .xlsx and your tool only reads .csv.\n\nThis happens daily. Most people either install a full office suite or upload files to sketchy conversion sites plastered with ads.\n\nThere's a better option.\n\n## How [FileTools](https://filetools.eu) Handles Documents\n\n[FileTools](https://filetools.eu) converts between office formats directly in your browser. DOCX to PDF. XLSX to CSV. PPTX to PDF. No signup. No installation. No file size games.\n\nThe conversion runs locally where possible, which means your quarterly report doesn't end up on someone else's server. That matters.\n\n## What Formats Are Supported?\n\nThe big ones:\n\n- **Word** — DOCX ↔ PDF, DOCX ↔ TXT\n- **Excel** — XLSX ↔ CSV, XLSX ↔ PDF\n- **PowerPoint** — PPTX → PDF\n- **Images** — JPG, PNG, WebP, HEIC (full suite)\n\nYou can also merge PDFs, compress files, and batch-convert multiple documents at once.\n\n## When This Actually Saves Time\n\nFreelancers sending invoices. Students submitting papers. Teams sharing reports across different tools. Anyone who hits a format wall and just needs the file converted — now, not after a 500 MB download.\n\n[FileTools](https://filetools.eu) does one thing and does it well. Open the site, drop your file, pick the output format, done.\n\n## Worth Mentioning\n\nIf you work with video content, [TubeVoice](https://tubevoice.io) solves a similar friction — taking YouTube videos and dubbing them into other languages. Different domain, same philosophy: remove the barrier, get the result.\n\nFor document conversion though, [FileTools](https://filetools.eu) is the move. Bookmark it and stop installing stuff you don't need.",
+  "category": "tools",
+  "tags": [
+    "file conversion",
+    "document converter",
+    "pdf",
+    "docx",
+    "online tools"
+  ],
+  "publishedAt": "2026-03-31",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&q=80",
+  "imageAlt": "Laptop screen showing document file conversion workflow",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-batch-convert",
+    "filetools-merge-pdfs",
+    "filetools-compress-files-online"
+  ]
+}
