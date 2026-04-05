@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-mobile-file-conversion-en",
+  "lang": "en",
+  "title": "Convert Files on Your Phone Without Installing Anything",
+  "description": "FileTools runs entirely in the browser. No app store, no installs, no uploads to shady servers. Just open it on your phone and convert.",
+  "excerpt": "Your phone can handle file conversions. You just need the right tool in your browser.",
+  "content": "Most file converter apps on the App Store or Google Play are trash. They plaster ads everywhere, require accounts, and quietly upload your files to remote servers.\n\nSkip all of that. [FileTools](https://filetools.eu) runs directly in your mobile browser. No installation. No sign-up. Your files stay on your device.\n\n## Why browser-based beats native apps\n\nNative converter apps eat storage, demand permissions they don't need, and go stale fast. A browser tool like [FileTools](https://filetools.eu) loads fresh every time. Works on any phone with a modern browser — iPhone, Android, whatever.\n\nThe conversion happens locally. Your PDF doesn't travel to some server farm in Virginia. It stays right where it is: on your phone.\n\n## What you can actually do on mobile\n\nPlenty. Merge PDFs before a meeting. Convert HEIC photos to JPG so you can actually share them. Turn a Word doc into a PDF. Resize images for social media.\n\nThe interface is built for touch. Big buttons, clear steps, no desktop-only nonsense crammed into a tiny screen.\n\n## The workflow that saves five minutes every time\n\nHere's what I do: someone sends me a .docx on WhatsApp. I open [FileTools](https://filetools.eu), pick Document Conversion, select the file, tap convert. Done. No app switching, no cloud sync waiting.\n\nIf you make videos and need quick thumbnail edits, check out [TubeVoice](https://tubevoice.io) for the dubbing side. For room photos that need touching up, [RoomFlip](https://roomflip.io) handles that. But for pure file conversion on mobile, FileTools is the one.\n\n## No account, no catch\n\nSeriously. No email required. No \"free tier\" that nags you to upgrade after two conversions. Open the site, convert your file, close the tab. That's it.",
+  "category": "tools",
+  "tags": [
+    "file-conversion",
+    "mobile",
+    "browser-tools",
+    "filetools",
+    "productivity"
+  ],
+  "publishedAt": "2026-04-05",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=80",
+  "imageAlt": "Person converting files on a smartphone",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

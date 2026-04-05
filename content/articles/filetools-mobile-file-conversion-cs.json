@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-mobile-file-conversion-cs",
+  "lang": "cs",
+  "title": "Převádějte soubory na mobilu bez instalace čehokoli",
+  "description": "FileTools běží přímo v prohlížeči. Žádný app store, žádné instalace, žádné nahrávání na cizí servery. Prostě otevřete a konvertujte.",
+  "excerpt": "Váš telefon zvládne konverzi souborů. Stačí správný nástroj v prohlížeči.",
+  "content": "Většina konvertovacích appek v App Store nebo Google Play nestojí za nic. Všude reklamy, vyžadují účet a vaše soubory potichu posílají na vzdálené servery.\n\nTohle všechno přeskočte. [FileTools](https://filetools.eu) funguje přímo v mobilním prohlížeči. Bez instalace. Bez registrace. Soubory zůstanou na vašem zařízení.\n\n## Proč prohlížeč poráží nativní appky\n\nNativní konvertory zabírají místo, chtějí oprávnění, která nepotřebují, a rychle zastarávají. Nástroj v prohlížeči jako [FileTools](https://filetools.eu) se načte čerstvý pokaždé. Funguje na jakémkoli telefonu s moderním prohlížečem — iPhone, Android, cokoli.\n\nKonverze probíhá lokálně. Váš PDF necestuje na žádnou serverovou farmu. Zůstává přesně tam, kde je: na vašem telefonu.\n\n## Co všechno na mobilu zvládnete\n\nHodně. Sloučit PDF před schůzkou. Převést HEIC fotky na JPG, abyste je mohli normálně sdílet. Udělat z Wordu PDF. Zmenšit obrázky pro sociální sítě.\n\nRozhraní je stavěné pro dotykové ovládání. Velká tlačítka, jasné kroky, žádné desktopové nesmysly nacpané do malé obrazovky.\n\n## Postup, který ušetří pět minut pokaždé\n\nDělám to takhle: někdo mi pošle .docx na WhatsAppu. Otevřu [FileTools](https://filetools.eu), vyberu konverzi dokumentů, zvolím soubor, ťuknu na převést. Hotovo. Žádné přepínání appek, žádné čekání na cloud sync.\n\nPokud děláte videa a potřebujete je dabovat, koukněte na [TubeVoice](https://tubevoice.io). Na redesign interiérů je tu [RoomFlip](https://roomflip.io). Ale na čistou konverzi souborů na mobilu je FileTools jasná volba.\n\n## Žádný účet, žádný háček\n\nVážně. Žádný email. Žádný „free tier\", který vás po dvou konverzích otravuje s upgradem. Otevřete stránku, převeďte soubor, zavřete záložku. To je celé.",
+  "category": "tools",
+  "tags": [
+    "file-conversion",
+    "mobile",
+    "browser-tools",
+    "filetools",
+    "productivity"
+  ],
+  "publishedAt": "2026-04-05",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=80",
+  "imageAlt": "Člověk konvertující soubory na telefonu",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

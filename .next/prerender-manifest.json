@@ -338,6 +338,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/cs/filetools-mobile-file-conversion-cs": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/cs/filetools-mobile-file-conversion-cs.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/cs/filetools-privacy-local-conversion-cs": {
       "experimentalBypassFor": [
         {
@@ -1073,6 +1097,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/[lang]/[slug]",
       "dataRoute": "/de/filetools-merge-pdfs-de.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/de/filetools-mobile-file-conversion-de": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/de/filetools-mobile-file-conversion-de.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -1850,6 +1898,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/en/filetools-mobile-file-conversion-en": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/en/filetools-mobile-file-conversion-en.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/en/filetools-privacy-local-conversion-en": {
       "experimentalBypassFor": [
         {
@@ -2585,6 +2657,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/[lang]/[slug]",
       "dataRoute": "/es/filetools-merge-pdfs-es.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/es/filetools-mobile-file-conversion-es": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/es/filetools-mobile-file-conversion-es.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -3362,6 +3458,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/fr/filetools-mobile-file-conversion-fr": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/fr/filetools-mobile-file-conversion-fr.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/fr/filetools-privacy-local-conversion-fr": {
       "experimentalBypassFor": [
         {
@@ -4097,6 +4217,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/[lang]/[slug]",
       "dataRoute": "/pl/filetools-merge-pdfs-pl.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/pl/filetools-mobile-file-conversion-pl": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/pl/filetools-mobile-file-conversion-pl.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -4932,6 +5076,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/zh/filetools-mobile-file-conversion-zh": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/zh/filetools-mobile-file-conversion-zh.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/zh/filetools-privacy-local-conversion-zh": {
       "experimentalBypassFor": [
         {
@@ -5593,8 +5761,8 @@
   },
   "notFoundRoutes": [],
   "preview": {
-    "previewModeId": "66f132600aed4d378f2b067868751bde",
-    "previewModeSigningKey": "8190603b6efab2c75a342d0516ffab17a532905e791b99dd55a8aac3f29cf20f",
-    "previewModeEncryptionKey": "9439282daa58902f6227c78f8c9e98b5a32df34b88b714ab030b6d0510d7e08a"
+    "previewModeId": "4b7031881c8b37ba3bf6582f4be9a10e",
+    "previewModeSigningKey": "d901c63ae919a734fdf30109346062bc0d03d893771eb3f312651f7068e9ea39",
+    "previewModeEncryptionKey": "69ec5e6aa270fe1bcb6d9b80655d7e9f82f7d0c131d03b299d7f8ad2e450e7bc"
   }
 }

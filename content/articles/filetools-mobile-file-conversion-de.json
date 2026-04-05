@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-mobile-file-conversion-de",
+  "lang": "de",
+  "title": "Dateien auf dem Handy konvertieren — ohne Installation",
+  "description": "FileTools läuft direkt im Browser. Kein App Store, keine Installation, keine Uploads auf fremde Server. Einfach öffnen und konvertieren.",
+  "excerpt": "Dein Handy kann Dateien konvertieren. Du brauchst nur das richtige Tool im Browser.",
+  "content": "Die meisten Dateikonverter-Apps im App Store oder bei Google Play taugen nichts. Überall Werbung, Account-Pflicht, und deine Dateien werden still und leise auf fremde Server hochgeladen.\n\nSpar dir das. [FileTools](https://filetools.eu) läuft direkt im mobilen Browser. Keine Installation. Keine Anmeldung. Deine Dateien bleiben auf deinem Gerät.\n\n## Warum Browser besser ist als native Apps\n\nNative Konverter-Apps fressen Speicher, fordern unnötige Berechtigungen und veralten schnell. Ein Browser-Tool wie [FileTools](https://filetools.eu) lädt jedes Mal frisch. Funktioniert auf jedem Handy mit modernem Browser — iPhone, Android, egal.\n\nDie Konvertierung passiert lokal. Dein PDF reist nicht auf irgendeine Serverfarm. Es bleibt genau da, wo es ist: auf deinem Handy.\n\n## Was du auf dem Handy alles machen kannst\n\nEiniges. PDFs zusammenführen vor einem Meeting. HEIC-Fotos in JPG umwandeln, damit du sie verschicken kannst. Word-Dokumente in PDF verwandeln. Bilder für Social Media verkleinern.\n\nDie Oberfläche ist für Touch gebaut. Große Buttons, klare Schritte, kein Desktop-Kram auf kleinem Bildschirm.\n\n## Der Workflow, der jedes Mal fünf Minuten spart\n\nSo mache ich es: Jemand schickt mir eine .docx auf WhatsApp. Ich öffne [FileTools](https://filetools.eu), wähle Dokumentenkonvertierung, wähle die Datei, tippe auf Konvertieren. Fertig. Kein App-Wechsel, kein Warten auf Cloud-Sync.\n\nWer Videos in andere Sprachen dubben will, sollte sich [TubeVoice](https://tubevoice.io) ansehen. Für Raumdesign per Foto gibt es [RoomFlip](https://roomflip.io). Aber für reine Dateikonvertierung auf dem Handy ist FileTools die Lösung.\n\n## Kein Konto, kein Haken\n\nWirklich. Keine E-Mail nötig. Kein „Free Tier\", das nach zwei Konvertierungen nervt. Seite öffnen, Datei konvertieren, Tab schließen. Das war's.",
+  "category": "tools",
+  "tags": [
+    "file-conversion",
+    "mobile",
+    "browser-tools",
+    "filetools",
+    "productivity"
+  ],
+  "publishedAt": "2026-04-05",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=80",
+  "imageAlt": "Person konvertiert Dateien auf dem Smartphone",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

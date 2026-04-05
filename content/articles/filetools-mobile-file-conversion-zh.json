@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-mobile-file-conversion-zh",
+  "lang": "zh",
+  "title": "在手机上转换文件，无需安装任何东西",
+  "description": "FileTools完全在浏览器中运行。不用应用商店，不用安装，不用把文件上传到可疑的服务器。",
+  "excerpt": "你的手机能处理文件转换。你只需要浏览器里的正确工具。",
+  "content": "应用商店里大多数文件转换App都是垃圾。到处是广告，要求注册账号，还悄悄把你的文件传到远程服务器。\n\n省了吧。[FileTools](https://filetools.eu)直接在手机浏览器里运行。不用安装。不用注册。文件留在你的设备上。\n\n## 为什么浏览器比原生App好\n\n原生转换App占存储空间，要求不必要的权限，很快就过时。像[FileTools](https://filetools.eu)这样的浏览器工具每次都是全新加载。任何有现代浏览器的手机都能用——iPhone、Android、都行。\n\n转换在本地完成。你的PDF不会跑到什么服务器农场去。它就在原地：你的手机上。\n\n## 在手机上能做什么\n\n不少。开会前合并PDF。把HEIC照片转成JPG方便分享。Word文档转PDF。缩小图片发社交媒体。\n\n界面专为触屏设计。大按钮，清晰步骤，没有硬塞进小屏幕的桌面端设计。\n\n## 每次省五分钟的工作流\n\n我是这么做的：有人在WhatsApp上发给我一个.docx文件。我打开[FileTools](https://filetools.eu)，选文档转换，选文件，点转换。搞定。不用切换App，不用等云同步。\n\n如果你做视频需要配音，看看[TubeVoice](https://tubevoice.io)。房间设计用照片的话有[RoomFlip](https://roomflip.io)。但纯粹在手机上转换文件，FileTools就是最佳选择。\n\n## 不要账号，没有套路\n\n真的。不要邮箱。没有转换两次就催你升级的\"免费版\"。打开网站，转换文件，关掉标签页。就这样。",
+  "category": "tools",
+  "tags": [
+    "file-conversion",
+    "mobile",
+    "browser-tools",
+    "filetools",
+    "productivity"
+  ],
+  "publishedAt": "2026-04-05",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=80",
+  "imageAlt": "用手机转换文件的人",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

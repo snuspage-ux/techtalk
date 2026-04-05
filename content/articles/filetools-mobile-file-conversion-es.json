@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-mobile-file-conversion-es",
+  "lang": "es",
+  "title": "Convierte archivos en tu móvil sin instalar nada",
+  "description": "FileTools funciona directamente en el navegador. Sin app store, sin instalaciones, sin subir archivos a servidores dudosos.",
+  "excerpt": "Tu teléfono puede manejar conversiones de archivos. Solo necesitas la herramienta correcta en el navegador.",
+  "content": "La mayoría de apps de conversión en el App Store o Google Play son basura. Anuncios por todos lados, cuenta obligatoria, y tus archivos subidos silenciosamente a servidores remotos.\n\nOlvídate de eso. [FileTools](https://filetools.eu) funciona directamente en tu navegador móvil. Sin instalación. Sin registro. Tus archivos se quedan en tu dispositivo.\n\n## Por qué el navegador gana a las apps nativas\n\nLas apps nativas de conversión ocupan espacio, piden permisos innecesarios y se quedan obsoletas rápido. Una herramienta de navegador como [FileTools](https://filetools.eu) carga fresca cada vez. Funciona en cualquier móvil con navegador moderno — iPhone, Android, da igual.\n\nLa conversión ocurre en local. Tu PDF no viaja a ninguna granja de servidores. Se queda exactamente donde está: en tu teléfono.\n\n## Qué puedes hacer en el móvil\n\nBastante. Unir PDFs antes de una reunión. Convertir fotos HEIC a JPG para poder compartirlas. Pasar un Word a PDF. Redimensionar imágenes para redes sociales.\n\nLa interfaz está hecha para táctil. Botones grandes, pasos claros, nada de diseño de escritorio metido a presión en pantalla pequeña.\n\n## El flujo de trabajo que ahorra cinco minutos cada vez\n\nAsí lo hago: alguien me manda un .docx por WhatsApp. Abro [FileTools](https://filetools.eu), elijo Conversión de documentos, selecciono el archivo, toco convertir. Listo. Sin cambiar de app, sin esperar sincronización en la nube.\n\nSi haces vídeos y necesitas doblaje, echa un vistazo a [TubeVoice](https://tubevoice.io). Para diseño de interiores con foto, está [RoomFlip](https://roomflip.io). Pero para conversión pura de archivos en el móvil, FileTools es la opción.\n\n## Sin cuenta, sin trampa\n\nEn serio. Sin email. Sin \"free tier\" que te acosa tras dos conversiones. Abrir la web, convertir el archivo, cerrar la pestaña. Eso es todo.",
+  "category": "tools",
+  "tags": [
+    "file-conversion",
+    "mobile",
+    "browser-tools",
+    "filetools",
+    "productivity"
+  ],
+  "publishedAt": "2026-04-05",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=80",
+  "imageAlt": "Persona convirtiendo archivos en el móvil",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

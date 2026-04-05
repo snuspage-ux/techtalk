@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-mobile-file-conversion-pl",
+  "lang": "pl",
+  "title": "Konwertuj pliki na telefonie bez instalowania czegokolwiek",
+  "description": "FileTools działa w przeglądarce. Bez app store, bez instalacji, bez wysyłania plików na obce serwery.",
+  "excerpt": "Twój telefon poradzi sobie z konwersją plików. Potrzebujesz tylko właściwego narzędzia w przeglądarce.",
+  "content": "Większość aplikacji do konwersji plików w App Store czy Google Play to śmieć. Reklamy wszędzie, wymagany login, a twoje pliki po cichu lecą na zdalne serwery.\n\nOdpuść sobie. [FileTools](https://filetools.eu) działa bezpośrednio w przeglądarce mobilnej. Bez instalacji. Bez rejestracji. Pliki zostają na twoim urządzeniu.\n\n## Dlaczego przeglądarka wygrywa z natywnymi apkami\n\nNatywne konwertery zajmują miejsce, żądają niepotrzebnych uprawnień i szybko się starzeją. Narzędzie przeglądarkowe jak [FileTools](https://filetools.eu) ładuje się świeże za każdym razem. Działa na każdym telefonie z nowoczesną przeglądarką — iPhone, Android, cokolwiek.\n\nKonwersja odbywa się lokalnie. Twój PDF nie podróżuje na żadną farmę serwerów. Zostaje dokładnie tam, gdzie jest: na twoim telefonie.\n\n## Co możesz zrobić na telefonie\n\nSporo. Połączyć PDF-y przed spotkaniem. Przekonwertować zdjęcia HEIC na JPG, żeby je normalnie udostępnić. Zamienić Worda na PDF. Zmniejszyć obrazki na social media.\n\nInterfejs jest zrobiony pod dotyk. Duże przyciski, jasne kroki, żaden desktopowy bałagan wciśnięty w mały ekran.\n\n## Przepływ pracy, który oszczędza pięć minut za każdym razem\n\nRobię to tak: ktoś wysyła mi .docx na WhatsAppie. Otwieram [FileTools](https://filetools.eu), wybieram konwersję dokumentów, wybieram plik, stukam konwertuj. Gotowe. Bez przełączania apek, bez czekania na synchronizację z chmurą.\n\nJeśli robisz filmy i potrzebujesz dubbingu, sprawdź [TubeVoice](https://tubevoice.io). Do projektowania wnętrz ze zdjęcia jest [RoomFlip](https://roomflip.io). Ale do czystej konwersji plików na telefonie FileTools to strzał w dziesiątkę.\n\n## Bez konta, bez haczyka\n\nSerio. Bez maila. Bez „free tier\", który marudzi po dwóch konwersjach. Otwórz stronę, skonwertuj plik, zamknij kartę. Tyle.",
+  "category": "tools",
+  "tags": [
+    "file-conversion",
+    "mobile",
+    "browser-tools",
+    "filetools",
+    "productivity"
+  ],
+  "publishedAt": "2026-04-05",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=80",
+  "imageAlt": "Osoba konwertująca pliki na smartfonie",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}
