@@ -602,6 +602,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/cs/roomflip-kids-room-cs": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/cs/roomflip-kids-room-cs.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/cs/roomflip-kitchen-redesign-cs": {
       "experimentalBypassFor": [
         {
@@ -1361,6 +1385,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/[lang]/[slug]",
       "dataRoute": "/de/roomflip-home-office-de.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/de/roomflip-kids-room-de": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/de/roomflip-kids-room-de.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -2162,6 +2210,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/en/roomflip-kids-room-en": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/en/roomflip-kids-room-en.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/en/roomflip-kitchen-redesign-en": {
       "experimentalBypassFor": [
         {
@@ -2921,6 +2993,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/[lang]/[slug]",
       "dataRoute": "/es/roomflip-home-office-es.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/es/roomflip-kids-room-es": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/es/roomflip-kids-room-es.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -3722,6 +3818,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/fr/roomflip-kids-room-fr": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/fr/roomflip-kids-room-fr.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/fr/roomflip-kitchen-redesign-fr": {
       "experimentalBypassFor": [
         {
@@ -4481,6 +4601,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/[lang]/[slug]",
       "dataRoute": "/pl/roomflip-home-office-pl.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/pl/roomflip-kids-room-pl": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/pl/roomflip-kids-room-pl.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -5331,6 +5475,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/[lang]/[slug]",
       "dataRoute": "/zh/roomflip-home-office-zh.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/zh/roomflip-kids-room-zh": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/zh/roomflip-kids-room-zh.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
