@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-pdf-to-word-conversion-en",
+  "lang": "en",
+  "title": "PDF to Word: Stop Paying for Conversions",
+  "description": "Convert PDFs to editable Word documents in your browser. No signup, no watermarks, no upload to sketchy servers.",
+  "excerpt": "PDF to Word conversion shouldn't cost money or your privacy. Here's the fix.",
+  "content": "Adobe wants $20 a month to convert a PDF. That's absurd.\n\n[FileTools](https://filetools.eu) does it free, in your browser, without sending your file anywhere. The conversion runs locally. Your contract, your CV, your invoice — none of it leaves your machine.\n\n## Why most converters are a problem\n\nYou Google \"pdf to word\" and land on a site that asks for your email, slaps a watermark on the result, or quietly stores your document for 24 hours. Sometimes longer. You don't know who reads it.\n\nThat's not a tool. That's a data harvest.\n\n## What actually works\n\nDrag the PDF in. Hit convert. Download the .docx. That's it. No account. No credit card. No upload to a foreign server. [FileTools](https://filetools.eu) runs the conversion in your browser using WebAssembly, so the file never leaves your device.\n\nThe output preserves headings, tables, and most formatting. Scanned PDFs need OCR — that's a separate problem and no free tool nails it perfectly. For born-digital PDFs, the result is clean and editable.\n\n## When to use it\n\n- Editing a contract someone sent you as PDF\n- Pulling text from a research paper\n- Reformatting a CV\n- Translating a document (paste into [TubeVoice](https://tubevoice.io) workflow if it's a video script)\n\nSkip the subscriptions. Skip the upload anxiety. [Convert your PDF here](https://filetools.eu) and move on with your day.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "word",
+    "conversion",
+    "filetools",
+    "productivity"
+  ],
+  "publishedAt": "2026-04-06",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "PDF document on a laptop screen",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-merge-pdfs",
+    "filetools-compress-files-online",
+    "filetools-document-conversion"
+  ]
+}

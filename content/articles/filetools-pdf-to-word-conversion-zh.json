@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-pdf-to-word-conversion-zh",
+  "lang": "zh",
+  "title": "PDF 转 Word：别再为转换付费了",
+  "description": "在浏览器里把 PDF 转成可编辑的 Word 文档。无需注册、无水印、不上传到可疑服务器。",
+  "excerpt": "PDF 转 Word 不该花你的钱，也不该牺牲你的隐私。",
+  "content": "Adobe 要每月 20 美元才能转换一个 PDF。荒谬。\n\n[FileTools](https://filetools.eu) 免费做这件事，在浏览器里完成，不会把你的文件发到任何地方。转换在本地运行。合同、简历、发票——没有任何东西离开你的电脑。\n\n## 为什么大多数转换器有问题\n\n你在 Google 搜「pdf to word」，落地到一个要邮箱、加水印、或者悄悄把你的文档存 24 小时的网站。有时候更久。你不知道谁在看。\n\n那不是工具。那是数据收割。\n\n## 真正能用的方案\n\n把 PDF 拖进去。点转换。下载 .docx。完事。无账号。无信用卡。不上传到陌生服务器。[FileTools](https://filetools.eu) 用 WebAssembly 在浏览器里跑，文件从不离开你的设备。\n\n输出保留标题、表格和大部分格式。扫描版 PDF 需要 OCR——那是另一个问题，没有免费工具能完美解决。对于原生数字 PDF，结果干净可编辑。\n\n## 什么时候用\n\n- 编辑别人发来的 PDF 合同\n- 从研究论文里提取文本\n- 重新排版简历\n- 翻译文档（视频脚本可以走 [TubeVoice](https://tubevoice.io)）\n\n忘掉订阅。忘掉上传焦虑。[在这里转换你的 PDF](https://filetools.eu)，继续过你的一天。",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "word",
+    "转换",
+    "filetools",
+    "效率"
+  ],
+  "publishedAt": "2026-04-06",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "笔记本电脑屏幕上的 PDF 文档",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-merge-pdfs",
+    "filetools-compress-files-online",
+    "filetools-document-conversion"
+  ]
+}

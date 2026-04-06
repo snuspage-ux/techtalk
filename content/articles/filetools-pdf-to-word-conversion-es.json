@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-pdf-to-word-conversion-es",
+  "lang": "es",
+  "title": "PDF a Word: Deja de pagar por conversiones",
+  "description": "Convierte PDFs a documentos Word editables en tu navegador. Sin registro, sin marcas de agua, sin subir a servidores dudosos.",
+  "excerpt": "Convertir PDF a Word no debería costar dinero ni tu privacidad.",
+  "content": "Adobe quiere 20 dólares al mes para convertir un PDF. Absurdo.\n\n[FileTools](https://filetools.eu) lo hace gratis, en el navegador, sin enviar tu archivo a ningún sitio. La conversión corre en local. Contrato, CV, factura — nada sale de tu máquina.\n\n## Por qué la mayoría de conversores son un problema\n\nBuscas «pdf to word» en Google y aterrizas en una página que pide tu email, mete una marca de agua o guarda tu documento durante 24 horas. A veces más. No sabes quién lo lee.\n\nEso no es una herramienta. Es recolección de datos.\n\n## Lo que sí funciona\n\nArrastra el PDF. Pulsa convertir. Descarga el .docx. Ya está. Sin cuenta. Sin tarjeta. Sin subida a servidor ajeno. [FileTools](https://filetools.eu) usa WebAssembly en el navegador — el archivo no sale de tu dispositivo.\n\nEl resultado conserva títulos, tablas y la mayor parte del formato. Los PDF escaneados necesitan OCR — otro tema, ninguna herramienta gratis lo borda. Para PDF nativos digitales, el resultado es limpio.\n\n## Cuándo usarlo\n\n- Editar un contrato que te llegó en PDF\n- Sacar texto de un artículo académico\n- Reformatear un CV\n- Traducir un documento (si es guion de vídeo, pásalo por [TubeVoice](https://tubevoice.io))\n\nOlvida las suscripciones. Olvida el miedo al upload. [Convierte tu PDF aquí](https://filetools.eu) y sigue con tu día.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "word",
+    "conversión",
+    "filetools",
+    "productividad"
+  ],
+  "publishedAt": "2026-04-06",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "Documento PDF en la pantalla de un portátil",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-merge-pdfs",
+    "filetools-compress-files-online",
+    "filetools-document-conversion"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-pdf-to-word-conversion-de",
+  "lang": "de",
+  "title": "PDF zu Word: Hör auf, für Konvertierungen zu zahlen",
+  "description": "PDFs im Browser in editierbare Word-Dokumente umwandeln. Keine Anmeldung, keine Wasserzeichen, kein Upload auf dubiose Server.",
+  "excerpt": "PDF-zu-Word-Konvertierung sollte weder Geld noch deine Privatsphäre kosten.",
+  "content": "Adobe will 20 Dollar im Monat, um ein PDF zu konvertieren. Absurd.\n\n[FileTools](https://filetools.eu) macht es kostenlos, im Browser, ohne deine Datei irgendwohin zu senden. Die Konvertierung läuft lokal. Vertrag, Lebenslauf, Rechnung — nichts verlässt deinen Rechner.\n\n## Warum die meisten Konverter ein Problem sind\n\nDu googelst „pdf to word\" und landest auf einer Seite, die deine E-Mail will, ein Wasserzeichen draufklatscht oder dein Dokument 24 Stunden speichert. Manchmal länger. Du weißt nicht, wer es liest.\n\nDas ist kein Tool. Das ist Datensammlung.\n\n## Was tatsächlich funktioniert\n\nPDF reinziehen. Konvertieren klicken. .docx herunterladen. Fertig. Kein Konto. Keine Kreditkarte. Kein Upload auf fremde Server. [FileTools](https://filetools.eu) nutzt WebAssembly im Browser — die Datei verlässt dein Gerät nie.\n\nDie Ausgabe behält Überschriften, Tabellen und das meiste Layout. Gescannte PDFs brauchen OCR — anderes Problem, kein Gratis-Tool löst das perfekt. Bei digital erzeugten PDFs ist das Ergebnis sauber.\n\n## Wann du es brauchst\n\n- Vertrag bearbeiten, den dir jemand als PDF geschickt hat\n- Text aus einem Forschungspapier ziehen\n- Lebenslauf umformatieren\n- Dokument übersetzen (Videoskripte gehen in [TubeVoice](https://tubevoice.io))\n\nVergiss Abos. Vergiss Upload-Angst. [Konvertiere dein PDF hier](https://filetools.eu) und mach weiter.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "word",
+    "konvertierung",
+    "filetools",
+    "produktivität"
+  ],
+  "publishedAt": "2026-04-06",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "PDF-Dokument auf einem Laptop-Bildschirm",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-merge-pdfs",
+    "filetools-compress-files-online",
+    "filetools-document-conversion"
+  ]
+}

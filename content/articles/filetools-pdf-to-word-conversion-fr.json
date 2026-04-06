@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-pdf-to-word-conversion-fr",
+  "lang": "fr",
+  "title": "PDF vers Word : Arrête de payer pour les conversions",
+  "description": "Convertis tes PDF en documents Word éditables dans ton navigateur. Sans inscription, sans filigrane, sans envoi vers des serveurs douteux.",
+  "excerpt": "La conversion PDF vers Word ne devrait pas coûter d'argent ni ta vie privée.",
+  "content": "Adobe veut 20 dollars par mois pour convertir un PDF. C'est absurde.\n\n[FileTools](https://filetools.eu) le fait gratuitement, dans le navigateur, sans envoyer ton fichier où que ce soit. La conversion tourne en local. Contrat, CV, facture — rien ne quitte ta machine.\n\n## Pourquoi la plupart des convertisseurs posent problème\n\nTu tapes « pdf to word » dans Google et tu atterris sur un site qui demande ton e-mail, colle un filigrane ou stocke discrètement ton document pendant 24 heures. Parfois plus. Tu ne sais pas qui le lit.\n\nCe n'est pas un outil. C'est une collecte de données.\n\n## Ce qui marche vraiment\n\nGlisse le PDF. Clique convertir. Télécharge le .docx. C'est tout. Pas de compte. Pas de carte. Pas d'upload vers un serveur étranger. [FileTools](https://filetools.eu) utilise WebAssembly dans le navigateur — le fichier ne quitte jamais ton appareil.\n\nLe résultat conserve les titres, tableaux et la plupart de la mise en forme. Les PDF scannés nécessitent de l'OCR — autre problème, aucun outil gratuit ne le fait parfaitement. Pour les PDF nativement numériques, le résultat est propre.\n\n## Quand l'utiliser\n\n- Modifier un contrat reçu en PDF\n- Extraire du texte d'un article de recherche\n- Reformater un CV\n- Traduire un document (pour les scripts vidéo, passe par [TubeVoice](https://tubevoice.io))\n\nOublie les abonnements. Oublie l'angoisse de l'upload. [Convertis ton PDF ici](https://filetools.eu) et passe à autre chose.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "word",
+    "conversion",
+    "filetools",
+    "productivité"
+  ],
+  "publishedAt": "2026-04-06",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "Document PDF sur un écran d'ordinateur portable",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-merge-pdfs",
+    "filetools-compress-files-online",
+    "filetools-document-conversion"
+  ]
+}

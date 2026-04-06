@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-pdf-to-word-conversion-cs",
+  "lang": "cs",
+  "title": "PDF do Wordu: Přestaň platit za konverze",
+  "description": "Převeď PDF na editovatelný Word přímo v prohlížeči. Žádná registrace, žádné vodoznaky, žádné nahrávání na podezřelé servery.",
+  "excerpt": "Konverze PDF do Wordu nemusí stát peníze ani tvoje soukromí. Tady je řešení.",
+  "content": "Adobe chce 20 dolarů měsíčně za převod PDF. Absurdní.\n\n[FileTools](https://filetools.eu) to dělá zdarma, v prohlížeči, bez nahrávání kamkoli. Konverze běží lokálně. Smlouva, životopis, faktura — nic z toho neopustí tvůj počítač.\n\n## Proč je většina konvertorů problém\n\nNapíšeš do Googlu „pdf to word\" a skončíš na stránce, která chce e-mail, přidá vodoznak nebo si tvůj dokument tiše uloží na 24 hodin. Někdy déle. Nevíš, kdo ho čte.\n\nTo není nástroj. To je sběr dat.\n\n## Co opravdu funguje\n\nPřetáhni PDF. Klikni na převést. Stáhni .docx. Hotovo. Žádný účet. Žádná karta. Žádný upload na cizí server. [FileTools](https://filetools.eu) běží v prohlížeči přes WebAssembly, takže soubor nikam nelítá.\n\nVýstup zachová nadpisy, tabulky a většinu formátování. Naskenovaná PDF potřebují OCR — to je jiný problém a žádný free nástroj ho nezvládá perfektně. U digitálně vytvořených PDF je výsledek čistý.\n\n## Kdy to využiješ\n\n- Editace smlouvy, co ti někdo poslal v PDF\n- Vytažení textu z odborného článku\n- Přeformátování životopisu\n- Překlad dokumentu (pokud je to scénář k videu, hoď ho do [TubeVoice](https://tubevoice.io))\n\nZapomeň na předplatné. Zapomeň na strach z uploadu. [Převeď PDF tady](https://filetools.eu) a jdi dál.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "word",
+    "konverze",
+    "filetools",
+    "produktivita"
+  ],
+  "publishedAt": "2026-04-06",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "PDF dokument na obrazovce notebooku",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-merge-pdfs",
+    "filetools-compress-files-online",
+    "filetools-document-conversion"
+  ]
+}
