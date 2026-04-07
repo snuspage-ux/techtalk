@@ -1,0 +1,30 @@
+{
+  "slug": "roomflip-living-room-redesign-fr",
+  "lang": "fr",
+  "title": "Refais ton salon en 30 secondes",
+  "description": "Arrête de fixer le même canapé fatigué. Une photo, un nouveau salon.",
+  "excerpt": "Le salon est la pièce la plus dure à redessiner. Trop de meubles, trop de compromis. L'IA tranche.",
+  "content": "La plupart des gens refont leur salon deux fois dans leur vie. Une fois en emménageant. Une fois en abandonnant.\n\nLa raison est simple. Un salon a plus de contraintes que n'importe quelle autre pièce. La télé doit faire face à quelque chose. Le canapé doit rentrer. La lumière doit marcher le matin et le soir. Un architecte d'intérieur coûte 2000 € rien que pour un moodboard.\n\n[RoomFlip](https://roomflip.io) court-circuite tout ça. Tu charges une photo, tu choisis un style, et en moins d'une minute t'as une nouvelle version. Scandinave, Japandi, mid-century, industriel. Tu choisis. Tu vois.\n\n## Pourquoi les photos battent Pinterest\n\nPinterest est un piège. Tu enregistres 400 pièces parfaites qui n'ont rien à voir avec la tienne. Ton plafond est plus bas. Ta fenêtre est mal placée. Ton radiateur est moche.\n\nUn rendu basé sur *ta* photo respecte les os de la pièce. Tu vois ce qui est réellement possible.\n\n## La méthode\n\n1. Photo en lumière du jour. Grand-angle, depuis la porte.\n2. Upload sur [RoomFlip](https://roomflip.io).\n3. Trois styles. Compare.\n4. Screenshot et direction IKEA.\n\nC'est tout. Pas de designer, pas de 3D, pas de mètre. Des outils comme [TubeVoice](https://tubevoice.io) ont démocratisé le doublage. RoomFlip fait pareil pour la déco.\n\n## Ce qu'il ne fera pas\n\nIl ne déplacera pas ton mur porteur. Il ne te dira pas si le canapé passe la porte. C'est un point de départ, pas un artisan.\n\nMais pour les premiers 80 % — le moment où tu fixes ta pièce sans savoir quoi faire — ça marche.",
+  "imageAlt": "Salon moderne redessiné",
+  "category": "ai",
+  "tags": [
+    "roomflip",
+    "interior design",
+    "ai",
+    "living room"
+  ],
+  "publishedAt": "2026-04-07",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": []
+}
