@@ -1,0 +1,31 @@
+{
+  "slug": "tubevoice-tutorial-channels-cs",
+  "lang": "cs",
+  "title": "Tutoriálové kanály nechávají peníze na stole",
+  "description": "Většina tvůrců tutoriálů dělá jeden jazyk. To je chyba. Tady je důvod, proč dabing mění hru.",
+  "excerpt": "Tutoriály se překládají snadno. Kód je kód, obrazovka je obrazovka. Mění se jen hlas.",
+  "content": "## Matematika je brutální\n\nStrávil jsi tři hodiny natáčením tutoriálu na Docker. Má 12 000 zhlédnutí. Fajn. Teď si představ stejné video, stejnou práci, ale s dosahem na Brazílii, Německo, Japonsko a Mexiko. Ve stejný den. Stejný náhled. Jiný hlas.\n\nPřesně tohle dělá [TubeVoice](https://tubevoice.io). Hodíš tam YouTube odkaz, vybereš jazyky a dostaneš nativně znějící dabingy v 50+ jazycích. Žádné nové natáčení. Žádní dabéři za 5 000 Kč za hodinu.\n\n## Proč zrovna tutoriály\n\nTutoriály mají z dabingu nejvyšší návratnost ze všech nik. Tři důvody:\n\n- Vizuál nese 70 % významu. Dabing nemusí být dokonalý, musí být srozumitelný.\n- Hledanost je globální. \"Jak nainstalovat nginx\" hledají všude.\n- Diváci tutoriálů zůstávají déle. Delší watch time = lepší push od algoritmu v každém regionu.\n\nSledoval jsem programátorský kanál, který šel z 50k na 400k odběratelů. Udělali jen jednu věc jinak: každé video pouštěli od prvního dne v angličtině, španělštině a portugalštině.\n\n## Líný přístup, který funguje\n\nNepřekládej scénáře. Nic nepřepisuj. Vezmi svůj backcatalog, prožeň ho přes [TubeVoice](https://tubevoice.io) a nahraj dabingy jako další zvukové stopy nebo jako samostatné kanály. Vyber, co ti CMS líp zvládne.\n\nPokud chceš rychle testovat, mrkni i na [FileTools](https://filetools.eu) na převod titulků mezi formáty. Je zdarma a ušetří ti peklo s SRT na VTT.\n\n## Co dabovat první\n\nZačni se třemi videi s nejvyšším watch time. Ne nejvíc zhlédnutými. U tutoriálů je watch time důležitější, protože ukazuje hloubku. Daboval bych je do španělštiny, portugalštiny a hindštiny. Jen ty tři jazyky odemknou zhruba 1,5 miliardy potenciálních diváků.\n\nPo dvou týdnech zkontroluj analytiku. Dabované verze přečísluji originály na imprese. Vždycky.",
+  "category": "ai",
+  "tags": [
+    "tubevoice",
+    "youtube",
+    "dubbing",
+    "tutorials",
+    "ai"
+  ],
+  "publishedAt": "2026-04-08",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1581090700227-1e37b190418e?w=800&q=80",
+  "imageAlt": "Tvůrce nahrávající tutoriál u stolu",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": []
+}

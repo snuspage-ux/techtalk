@@ -1,0 +1,31 @@
+{
+  "slug": "tubevoice-tutorial-channels-zh",
+  "lang": "zh",
+  "title": "教程频道正在桌上留下钞票",
+  "description": "大多数教程创作者只做一种语言。这是错的。原因在这里。",
+  "excerpt": "教程很容易翻译。代码就是代码,屏幕就是屏幕。只有声音在变。",
+  "content": "## 算术很残酷\n\n你花了三个小时录一个 Docker 教程。一万两千次观看。不错。现在想象同样的视频、同样的工作量,触达巴西、德国、日本和墨西哥。同一天上传。同一张缩略图。不同的声音。\n\n这就是 [TubeVoice](https://tubevoice.io) 在做的事。你扔进 YouTube 链接,选好语言,就拿回 50 多种语言的母语级配音。不用重录。不用花一小时 200 欧请配音演员。\n\n## 为什么偏偏是教程\n\n教程内容是所有细分领域里配音 ROI 最高的。三个理由:\n\n- 画面承载了 70% 的含义。配音不需要完美,只需要清楚。\n- 搜索需求是全球的。\"如何配置 nginx\" 在每种语言里都有人搜。\n- 教程观众停留更久。更长的观看时长 = 每个地区算法推得更狠。\n\n我看过一个编程频道从 5 万订阅涨到 40 万。他们只做对了一件事:每一个视频从第一天起就有英语、西班牙语和葡萄牙语版本。\n\n## 行得通的懒办法\n\n别翻译脚本。别重写任何东西。拿你现有的存货,丢进 [TubeVoice](https://tubevoice.io),然后把配音作为独立音轨或独立频道上传。看你的 CMS 哪种处理得更好。\n\n想快速测试,也看一下 [FileTools](https://filetools.eu) 来转换字幕导出格式。免费,省掉 SRT 转 VTT 的烦恼。\n\n## 先配哪些\n\n从你观看时长最高的三个视频开始。不是观看次数最多的。教程里观看时长更重要,因为它代表深度。先把它们配成西班牙语、葡萄牙语和印地语。光这三种语言就能解锁大约 15 亿潜在观众。\n\n两周后查数据。配音版本在每次曝光的表现上都会赢过原版。每次都是。",
+  "category": "ai",
+  "tags": [
+    "tubevoice",
+    "youtube",
+    "dubbing",
+    "tutorials",
+    "ai"
+  ],
+  "publishedAt": "2026-04-08",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1581090700227-1e37b190418e?w=800&q=80",
+  "imageAlt": "一个人在桌前录制教程",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": []
+}

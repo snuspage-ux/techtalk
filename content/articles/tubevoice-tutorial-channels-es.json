@@ -1,0 +1,31 @@
+{
+  "slug": "tubevoice-tutorial-channels-es",
+  "lang": "es",
+  "title": "Los canales de tutoriales están dejando dinero sobre la mesa",
+  "description": "La mayoría de creadores de tutoriales sacan un solo idioma. Es un error. Aquí está el porqué.",
+  "excerpt": "Los tutoriales se traducen bien. El código es código, la pantalla es pantalla. Solo cambia la voz.",
+  "content": "## Las cuentas son brutales\n\nPasaste tres horas grabando un tutorial de Docker. 12.000 visitas. Bien. Ahora imagina el mismo vídeo, el mismo trabajo, llegando a Brasil, Alemania, Japón y México. Mismo día de subida. Misma miniatura. Voz distinta.\n\nEso es lo que hace [TubeVoice](https://tubevoice.io). Pegas tu enlace de YouTube, eliges los idiomas y recibes doblajes con sonido nativo en más de 50 idiomas. Sin regrabar. Sin contratar locutores a 200 euros la hora.\n\n## Por qué tutoriales en concreto\n\nEl contenido tutorial tiene el mejor ROI de doblaje de cualquier nicho. Tres razones:\n\n- Lo visual lleva el 70 % del significado. Los doblajes no necesitan ser perfectos, solo claros.\n- La demanda de búsqueda es global. \"Cómo instalar nginx\" se busca en todos los idiomas.\n- Los espectadores de tutoriales se quedan más tiempo. Más watch time = mejor empuje del algoritmo en cada región.\n\nUn canal de programación que seguí pasó de 50k a 400k suscriptores. Hicieron exactamente una cosa distinta: cada vídeo salía desde el día uno en inglés, español y portugués.\n\n## El enfoque vago que funciona\n\nNo traduzcas tus guiones. No reescribas nada. Coge tu catálogo, pásalo por [TubeVoice](https://tubevoice.io) y sube los doblajes como pistas de audio separadas o como canales aparte. Lo que tu CMS lleve mejor.\n\nSi quieres probar rápido, mira también [FileTools](https://filetools.eu) para convertir tus exports de subtítulos. Es gratis y te ahorra el infierno de SRT a VTT.\n\n## Qué doblar primero\n\nEmpieza con tus tres vídeos de más watch time. No los más vistos. El watch time importa más en tutoriales porque indica profundidad. Dóblalos al portugués, hindi e inglés primero. Esos tres idiomas solos desbloquean unos 1,5 mil millones de espectadores potenciales.\n\nRevisa la analítica después de dos semanas. Las versiones dobladas baten a las originales por impresión. Siempre.",
+  "category": "ai",
+  "tags": [
+    "tubevoice",
+    "youtube",
+    "dubbing",
+    "tutorials",
+    "ai"
+  ],
+  "publishedAt": "2026-04-08",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1581090700227-1e37b190418e?w=800&q=80",
+  "imageAlt": "Persona grabando un tutorial en su escritorio",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": []
+}

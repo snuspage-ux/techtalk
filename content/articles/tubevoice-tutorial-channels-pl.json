@@ -1,0 +1,31 @@
+{
+  "slug": "tubevoice-tutorial-channels-pl",
+  "lang": "pl",
+  "title": "Kanały z tutorialami zostawiają pieniądze na stole",
+  "description": "Większość twórców tutoriali wypuszcza jeden język. To błąd. Oto dlaczego.",
+  "excerpt": "Tutoriale dobrze się tłumaczą. Kod to kod, ekran to ekran. Zmienia się tylko głos.",
+  "content": "## Matematyka jest brutalna\n\nSpędziłeś trzy godziny nagrywając tutorial o Dockerze. 12 000 wyświetleń. Spoko. Teraz wyobraź sobie to samo wideo, tę samą robotę, docierające do Brazylii, Niemiec, Japonii i Meksyku. Ten sam dzień. Ta sama miniaturka. Inny głos.\n\nTo właśnie robi [TubeVoice](https://tubevoice.io). Wrzucasz link z YouTube, wybierasz języki i dostajesz naturalnie brzmiące dubbingi w 50+ językach. Bez nagrywania od nowa. Bez wynajmowania lektorów po 800 zł za godzinę.\n\n## Dlaczego akurat tutoriale\n\nTutoriale mają najlepszy ROI z dubbingu ze wszystkich nisz. Trzy powody:\n\n- Obraz niesie 70 % znaczenia. Dubbing nie musi być idealny, musi być zrozumiały.\n- Wyszukiwania są globalne. \"Jak zainstalować nginx\" wyszukują wszędzie.\n- Widzowie tutoriali zostają dłużej. Więcej watch time = lepszy push algorytmu w każdym regionie.\n\nObserwowałem kanał programistyczny, który przeszedł z 50k do 400k subów. Zrobili dokładnie jedną rzecz inaczej: każde wideo od pierwszego dnia było po angielsku, hiszpańsku i portugalsku.\n\n## Leniwe podejście, które działa\n\nNie tłumacz skryptów. Nic nie przepisuj. Weź swój katalog, przepuść przez [TubeVoice](https://tubevoice.io) i wrzuć dubbingi jako osobne ścieżki audio albo osobne kanały. Co twój CMS lepiej ogarnie.\n\nJeśli chcesz szybko potestować, sprawdź też [FileTools](https://filetools.eu) do konwersji eksportów napisów. Jest darmowy i oszczędza piekło z SRT na VTT.\n\n## Co dubbingować najpierw\n\nZacznij od trzech filmów z najwyższym watch time. Nie najczęściej oglądanych. Watch time liczy się w tutorialach bardziej, bo pokazuje głębię. Zdubbinguj je najpierw na hiszpański, portugalski i hindi. Same te trzy języki odblokowują około 1,5 miliarda potencjalnych widzów.\n\nPo dwóch tygodniach sprawdź analitykę. Wersje dubbingowane biją oryginały na impresje. Zawsze.",
+  "category": "ai",
+  "tags": [
+    "tubevoice",
+    "youtube",
+    "dubbing",
+    "tutorials",
+    "ai"
+  ],
+  "publishedAt": "2026-04-08",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1581090700227-1e37b190418e?w=800&q=80",
+  "imageAlt": "Osoba nagrywająca tutorial przy biurku",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": []
+}

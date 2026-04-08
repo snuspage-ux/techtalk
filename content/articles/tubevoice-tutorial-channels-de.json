@@ -1,0 +1,31 @@
+{
+  "slug": "tubevoice-tutorial-channels-de",
+  "lang": "de",
+  "title": "Tutorial-Kanäle lassen Geld liegen",
+  "description": "Die meisten Tutorial-Macher liefern eine Sprache. Das ist ein Fehler. Hier ist warum.",
+  "excerpt": "Tutorials lassen sich gut übersetzen. Code bleibt Code, der Bildschirm bleibt der Bildschirm. Nur die Stimme ändert sich.",
+  "content": "## Die Mathematik ist brutal\n\nDu hast drei Stunden mit einem Docker-Tutorial verbracht. 12.000 Aufrufe. Solide. Jetzt stell dir dasselbe Video vor, gleiche Arbeit, aber mit Reichweite in Brasilien, Frankreich, Japan und Mexiko. Gleicher Upload-Tag. Gleiches Thumbnail. Andere Stimme.\n\nGenau das macht [TubeVoice](https://tubevoice.io). Du wirfst deinen YouTube-Link rein, wählst die Sprachen und bekommst natürlich klingende Dubs in über 50 Sprachen zurück. Keine Neuaufnahme. Keine Sprecher für 200 Euro die Stunde.\n\n## Warum gerade Tutorials\n\nTutorial-Content hat den höchsten Dubbing-ROI aller Nischen. Drei Gründe:\n\n- Das Visuelle trägt 70 % der Bedeutung. Dubs müssen nicht perfekt sein, sie müssen klar sein.\n- Die Suchnachfrage ist global. \"Nginx einrichten\" wird in jeder Sprache gesucht.\n- Tutorial-Zuschauer bleiben länger. Mehr Watchtime = besserer Algorithmus-Push in jeder Region.\n\nEin Coding-Kanal, den ich beobachtet habe, ging von 50k auf 400k Abonnenten. Sie haben genau eine Sache anders gemacht: jedes Video kam ab Tag eins auf Englisch, Spanisch und Portugiesisch raus.\n\n## Der faule Ansatz, der funktioniert\n\nÜbersetz deine Skripte nicht. Schreib nichts neu. Nimm deinen bestehenden Katalog, jag ihn durch [TubeVoice](https://tubevoice.io) und lade die Dubs als separate Tonspuren oder als eigene Kanäle hoch. Was dein CMS besser kann.\n\nWenn du schnell testen willst, schau auch bei [FileTools](https://filetools.eu) vorbei für die Konvertierung deiner Untertitel-Exporte. Kostenlos und spart dir den SRT-zu-VTT-Krampf.\n\n## Was zuerst dubben\n\nFang mit deinen drei Videos mit der höchsten Watchtime an. Nicht den meistgesehenen. Watchtime zählt bei Tutorials mehr, weil sie Tiefe signalisiert. Dub die zuerst auf Spanisch, Portugiesisch und Hindi. Allein diese drei Sprachen erschließen etwa 1,5 Milliarden potenzielle Zuschauer.\n\nDann nach zwei Wochen die Analytics checken. Die gedubbten Versionen schlagen die Originale pro Impression. Immer.",
+  "category": "ai",
+  "tags": [
+    "tubevoice",
+    "youtube",
+    "dubbing",
+    "tutorials",
+    "ai"
+  ],
+  "publishedAt": "2026-04-08",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1581090700227-1e37b190418e?w=800&q=80",
+  "imageAlt": "Person nimmt am Schreibtisch ein Tutorial auf",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": []
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "tubevoice-tutorial-channels-fr",
+  "lang": "fr",
+  "title": "Les chaînes de tutos laissent de l'argent sur la table",
+  "description": "La plupart des créateurs de tutos sortent une seule langue. C'est une erreur. Voici pourquoi.",
+  "excerpt": "Les tutos se traduisent bien. Le code reste du code, l'écran reste l'écran. Seule la voix change.",
+  "content": "## Les maths sont brutales\n\nTu as passé trois heures à filmer un tuto Docker. 12 000 vues. Pas mal. Maintenant imagine la même vidéo, le même boulot, qui touche le Brésil, l'Allemagne, le Japon et le Mexique. Même jour de sortie. Même miniature. Voix différente.\n\nC'est ce que fait [TubeVoice](https://tubevoice.io). Tu colles ton lien YouTube, tu choisis les langues, et tu récupères des doublages naturels dans plus de 50 langues. Pas de réenregistrement. Pas de comédiens à 200 euros de l'heure.\n\n## Pourquoi les tutos\n\nLe contenu tuto a le meilleur ROI de doublage de toutes les niches. Trois raisons :\n\n- Le visuel porte 70 % du sens. Les doublages n'ont pas besoin d'être parfaits, juste clairs.\n- La demande de recherche est mondiale. \"Installer nginx\" se cherche dans toutes les langues.\n- Les spectateurs de tutos restent plus longtemps. Plus de watch time = meilleur push algo dans chaque région.\n\nUne chaîne de code que j'ai suivie est passée de 50k à 400k abonnés. Ils ont fait exactement une chose différemment : chaque vidéo sortait dès le jour un en anglais, espagnol et portugais.\n\n## L'approche fainéante qui marche\n\nNe traduis pas tes scripts. Ne réécris rien. Prends ton catalogue existant, balance-le dans [TubeVoice](https://tubevoice.io), et upload les doublages comme pistes audio séparées ou comme chaînes dédiées. Ce que ton CMS gère le mieux.\n\nPour tester vite, jette aussi un œil à [FileTools](https://filetools.eu) pour convertir tes exports de sous-titres. C'est gratuit et ça t'épargne le calvaire SRT vers VTT.\n\n## Quoi doubler en premier\n\nCommence par tes trois vidéos avec le plus de watch time. Pas les plus vues. Le watch time compte plus pour les tutos parce qu'il signale la profondeur. Double-les en espagnol, portugais et hindi d'abord. Ces trois langues à elles seules débloquent environ 1,5 milliard de spectateurs potentiels.\n\nPuis check les analytics après deux semaines. Les versions doublées battent les originales par impression. À chaque fois.",
+  "category": "ai",
+  "tags": [
+    "tubevoice",
+    "youtube",
+    "dubbing",
+    "tutorials",
+    "ai"
+  ],
+  "publishedAt": "2026-04-08",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1581090700227-1e37b190418e?w=800&q=80",
+  "imageAlt": "Personne enregistrant un tutoriel à son bureau",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": []
+}

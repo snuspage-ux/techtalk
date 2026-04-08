@@ -1,0 +1,31 @@
+{
+  "slug": "tubevoice-tutorial-channels-en",
+  "lang": "en",
+  "title": "Tutorial Channels Are Leaving Money on the Table",
+  "description": "Most tutorial creators ship one language. That's a mistake. Here's why dubbing changes everything.",
+  "excerpt": "Tutorials translate well. Code is code, the screen is the screen. Only the voice changes.",
+  "content": "## The math is brutal\n\nYou spent three hours filming a Docker tutorial. It got 12,000 views. Good job. Now imagine the same video, same effort, hitting Brazil, Germany, Japan, and Mexico. Same upload day. Same thumbnail. Different voice.\n\nThat's what [TubeVoice](https://tubevoice.io) does. You drop in your YouTube link, pick the languages, and get back native-sounding dubs in 50+ languages. No re-recording. No hiring voice actors at $200 a pop.\n\n## Why tutorials specifically\n\nTutorial content has the highest dubbing ROI of any niche. Three reasons:\n\n- The visual carries 70% of the meaning. Dubs don't need to be perfect, they need to be clear.\n- Search demand is global. \"How to set up nginx\" gets searched in every language on Earth.\n- Tutorial viewers stay longer. Higher watch time = better algorithm push in every region.\n\nA coding channel I watched go from 50k to 400k subs did exactly one thing differently: they shipped every video in English, Spanish, and Portuguese from day one.\n\n## The lazy approach that works\n\nDon't translate your scripts. Don't rewrite anything. Take your existing back catalog, run it through [TubeVoice](https://tubevoice.io), and upload the dubs as separate language tracks or as separate channels. Pick whichever your CMS handles better.\n\nIf you want to test this fast, also check [FileTools](https://filetools.eu) for converting your subtitle exports between formats. It's free and saves the SRT-to-VTT headache.\n\n## What to dub first\n\nStart with your three highest-watch-time videos. Not your most-viewed. Watch time matters more for tutorials because it signals depth. Dub those into Spanish, Portuguese, and Hindi first. Those three languages alone unlock about 1.5 billion potential viewers.\n\nThen check the analytics after two weeks. The dubbed versions will outperform your originals on a per-impression basis. They always do.",
+  "category": "ai",
+  "tags": [
+    "tubevoice",
+    "youtube",
+    "dubbing",
+    "tutorials",
+    "ai"
+  ],
+  "publishedAt": "2026-04-08",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1581090700227-1e37b190418e?w=800&q=80",
+  "imageAlt": "Person recording a tutorial at a desk",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": []
+}
