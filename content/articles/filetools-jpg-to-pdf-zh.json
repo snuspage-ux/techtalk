@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-jpg-to-pdf-zh",
+  "lang": "zh",
+  "title": "在线将JPG转换为PDF——无需软件，无需注册",
+  "description": "使用FileTools在几秒钟内将JPG图片转换为PDF。免费、私密、无需安装。",
+  "excerpt": "需要从照片生成PDF？FileTools即刻完成——无需账号，无限制，无麻烦。",
+  "content": "将JPG转换为PDF听起来简单。但大多数在线工具要求注册、限制文件数量或添加水印。这些都没有必要。\n\n[FileTools.eu](https://filetools.eu) 直接在浏览器中完成转换。上传JPG，下载PDF。就这么简单。\n\n## 其他工具的问题\n\n大多数免费工具将限制隐藏在细则中：每天只能转三个文件、结果带水印，或者用几次后就要订阅付费。FileTools不会这样。无账号、无限制、无水印。\n\n[JPG转PDF转换器](https://filetools.eu/jpg-to-pdf) 还支持同时处理多张图片。拖入一个图片文件夹，根据需要调整顺序，然后下载合并后的单个PDF。非常适合整理收据、合并产品图片或提交多页表单。\n\n## 质量不妥协\n\n很多工具在将图片嵌入PDF时会进行二次压缩。FileTools不会。原始图片质量得到保留——无分辨率损失，无模糊。\n\n大多数操作在客户端运行，图片通常不需要离开你的设备。对于敏感文件——证件扫描、合同、医疗照片——这一点非常重要。\n\n## 实际应用场景\n\n- 将多页表单作为单个PDF提交\n- 以便携格式归档照片\n- 发送产品目录，无需担心图片查看器兼容性\n- 将出差收据合并为一份费用报告\n\n文件大小保持合理，因为FileTools优化的是PDF容器，而不是图片本身。\n\n如果你经常处理文件，[FileTools.eu](https://filetools.eu) 值得在浏览器中常驻一个标签页。除了JPG转PDF，还支持PDF转Word、HEIC转换、压缩等功能——全部无需账号。",
+  "category": "tools",
+  "tags": [
+    "filetools",
+    "jpg转pdf",
+    "图片转换器",
+    "pdf",
+    "在线工具"
+  ],
+  "publishedAt": "2026-04-08",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&q=80",
+  "imageAlt": "在线将JPG图片转换为PDF",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "JPG to PDF converter",
+      "url": "https://filetools.eu/jpg-to-pdf"
+    }
+  ],
+  "related": []
+}

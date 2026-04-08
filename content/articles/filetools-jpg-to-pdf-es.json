@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-jpg-to-pdf-es",
+  "lang": "es",
+  "title": "Convertir JPG a PDF online — sin software, sin registro",
+  "description": "FileTools convierte imagenes JPG a PDF en segundos. Gratis, privado, sin instalacion.",
+  "excerpt": "Necesitas un PDF desde tus fotos? FileTools lo hace al instante — sin cuenta, sin limites, sin complicaciones.",
+  "content": "Convertir JPG a PDF parece sencillo. Sin embargo, la mayoria de las herramientas online piden registro, limitan el numero de archivos o anaden marcas de agua. Nada de eso es necesario.\n\n[FileTools.eu](https://filetools.eu) hace la conversion directamente en el navegador. Subes el JPG, descargas el PDF. Eso es todo.\n\n## El problema de los demas conversores\n\nLa mayoria de las herramientas gratuitas esconden sus limites en la letra pequena: tres archivos al dia, marca de agua en el resultado o una suscripcion obligatoria. FileTools no hace nada de eso. Sin cuenta, sin limites, sin marcas de agua.\n\nEl [conversor de JPG a PDF](https://filetools.eu/jpg-to-pdf) tambien procesa varias imagenes a la vez. Arrastra una carpeta de fotos, reordenalas si hace falta y descarga un PDF combinado. Util para recibos, fotos de producto o formularios de varias paginas.\n\n## La calidad no se sacrifica\n\nMuchas herramientas comprimen la imagen una segunda vez al incrustarla en el PDF. FileTools no lo hace. La calidad original se mantiene — sin perdida de resolucion, sin resultado borroso.\n\nLa mayoria de las operaciones se ejecutan en el lado del cliente. Las imagenes no tienen por que salir del dispositivo. Para documentos sensibles — copias de DNI, contratos, fotos medicas — eso importa.\n\n## Usos practicos\n\n- Enviar un formulario de varias paginas como un unico PDF\n- Archivar fotos en un formato portable\n- Mandar un catalogo de productos sin depender de visores de imagenes\n- Agrupar recibos de viaje para un informe de gastos\n\nEl tamano del archivo se mantiene razonable porque FileTools optimiza el contenedor PDF, no las imagenes en si.\n\nSi trabajas con archivos habitualmente, [FileTools.eu](https://filetools.eu) merece una pestana fija en el navegador. Cubre JPG a PDF, pero tambien PDF a Word, conversion HEIC, compresion y mas — todo sin cuenta.",
+  "category": "tools",
+  "tags": [
+    "filetools",
+    "jpg a pdf",
+    "conversor de imagenes",
+    "pdf",
+    "herramientas online"
+  ],
+  "publishedAt": "2026-04-08",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&q=80",
+  "imageAlt": "Convertir imagenes JPG a PDF online",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "JPG to PDF converter",
+      "url": "https://filetools.eu/jpg-to-pdf"
+    }
+  ],
+  "related": []
+}

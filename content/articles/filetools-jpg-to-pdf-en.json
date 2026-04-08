@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-jpg-to-pdf-en",
+  "lang": "en",
+  "title": "How to Convert JPG to PDF Online — No Software, No Sign-Up",
+  "description": "Turn any JPG image into a PDF in seconds using FileTools. Free, private, no installation needed.",
+  "excerpt": "Need a PDF from your photos? FileTools handles it instantly — no account, no upload limits, no nonsense.",
+  "content": "Converting a JPG to PDF used to mean installing Acrobat or fighting with online tools that expire after three files. None of that is necessary anymore.\n\n[FileTools.eu](https://filetools.eu) handles the conversion in your browser. Upload a JPG, get a PDF. That is the whole process.\n\n## Why people still struggle with this\n\nMost tools bury the converter behind a registration wall or a \"free trial\" that expires after three files. FileTools does not do that. It is free, it works without an account, and it does not watermark your output.\n\nThe [JPG to PDF converter](https://filetools.eu/jpg-to-pdf) also handles multiple images at once. Drag in a folder of photos, reorder them if needed, and download a single merged PDF. Useful for scanning receipts, combining product photos, or submitting documents.\n\n## Quality matters\n\nCompression is one thing JPG-to-PDF tools often mess up. FileTools preserves the original image quality inside the PDF — no extra compression, no resolution drop. What you upload is what ends up in the file.\n\nIt also runs client-side for most operations, meaning your images do not necessarily leave your device. For sensitive documents — ID scans, contracts, medical photos — that matters.\n\n## Practical uses\n\n- Submit a multi-page form as a single PDF\n- Archive photos in a portable format\n- Send a product catalog without worrying about image viewers\n- Combine travel receipts into one document for expense reports\n\nThe file size stays reasonable because FileTools optimizes the PDF container, not the images themselves.\n\nIf you work with files regularly, [FileTools.eu](https://filetools.eu) is worth keeping open in a tab. It covers JPG to PDF, but also PDF to Word, HEIC conversion, compression, and more — all without an account.",
+  "category": "tools",
+  "tags": [
+    "filetools",
+    "jpg to pdf",
+    "image converter",
+    "pdf",
+    "online tools"
+  ],
+  "publishedAt": "2026-04-08",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&q=80",
+  "imageAlt": "Converting JPG images to PDF online",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "JPG to PDF converter",
+      "url": "https://filetools.eu/jpg-to-pdf"
+    }
+  ],
+  "related": []
+}
