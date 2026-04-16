@@ -1,0 +1,32 @@
+{
+  "slug": "filetools-ocr",
+  "lang": "pl",
+  "title": "Wyciągnij tekst ze zdjęć i zeskanowanych dokumentów za darmo",
+  "description": "FileTools.eu dodaje OCR — zamień zeskanowane umowy, zdjęcia tablicy i zrzuty ekranu na edytowalny tekst, bez instalacji czegokolwiek.",
+  "excerpt": "Optyczne rozpoznawanie znaków nie wymaga już drogiego oprogramowania. Teraz działa za darmo w przeglądarce.",
+  "content": "Masz zeskanowaną umowę, zdjęcie tablicy ze spotkania albo zrzut ekranu z tekstem do skopiowania. Kiedyś to oznaczało Adobe Acrobat albo płatny software. Teraz jest darmowa alternatywa w przeglądarce: [FileTools.eu](https://filetools.eu).\n\n## Co to jest OCR?\n\nOCR = Optical Character Recognition, optyczne rozpoznawanie znaków. Technologia biera obraz — skan, zdjęcie, zrzut ekranu — i zamienia widoczny tekst na edytowalne, wyszukiwalne znaki. Zeskanowany PDF staje się dokumentem, z którego można kopiować.\n\n## Jak działa OCR od FileTools\n\nWrzucasz obrazek lub zeskanowany PDF. FileTools przetwarza go lokalnie — żadnego wysyłania na podejrzane serwery. Wyciągnięty tekst pobiera się jako czysty plik, który wklejasz gdzie chcesz: Word, Google Docs, Notion.\n\nSerwis obsługuje JPEG, PNG, PDF i TIFF. Nawet jeśli skan jest krzywy albo zaszumiony, narzędzie radzi sobie zaskakująco dobrze jak na darmowy tool online.\n\n## Realne przypadki użycia\n\n**Prawnicy i studenci** wyciągają tekst ze zdigitalizowanych książek i akt. **Recepcjoniści** fotografują ręcznie pisane formularze i od razu je digitalizują. **Designerzy** pobierają tekst ze stron, gdzie nie da się zaznaczyć — screenshot i gotowe.\n\n## Jak to z dokładnością?\n\nPrzy czystych, wysokokontrastowych dokumentach dokładność to 95–98 %. Kiepskie skany, dziwne czcionki albo grube pismo odręczne wymagają szybkiej ręcznej kontroli. Ale jak na darmowe narzędzie w przeglądarce, wyniki są naprawdę użyteczne.\n\n## Bez konta, bez pobierania, bez haczyka\n\nFileTools nie wymaga rejestracji. Nie ma limitu rozmiaru pliku, który zabija produktywność. A ponieważ konwersja odbywa się lokalnie, twoje wrażlive dokumenty nigdy nie opuszczają twojego komputera.\n\nJeśli regularnie pracujesz ze skanami, dodaj [FileTools.eu](https://filetools.eu) do zakładek. To ten typ narzędzia, które cicho rozwiązuje problem, o którym nie wiedziałeś, że będzie irytujący, dopóki cię to nie spotkało.",
+  "category": "tools",
+  "tags": [
+    "ocr",
+    "ekstrakcja tekstu",
+    "skanowanie",
+    "pdf",
+    "darmowe",
+    "narzędzia online"
+  ],
+  "publishedAt": "2026-04-16",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+  "imageAlt": "Skaner dokumentów na biurku z interfejsem ekstrakcji tekstu",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-guide",
+    "filetools-merge-pdfs",
+    "filetools-jpg-to-pdf"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "filetools-ocr",
+  "lang": "en",
+  "title": "Extract Text from Any Image with Free Online OCR",
+  "description": "filetools.eu adds OCR so you can pull text out of scanned PDFs, photos and screenshots — without installing anything.",
+  "excerpt": "Optical character recognition used to require expensive software. Not anymore.",
+  "content": "You've got a scanned contract, a photo of a whiteboard, or a screenshot with text you need to copy. In the past that meant Adobe Acrobat or paying for software. Now there's a free alternative that lives in your browser: [FileTools.eu](https://filetools.eu).\n\n## What is OCR?\n\nOCR stands for Optical Character Recognition. The technology looks at an image — a scan, photo, or screenshot — and converts the visible text into editable, searchable characters. It's the thing that lets you turn a PDF scan into a real document you can copy from.\n\n## How FileTools OCR Works\n\nUpload your image or scanned PDF. FileTools processes it locally (no uploads to mysterious servers). The extracted text downloads as a plain file you can paste anywhere — Word, Google Docs, Notion, you name it.\n\nThe service handles JPEG, PNG, PDF, and TIFF. If your scan is crooked or noisy, the tool still manages surprisingly well for a free online tool.\n\n## Real Use Cases\n\n**Lawyers and students** pull text from old scanned books and case files. **Receptionists** photograph handwritten forms and digitize them instantly. **Designers** grab copy from competitor websites they can't select text from (just screenshot it).\n\n## Is It Accurate?\n\nFor clean, high-contrast documents it's solid — maybe 95–98% accuracy. Poor-quality scans, weird fonts, or heavy handwriting will need a quick manual check. But for a free browser tool, the results are genuinely useful.\n\n## No Account, No Download, No Catch\n\nFileTools doesn't require registration. There's no file size limit that kills productivity. And because the conversion happens locally, your sensitive documents never leave your machine.\n\nIf you regularly deal with scanned paperwork, add [FileTools.eu](https://filetools.eu) to your bookmarks. It's the kind of tool that quietly solves a problem you didn't know would be annoying until it happened.",
+  "category": "tools",
+  "tags": [
+    "ocr",
+    "text extraction",
+    "scanning",
+    "pdf",
+    "free",
+    "online tools"
+  ],
+  "publishedAt": "2026-04-16",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+  "imageAlt": "Document scanner on desk with text extraction interface",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-guide",
+    "filetools-merge-pdfs",
+    "filetools-jpg-to-pdf"
+  ]
+}

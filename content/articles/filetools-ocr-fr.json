@@ -1,0 +1,32 @@
+{
+  "slug": "filetools-ocr",
+  "lang": "fr",
+  "title": "Extraire du texte d'images et de documents scannés — gratuitement",
+  "description": "FileTools.eu ajoute l'OCR — convertissez contrats scannés, photos de tableaux et captures d'écran en texte modifiable, sans installer quoi que ce soit.",
+  "excerpt": "La reconnaissance de caractères n'est plus réservée aux logiciels payants.",
+  "content": "Tu as un contrat scanné, une photo de tableau blanc ou une capture d'écran avec du texte à copier. Avant, ça voulait dire Adobe Acrobat ou un logiciel payant. Maintenant il y a une alternative gratuite dans le navigateur : [FileTools.eu](https://filetools.eu).\n\n## C'est quoi l'OCR ?\n\nOCR = Optical Character Recognition. La technologie analyse une image — scan, photo, capture — et convertit le texte visible en caractères éditables et recherchables. Un PDF scanné devient un vrai document dont on peut copier le contenu.\n\n## Comment marche l'OCR de FileTools\n\nTu uploades ton image ou PDF scanné. FileTools le traite en local — aucun upload vers des serveurs douteux. Le texte extrait se télécharge en fichier brut, à coller où tu veux : Word, Google Docs, Notion.\n\nLe service gère JPEG, PNG, PDF et TIFF. Même si le scan est de travers ou bruyant, l'outil s'en sort étonnamment bien pour un outil gratuit en ligne.\n\n## Cas d'usage réels\n\n**Avocats et étudiants** extraient du texte de livres et dossiers scannés. **Réceptionnistes** photographient des formulaires manuscrits et les digitalisent à la volée. **Designers** récupèrent du texte sur des sites où la sélection est bloquée — un screenshot et c'est fait.\n\n## Quelle précision ?\n\nPour des documents nets et contrastés, comptez 95–98 % de précision. Scans de mauvaise qualité, polices inhabituelles ou écriture manuscrite chargée méritent une relecture rapide. Mais pour un outil gratuit dans le navigateur, les résultats sont réellement exploitables.\n\n## Pas de compte, pas de téléchargement, pas d'arnaque\n\nFileTools ne demande aucune inscription. Pas de limite de taille de fichier qui ruine la productivité. Et comme la conversion se fait en local, tes documents sensibles ne quittent jamais ta machine.\n\nSi tu gères régulièrement des papiers scannés, ajoute [FileTools.eu](https://filetools.eu) aux favoris. C'est le genre d'outil qui résout silencieusement un problème que tu ne savais pas encore agaçant.",
+  "category": "tools",
+  "tags": [
+    "ocr",
+    "extraction de texte",
+    "scanner",
+    "pdf",
+    "gratuit",
+    "outils en ligne"
+  ],
+  "publishedAt": "2026-04-16",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+  "imageAlt": "Scanner de documents sur un bureau avec interface d'extraction de texte",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-guide",
+    "filetools-merge-pdfs",
+    "filetools-jpg-to-pdf"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "filetools-ocr",
+  "lang": "cs",
+  "title": "Jak extrahovat text z obrázků a naskenovaných dokumentů zdarma",
+  "description": "FileTools.eu přidává OCR — převedete naskenované smlouvy, fotografie tabulí a screenshoty na editovatelný text, bez instalace.",
+  "excerpt": "Optické rozpoznávání znaků už nevyžaduje drahý software. Teď je to zdarma v prohlížeči.",
+  "content": "Máš naskenovanou smlouvu, fotku tabule z porady nebo screenshot s textem, který potřebuješ opsat. Dřív to znamenalo Adobe Acrobat nebo placený software. Teď existuje alternativa zdarma přímo v prohlížeči: [FileTools.eu](https://filetools.eu).\n\n## Co je OCR?\n\nOCR je Optical Character Recognition — optické rozpoznávání znaků. Technologie vezme obrázek (sken, fotku, screenshot) a převede viditelný text na editovatelné, prohledávatelné znaky. Z PDF naskenovaného dokumentu udělá soubor, ze kterého jde kopírovat.\n\n## Jak FileTools OCR funguje\n\nNahrajete obrázek nebo naskenovaný PDF. FileTools jej zpracuje lokálně — žádné nahrávání na neznámé servery. Extrahovaný text se stáhne jako čistý soubor, který vložíte kamkoliv: Word, Google Docs, Notion.\n\nSlužba zvládá JPEG, PNG, PDF i TIFF. I když je sken nakřivo nebo obsahuje šum, nástroj si většinou poradí překvapivě dobře.\n\n## Kde se to hodí\n\n**Právníci a studenti** tahají text z naskenovaných knih a spisů. **Recepční** fotí ručně psané formuláře a rovnou je digitalizují. **Designéři** zkopírují text z webových stránek, kde nejde normálně označit (jen screenshot).\n\n## Jak je to přesné?\n\nU čistých, ostrých dokumentů je přesnost kolem 95–98 %. Nekvalitní skeny, divné fonty nebo husté ruční psaní si říkají o ruční kontrolu. Ale pro bezplatný online nástroj jsou výsledky skutečně použitelné.\n\n## Bez účtu, bez stahování, bez háčku\n\nFileTools nevyžaduje registraci. Nemá limit velikosti souboru, který vás zabije. A protože se konverze děje lokálně, vaše citlivé dokumenty nikdy neopustí váš počítač.\n\nPokud pravidelně pracujete s naskenovanými dokumenty, přidejte si [FileTools.eu](https://filetools.eu) do záložek. Je to ten typ nástroje, který tiše vyřeší problém, o kterém jste nevěděli, že bude otravný, dokud se to nestalo.",
+  "category": "tools",
+  "tags": [
+    "ocr",
+    "extrakce textu",
+    "skenování",
+    "pdf",
+    "zdarma",
+    "online nástroje"
+  ],
+  "publishedAt": "2026-04-16",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+  "imageAlt": "Skener dokumentů na stole s rozhraním pro extrakci textu",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-guide",
+    "filetools-merge-pdfs",
+    "filetools-jpg-to-pdf"
+  ]
+}

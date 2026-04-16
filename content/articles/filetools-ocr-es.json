@@ -1,0 +1,32 @@
+{
+  "slug": "filetools-ocr",
+  "lang": "es",
+  "title": "Extrae texto de imágenes y documentos escaneados gratis",
+  "description": "FileTools.eu incorpora OCR — convierte contratos escaneados, fotos de pizarras y capturas de pantalla en texto editable, sin instalar nada.",
+  "excerpt": "El reconocimiento de caracteres ya no requiere software caro. Ahora es gratis en el navegador.",
+  "content": "Tienes un contrato escaneado, una foto de la pizarra de una reunión o una captura con texto que necesitas copiar. Antes eso significaba Adobe Acrobat o software de pago. Ahora hay una alternativa gratis en el navegador: [FileTools.eu](https://filetools.eu).\n\n## ¿Qué es OCR?\n\nOCR = Optical Character Recognition, reconocimiento óptico de caracteres. La tecnología mira una imagen — un escaneo, foto o captura — y convierte el texto visible en caracteres editables y buscables. Un PDF escaneado se convierte en un documento del que puedes copiar.\n\n## Cómo funciona el OCR de FileTools\n\nSubes tu imagen o PDF escaneado. FileTools lo procesa localmente — nada de subir a servidores misteriosos. El texto extraído se descarga como archivo limpio, para pegar donde quieras: Word, Google Docs, Notion.\n\nEl servicio maneja JPEG, PNG, PDF y TIFF. Incluso si el escaneo está torcido o con ruido, la herramienta se defiende sorprendentemente bien para ser gratis.\n\n## Casos de uso reales\n\n**Abogados y estudiantes** extraen texto de libros y archivos escaneados. **Recepcionistas** fotografían formularios escritos a mano y los digitalizan al instante. **Diseñadores** copian texto de páginas donde no se puede seleccionar — solo截图 y listo.\n\n## ¿Qué tan preciso es?\n\nPara documentos limpios y de alto contraste, la precisión ronda el 95–98 %. Escaneos deficientes, fuentes extrañas o escritura a mano cargada necesitan una revisión rápida. Pero para una herramienta gratuita en el navegador, los resultados son genuinamente útiles.\n\n## Sin cuenta, sin descarga, sin trampa\n\nFileTools no pide registro. No hay límite de tamaño de archivo que arruine tu productividad. Y como la conversión es local, tus documentos sensibles nunca salen de tu máquina.\n\nSi trabajas regularmente con papeles escaneados, guarda [FileTools.eu](https://filetools.eu) en marcadores. Es el tipo de herramienta que resuelve silenciosamente un problema que no sabías que sería molesto hasta que te pasó.",
+  "category": "tools",
+  "tags": [
+    "ocr",
+    "extraccion de texto",
+    "escaneo",
+    "pdf",
+    "gratis",
+    "herramientas online"
+  ],
+  "publishedAt": "2026-04-16",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+  "imageAlt": "Escáner de documentos en escritorio con interfaz de extracción de texto",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-guide",
+    "filetools-merge-pdfs",
+    "filetools-jpg-to-pdf"
+  ]
+}

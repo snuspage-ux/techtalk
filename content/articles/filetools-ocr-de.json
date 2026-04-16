@@ -1,0 +1,32 @@
+{
+  "slug": "filetools-ocr",
+  "lang": "de",
+  "title": "Text aus Bildern und gescannten Dokumenten kostenlos extrahieren",
+  "description": "FileTools.eu bietet OCR — gescannte Verträge, Whiteboard-Fotos und Screenshots werden zu bearbeitbarem Text, ohne Installation.",
+  "excerpt": "Texterkennung war mal teuer. Jetzt läuft sie kostenlos im Browser.",
+  "content": "Du hast einen gescannten Vertrag, ein Foto von einer Whiteboard-Session oder einen Screenshot mit Text, den du kopieren willst. Früher bedeutete das Adobe Acrobat oder teure Software. Jetzt gibt es eine kostenlose Alternative direkt im Browser: [FileTools.eu](https://filetools.eu).\n\n## Was ist OCR?\n\nOCR steht für Optical Character Recognition — optische Zeichenerkennung. Die Technologie nimmt ein Bild — einen Scan, ein Foto, einen Screenshot — und wandelt den sichtbaren Text in editierbare, durchsuchbare Zeichen um. Aus einem gescannten PDF wird ein Dokument, aus dem man kopieren kann.\n\n## So funktioniert FileTools OCR\n\nDu lädst dein Bild oder gescanntes PDF hoch. FileTools verarbeitet es lokal — keine Uploads auf fragwürdige Server. Der extrahierte Text wird als saubere Datei heruntergeladen, die du überall einfügst: Word, Google Docs, Notion.\n\nDer Service verarbeitet JPEG, PNG, PDF und TIFF. Selbst wenn der Scan schief oder verrauscht ist, schlägt sich das Tool für einen kostenlosen Online-Dienst erstaunlich gut.\n\n## Echte Anwendungsfälle\n\n**Anwälte und Studenten** extrahieren Text aus gescannten Büchern und Akten. **Empfangsmitarbeiter** fotografieren handschriftliche Formulare und digitalisieren sie sofort. **Designer** holen sich Text von Webseiten, wo man nichts markieren kann — einfach screenshotten.\n\n## Wie genau ist es?\n\nBei sauberen, hohen Kontrasten liegt die Genauigkeit bei 95–98 %. Minderwertige Scans, ungewöhnliche Schriften oder starke Handschrift erfordern eine kurze manuelle Prüfung. Aber für ein kostenloses Browser-Tool sind die Ergebnisse tatsächlich brauchbar.\n\n## Kein Konto, kein Download, keine Haken\n\nFileTools braucht keine Registrierung. Keine Dateigrößenlimits, die produktiv arbeiten verhindern. Und weil die Konvertierung lokal läuft, verlassen deine sensiblen Dokumente nie deinen Rechner.\n\nWenn du regelmäßig mit gescannten Dokumenten arbeitest, speichere [FileTools.eu](https://filetools.eu) in den Lesezeichen. Es ist das Tool, das leise ein Problem löst, das du nicht kommen sahst.",
+  "category": "tools",
+  "tags": [
+    "ocr",
+    "textextraktion",
+    "scannen",
+    "pdf",
+    "kostenlos",
+    "online-tools"
+  ],
+  "publishedAt": "2026-04-16",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+  "imageAlt": "Dokumentenscanner auf dem Schreibtisch mit Textextraktions-Oberfläche",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-guide",
+    "filetools-merge-pdfs",
+    "filetools-jpg-to-pdf"
+  ]
+}

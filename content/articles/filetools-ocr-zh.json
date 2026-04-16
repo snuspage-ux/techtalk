@@ -1,0 +1,32 @@
+{
+  "slug": "filetools-ocr",
+  "lang": "zh",
+  "title": "免费从图片和扫描文档中提取文字 — 无需安装",
+  "description": "FileTools.eu 新增 OCR 功能 — 将扫描合同、白板照片和截图转为可编辑文字，完全在浏览器中完成。",
+  "excerpt": "文字识别不再是付费软件的专属。浏览器里就能免费用。",
+  "content": "你有一份扫描合同、一张白板照片，或者一张需要复制文字的截图。以前这意味着要用 Adobe Acrobat 或付费软件。现在有了免费替代方案，直接在浏览器里：[FileTools.eu](https://filetools.eu)。\n\n## 什么是 OCR？\n\nOCR即光学字符识别。看一张图片 — 扫描件、照片、截图 — 然后把可见文字转成可编辑、可搜索的字符。扫描的 PDF由此变成可以复制粘贴的文档。\n\n## FileTools OCR 如何工作\n\n上传图片或扫描 PDF。FileTools在本地处理 — 不会上传到不明服务器。提取的文字下载为纯文本文件，可以粘贴到任何地方：Word、Google Docs、Notion。\n\n该服务支持 JPEG、PNG、PDF 和 TIFF。即使扫描件契斜或有噪点，作为免费在线工具，效果也出奇地好。\n\n## 实际使用场景\n\n**律师和学生**从扫描书籍和档案中提取文字。**前台接待**拍下手写表格直接数字化。**设计师**从无法选字的网页截图取文字 — 截个图就行。\n\n## 准确率如何？\n\n干净的、高对比度的文档准确率约 95–98%。低质量扫描、特殊字体或密集手写需要人工快速校对。但作为免费的浏览器工具，结果确实可用。\n\n## 无账号、无下载、无套路\n\nFileTools 无需注册。没有降低效率的文件大小限制。而且转换在本地完成，敏感文档永远不会离开你的电脑。\n\n如果经常处理扫描件，把 [FileTools.eu](https://filetools.eu) 存为书签。它就是那种懒懒解决你没想到会烦人的问题的工具。",
+  "category": "tools",
+  "tags": [
+    "ocr",
+    "文字提取",
+    "扫描",
+    "pdf",
+    "免费",
+    "在线工具"
+  ],
+  "publishedAt": "2026-04-16",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+  "imageAlt": "桌面上的文档扫描代和文字提取界面",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-guide",
+    "filetools-merge-pdfs",
+    "filetools-jpg-to-pdf"
+  ]
+}
