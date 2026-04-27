@@ -1034,6 +1034,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/cs/roomflip-mid-century-modern": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/cs/roomflip-mid-century-modern.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/cs/roomflip-outdoor-living-cs": {
       "experimentalBypassFor": [
         {
@@ -2321,6 +2345,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/[lang]/[slug]",
       "dataRoute": "/de/roomflip-living-room-redesign-de.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/de/roomflip-mid-century-modern": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/de/roomflip-mid-century-modern.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -3650,6 +3698,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/en/roomflip-mid-century-modern": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/en/roomflip-mid-century-modern.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/en/roomflip-outdoor-living-en": {
       "experimentalBypassFor": [
         {
@@ -4937,6 +5009,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/[lang]/[slug]",
       "dataRoute": "/es/roomflip-living-room-redesign-es.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/es/roomflip-mid-century-modern": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/es/roomflip-mid-century-modern.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -6266,6 +6362,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/fr/roomflip-mid-century-modern": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/fr/roomflip-mid-century-modern.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/fr/roomflip-outdoor-living-fr": {
       "experimentalBypassFor": [
         {
@@ -7577,6 +7697,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/[lang]/[slug]",
       "dataRoute": "/pl/roomflip-living-room-redesign-pl.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/pl/roomflip-mid-century-modern": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/pl/roomflip-mid-century-modern.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -8940,6 +9084,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/zh/roomflip-mid-century-modern": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/zh/roomflip-mid-century-modern.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/zh/roomflip-outdoor-living-zh": {
       "experimentalBypassFor": [
         {
@@ -9457,8 +9625,8 @@
   },
   "notFoundRoutes": [],
   "preview": {
-    "previewModeId": "4b7031881c8b37ba3bf6582f4be9a10e",
-    "previewModeSigningKey": "d901c63ae919a734fdf30109346062bc0d03d893771eb3f312651f7068e9ea39",
-    "previewModeEncryptionKey": "69ec5e6aa270fe1bcb6d9b80655d7e9f82f7d0c131d03b299d7f8ad2e450e7bc"
+    "previewModeId": "a44ad373514c52ef09796b65a80b9e1e",
+    "previewModeSigningKey": "bf21aa374850fbdb57469209423bc812b5b50d4b90e27880843209e15a5a99f9",
+    "previewModeEncryptionKey": "956474728a1488fc73f824a3f9c5e4aba74ff9a02aa5fd37c81f0f17fa4ddb24"
   }
 }
