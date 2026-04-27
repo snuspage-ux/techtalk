@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-student-productivity-zh",
+  "lang": "zh",
+  "title": "FileTools 学生版：终极学术伴侣",
+  "description": "学生如何使用 FileTools.eu 进行 PDF 编辑、图片转换、文档合并等操作 — 全部在浏览器中免费完成。",
+  "excerpt": "从论文格式到作品集制作 — FileTools 是每个学生都需要的免费在线工具箱。",
+  "content": "学生每个学期都要处理几十种文件格式。DOCX 格式的论文、PPTX 格式的演示文稿、JPG 格式的手写笔记、PDF 格式的研究论文。让它们协同工作是一件既耗时又费力的头疼事。\n\n这时候就需要 [FileTools](https://filetools.eu) 了。这是一个完全在浏览器中运行的免费在线文件转换器。无需安装，无需注册，没有任何隐藏费用。\n\n## 为什么学生喜欢 FileTools\n\n**PDF 转 Word** — 校园里最受欢迎的功能。将课件幻灯片、扫描讲义或整本教科书从 PDF 转换为可编辑的 DOCX 格式。非常适合在自己的论文中进行标注、总结或引用。\n\n**JPG 转 PDF** — 需要将手写作业作为一个 PDF 提交？拖入照片，排序，导出。十秒钟搞定。\n\n**图片压缩** — 作品集提交通常有文件大小限制。压缩 JPEG、PNG 或 WebP 格式的图片，且不会造成明显的质量损失。你的作品看起来很棒，同时还能满足大小要求。\n\n**合并 PDF** — 研究项目意味着多个源文件。在提交前将它们合并成一个整洁的文档。\n\n## 隐藏的宝藏：OCR\n\n扫描文档是不可搜索的 — 除非你使用 OCR。[FileTools](https://filetools.eu) 可以自动从图片和扫描版 PDF 中提取文字。这意味着你可以复制引用、搜索笔记，并与文字而不是静态图片进行交互。\n\n## 超越基础\n\n需要转换 iPhone 的 HEIC 照片？FileTools 可以处理。处理来自网络的 WebP 图片？没问题。一次批量转换多个文件？批量模式让你无需逐个点击每个文件。\n\n对于有创意的学生 — 艺术家、设计师、建筑师 — SVG 转换器和高品质导出选项让作品集准备变得轻而易举。\n\n## 校园生活技巧\n\n大多数在线转换器每天限制文件数量。[FileTools](https://filetools.eu) 没有这样的限制。没有每日上限，没有需要付费解锁基本功能的高级套餐。只是一个按承诺工作的直截了当的工具。\n\n无论你是正在学习 MLA 格式的大一新生，还是管理着 50 个来源的博士生 — 请把这个标签页收藏好。",
+  "category": "tools",
+  "tags": [
+    "学生",
+    "文件转换",
+    "效率",
+    "教育",
+    "免费工具"
+  ],
+  "publishedAt": "2026-04-27",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1523050854058-8df90110c7f1?w=800&q=80",
+  "imageAlt": "学生用笔记本电脑和笔记本学习",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "免费PDF转Word转换器",
+      "url": "https://filetools.eu/pdf-to-word"
+    }
+  ],
+  "related": [
+    "filetools-pdf-to-word-conversion",
+    "filetools-merge-pdfs",
+    "filetools-jpg-to-pdf"
+  ]
+}

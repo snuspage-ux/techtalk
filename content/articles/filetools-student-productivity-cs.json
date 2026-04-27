@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-student-productivity-cs",
+  "lang": "cs",
+  "title": "FileTools pro Studenty: Studentský Parťák do Každé Situace",
+  "description": "Jak mohou studenti používat FileTools.eu pro úpravy PDF, konverzi obrázků, spojování dokumentů a další — vše zdarma v prohlížeči.",
+  "excerpt": "Od formátování seminárek po tvorbu portfolia — FileTools je bezplatný online nástroj, který každý student ocení.",
+  "content": "Studenti řeší desítky formátů souborů každý semestr. Eseje jako DOCX, prezentace jako PPTX, naskenované poznámky jako JPG, výzkumné práce jako PDF. Skloubit je dohromady stojí čas a energii.\n\nTady přichází na řadu [FileTools](https://filetools.eu). Je to bezplatný online konvertor souborů, který běží přímo v prohlížeči. Žádná instalace, žádná registrace, žádné skryté poplatky.\n\n## Proč Studenti Milují FileTools\n\n**PDF do Wordu** — Nejoblíbenější funkce na kampusu. Převádějte přednáškové slajdy, naskenované materiály nebo celé učebnice z PDF do editovatelného DOCX. Ideální na anotování, shrnování nebo citování ve vlastních pracích.\n\n**JPG do PDF** — Potřebujete odevzdat ručně psaný úkol jako jedno PDF? Nahrajte fotky, seřaďte je a exportujte. Hotovo za deset vteřin.\n\n**Komprese obrázků** — Portfolia často mají limity na velikost souborů. Komprimujte JPEG, PNG nebo WebP bez viditelné ztráty kvality. Vaše práce vypadá skvěle a vejde se do limitu.\n\n**Spojování PDF** — Výzkumné projekty znamenají více zdrojových souborů. Spojte je do jednoho čistého dokumentu před odevzdáním.\n\n## Skrytý Klenot: OCR\n\nNaskenované dokumenty nejsou prohledávatelné — pokud nepoužijete OCR. [FileTools](https://filetools.eu) automaticky extrahuje text z obrázků a naskenovaných PDF. Můžete kopírovat citace, prohledávat poznámky a pracovat s textem místo statických obrázků.\n\n## Mimo Základy\n\nPotřebujete převést HEIC fotku z iPhonu? FileTools to zvládne. Pracujete s WebP obrázky z webu? Hotovo. Potřebujete dávkově převést víc souborů najednou? Dávkový režim vás ušetří klikání každý soubor zvlášť.\n\nPro kreativní studenty — umělce, designéry, architekty — SVG konvertor a možnosti exportu ve vysoké kvalitě dělají z přípravy portfolia hračku.\n\n## Kampusový Life Hack\n\nVětšina online konvertorů omezuje počet souborů denně. [FileTools](https://filetools.eu) ne. Žádné denní limity, žádný prémiový tier, který odemyká základní funkce. Prostě nástroj, který dělá to, co má.\n\nAť už jste prvák řešící formátování seminárky nebo doktorand se stovkami zdrojů — mějte tuto záložku vždy po ruce.",
+  "category": "tools",
+  "tags": [
+    "studenti",
+    "konverze souborů",
+    "produktivita",
+    "vzdělávání",
+    "bezplatné nástroje"
+  ],
+  "publishedAt": "2026-04-27",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1523050854058-8df90110c7f1?w=800&q=80",
+  "imageAlt": "Student studující s notebookem a sešity",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "Bezplatný PDF do Word konvertor",
+      "url": "https://filetools.eu/pdf-to-word"
+    }
+  ],
+  "related": [
+    "filetools-pdf-to-word-conversion",
+    "filetools-merge-pdfs",
+    "filetools-jpg-to-pdf"
+  ]
+}
