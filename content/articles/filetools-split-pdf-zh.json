@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-split-pdf-zh",
+  "lang": "zh",
+  "title": "将PDF拆分为单独页面 — 无需安装",
+  "description": "如何使用FileTools将PDF文件拆分为单个页面 — 免费、私密、在浏览器中即时完成。",
+  "excerpt": "每页一键操作。每页单独保存。无需应用程序，无需上传到可疑服务器。",
+  "content": "你有一个30页的PDF文件，只需要第7、12、24页作为单独文件，其他页可以稍后处理。\n\n大多数PDF编辑器把这件事变得很麻烦。Adobe需要订阅。免费工具把你的文档上传到服务器。两者都不靠谱。\n\n## 几秒完成拆分\n\n[FileTools](https://filetools.eu)的做法完全不同。将PDF拖拽到页面上，选择需要的页面，然后单独下载或打包成ZIP。一切在浏览器内完成。\n\n无需账户。无需安装。没有烦人的文件大小限制。\n\n## 文件从未离开你的设备\n\n所有操作通过WebAssembly在客户端运行。PDF从未触及任何服务器。关闭标签页，所有痕迹消失。\n\n这才是处理敏感文档的正确方式 — 合同、发票、医疗记录。[FileTools](https://filetools.eu)认真对待你的隐私，因为它本该如此。\n\n## 不止于拆分\n\n提取了页面，还需要合并到另一个PDF、转换为Word或压缩用于邮件？[FileTools](https://filetools.eu)全都能做，无需切换工具。\n\n就连[RoomFlip](https://roomflip.io)也遵循类似的理念 — 上传房间照片，得到重新设计的室内效果。没有废话，只有结果。\n\n## 总结\n\n拆分PDF本该很简单。有了[FileTools](https://filetools.eu)，它就是很简单。免费、快速，你的数据永远属于你。",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "拆分",
+    "文档工具",
+    "浏览器工具",
+    "隐私"
+  ],
+  "publishedAt": "2026-04-28",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1597075094535-1aec99234b9f?w=800&q=80",
+  "imageAlt": "PDF文档页面扇形展开在桌面上",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

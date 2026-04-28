@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-split-pdf-pl",
+  "lang": "pl",
+  "title": "Podziel PDF na osobne strony — bez instalacji",
+  "description": "Jak podzielić pliki PDF na pojedyncze strony za pomocą FileTools — za darmo, prywatnie i błyskawicznie w przeglądarce.",
+  "excerpt": "Jeden klik na stronę. Każda strona zapisana osobno. Żadnych aplikacji, żadnego wysyłania na podejrzane serwery.",
+  "content": "Masz 30-stronicowy PDF. Potrzebujesz stron 7, 12 i 24 jako osobnych plików. Reszta może poczekać.\n\nWiększość edytorów PDF robi z tego problem. Adobe wymaga subskrypcji. Darmowe narzędzia wysyłają twój dokument na serwer. Żadna opcja nie jest dobra.\n\n## Podziel w kilka sekund\n\n[FileTools](https://filetools.eu) robi to inaczej. Przeciągnij PDF na stronę, wybierz strony które chcesz i pobierz je pojedynczo lub jako ZIP. Wszystko w przeglądarce.\n\nBez konta. Bez instalacji. Bez irytujących limitów rozmiaru.\n\n## Twoje pliki nigdzie nie wędrują\n\nWszystko działa po stronie klienta dzięki WebAssembly. PDF nigdy nie trafia na serwer. Zamknij kartę, a każdy ślad znika.\n\nTak powinno się przetwarzać dokumenty z wrażliwymi danymi — umowy, faktury, dokumentację medyczną. [FileTools](https://filetools.eu) traktuje twoją prywatność poważnie.\n\n## Więcej niż dzielenie\n\nPotrzebujesz połączyć wyodrębnioną stronę z innym PDF, przekonwertować do Worda lub skompresować do maila? [FileTools](https://filetools.eu) robi wszystko bez przełączania narzędzi.\n\nNawet [RoomFlip](https://roomflip.io) działa na podobnej zasadzie — wgraj zdjęcie pokoju, otrzymaj przeprojektowane wnętrze. Bez owijania w bawełnę, tylko wyniki.\n\n## Podsumowanie\n\nDzielenie PDF powinno być banalne. Z [FileTools](https://filetools.eu) jest. Za darmo, szybko i twoje dane pozostają twoje.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "dzielenie",
+    "dokumenty",
+    "narzedzie-przegladarki",
+    "prywatnosc"
+  ],
+  "publishedAt": "2026-04-28",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1597075094535-1aec99234b9f?w=800&q=80",
+  "imageAlt": "Strony dokumentu PDF rozłożone wachlarzowo na biurku",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

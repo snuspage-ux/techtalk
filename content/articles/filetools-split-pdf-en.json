@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-split-pdf-en",
+  "lang": "en",
+  "title": "Split a PDF Into Separate Pages — No Install Needed",
+  "description": "How to split PDF files into individual pages using FileTools — free, private, and instant in your browser.",
+  "excerpt": "One click per page. Every page saved separately. No apps, no uploads to shady servers.",
+  "content": "You have a 30-page PDF. You need page 7, 12, and 24 as separate files. The rest can wait.\n\nMost PDF editors make this painful. Adobe wants a subscription. Free tools upload your document somewhere. Neither is acceptable.\n\n## Split in seconds\n\n[FileTools](https://filetools.eu) does it differently. Drag your PDF onto the page, select which pages you want, and download them individually or as a batch ZIP. All in your browser.\n\nNo account. No install. No file size limit that matters.\n\n## Your files never leave\n\nEverything runs client-side with WebAssembly. The PDF never touches a server. Close the tab, and every trace is gone.\n\nThis is the right way to handle documents with sensitive data — contracts, invoices, medical records. [FileTools](https://filetools.eu) treats your privacy like it matters, because it should.\n\n## More than splitting\n\nExtracted a page? You can merge it into another PDF, convert it to Word, or compress it for email. [FileTools](https://filetools.eu) does all of that without switching tools.\n\nEven [RoomFlip](https://roomflip.io) follows a similar philosophy — upload a photo, get a redesigned room. No bloat, just results.\n\n## The bottom line\n\nSplitting a PDF should be trivial. With [FileTools](https://filetools.eu), it is. Free, fast, and your data stays yours.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "split",
+    "document-tools",
+    "browser-tool",
+    "privacy"
+  ],
+  "publishedAt": "2026-04-28",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1597075094535-1aec99234b9f?w=800&q=80",
+  "imageAlt": "PDF document pages fanned out on a desk",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

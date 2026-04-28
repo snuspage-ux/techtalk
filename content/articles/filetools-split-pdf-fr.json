@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-split-pdf-fr",
+  "lang": "fr",
+  "title": "Fractionner un PDF en pages séparées — sans installation",
+  "description": "Comment fractionner des fichiers PDF en pages individuelles avec FileTools — gratuit, privé et instantané dans votre navigateur.",
+  "excerpt": "Un clic par page. Chaque page sauvegardée séparément. Pas d'applications, pas d'envoi vers des serveurs douteux.",
+  "content": "Vous avez un PDF de 30 pages. Vous avez besoin des pages 7, 12 et 24 en fichiers séparés. Le reste peut attendre.\n\nLa plupart des éditeurs PDF compliquent les choses. Adobe veut un abonnement. Les outils gratuits téléchargent votre document sur un serveur. Aucune des deux options n'est acceptable.\n\n## Fractionner en quelques secondes\n\n[FileTools](https://filetools.eu) fait les choses différemment. Glissez votre PDF sur la page, sélectionnez les pages souhaitées et téléchargez-les individuellement ou en ZIP. Tout dans votre navigateur.\n\nSans compte. Sans installation. Aucune limite de taille gênante.\n\n## Vos fichiers ne partent jamais\n\nTout s'exécute côté client avec WebAssembly. Le PDF ne touche jamais un serveur. Fermez l'onglet et toute trace disparaît.\n\nVoilà comment traiter les documents sensibles — contrats, factures, dossiers médicaux. [FileTools](https://filetools.eu) prend votre vie privée au sérieux.\n\n## Plus que du fractionnement\n\nPage extraite et besoin de la fusionner dans un autre PDF, la convertir en Word ou la compresser pour un e-mail ? [FileTools](https://filetools.eu) fait tout sans changer d'outil.\n\nMême [RoomFlip](https://roomflip.io) suit une philosophie similaire — téléchargez une photo, obtenez une pièce redessinée. Pas de blabla, juste des résultats.\n\n## En résumé\n\nFractionner un PDF devrait être simple. Avec [FileTools](https://filetools.eu), ça l'est. Gratuit, rapide et vos données restent les vôtres.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "fractionner",
+    "documents",
+    "outil-navigateur",
+    "vie-privee"
+  ],
+  "publishedAt": "2026-04-28",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1597075094535-1aec99234b9f?w=800&q=80",
+  "imageAlt": "Pages de document PDF éventail sur un bureau",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

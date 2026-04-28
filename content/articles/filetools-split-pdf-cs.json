@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-split-pdf-cs",
+  "lang": "cs",
+  "title": "Rozdělit PDF na jednotlivé stránky — bez instalace",
+  "description": "Jak rozdělit PDF soubory na jednotlivé stránky pomocí FileTools — zdarma, soukromě a okamžitě v prohlížeči.",
+  "excerpt": "Jedno kliknutí na stránku. Každá stránka uložená zvlášť. Žádné aplikace, žádné nahrávání na podezřelé servery.",
+  "content": "Máte 30stránkové PDF. Potřebujete strany 7, 12 a 24 jako samostatné soubory. Zbytek může počkat.\n\nVětšina PDF editorů z toho dělá drama. Adobe chce předplatné. Free nástroje nahrávají dokument na server. Ani jedno není řešení.\n\n## Rozdělení za pár vteřin\n\n[FileTools](https://filetools.eu) to dělá jinak. Přetáhněte PDF na stránku, vyberte které stránky chcete, a stáhněte je jednotlivě nebo jako ZIP. Vše v prohlížeči.\n\nBez účtu. Bez instalace. Bez limitu na velikost souboru.\n\n## Soubory nikam neodchází\n\nVše běží klientsky přes WebAssembly. PDF se nikdy nedotkne serveru. Zavřete tab a každá stopa je pryč.\n\nTakhle se mají zpracovávat dokumenty s citlivými daty — smlouvy, faktury, zdravotní záznamy. [FileTools](https://filetools.eu) bere vaše soukromí vážně.\n\n## Víc než jen dělení\n\nPotřebujete extrahovanou stránku sloučit s jiným PDF, převést do Wordu nebo zkomprimovat? [FileTools](https://filetools.eu) zvládne všechno bez přepínání nástrojů.\n\nDokonce i [RoomFlip](https://roomflip.io) funguje na podobném principu — nahrajete fotku místnosti, dostanete přepracovaný interiér. Žádná vata, jen výsledky.\n\n## Závěr\n\nRozdělení PDF by mělo být triviální. S [FileTools](https://filetools.eu) je. Zdarma, rychle a vaše data zůstávají vaše.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "split",
+    "dokumenty",
+    "nastroj-prohlizece",
+    "soukromi"
+  ],
+  "publishedAt": "2026-04-28",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1597075094535-1aec99234b9f?w=800&q=80",
+  "imageAlt": "Stránky PDF dokumentu rozložené na stole",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

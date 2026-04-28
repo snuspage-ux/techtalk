@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-split-pdf-de",
+  "lang": "de",
+  "title": "PDF in einzelne Seiten aufteilen — ohne Installation",
+  "description": "Wie Sie PDF-Dateien mit FileTools in einzelne Seiten aufteilen — kostenlos, privat und sofort im Browser.",
+  "excerpt": "Ein Klick pro Seite. Jede Seite separat gespeichert. Keine Apps, kein Hochladen auf dubiose Server.",
+  "content": "Sie haben ein 30-seitiges PDF und brauchen nur Seite 7, 12 und 24 als separate Dateien. Der Rest kann warten.\n\nDie meisten PDF-Editoren machen das unnötig kompliziert. Adobe verlangt ein Abo. Kostenlose Tools laden Ihre Datei auf einen Server. Keine gute Lösung.\n\n## Aufteilen in Sekunden\n\n[FileTools](https://filetools.eu) macht es anders. Ziehen Sie Ihr PDF auf die Seite, wählen Sie die gewünschten Seiten aus und laden Sie sie einzeln oder als ZIP herunter. Direkt im Browser.\n\nOhne Konto. Ohne Installation. Kein nerviges Dateigrößen-Limit.\n\n## Ihre Dateien verlassen nie Ihren Rechner\n\nAlles läuft clientseitig mit WebAssembly. Das PDF berührt nie einen Server. Schließen Sie den Tab, und jede Spur ist verschwunden.\n\nSo sollten vertrauliche Dokumente verarbeitet werden — Verträge, Rechnungen, medizinische Unterlagen. [FileTools](https://filetools.eu) nimmt Privatsphäre ernst.\n\n## Mehr als nur aufteilen\n\nEine Seite extrahiert und brauchen sie in einem anderen PDF, als Word-Datei oder komprimiert für E-Mail? [FileTools](https://filetools.eu) erledigt alles ohne Tool-Wechsel.\n\nAuch [RoomFlip](https://roomflip.io) folgt dem gleichen Prinzip — Foto hochladen, umgestalteten Raum erhalten. Kein Overhead, nur Ergebnisse.\n\n## Fazit\n\nPDFs aufzuteilen sollte simpel sein. Mit [FileTools](https://filetools.eu) ist es das. Kostenlos, schnell und Ihre Daten bleiben Ihre Daten.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "aufteilen",
+    "dokumente",
+    "browser-tool",
+    "datenschutz"
+  ],
+  "publishedAt": "2026-04-28",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1597075094535-1aec99234b9f?w=800&q=80",
+  "imageAlt": "PDF-Dokumentseiten gefächert auf einem Schreibtisch",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

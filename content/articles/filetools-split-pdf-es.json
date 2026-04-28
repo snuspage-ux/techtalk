@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-split-pdf-es",
+  "lang": "es",
+  "title": "Dividir un PDF en páginas separadas — sin instalar nada",
+  "description": "Cómo dividir archivos PDF en páginas individuales con FileTools — gratis, privado e instantáneo en tu navegador.",
+  "excerpt": "Un clic por página. Cada página guardada por separado. Sin apps, sin subidas a servidores sospechosos.",
+  "content": "Tienes un PDF de 30 páginas. Necesitas las páginas 7, 12 y 24 como archivos separados. El resto puede esperar.\n\nLa mayoría de los editores PDF lo complican. Adobe quiere una suscripción. Las herramientas gratuitas suben tu documento a un servidor. Ninguna opción vale la pena.\n\n## Divide en segundos\n\n[FileTools](https://filetools.eu) lo hace diferente. Arrastra tu PDF a la página, selecciona las páginas que quieras y descárgalas individualmente o como ZIP. Todo en tu navegador.\n\nSin cuenta. Sin instalación. Sin límites de tamaño molestos.\n\n## Tus archivos nunca se van\n\nTodo funciona del lado del cliente con WebAssembly. El PDF nunca toca un servidor. Cierra la pestaña y todo rastro desaparece.\n\nAsí es como se deben manejar los documentos sensibles — contratos, facturas, historiales médicos. [FileTools](https://filetools.eu) toma tu privacidad en serio.\n\n## Más que dividir\n\n¿Necesitas fusionar una página extraída con otro PDF, convertirla a Word o comprimirla para email? [FileTools](https://filetools.eu) lo hace todo sin cambiar de herramienta.\n\nIncluso [RoomFlip](https://roomflip.io) sigue una filosofía parecida — sube una foto, obtén una habitación rediseñada. Sin relleno, solo resultados.\n\n## Conclusión\n\nDividir un PDF debería ser trivial. Con [FileTools](https://filetools.eu) lo es. Gratis, rápido y tus datos se quedan contigo.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "dividir",
+    "documentos",
+    "herramienta-navegador",
+    "privacidad"
+  ],
+  "publishedAt": "2026-04-28",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1597075094535-1aec99234b9f?w=800&q=80",
+  "imageAlt": "Páginas de documento PDF abiertas en abanico sobre un escritorio",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}
