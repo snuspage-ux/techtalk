@@ -1034,6 +1034,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/cs/roomflip-industrial-interior-design": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/cs/roomflip-industrial-interior-design.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/cs/roomflip-kids-room-cs": {
       "experimentalBypassFor": [
         {
@@ -2441,6 +2465,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/[lang]/[slug]",
       "dataRoute": "/de/roomflip-home-office-de.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/de/roomflip-industrial-interior-design": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/de/roomflip-industrial-interior-design.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -3890,6 +3938,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/en/roomflip-industrial-interior-design": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/en/roomflip-industrial-interior-design.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/en/roomflip-kids-room-en": {
       "experimentalBypassFor": [
         {
@@ -5297,6 +5369,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/[lang]/[slug]",
       "dataRoute": "/es/roomflip-home-office-es.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/es/roomflip-industrial-interior-design": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/es/roomflip-industrial-interior-design.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -6746,6 +6842,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/fr/roomflip-industrial-interior-design": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/fr/roomflip-industrial-interior-design.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/fr/roomflip-kids-room-fr": {
       "experimentalBypassFor": [
         {
@@ -8153,6 +8273,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/[lang]/[slug]",
       "dataRoute": "/pl/roomflip-home-office-pl.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/pl/roomflip-industrial-interior-design": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/pl/roomflip-industrial-interior-design.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -9651,6 +9795,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/[lang]/[slug]",
       "dataRoute": "/zh/roomflip-home-office-zh.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/zh/roomflip-industrial-interior-design": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/zh/roomflip-industrial-interior-design.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
