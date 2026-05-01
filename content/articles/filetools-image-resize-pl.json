@@ -1,0 +1,30 @@
+{
+  "slug": "filetools-image-resize-pl",
+  "lang": "pl",
+  "title": "Zmniejsz obrazy online bez utraty jakości",
+  "description": "Jak za darmo zmienić rozmiar zdjęć JPG, PNG i WebP bezpośrednio w przeglądarce. Bez wysyłania. Bez utraty jakości.",
+  "excerpt": "Przestań wysyłać zdjęcia do przypadkowych serwisów. [FileTools](https://filetools.eu) zmienia rozmiar obrazów lokalnie w przeglądarce — szybko, prywatnie i bezstratnie.",
+  "content": "Masz zdjęcie o rozmiarze 8 MB i rozdzielczości 6000×4000 pikseli. Potrzebujesz je zmniejszyć do 1200×800 na stronę. Co robisz?\n\nWiększość osób ładuje je do jakiegoś przypadkowego narzędzia online. Obraz jest kompresowany dwukrotnie. Jakość spada. A Twoje zdjęcie leży teraz na cudzym serwerze.\n\nFileTools robi to inaczej.\n\n## Zmiana rozmiaru bez ponownej kompresji\n\nW przeciwieństwie do edytorów mobilnych, które ponownie kompresują każdy piksel, [FileTools](https://filetools.eu) pozwala ustawić dokładne wymiary w pikselach, milimetrach lub calach. Algorytm zachowuje maksimum oryginalnych danych podczas skalowania.\n\nSam kontrolujesz jakość wyjścia suwakiem — 80–95 % daje idealną równowagę między rozmiarem pliku a wiernością wizualną. Przy 90 % większość zdjęć wygląda identycznie jak oryginał nawet przy 50 % przybliżeniu.\n\n## Formaty, które naprawdę mają znaczenie\n\n| Format | Zastosowanie | Najlepsze ustawienie jakości |\n|--------|-------------|-----------------------------|\n| JPG | Zdjęcia, złożone gradienty | 85–95 % |\n| PNG | Zrzuty ekranu, grafika z tekstem | Bezstratny (PNG-24) |\n| WebP | Nowoczesne strony, szybsze ładowanie | 80–90 % |\n| GIF | Proste animacje | Zachować liczbę klatek |\n\nNarzędzie automatycznie wykrywa format wejściowy i sugeruje najlepsze ustawienia wyjściowe. Możesz zmieniać rozmiar 20+ obrazów jednocześnie — idealne dla zdjęć produktowych e-commerce lub galerii blogowych.\n\n## Blokada proporcji\n\nTu większość narzędzi zawodzą. Wprowadzasz 1200×800, ale oryginał ma proporcje 3:2, nie 3:2 przycięte. Rezultat? Rozciągnięte twarze i zniekształcone loga.\n\nFileTools domyślnie blokuje proporcje. Możesz wybrać:\n\n- **Fit** — skaluje, aby zmieścić się w wymiarach, dodaje pasy w razie potrzeby\n- **Fill** — pokrywa cały obszar, przycina krawędzie\n- **Exact** — rozciąga do dokładnych wymiarów (rzadko chcesz)\n- **Custom** — pełna ręczna kontrola\n\nPotrzebujesz, aby cały Twój zespół używał tych samych zasad przycinania? Profil niestandardowy zapamiętuje ustawienia pomiędzy sesjami.\n\n## Prywatność przede wszystkim — wszystko zostaje lokalnie\n\n[FileTools](https://filetools.eu) przetwarza każdy obraz w Twojej przeglądarce za pomocą WebAssembly. Żadne pliki nie są wysyłane na serwery. Żadne kopie nie pozostają na zdalnych maszynach. Zdjęcia produktowe Twoich klientów, wakacyjne ujęcia, grafika prezentacyjna — nic nie opuszcza Twojego komputera.\n\nSzczególnie przydatne dla:\n- **Projektantów** pracujących z materiałami klientów objętymi NDA\n- **Fotografów** przygotowujących eksport na strony\n- **Zespołów e-commerce** z własnymi zdjęciami produktowymi\n\n## Kiedy jakość naprawdę ma znaczenie\n\nZmiana rozmiaru wydaje się prosta, dopóki nie przybliżysz. Zły wynik tworzy artefakty — postrzępione krawędzie tekstu, wzory mory na tkaninach, pasy w gradientach.\n\nFileTools domyślnie używa resamplingu Lanczos (złoty standard skalowania w dół). Przy powiększaniu (niezalecane, ale możliwe) używana jest interpolacja dwusześcienna z wyostrzaniem.\n\nNa zrzutach ekranu z tekstem różnicę widać od razu. Krawędzie pozostają ostre. Czcionki nie zamieniają się w papkę.\n\n## Gotów spróbować?\n\nNastępnym razem, gdy będziesz potrzebować zmienić rozmiar obrazu, pomiń cykl wysyłania i czekania. Wejdź na [FileTools](https://filetools.eu) i przeciągnij swoje pliki. Zmienione obrazy będziesz mieć w kilka sekund — i nie trafią do niczyjego zestawu treningowego.\",",
+  "category": "tools",
+  "tags": [
+    "zmiana rozmiaru obrazów",
+    "konwersja plików",
+    "optymalizacja stron",
+    "prywatność"
+  ],
+  "publishedAt": "2026-05-01",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800&q=80",
+  "imageAlt": "Interfejs zmiany rozmiaru z podglądem przed i po",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-webp-png-workflow-pl",
+    "filetools-compress-files-online-pl",
+    "filetools-jpg-to-pdf-pl"
+  ]
+}

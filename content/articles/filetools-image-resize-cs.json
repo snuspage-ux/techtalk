@@ -1,0 +1,30 @@
+{
+  "slug": "filetools-image-resize-cs",
+  "lang": "cs",
+  "title": "Změňte velikost obrázků online bez ztráty kvality",
+  "description": "Jak zdarma změnit rozlišení JPG, PNG a WebP fotek přímo v prohlížeči. Bez nahrávání na servery. Bez ztráty kvality.",
+  "excerpt": "Přestaňte nahrávat fotky na náhodné služby. [FileTools](https://filetools.eu) zvládne změnu velikosti přímo ve vašem prohlížeči — rychle, bezpečně a bezeztrátově.",
+  "content": "Máte fotku o velikosti 8 MB a rozlišení 6000×4000 pixelů. Potřebujete ji zmenšit na 1200×800 pro web. Co uděláte?\n\nVětšina lidí nahraje fotku na nějaký online nástroj. Obrázek se dvakrát zkomprimuje. Kvalita klesne. A fotka teď leží na cizím serveru.\n\nFileTools to dělá jinak.\n\n## Změna velikosti bez překomprimování\n\nNa rozdíl od mobilních editorů, které znovu komprimují každý pixel, [FileTools](https://filetools.eu) umožňuje zadat přesné rozměry v pixelech, milimetrech nebo palcích. Algoritmus zachovává maximum původních dat při zmenšování.\n\nSami si nastavíte jezdcem výstupní kvalitu — 80–95 % dává perfektní poměr mezi velikostí souboru a vizuální věrností. Při 90 % většina fotek vypadá stejně jako originál i při 50% přiblížení.\n\n## Formáty, které opravdu potřebujete\n\n| Formát | Použití | Nejlepší nastavení kvality |\n|---------|-----------|--------------------------|\n| JPG | Fotky, složité přechody | 85–95 % |\n| PNG | Screenshoty, grafika s textem | Bezeztrátový (PNG-24) |\n| WebP | Moderní web, rychlejší načítání | 80–90 % |\n| GIF | Jednoduché animace | Ponechat počet snímků |\n\nNástroj automaticky detekuje vstupní formát a navrhne nejlepší výstupní nastavení. Zvládnete dávkově změnit velikost 20+ obrázků najednou — ideální pro e-shopové produktové fotky nebo galerie na blog.\n\n## Zamykání poměru stran\n\nTady většina nástrojů selhává. Zadáte 1200×800, ale originál má poměr 3:2, ne 3:2 oříznutý. Výsledek? Natažené obličeje a deformovaná loga.\n\nFileTools zamyká poměr stran automaticky. Na výběr máte:\n\n- **Fit** — zmenší tak, aby se vešlo do vašich rozměrů, případně doplní pruhy\n- **Fill** — pokryje celou plochu, ořeže okraje\n- **Exact** — natáhne na přesné rozměry (málokdy chcete)\n- **Custom** — úplná ruční kontrola\n\nPotřebuje celý váš tým používat stejná pravidla ořezu? Vlastní profil si uloží předvolby napříč relacemi.\n\n## Soukromí především — vše zůstává lokálně\n\n[FileTools](https://filetools.eu) zpracovává každý obrázek ve vašem prohlížeči pomocí WebAssembly. Žádné soubory se nenahrávají. Žádné kopie nezůstávají na vzdálených serverech. Produktové fotky vašich klientů, dovolenkové snímky, prezentační grafika — nic neopustí váš počítač.\n\nTo se hodí především pro:\n- **Designéry** pracující s materiály klientů pod NDA\n- **Fotografy** připravující export pro web\n- **E-shopy** s vlastními produktovými obrázky\n\n## Když na kvalitě záleží\n\nZměna velikosti vypadá jednoduše, dokud si nepőiblížíte. Špatný výsledek dává artefakty — zubaté okraje u textu, moiré vzory na textiliích, pruhování v přechodech.\n\nFileTools standardně používá Lanczos resampling (zlatý standard pro zmenšování). Pokud zvětšujete (nedoporučuje se, ale je to možné), použije se bikubická interpolace s doostřením.\n\nU screenshotů s textem rozdíl poznáte okamžitě. Okraje zůstávají ostré. Písmo se nerozmazává.\n\n## Chcete to zkusit?\n\nAž budete př\u000161tě potřebovat změnit velikost obrázku, přeskočte cyklus nahrávání a čekání. Jděte na [FileTools](https://filetools.eu) a přetáhněte soubory dovnitř. Zmenšené obrázky máte za pár vteřin — a neskončí v čímkoliv trénovacím datasetu.\",",
+  "category": "tools",
+  "tags": [
+    "změna velikosti obrázků",
+    "konverze souborů",
+    "optimalizace webu",
+    "soukromí"
+  ],
+  "publishedAt": "2026-05-01",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800&q=80",
+  "imageAlt": "Rozhraní pro změnu velikosti s náhledem před a po",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-webp-png-workflow-cs",
+    "filetools-compress-files-online-cs",
+    "filetools-jpg-to-pdf-cs"
+  ]
+}

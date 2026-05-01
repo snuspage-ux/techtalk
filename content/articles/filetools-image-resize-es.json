@@ -1,0 +1,30 @@
+{
+  "slug": "filetools-image-resize-es",
+  "lang": "es",
+  "title": "Redimensiona imágenes online sin perder calidad",
+  "description": "Cómo cambiar el tamaño de imágenes JPG, PNG y WebP gratis, directamente en tu navegador. Sin subidas. Sin pérdida de calidad.",
+  "excerpt": "Deja de subir tus fotos a servicios aleatorios. [FileTools](https://filetools.eu) redimensiona imágenes localmente en tu navegador — rápido, privado y sin pérdidas.",
+  "content": "Tienes una foto de 8 MB y 6000×4000 píxeles. La necesitas a 1200×800 para una web. ¿Qué haces?\n\nLa mayoría la sube a alguna herramienta online aleatoria. La imagen se comprime dos veces. La calidad baja. Y tu foto ahora está en el servidor de otro.\n\nFileTools lo hace diferente.\n\n## Redimensionar sin recomprimir\n\nA diferencia de los editores móviles que recomprimen cada píxel, [FileTools](https://filetools.eu) te permite elegir dimensiones exactas en píxeles, milímetros o pulgadas. El algoritmo conserva el máximo de datos originales al reducir.\n\nControlas la calidad de salida con un deslizador — 80–95 % dan el equilibrio perfecto entre tamaño de archivo y fidelidad visual. Al 90 %, la mayoría de las fotos se ven idénticas al original incluso al 50 % de zoom.\n\n## Formatos que realmente importan\n\n| Formato | Uso | Mejor ajuste de calidad |\n|---------|-----|------------------------|\n| JPG | Fotos, degradados complejos | 85–95 % |\n| PNG | Capturas de pantalla, gráficos con texto | Sin pérdida (PNG-24) |\n| WebP | Web moderna, carga más rápida | 80–90 % |\n| GIF | Animaciones simples | Mantener número de fotogramas |\n\nLa herramienta detecta el formato de entrada automáticamente y sugiere la mejor configuración de salida. Puedes redimensionar 20+ imágenes a la vez — perfecto para fotos de productos e-commerce o galerías de blog.\n\n## Bloqueo de relación de aspecto\n\nAquí fallan la mayoría de herramientas. Pones 1200×800 pero tu original es 3:2, no 3:2 recortado. ¿Resultado? Caras estiradas y logos deformados.\n\nFileTools bloquea la relación de aspecto por defecto. Puedes elegir entre:\n\n- **Fit** — escala para que quepa, añadiendo bandas si es necesario\n- **Fill** — cubre toda el área, recortando bordes\n- **Exact** — estira a las dimensiones exactas (rara vez lo quieres)\n- **Custom** — control manual completo\n\n¿Todo tu equipo necesita usar las mismas reglas de recorte? El perfil personalizado recuerda tus ajustes entre sesiones.\n\n## Privacidad primero — todo queda local\n\n[FileTools](https://filetools.eu) procesa cada imagen en tu navegador usando WebAssembly. Ningún archivo se sube a servidores. Ninguna copia queda en máquinas remotas. Fotos de productos de tus clientes, instantáneas de vacaciones, gráficos de presentación — nada sale de tu ordenador.\n\nEspecialmente útil para:\n- **Diseñadores** manejando activos de clientes bajo NDA\n- **Fotógrafos** preparando exportaciones web\n- **Equipos de e-commerce** con imágenes de productos propias\n\n## Cuando la calidad realmente importa\n\nRedimensionar parece fácil hasta que haces zoom. Un mal resultado produce artefactos: bordes dentados en texto, patrones muaré en telas, bandas en degradados.\n\nFileTools usa remuestreo Lanczos (el estándar de oro para reducción) por defecto. Si amplías (no recomendado, pero posible), usa interpolación bicúbica con enfoque.\n\nEn capturas de pantalla con texto la diferencia es inmediata. Los bordes se mantienen nítidos. Las fuentes no se convierten en pasta.\n\n## ¿Listo para probar?\n\nLa próxima vez que necesites redimensionar una imagen, sáltate el ciclo de subir y esperar. Ve a [FileTools](https://filetools.eu) y arrastra tus archivos. Tendrás tus imágenes redimensionadas en segundos — y no acabarán en algún dataset de entrenamiento.\",",
+  "category": "tools",
+  "tags": [
+    "redimensionar imágenes",
+    "conversión de archivos",
+    "optimización web",
+    "privacidad"
+  ],
+  "publishedAt": "2026-05-01",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800&q=80",
+  "imageAlt": "Interfaz de redimensionamiento con vista previa antes y después",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-webp-png-workflow-es",
+    "filetools-compress-files-online-es",
+    "filetools-jpg-to-pdf-es"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "filetools-image-resize-en",
+  "lang": "en",
+  "title": "Resize Images Online Without Losing Quality",
+  "description": "How to resize JPG, PNG, and WebP images for free — right in your browser. No uploads. No quality loss.",
+  "excerpt": "Stop uploading your photos to random services. Here’s how [FileTools](https://filetools.eu) handles image resizing locally in your browser — fast, private, and lossless.",
+  "content": "You have a photo that’s 8MB and 6000×4000 pixels. You need it at 1200×800 for a website. What do you do?\n\nMost people upload to some random online tool. The image gets compressed twice. Quality drops. And now your photo is sitting on someone else’s server.\n\nFileTools does it differently.\n\n## Resize Without Re-encoding\n\nUnlike mobile photo editors that re-compress every pixel, [FileTools](https://filetools.eu) lets you pick exact dimensions in pixels, millimeters, or inches. The algorithm preserves as much original data as possible while scaling down.\n\nYou control the output quality slider too — 80–95% gives you a perfect balance between file size and visual fidelity. At 90% most photos look identical to the original even at 50% zoom.\n\n## Formats That Actually Matter\n\n| Format | Use Case | Best Quality Setting |\n|--------|----------|---------------------|\n| JPG | Photos, complex gradients | 85–95% |\n| PNG | Screenshots, graphics with text | Lossless (PNG-24) |\n| WebP | Modern web, faster loading | 80–90% |\n| GIF | Simple animations | Keep original frame count |\n\nThe tool detects the input format automatically and suggests the best output settings. You can also batch-resize 20+ images at once — perfect for e-commerce product photos or blog galleries.\n\n## Aspect Ratio Locking\n\nThis is where most tools fail. You enter 1200×800 but your original is 3:2, not 3:2 cropped. The result? Stretched faces and distorted logos.\n\nFileTools locks the aspect ratio by default. You choose between:\n\n- **Fit** — scales to fit within your dimensions, adding letterbox bars if needed\n- **Fill** — covers the entire dimension, cropping edges\n- **Exact** — stretches to match (rarely what you want)\n- **Custom** — full manual control\n\nNeed your entire team to use the same cropping rules? The custom profile remembers your presets across sessions.\n\n## Privacy First — Everything Stays Local\n\n[FileTools](https://filetools.eu) processes every image in your browser using WebAssembly. No files are uploaded. No copies linger on remote servers. Your client’s product photos, your vacation shots, your presentation graphics — none of it leaves your machine.\n\nThis is especially useful for:\n- **Designers** handling client assets under NDA\n- **Photographers** previewing web-ready exports\n- **E-commerce teams** with proprietary product images\n\n## When Quality Actually Matters\n\nResizing seems simple until you zoom in. A bad resize introduces artifacts — jagged edges on text, moiré patterns on fabrics, banding in gradients.\n\nFileTools uses Lanczos resampling (the gold standard for downscaling) by default. If you’re resizing up (not recommended, but possible), it falls back to bicubic interpolation with sharpening.\n\nFor screenshots with text you’ll notice the difference immediately. Edges stay crisp. Font rendering doesn’t turn to mush.\n\n## Ready to Try?\n\nNext time you need to resize an image, skip the upload-and-wait cycle. Head to [FileTools](https://filetools.eu) and drag your files in. You’ll have your resized images in seconds — and they won’t end up in some stranger’s training dataset.\",",
+  "category": "tools",
+  "tags": [
+    "image resizing",
+    "file conversion",
+    "web optimization",
+    "privacy"
+  ],
+  "publishedAt": "2026-05-01",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800&q=80",
+  "imageAlt": "Photo resizing interface showing before and after preview",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-webp-png-workflow-en",
+    "filetools-compress-files-online-en",
+    "filetools-jpg-to-pdf-en"
+  ]
+}

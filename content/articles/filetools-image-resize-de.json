@@ -1,0 +1,30 @@
+{
+  "slug": "filetools-image-resize-de",
+  "lang": "de",
+  "title": "Bilder online verkleinern ohne Qualitätsverlust",
+  "description": "So ändern Sie die Größe von JPG-, PNG- und WebP-Bildern kostenlos direkt im Browser. Ohne Upload. Ohne Qualitätseinbußen.",
+  "excerpt": "Hören Sie auf, Ihre Fotos auf zufällige Dienste hochzuladen. [FileTools](https://filetools.eu) verarbeitet Bildgrößenänderungen lokal im Browser — schnell, privat und verlustfrei.",
+  "content": "Sie haben ein Foto mit 8 MB und 6000×4000 Pixeln. Sie brauchen es mit 1200×800 für eine Website. Was tun?\n\nDie meisten laden es irgendwo hoch. Das Bild wird zweimal komprimiert. Die Qualität leidet. Und Ihr Foto liegt jetzt auf einem fremden Server.\n\nFileTools macht es anders.\n\n## Verkleinern ohne Neu-Komprimierung\n\nAnders als mobile Editoren, die jedes Pixel neu komprimieren, erlaubt [FileTools](https://filetools.eu) genaue Abmessungen in Pixeln, Millimetern oder Zoll. Der Algorithmus bewahrt so viele Originaldaten wie möglich.\n\nSie steuern die Ausgabequalität mit einem Schieberegler — 80–95 % geben die perfekte Balance zwischen Dateigröße und Bildtreue. Bei 90 % sehen die meisten Fotos selbst bei 50-fachem Zoom identisch zum Original aus.\n\n## Formate, die wirklich zählen\n\n| Format | Verwendung | Beste Qualitätseinstellung |\n|--------|-----------|---------------------------|\n| JPG | Fotos, komplexe Farbverläufe | 85–95 % |\n| PNG | Screenshots, Grafik mit Text | Verlustfrei (PNG-24) |\n| WebP | Modernes Web, schnelleres Laden | 80–90 % |\n| GIF | Einfache Animationen | Original-Bildanzahl behalten |\n\nDas Werkzeug erkennt das Eingabeformat automatisch und schlägt die besten Ausgabeeinstellungen vor. Sie können 20+ Bilder gleichzeitig verarbeiten — perfekt für Produktfotos im E-Commerce oder Blog-Galerien.\n\n## Seitenverhältnis automatisch fixieren\n\nHier scheitern die meisten Tools. Sie geben 1200×800 ein, aber Ihr Original hat 3:2, nicht 3:2 beschnitten. Das Ergebnis? Gestreckte Gesichter und verzerrte Logos.\n\nFileTools fixiert das Seitenverhältnis standardmäßig. Sie wählen zwischen:\n\n- **Fit** — skaliert in die gewünschten Maße, fügt ggf. Balken hinzu\n- **Fill** — bedeckt die ganze Fläche, beschneidet Ränder\n- **Exact** — streckt auf genaue Maße (selten sinnvoll)\n- **Custom** — volle manuelle Kontrolle\n\nMöchte Ihr ganzes Team dieselben Zuschnittregeln nutzen? Ein benutzerdefiniertes Profil speichert Ihre Einstellungen gerateübergreifend.\n\n## Datenschutz zuerst — alles bleibt lokal\n\n[FileTools](https://filetools.eu) verarbeitet jedes Bild in Ihrem Browser mit WebAssembly. Keine Dateien werden hochgeladen. Keine Kopien verbleiben auf entfernten Servern. Produktfotos Ihrer Kunden, Urlaubsbilder, Präsentationsgrafiken — nichts verlässt Ihren Rechner.\n\nBesonders nützlich für:\n- **Designer**, die mit vertraulichen Kundenmaterialien arbeiten\n- **Fotografen**, die Web-Exports vorbereiten\n- **E-Commerce-Teams** mit eigenen Produktbildern\n\n## Wenn Qualität wirklich zählt\n\nBildverkleinerung scheint einfach — bis man reinzoomt. Schlechte Ergebnisse erzeugen Artefakte: gezackte Kanten bei Text, Moiré-Muster auf Stoffen, Streifen in Farbverläufen.\n\nFileTools verwendet standardmäßig Lanczos-Resampling (der Goldstandard für Downscaling). Beim Vergrößern (nicht empfohlen, aber möglich) wird bikubische Interpolation mit Schärfung genutzt.\n\nBei Screenshots mit Text merken Sie den Unterschied sofort. Kanten bleiben scharf. Schrift wird nicht matschig.\n\n## Bereit zum Ausprobieren?\n\nWenn Sie nächstes Mal ein Bild verkleinern müssen, überspringen Sie den Upload-und-Warten-Zyklus. Gehen Sie zu [FileTools](https://filetools.eu) und ziehen Sie Ihre Dateien hinein. Sie haben Ihre verkleinerten Bilder in Sekunden — und sie landen nicht in irgendeinem Trainingsdatensatz.\",",
+  "category": "tools",
+  "tags": [
+    "Bildgröße ändern",
+    "Dateikonvertierung",
+    "Web-Optimierung",
+    "Datenschutz"
+  ],
+  "publishedAt": "2026-05-01",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800&q=80",
+  "imageAlt": "Bildverkleinerungsoberfläche mit Vorher-Nachher-Vorschau",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-webp-png-workflow-de",
+    "filetools-compress-files-online-de",
+    "filetools-jpg-to-pdf-de"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "filetools-image-resize-fr",
+  "lang": "fr",
+  "title": "Redimensionner vos images en ligne sans perte de qualité",
+  "description": "Comment redimensionner gratuitement des images JPG, PNG et WebP directement dans votre navigateur. Sans téléchargement. Sans perte de qualité.",
+  "excerpt": "Arrêtez d’uploader vos photos sur des services au hasard. [FileTools](https://filetools.eu) redimensionne vos images localement dans votre navigateur — rapidement, en toute confidentialité et sans perte.",
+  "content": "Vous avez une photo de 8 Mo en 6000×4000 pixels. Vous en avez besoin en 1200×800 pour un site web. Que faites-vous?\n\nLa plupart des gens l’uploadent sur un outil en ligne aléatoire. L’image est compressée deux fois. La qualité baisse. Et maintenant votre photo traîne sur un serveur inconnu.\n\nFileTools fait les choses autrement.\n\n## Redimensionner sans recompression\n\nContrairement aux éditeurs mobiles qui recompriment chaque pixel, [FileTools](https://filetools.eu) vous permet de choisir des dimensions exactes en pixels, millimètres ou pouces. L’algorithme conserve un maximum de données originales lors du redimensionnement.\n\nVous contrôlez la qualité avec un curseur — 80–95 % donnent l’équilibre parfait entre taille de fichier et fidélité visuelle. À 90 %, la plupart des photos sont identiques à l’original même à 50 % de zoom.\n\n## Les formats qui comptent vraiment\n\n| Format | Utilisation | Meilleur réglage qualité |\n|--------|------------|--------------------------|\n| JPG | Photos, dégradés complexes | 85–95 % |\n| PNG | Captures d’écran, graphiques avec texte | Sans perte (PNG-24) |\n| WebP | Web moderne, chargement plus rapide | 80–90 % |\n| GIF | Animations simples | Conserver le nombre d’images |\n\nL’outil détecte automatiquement le format d’entrée et suggère les meilleurs réglages de sortie. Vous pouvez aussi redimensionner 20+ images en une fois — idéal pour les photos produits e-commerce ou les galeries de blog.\n\n## Verrouillage du ratio d’aspect\n\nC’est là que la plupart des outils échouent. Vous entrez 1200×800 mais votre original est en 3:2, pas 3:2 recadré. Résultat ? Des visages étirés et des logos déformés.\n\nFileTools verrouille le ratio d’aspect par défaut. Vous choisissez entre :\n\n- **Fit** — redimensionne pour tenir dans vos dimensions, ajoute des bandes si nécessaire\n- **Fill** — couvre toute la zone, recadre les bords\n- **Exact** — étire aux dimensions exactes (rarement ce que vous voulez)\n- **Custom** — contrôle manuel complet\n\nVotre équipe a besoin des mêmes règles de recadrage ? Le profil personnalisé mémorise vos réglages d’une session à l’autre.\n\n## Confidentialité d’abord — tout reste local\n\n[FileTools](https://filetools.eu) traite chaque image dans votre navigateur avec WebAssembly. Aucun fichier n’est téléchargé vers un serveur. Aucune copie ne persiste sur des machines distantes. Photos produits de vos clients, clichés de vacances, graphiques de présentation — rien ne quitte votre ordinateur.\n\nParticulièrement utile pour :\n- **Designers** manipulant des assets clients sous NDA\n- **Photographes** préparant des exports web\n- **Equipes e-commerce** avec des images produits exclusives\n\n## Quand la qualité compte vraiment\n\nRedimensionner semble simple jusqu’à ce que vous zoomiez. Un mauvais résultat produit des artefacts : bords crantés sur le texte, motifs moiré sur les tissus, bandes dans les dégradés.\n\nFileTools utilise le rééchantillonnage Lanczos (la référence pour la réduction) par défaut. Si vous agrandissez (déconseillé mais possible), il utilise une interpolation bicubique avec accentuation.\n\nPour les captures d’écran avec du texte, la différence est immédiate. Les bords restent nets. Le rendu des polices ne devient pas flou.\n\n## Prêt à essayer ?\n\nLa prochaine fois que vous devez redimensionner une image, sautez le cycle téléchargement-attente. Rendez-vous sur [FileTools](https://filetools.eu) et glissez vos fichiers. Vous aurez vos images redimensionnées en quelques secondes — et elles ne finiront pas dans un jeu de données d’entraînement inconnu.\",",
+  "category": "tools",
+  "tags": [
+    "redimensionnement d'images",
+    "conversion de fichiers",
+    "optimisation web",
+    "confidentialité"
+  ],
+  "publishedAt": "2026-05-01",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800&q=80",
+  "imageAlt": "Interface de redimensionnement avec aperçu avant-après",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-webp-png-workflow-fr",
+    "filetools-compress-files-online-fr",
+    "filetools-jpg-to-pdf-fr"
+  ]
+}
