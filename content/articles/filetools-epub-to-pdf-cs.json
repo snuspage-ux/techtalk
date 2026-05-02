@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-epub-to-pdf",
+  "lang": "cs",
+  "title": "Jak zdarma převést EPUB do PDF online bez nahrávání souborů",
+  "description": "Přestaňte shánět desktopový software na převod EPUB knih do PDF. FileTools to zvládne v prohlížeči bez uploadu.",
+  "excerpt": "Převod EPUB do PDF bez podezřelého nahrávání na servery. Běží lokálně v prohlížeči. Zdarma, soukromě a rychle.",
+  "content": "Stáhli jste EPUB knihu a zjistili, že ji nejde otevřít na vašem zařízení? Nebo jste zkusili vytisknout kapitolu na studijní poznámky a výsledek byl chaos formátování?\n\nEPUB je skvělý formát pro čtečky. Pro všechno ostatní — sdílení, tisk, odevzdání vyučujícímu — je standardem PDF. Problém je, že většina konverzních nástrojů vyžaduje desktopový software, registraci nebo nahrání souborů na cizí servery.\n\n[FileTools](https://filetools.eu) to řeší jednoduše — převod EPUB do PDF přímo v prohlížeči. Žádné nahrávání na servery. Žádné účty. Vaše data nikam neodcházejí.\n\n## Proč převádět EPUB do PDF?\n\nEPUB je navržen pro plynulý text — přizpůsobuje se velikosti obrazovky. Na Kindlu nebo telefonu je to skvělé. Na ostatní použití je to ale otrava:\n\n- Tisk s konzistentním layoutem\n- Sdílení s lidmi, kteří EPUB čtečku nemají\n- Odevzdání dokumentů s pevným formátováním\n- Anotace a zvýrazňování textu\n\nPDF všechno zafixuje. Co vidíte vy, to uvidí i příjemce.\n\n## Jak FileTools funguje\n\nOtevřete [FileTools](https://filetools.eu), přetáhnete EPUB soubor a za pár vteřin stáhnete hotové PDF. Konverze probíhá lokálně pomocí WebAssembly. Žádný upload na server. Vaše kniha zůstává na vašem počítači.\n\nTo je důležité. Ten EPUB může být román, ale taky pracovní dokument, technická příručka nebo podklad pro klienta. Nepotřebujete, aby si cizí servery kešovaly váš obsah.\n\n## Kromě elektronických knih\n\n[FileTools](https://filetools.eu) zvládá i spoustu dalších formátů — PDF do Wordu, obrázky, spojování dokumentů, kompresi. Je to jeden z těch nástrojů, které si uložíte do záložek a zapomenete na ně, dokud vás znovu nezachrání za patnáct vteřin.\n\nPokud pravidelně pracujete s digitálním obsahem, koukněte taky na [TubeVoice](https://tubevoice.io) pro AI dabing videí do 50+ jazyků. Jiný use case, stejná filozofie: výkonné nástroje, které vám nekomplikují život.\n\n## Závěr\n\nPřevod EPUB do PDF by neměl být vědecký projekt. FileTools z něj udělá třívteřinové přetažení myší. Bez registrace, bez podmínek, bez kompromisů v soukromí. Prostě nástroj, který funguje.",
+  "category": "tools",
+  "tags": [
+    "epub do pdf",
+    "konverze souborů",
+    "konvertor ebooků",
+    "filetools",
+    "online nástroje"
+  ],
+  "publishedAt": "2026-05-02",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800&q=80",
+  "imageAlt": "Otevřená kniha s překryvem digitální konverze souborů",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": []
+}
