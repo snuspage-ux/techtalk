@@ -1106,6 +1106,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/cs/roomflip-home-gym": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/cs/roomflip-home-gym.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/cs/roomflip-home-office-cs": {
       "experimentalBypassFor": [
         {
@@ -2705,6 +2729,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/[lang]/[slug]",
       "dataRoute": "/de/roomflip-color-psychology.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/de/roomflip-home-gym": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/de/roomflip-home-gym.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -4346,6 +4394,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/en/roomflip-home-gym": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/en/roomflip-home-gym.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/en/roomflip-home-office-en": {
       "experimentalBypassFor": [
         {
@@ -5945,6 +6017,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/[lang]/[slug]",
       "dataRoute": "/es/roomflip-color-psychology.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/es/roomflip-home-gym": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/es/roomflip-home-gym.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -7586,6 +7682,30 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/fr/roomflip-home-gym": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/fr/roomflip-home-gym.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/fr/roomflip-home-office-fr": {
       "experimentalBypassFor": [
         {
@@ -9185,6 +9305,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/[lang]/[slug]",
       "dataRoute": "/pl/roomflip-color-psychology.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/pl/roomflip-home-gym": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/pl/roomflip-home-gym.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -10875,6 +11019,30 @@
       "initialRevalidateSeconds": false,
       "srcRoute": "/[lang]/[slug]",
       "dataRoute": "/zh/roomflip-color-psychology.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/zh/roomflip-home-gym": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/[lang]/[slug]",
+      "dataRoute": "/zh/roomflip-home-gym.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
