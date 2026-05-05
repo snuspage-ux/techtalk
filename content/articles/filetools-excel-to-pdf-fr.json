@@ -1,0 +1,44 @@
+{
+  "slug": "filetools-excel-to-pdf",
+  "lang": "fr",
+  "title": "Convertir Excel en PDF en ligne : 30 secondes chrono",
+  "description": "Arrêtez d'envoyer des fichiers .xlsx qui perdent leur mise en forme. Convertissez Excel en PDF en ligne avec FileTools — sans inscription, sans limites.",
+  "excerpt": "Les tableurs s'affichent différemment sur chaque appareil. Le PDF résout ça. Voici le moyen le plus rapide de convertir Excel en PDF.",
+  "content": "Vous avez passé une heure sur ce tableur. Couleurs, bordures, mise en forme conditionnelle — tout est parfait. Puis vous l'envoyez à un client et il l'ouvre dans Google Sheets. Tout se casse.\n\nN'envoyez pas de fichiers .xlsx à des gens qui ne les ouvriront pas dans Excel.\n\nEnvoyez un PDF.\n\n## Pourquoi convertir Excel en PDF ?\n\n**La mise en forme reste figée.** Nombres, polices, largeurs de colonnes, graphiques — chaque pixel reste où vous l'avez mis. Pas de cellules décalées, pas de polices manquantes.\n\n**Lecture seule.** Vos formules restent cachées. Les données ne peuvent pas être modifiées par accident. Le destinataire voit exactement ce que vous voyez.\n\n**Universel.** Chaque appareil, chaque OS, chaque navigateur ouvre les PDFs correctement. Même l'iPad de votre grand-mère de 2015.\n\n## Le plus rapide\n\n[FileTools](https://filetools.eu) convertit Excel en PDF en moins de 30 secondes :\n\n1. Allez sur le [convertisseur FileTools](https://filetools.eu)\n2. Déposez votre fichier .xlsx ou .xls n'importe où sur la page\n3. Cliquez sur \"Convert to PDF\"\n4. Téléchargez le résultat\n\nC'est tout. Pas d'inscription par email. Pas de \"créez un compte\". Pas de limite de taille pour les documents normaux.\n\n## Pourquoi pas directement dans Excel ?\n\nExcel peut \"Enregistrer sous PDF\". Mais :\n\n- Vous avez besoin d'Excel installé. C'est soit Microsoft 365 (payant), soit une installation lourde.\n- Sur mobile ? Oubliez. L'application mobile supprime la moitié des options d'export.\n- Convertir 10 tableurs en lot ? Vous cliquerez \"Enregistrer sous\" dix fois.\n- Mac vs Windows rend différemment. Ce qui semble propre sur votre écran peut déborder dans Acrobat.\n\n[FileTools](https://filetools.eu) fonctionne dans un navigateur. Il ne se soucie pas de votre OS. Il fonctionne, point.\n\n## Confidentialité\n\nChaque fichier est traité et **supprimé après conversion**. Pas de copies stockées, pas de sauvegardes cloud qui mangent votre quota. Pour les données financières sensibles, les rapports trimestriels ou les factures clients — c'est un atout décisif.\n\n## Cas concrets\n\n**Comptables.** Envoyez les relevés mensuels en PDF. Les clients ne peuvent pas modifier les chiffres.\n\n**Étudiants.** Convertissez les tableaux de données de recherche avant de les soumettre. Les portails universitaires adorent les PDF.\n\n**Vendeurs e-commerce.** Exportez les inventaires en PDF pour impression. Codes-barres propres, quantités lisibles.\n\n**Chefs de projet.** Diagrammes de Gantt dans Excel → PDF pour les parties prenantes sans outils de gestion de projet.\n\n## Astuces rapides\n\n- Utilisez **figer les volets** dans Excel avant la conversion. Ce qui est visible lors de l'enregistrement apparaît dans le PDF.\n- Le format paysage convient mieux aux tableaux larges. Définissez la mise en page avant le téléchargement.\n- Besoin de plus ? [FileTools](https://filetools.eu) gère aussi la fusion de PDF, la division, JPG vers PDF et la compression — tout sans inscription.\n\nArrêtez de lutter contre la mise en forme. Convertissez en PDF. Passez à autre chose.\n",
+  "category": "tools",
+  "tags": [
+    "filetools",
+    "excel",
+    "pdf",
+    "conversion",
+    "office"
+  ],
+  "publishedAt": "2026-05-05",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1618044733300-9472054094ee?w=800&q=80",
+  "imageAlt": "Spreadsheet document being converted to PDF format",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "FileTools PDF tools",
+      "url": "https://filetools.eu/pdf"
+    }
+  ],
+  "related": [
+    {
+      "title": "How to Merge PDFs Online for Free",
+      "slug": "filetools-merge-pdfs"
+    },
+    {
+      "title": "Convert JPG to PDF in Seconds",
+      "slug": "filetools-jpg-to-pdf"
+    },
+    {
+      "title": "Split PDF Files Like a Pro",
+      "slug": "filetools-split-pdf"
+    }
+  ]
+}

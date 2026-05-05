@@ -1,0 +1,44 @@
+{
+  "slug": "filetools-excel-to-pdf",
+  "lang": "zh",
+  "title": "在线将Excel转换为PDF：30秒搞定",
+  "description": "别再发送格式混乱的.xlsx文件了。学习如何使用FileTools在线将Excel转换为PDF — 无需注册，没有限制。",
+  "excerpt": "电子表格在不同设备上显示效果各不相同。PDF解决了这个问题。这是将Excel转换为PDF的最快方法。",
+  "content": "你花了一小时做那个表格。颜色、边框、条件格式 — 一切都完美。然后你发给客户，客户在Google Sheets里打开。全乱了。\n\n别给不会在Excel里打开的人发.xlsx文件。\n\n发PDF吧。\n\n## 为什么要将Excel转换为PDF？\n\n**格式完美冻结。** 数字、字体、列宽、图表 — 每个像素都保持原样。没有单元格偏移，没有字体丢失。\n\n**天然只读。** 你的公式保持隐藏。数据不会意外被修改。收件人看到的和你看到的一模一样。\n\n**通用。** 每台设备、每个操作系统、每个浏览器都能正确打开PDF。连你奶奶2015年的iPad都行。\n\n## 最快的方法\n\n[FileTools](https://filetools.eu) 在30秒内就能将Excel转换为PDF：\n\n1. 访问 [FileTools转换器](https://filetools.eu)\n2. 把.xlsx或.xls文件拖到页面上任意位置\n3. 点击\"Convert to PDF\"\n4. 下载结果\n\n仅此而已。无需邮箱注册。无需\"创建账户\"。普通文档没有文件大小限制。\n\n## 为什么不用Excel自带的？\n\nExcel确实可以\"另存为PDF\"。但是：\n\n- 你需要安装Excel。要么付费订阅Microsoft 365，要么装个庞然大物。\n- 手机上？算了吧。手机应用砍掉了一半的导出选项。\n- 批量转换10个表格？你得点十次\"另存为\"。\n- Mac和Windows渲染效果不同。你屏幕上看起来干净的东西在Acrobat里可能会溢出。\n\n[FileTools](https://filetools.eu) 在浏览器里运行。它不管你的操作系统是什么。直接工作。\n\n## 隐私保障\n\n每个文件处理完成后 **立即删除**。不会留存副本，不会占用你的云存储配额。对于敏感的财务数据、季度报告或客户发票 — 这是决定性的优势。\n\n## 真实应用场景\n\n**会计。** 发送月度报表为PDF。客户无法改动数字。\n\n**学生。** 提交前将研究数据表格转换为PDF。大学系统最爱PDF。\n\n**电商卖家。** 将库存电子表格导出为PDF打印。清晰的条码，可读的数量。\n\n**项目经理。** Excel里的甘特图 → PDF发给不使用项目管理工具的相关方。\n\n## 快速提示\n\n- 转换前在Excel中使用 **冻结窗格**。保存时可见的内容才会出现在PDF中。\n- 横向布局更适合宽表格。上传前设置好页面布局。\n- 还需要更多？[FileTools](https://filetools.eu) 还可以合并PDF、拆分PDF、JPG转PDF和压缩 — 全部无需注册。\n\n别再和格式抗争了。转成PDF。继续前进。\n",
+  "category": "tools",
+  "tags": [
+    "filetools",
+    "excel",
+    "pdf",
+    "conversion",
+    "office"
+  ],
+  "publishedAt": "2026-05-05",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1618044733300-9472054094ee?w=800&q=80",
+  "imageAlt": "Spreadsheet document being converted to PDF format",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "FileTools PDF tools",
+      "url": "https://filetools.eu/pdf"
+    }
+  ],
+  "related": [
+    {
+      "title": "How to Merge PDFs Online for Free",
+      "slug": "filetools-merge-pdfs"
+    },
+    {
+      "title": "Convert JPG to PDF in Seconds",
+      "slug": "filetools-jpg-to-pdf"
+    },
+    {
+      "title": "Split PDF Files Like a Pro",
+      "slug": "filetools-split-pdf"
+    }
+  ]
+}

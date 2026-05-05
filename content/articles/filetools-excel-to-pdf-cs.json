@@ -1,0 +1,44 @@
+{
+  "slug": "filetools-excel-to-pdf",
+  "lang": "cs",
+  "title": "Převod Excelu do PDF online: Hotovo za 30 vteřin",
+  "description": "Přestaňte posílat .xlsx soubory, které se rozsypou. Naučte se převádět Excel do PDF online pomocí FileTools — bez registrace a bez limitů.",
+  "excerpt": "Tabulky vypadají na každém zařízení jinak. PDF to řeší. Tohle je nejrychlejší způsob, jak převést Excel do PDF.",
+  "content": "Strávili jste hodinu nad tabulkou. Barvy, ohraničení, podmíněné formátování — všechno sedí. Pak ji pošlete klientovi a on ji otevře v Google Sheets. Všechno se rozsype.\n\nNeposílejte .xlsx soubory lidem, kteří je neotvírají v Excelu.\n\nPošlete PDF.\n\n## Proč převádět Excel do PDF?\n\n**Formátování zůstává zmražené.** Čísla, fonty, šířky sloupců, grafy — každý pixel zůstává tam, kde jste ho dali. Žádné posunuté buňky, žádné chybějící fonty.\n\n**Jen na čtení.** Vaše vzorce zůstanou skryté. Data nejde omylem změnit. Příjemce vidí přesně to, co vy.\n\n**Univerzální.** Každé zařízení, každý OS, každý prohlížeč otevře PDF správně. I babiččin iPad z roku 2015.\n\n## Nejrychlejší cesta\n\n[FileTools](https://filetools.eu) převede Excel do PDF za méně než 30 vteřin. Postup:\n\n1. Jděte na [FileTools konvertor](https://filetools.eu)\n2. Přetáhněte .xlsx nebo .xls soubor kamkoli na stránku\n3. Klikněte na \"Convert to PDF\"\n4. Stáhněte výsledek\n\nTo je vše. Žádný email, žádný \"create an account\", žádné limity velikosti souboru pro běžné dokumenty.\n\n## Proč ne přímo v Excelu?\n\nExcel umí \"Uložit jako PDF\". Ale:\n\n- Potřebujete nainstalovaný Excel. To je buď Microsoft 365 za peníze, nebo tučná instalace.\n- Na mobilu? Zapomeňte. Mobilní aplikace ořeže polovinu exportních možností.\n- Dávkový převod 10 tabulek? Budete klikat \"Uložit jako\" desetkrát.\n- Mac vs Windows renderuje jinak. To, co vypadá čistě na vaší obrazovce, může v Acrobatu přetékat.\n\n[FileTools](https://filetools.eu) běží v prohlížeči. Neřeší váš OS. Prostě funguje.\n\n## Soukromí\n\nKaždý soubor se zpracuje a **po převodu smaže**. Žádné uložené kopie, žádné cloudové zálohy žeroucí kvótu. Pro citlivá finanční data, čtvrtletní reporty nebo faktury — to je rozhodující.\n\n## Reálné případy\n\n**Účetní.** Posílejte měsíční výkazy jako PDF. Klienti nemůžou hýbat s čísly.\n\n**Studenti.** Převádějte tabulky s výzkumnými daty před odevzdáním. Univerzitní portály milují PDF.\n\n**E-shopaři.** Exportujte skladové zásoby do PDF pro tisk. Čisté čárové kódy, čitelná množství.\n\n**Projektoví manažeři.** Ganttovy diagramy v Excelu → PDF pro stakeholdery, kteří nepoužívají projektové nástroje.\n\n## Rychlé tipy\n\n- Použijte **zmrazení příček** v Excelu před převodem. To, co je vidět při ukládání, se objeví v PDF.\n- Na šířku se vejdou širší tabulky líp. Nastavte layout stránky před nahráním.\n- Potřebujete víc? [FileTools](https://filetools.eu) zvládá i spojování PDF, rozdělování, JPG do PDF a kompresi — všechno bez registrace.\n\nPřestaňte bojovat s formátováním. Převeďte do PDF. Jděte dál.\n",
+  "category": "tools",
+  "tags": [
+    "filetools",
+    "excel",
+    "pdf",
+    "conversion",
+    "office"
+  ],
+  "publishedAt": "2026-05-05",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1618044733300-9472054094ee?w=800&q=80",
+  "imageAlt": "Spreadsheet document being converted to PDF format",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "FileTools PDF tools",
+      "url": "https://filetools.eu/pdf"
+    }
+  ],
+  "related": [
+    {
+      "title": "How to Merge PDFs Online for Free",
+      "slug": "filetools-merge-pdfs"
+    },
+    {
+      "title": "Convert JPG to PDF in Seconds",
+      "slug": "filetools-jpg-to-pdf"
+    },
+    {
+      "title": "Split PDF Files Like a Pro",
+      "slug": "filetools-split-pdf"
+    }
+  ]
+}
