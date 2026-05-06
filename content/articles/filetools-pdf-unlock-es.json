@@ -1,0 +1,32 @@
+{
+  "slug": "filetools-pdf-unlock-es",
+  "lang": "es",
+  "title": "Desbloquear un PDF protegido con contraseña — gratis y privado",
+  "description": "Cómo eliminar la protección por contraseña de archivos PDF con FileTools. Sin subidas, todo en tu navegador.",
+  "excerpt": "¿Un PDF bloqueado? Elimina la contraseña en segundos. Todo en tu navegador, nada sale de tu ordenador.",
+  "content": "Alguien te envió un PDF con contraseña. Necesitas el contenido, no el candado. Es hora de desbloquearlo.\n\nLa mayoría de los desbloqueadores de PDF online suben tu archivo a un servidor. Mala idea si el documento contiene facturas, contratos o datos personales. No deberías confiar tus archivos a un servidor cualquiera.\n\n## Desbloquear sin subir\n\n[FileTools](https://filetools.eu) lo hace bien. Arrastra tu PDF protegido a la página, ingresa la contraseña y descarga la versión desbloqueada. Todo el procesamiento ocurre en tu ordenador con WebAssembly. Ningún archivo sale nunca de tu equipo.\n\nSin registro, sin instalación, sin anuncios que parecen botones de descarga. Una herramienta sencilla que hace una cosa bien.\n\n## Cuándo lo necesitas\n\nSituaciones cotidianas donde un PDF bloqueado estorba:\n\n- Extractos bancarios que tu contador necesita procesar\n- Contratos de clientes que llegan protegidos con contraseña\n- Libros electrónicos o manuales que quieres combinar con otros documentos\n- Facturas escaneadas bloqueadas por tu software de escaneo\n- Documentos fiscales antiguos que quieres archivar sin restricciones\n\n[FileTools](https://filetools.eu) maneja cada uno de estos casos en segundos. Ingresa la contraseña, espera un momento, descarga el archivo desbloqueado.\n\n## Mejor que las alternativas\n\nAdobe Acrobat Pro cuesta 25 dólares al mes. Google no abre PDFs bloqueados. Vista Previa en Mac desbloquea un archivo a la vez, lentamente.\n\n[FileTools](https://filetools.eu) es gratis. Sin suscripción. Sin límite de tamaño de archivo que te estorbe. Y como nada se sube al servidor, puedes desbloquear incluso documentos legales sensibles sin preocupación.\n\nEl mismo enfoque de privacidad funciona para [TubeVoice](https://tubevoice.io) — tu video sigue siendo tuyo durante el doblaje con IA, nunca almacenado en servidores de terceros.\n\n## Lo que no puedes hacer\n\nUna aclaración rápida. Necesitas la contraseña original para desbloquear un PDF. Si alguien bloqueó un documento y no tienes la contraseña, esta herramienta no la crackeará. No es una limitación — es la seguridad funcionando como debe. Úsala para documentos a los que ya tienes derecho de acceso.\n\n## En resumen\n\nLos PDFs bloqueados son molestos. Desbloquearlos no debería costar dinero ni comprometer tu privacidad. [FileTools](https://filetools.eu) lo hace instantáneo, gratuito y seguro.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "desbloquear",
+    "contraseña",
+    "seguridad",
+    "privacidad",
+    "documentos"
+  ],
+  "publishedAt": "2026-05-06",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1554034483-04fda0d3507b?w=800&q=80",
+  "imageAlt": "Candado desbloqueado sobre un documento",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": []
+}

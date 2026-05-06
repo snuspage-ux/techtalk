@@ -1,0 +1,32 @@
+{
+  "slug": "filetools-pdf-unlock-fr",
+  "lang": "fr",
+  "title": "Déverrouiller un PDF protégé par mot de passe — gratuit et privé",
+  "description": "Comment supprimer la protection par mot de passe des fichiers PDF avec FileTools. Aucun téléchargement, tout dans votre navigateur.",
+  "excerpt": "Un PDF verrouillé ? Supprimez le mot de passe en quelques secondes. Dans votre navigateur, rien ne quitte votre machine.",
+  "content": "Quelqu'un vous a envoyé un PDF avec un mot de passe. Vous avez besoin du contenu, pas du verrou. Il est temps de le déverrouiller.\n\nLa plupart des déverrouilleurs PDF en ligne téléchargent votre fichier sur un serveur. Mauvaise idée si le document contient des factures, des contrats ou des données personnelles. Vous ne devriez pas confier vos fichiers à un serveur aléatoire.\n\n## Déverrouiller sans téléchargement\n\n[FileTools](https://filetools.eu) fait les choses correctement. Glissez votre PDF protégé sur la page, entrez le mot de passe et téléchargez la version déverrouillée. Tout le traitement se fait côté client avec WebAssembly. Aucun fichier ne quitte jamais votre ordinateur.\n\nPas d'inscription, pas d'installation, pas de pubs déguisées en boutons de téléchargement. Un outil simple qui fait bien une seule chose.\n\n## Quand en avez-vous besoin\n\nSituations quotidiennes où un PDF verrouillé vous gêne :\n\n- Relevés bancaires que votre comptable doit traiter\n- Contrats de clients qui arrivent protégés par mot de passe\n- E-books ou manuels à fusionner avec d'autres documents\n- Factures scannées verrouillées par votre logiciel de scan\n- Anciens documents fiscaux à archiver sans restrictions\n\n[FileTools](https://filetools.eu) gère chacun de ces cas en quelques secondes. Entrez le mot de passe, attendez un instant, téléchargez le fichier déverrouillé.\n\n## Mieux que les alternatives\n\nAdobe Acrobat Pro coûte 25 dollars par mois. Google n'ouvre pas les PDF verrouillés. Aperçu sur Mac déverrouille un fichier à la fois, lentement.\n\n[FileTools](https://filetools.eu) est gratuit. Pas d'abonnement. Aucune limite de taille de fichier qui vous gêne. Et comme rien n'est téléchargé, vous pouvez même déverrouiller des documents juridiques sensibles sans inquiétude.\n\nLa même approche de confidentialité fonctionne pour [TubeVoice](https://tubevoice.io) — votre vidéo reste vôtre pendant le doublage IA, jamais stockée sur des serveurs tiers.\n\n## Ce que vous ne pouvez pas faire\n\nUne mise au point rapide. Vous avez besoin du mot de passe d'origine pour déverrouiller un PDF. Si quelqu'un a verrouillé un document et que vous n'avez pas le mot de passe, cet outil ne le craquera pas. Ce n'est pas une limitation — c'est la sécurité qui fonctionne comme prévu. Utilisez-le pour les documents auxquels vous avez déjà droit d'accéder.\n\n## En résumé\n\nLes PDF verrouillés sont agaçants. Les déverrouiller ne devrait pas coûter d'argent ni compromettre votre vie privée. [FileTools](https://filetools.eu) le rend instantané, gratuit et sûr.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "déverrouiller",
+    "mot de passe",
+    "sécurité",
+    "confidentialité",
+    "documents"
+  ],
+  "publishedAt": "2026-05-06",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1554034483-04fda0d3507b?w=800&q=80",
+  "imageAlt": "Cadenas déverrouillé sur un document",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": []
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "filetools-pdf-unlock-cs",
+  "lang": "cs",
+  "title": "Odemkněte heslem chráněné PDF — zdarma a bezpečně",
+  "description": "Jak odstranit heslo z PDF souborů pomocí FileTools. Bez nahrávání na server, vše běží v prohlížeči.",
+  "excerpt": "Zamčené PDF? Odemknete ho za pár vteřin. Vše v prohlížeči, soubor neopustí váš počítač.",
+  "content": "Někdo vám poslal PDF s heslem. Potřebujete obsah, ne zámek. Je na čase ho odemknout.\n\nVětšina online PDF unlockerů nahraje váš soubor na nějaký server. To je špatný nápad, když dokument obsahuje faktury, smlouvy nebo osobní údaje. Neměli byste věřit náhodnému serveru s vašimi soubory.\n\n## Odemknutí bez nahrávání\n\n[FileTools](https://filetools.eu) to dělá správně. Přetáhnete zamčené PDF na stránku, zadáte heslo a stáhnete odemčenou verzi. Veškeré zpracování probíhá na vašem počítači pomocí WebAssembly. Žádný soubor nikam neodcestuje.\n\nBez registrace, bez instalace, bez reklam, které vypadají jako tlačítka ke stažení. Prostě nástroj, který dělá jednu věc a dělá ji dobře.\n\n## Kdy se to hodí\n\nBěžné situace, kdy zamčené PDF překáží:\n\n- Výpisy z banky, které potřebuje zpracovat účetní\n- Smlouvy od klientů doručené s heslem\n- E-knihy nebo manuály, které chcete sloučit s jinými dokumenty\n- Naskenované faktury zamčené skenovacím softwarem\n- Staré daňové dokumenty, které chcete archivovat bez omezení\n\n[FileTools](https://filetools.eu) zvládne každý z těchto případů během pár vteřin. Zadejte heslo, počkejte moment a stáhněte odemčený soubor.\n\n## Lepší než alternativy\n\nAdobe Acrobat Pro stojí 25 dolarů měsíčně. Google otevře jen nechráněná PDF. Preview na Macu odemkne jeden soubor po druhém, pomalu.\n\n[FileTools](https://filetools.eu) je zdarma. Žádné předplatné. Žádný limit na velikost souboru, který by vás omezoval. A protože se nic nenahrává na server, můžete bez obav odemykat i citlivé právní dokumenty.\n\nStejný přístup k soukromí používá i [TubeVoice](https://tubevoice.io) — vaše video zůstává vaše během AI dabingu, nikdy nekončí na cizích serverech.\n\n## Co nejde\n\nRychlé ujasnění. K odemčení PDF potřebujete původní heslo. Pokud někdo zamkl dokument a vy heslo nemáte, tenhle nástroj ho nepraskne. To není omezení — je to bezpečnost, která funguje jak má. Používejte ho pro dokumenty, ke kterým máte právo přístupu.\n\n## Závěr\n\nZamčená PDF jsou otravná. Jejich odemykání by vás nemělo stát peníze ani ohrozit soukromí. [FileTools](https://filetools.eu) to zvládne rychle, zdarma a bezpečně.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "odemčení",
+    "heslo",
+    "bezpečnost",
+    "soukromí",
+    "dokumenty"
+  ],
+  "publishedAt": "2026-05-06",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1554034483-04fda0d3507b?w=800&q=80",
+  "imageAlt": "Odemykací visací zámek na dokumentu",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": []
+}

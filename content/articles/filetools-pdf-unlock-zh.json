@@ -1,0 +1,32 @@
+{
+  "slug": "filetools-pdf-unlock-zh",
+  "lang": "zh",
+  "title": "解锁密码保护的PDF — 免费且隐私安全",
+  "description": "如何使用FileTools移除PDF文件的密码保护。无需上传，全部在浏览器中完成。",
+  "excerpt": "收到一个锁定的PDF？几秒钟内移除密码。全部在浏览器中完成，文件不会离开你的电脑。",
+  "content": "有人给你发了一个带密码的PDF。你需要的是内容，不是锁。是时候解锁它了。\n\n大多数在线PDF解锁工具会把你的文件上传到某个服务器。如果文档包含发票、合同或个人数据，这是个坏主意。你不应该把文件托付给一个随机的服务器。\n\n## 无需上传即可解锁\n\n[FileTools](https://filetools.eu) 采用了正确的方式。把你受密码保护的PDF拖到页面上，输入密码，然后下载解锁版本。所有处理都在你的电脑上通过WebAssembly完成。没有任何文件离开你的计算机。\n\n无需注册，无需安装，没有伪装成下载按钮的广告。一个简单的工具，把一件事做好。\n\n## 什么时候需要它\n\n日常生活中，锁定PDF挡住去路的场景：\n\n- 需要会计处理的银行对账单\n- 来自客户的带密码保护合同\n- 想与其他文档合并的电子书或手册\n- 被扫描软件锁定的扫描发票\n- 想无限制存档的旧税务文件\n\n[FileTools](https://filetools.eu) 几秒钟内处理这些情况。输入密码，稍等片刻，下载解锁后的文件。\n\n## 比替代方案更好\n\nAdobe Acrobat Pro 每月25美元。Google无法打开锁定的PDF。Mac上的预览只能逐个解锁文件，而且很慢。\n\n[FileTools](https://filetools.eu) 完全免费。没有订阅。没有会妨碍你的文件大小限制。而且由于不涉及文件上传，你可以放心解锁敏感的 legal 文件。\n\n同样的隐私优先方法也适用于 [TubeVoice](https://tubevoice.io) — 你的视频在AI配音过程中始终属于你，永远不会存储在第三方服务器上。\n\n## 你不能做什么\n\n快速澄清一下。你需要原始密码才能解锁PDF。如果有人锁定了文档而你不知道密码，这个工具无法破解它。这不是限制 — 这是安全机制在正常工作。请把它用于你已经有权访问的文档。\n\n## 总结\n\n锁定的PDF很烦人。解锁它们不应该花费金钱或危害你的隐私。[FileTools](https://filetools.eu) 让它变得即时、免费且安全。",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "解锁",
+    "密码",
+    "安全",
+    "隐私",
+    "文档工具"
+  ],
+  "publishedAt": "2026-05-06",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1554034483-04fda0d3507b?w=800&q=80",
+  "imageAlt": "文档上解锁的挂锁",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": []
+}

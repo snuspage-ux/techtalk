@@ -1,0 +1,32 @@
+{
+  "slug": "filetools-pdf-unlock-en",
+  "lang": "en",
+  "title": "Unlock a Password-Protected PDF — Free & Private",
+  "description": "How to remove password protection from PDF files using FileTools. No uploads, no server storage, completely browser-based.",
+  "excerpt": "Got a locked PDF? Remove the password in seconds. All in your browser, nothing leaves your machine.",
+  "content": "Someone sent you a PDF with a password. You need the content, not the lock. Time to unlock it.\n\nMost online PDF unlockers upload your file to some server. That is a bad idea when the document contains invoices, contracts, or personal data. You should not trust a random server with your files.\n\n## Unlock without uploading\n\n[FileTools](https://filetools.eu) does it right. You drag your password-protected PDF onto the page, enter the password, and get an unlocked version back. All processing happens client-side with WebAssembly. No file ever leaves your computer.\n\nNo signup, no install, no ads pretending to be download buttons. Just a straightforward tool that does one thing well.\n\n## When you need this\n\nEveryday situations where a locked PDF gets in your way:\n\n- Bank statements your accountant needs to process\n- Contracts from clients that arrive password-protected\n- E-books or manuals you want to merge with other documents\n- Scanned invoices locked by your scanner software\n- Old tax documents you want to archive without restrictions\n\n[FileTools](https://filetools.eu) handles each of these in seconds. Enter the password, wait a moment, and download the unlocked file.\n\n## Better than the alternatives\n\nAdobe Acrobat Pro costs  a month. Google will not open locked PDFs. Preview on Mac can unlock one file at a time, slowly.\n\n[FileTools](https://filetools.eu) is free. No subscription. No file size limit that gets in your way. And because nothing is uploaded, you can even unlock sensitive legal documents without worry.\n\nThe same privacy-first approach works for [TubeVoice](https://tubevoice.io) too — your video stays yours during AI dubbing, never stored on third-party servers.\n\n## What you cannot do\n\nA quick reality check. You need the original password to unlock a PDF. If someone locked a document and you don't have the password, this tool won't crack it. That is not a limitation — it is security working as designed. Use it for documents you already have the right to access.\n\n## The bottom line\n\nLocked PDFs are annoying. Unlocking them should not cost money or compromise your privacy. [FileTools](https://filetools.eu) makes it instant, free, and safe.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "unlock",
+    "password",
+    "security",
+    "privacy",
+    "document-tools"
+  ],
+  "publishedAt": "2026-05-06",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1554034483-04fda0d3507b?w=800&q=80",
+  "imageAlt": "Unlocked padlock on a document",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": []
+}

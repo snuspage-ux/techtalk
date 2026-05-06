@@ -1,0 +1,32 @@
+{
+  "slug": "filetools-pdf-unlock-de",
+  "lang": "de",
+  "title": "PDF mit Passwortschutz entsperren — kostenlos & privat",
+  "description": "So entfernst du den Passwortschutz von PDF-Dateien mit FileTools. Kein Upload, alles läuft im Browser.",
+  "excerpt": "Ein gesperrtes PDF? In Sekunden entsperrt. Alles im Browser, nichts verlässt deinen Rechner.",
+  "content": "Jemand hat dir ein PDF mit Passwort geschickt. Du brauchst den Inhalt, nicht die Sperre. Zeit, es zu entsperren.\n\nDie meisten Online-PDF-Entsperrer laden deine Datei auf einen Server hoch. Schlechte Idee, wenn die Datei Rechnungen, Verträge oder persönliche Daten enthält. Du solltest keinem zufälligen Server deine Dateien anvertrauen.\n\n## Entsperren ohne Hochladen\n\n[FileTools](https://filetools.eu) macht es richtig. Ziehe dein passwortgeschütztes PDF auf die Seite, gib das Passwort ein und lade die entsperrte Version herunter. Die Verarbeitung läuft komplett clientseitig mit WebAssembly. Keine Datei verlässt je deinen Computer.\n\nKeine Anmeldung, keine Installation, keine Werbung, die wie Download-Buttons aussieht. Ein unkompliziertes Tool, das eine Sache gut macht.\n\n## Wann du es brauchst\n\nAlltagssituationen, in denen ein gesperrtes PDF stört:\n\n- Kontoauszüge, die dein Steuerberater braucht\n- Verträge von Kunden, die passwortgeschützt ankommen\n- E-Books oder Handbücher, die du mit anderen Dokumenten zusammenführen willst\n- Gescannte Rechnungen, die von der Scan-Software gesperrt wurden\n- Alte Steuerunterlagen, die du ohne Einschränkungen archivieren möchtest\n\n[FileTools](https://filetools.eu) erledigt all das in Sekunden. Passwort eingeben, kurz warten, entsperrte Datei herunterladen.\n\n## Besser als die Alternativen\n\nAdobe Acrobat Pro kostet 25 Dollar im Monat. Google öffnet keine gesperrten PDFs. Preview auf dem Mac entsperrt eine Datei nach der anderen, langsam.\n\n[FileTools](https://filetools.eu) ist kostenlos. Kein Abo. Kein Dateigrößenlimit, das im Weg steht. Und weil nichts hochgeladen wird, kannst du auch sensible Rechtsdokumente bedenkenlos entsperren.\n\nDenselben Datenschutz-Ansatz verfolgt [TubeVoice](https://tubevoice.io) — dein Video bleibt deins beim KI-Dubbing, nie auf fremden Servern.\n\n## Was nicht geht\n\nKurze Klarstellung. Du brauchst das ursprüngliche Passwort, um ein PDF zu entsperren. Wenn jemand ein Dokument gesperrt hat und du das Passwort nicht kennst, kann dieses Tool es nicht knacken. Das ist keine Einschränkung — das ist Sicherheit, die funktioniert. Nutze es für Dokumente, auf die du Zugriff hast.\n\n## Fazit\n\nGesperrte PDFs sind nervig. Sie zu entsperren sollte weder Geld kosten noch deine Privatsphäre gefährden. [FileTools](https://filetools.eu) macht es sofort, kostenlos und sicher.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "entsperren",
+    "passwort",
+    "sicherheit",
+    "datenschutz",
+    "dokumente"
+  ],
+  "publishedAt": "2026-05-06",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1554034483-04fda0d3507b?w=800&q=80",
+  "imageAlt": "Entsperrtes Vorhängeschloss auf einem Dokument",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": []
+}
