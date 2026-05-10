@@ -1,0 +1,37 @@
+{
+  "slug": "filetools-pdf-image-convert",
+  "lang": "zh",
+  "title": "PDF转图片及图片转PDF：完整工作流程",
+  "description": "需要将PDF页面转为图片？或者将照片合并为PDF？来看看filetools.eu如何双向处理——快速、免费、无需上传。",
+  "excerpt": "PDF转图片是最常用的文件操作之一。本文带你了解PDF与图像格式之间的完整双向工作流程。",
+  "content": "将PDF转为图片、将图片转为PDF——每个人都有需要的时候。你有一套幻灯片想在社交媒体上分享。一份扫描文件需要作为一个文件发送。产品照片需要整合成PDF发给客户。\n\n[FileTools](https://filetools.eu) 双向处理。无需注册。文件不上传服务器。你的数据留在你的设备上。\n\n**为什么要把PDF转成图片？**\n\nPDF适合文档，但不适合社交媒体。Instagram、Twitter、LinkedIn——都不原生支持PDF。你需要JPG、PNG或WebP。\n\n常见用途：\n- 将演示幻灯片转为可分享的图片\n- 从杂志或目录中提取页面用于博客文章\n- 从PDF作品集中创建缩略图\n- 从合同中提取单页，无需发送整个文件\n\nFileTools支持三种输出格式：JPG（文件小，适合网页）、PNG（无损，适合文字和图形）和WebP（现代格式，压缩最佳）。\n\n**为什么要把图片转成PDF？**\n\n反向操作同样常见。你用手机扫描了五页合同，每页都是单独的PNG。你需要一个PDF文件发送给客户。\n\n或者你为电商拍了产品照片。二十张图片。平台需要一个PDF目录。\n\nFileTools允许你上传多张图片——JPG、PNG、WebP甚至HEIC——并按你选择的顺序合并成一个PDF。页码、方向和画质都可以在转换前设置。\n\n**如何操作**\n\n两种转换都遵循同样的简单流程：\n\n1. 前往 [filetools.eu](https://filetools.eu) 并选择转换方向。\n2. 上传文件。PDF→图片接受一个PDF。图片→PDF接受多张图片。\n3. 选择输出格式和质量。\n4. 下载结果。\n\n所有操作均在客户端完成。文件不会离开你的浏览器。这在处理合同、发票或个人数据时至关重要。\n\n**质量建议**\n\n对于PDF→JPG，使用80-85%质量。文件大小和可读性之间取得良好平衡。对于文字密集的页面，PNG能更好地保留清晰边缘。用于网页时，WebP提供最小的文件，质量几乎无损。\n\n对于图片→PDF，保持图片在150-200 DPI。更高的DPI会让PDF变得巨大。更低则会使打印效果模糊。150 DPI足以满足数字浏览需求。如果需要打印，使用300 DPI。\n\n**何时跳过转换**\n\n有时你完全不需要转换。如果你与有PDF阅读器的同事共享文档，保持PDF格式。如果你需要提取文字而不是视觉内容，使用FileTools的OCR功能。\n\n对于演示文稿，先从幻灯片应用中导出为PDF，然后将特定幻灯片转换为图片用于社交媒体帖子。这个工作流程可以避免逐一导出每张幻灯片。\n\n**总结**\n\nPDF转图片和图片转PDF是基础文件操作。[FileTools](https://filetools.eu) 让它们瞬间完成、私密且免费。无需账户。无需服务器存储。只有你的文件和所需的结果。",
+  "category": "tools",
+  "tags": [
+    "PDF转换",
+    "图片转换",
+    "文件转换器",
+    "PDF转JPG",
+    "图片转PDF",
+    "在线工具"
+  ],
+  "publishedAt": "2026-05-10",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=800&q=80",
+  "imageAlt": "笔记本电脑屏幕上正在将PDF转换为图片格式的文档",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "FileTools converter",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-jpg-to-pdf",
+    "filetools-merge-pdfs",
+    "filetools-split-pdf",
+    "filetools-batch-convert"
+  ]
+}

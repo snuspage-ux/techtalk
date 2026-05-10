@@ -1,0 +1,37 @@
+{
+  "slug": "filetools-pdf-image-convert",
+  "lang": "es",
+  "title": "Convertir PDF a imágenes y viceversa: el flujo de trabajo completo",
+  "description": "¿Necesitas convertir páginas PDF en imágenes? ¿O combinar fotos en un PDF? Así maneja filetools.eu ambas direcciones — rápido, gratis, sin subir archivos.",
+  "excerpt": "La conversión de PDF a imagen es una de las operaciones más solicitadas. Repasamos el flujo bidireccional entre PDF y formatos de imagen.",
+  "content": "Convertir PDF a imágenes e imágenes a PDF — todos lo necesitan en algún momento. Tienes una presentación y quieres compartirla en redes sociales. Un documento escaneado que necesitas enviar como un solo archivo. Fotos de producto que quieres en un PDF para el cliente.\n\n[FileTools](https://filetools.eu) maneja ambas direcciones. Sin registro. Sin almacenamiento en servidores. Tus datos se quedan en tu equipo.\n\n**¿Por qué convertir PDF a imágenes?**\n\nLos PDF son geniales para documentos. Pésimos para redes sociales. Instagram, Twitter, LinkedIn — ninguno muestra PDF de forma nativa. Necesitas JPG, PNG o WebP.\n\nUsos comunes:\n- Convertir diapositivas en imágenes para compartir\n- Extraer páginas de una revista para un artículo de blog\n- Crear miniaturas desde un portafolio en PDF\n- Tomar una página de un contrato sin enviar el archivo completo\n\nFileTools admite tres formatos de salida: JPG (archivos ligeros, buenos para web), PNG (sin pérdida, ideal para texto y gráficos) y WebP (moderno, la mejor compresión).\n\n**¿Por qué convertir imágenes a PDF?**\n\nLa dirección inversa es igual de común. Escaneaste cinco páginas de un contrato con el móvil. Cada una es un PNG separado. Necesitas un solo PDF para enviar al cliente.\n\nO tomaste fotos de producto para una tienda online. Veinte imágenes. El marketplace quiere un catálogo en PDF.\n\nFileTools te permite subir varias imágenes — JPG, PNG, WebP, incluso HEIC — y las fusiona en un solo PDF en el orden que elijas. Numeración de páginas, orientación y calidad se configuran antes de la conversión.\n\n**Cómo funciona**\n\nAmbas conversiones siguen el mismo proceso simple:\n\n1. Ve a [filetools.eu](https://filetools.eu) y selecciona la dirección de conversión.\n2. Sube tu(s) archivo(s). PDF → imagen acepta un PDF. Imagen → PDF acepta varias imágenes.\n3. Elige el formato de salida y la calidad.\n4. Descarga el resultado.\n\nTodo se ejecuta del lado del cliente. Los archivos nunca salen de tu navegador. Esto importa cuando manejas contratos, facturas o datos personales.\n\n**Consejos de calidad**\n\nPara PDF → JPG, usa calidad 80-85 %. Buen equilibrio entre tamaño de archivo y legibilidad. Para páginas con mucho texto, PNG conserva mejor los bordes nítidos. Para la web, WebP da los archivos más pequeños con calidad casi sin pérdida.\n\nPara imagen → PDF, mantén las imágenes a 150-200 DPI. Más DPI hace el PDF enorme. Menos lo vuelve borroso al imprimir. 150 DPI bastan para visualización digital. 300 DPI si alguien va a imprimir.\n\n**Cuándo saltarte la conversión**\n\nA veces no necesitas convertir nada. Si compartes un documento con colegas que tienen lectores PDF, déjalo como PDF. Si necesitas extraer texto en lugar de imágenes, usa el OCR de FileTools.\n\nPara presentaciones, exporta a PDF desde tu app de diapositivas y luego convierte diapositivas específicas a imágenes para redes sociales. Este flujo te ahorra exportar cada diapositiva por separado.\n\n**En resumen**\n\nLas conversiones PDF-a-imagen e imagen-a-PDF son operaciones básicas. [FileTools](https://filetools.eu) las hace instantáneas, privadas y gratuitas. Sin cuentas. Sin almacenamiento en servidores. Solo tus archivos y el resultado que necesitas.",
+  "category": "tools",
+  "tags": [
+    "conversión PDF",
+    "conversión de imágenes",
+    "convertidor de archivos",
+    "PDF a JPG",
+    "imagen a PDF",
+    "herramientas web"
+  ],
+  "publishedAt": "2026-05-10",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=800&q=80",
+  "imageAlt": "Documento siendo convertido de PDF a formato de imagen en una pantalla de portátil",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "FileTools converter",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-jpg-to-pdf",
+    "filetools-merge-pdfs",
+    "filetools-split-pdf",
+    "filetools-batch-convert"
+  ]
+}

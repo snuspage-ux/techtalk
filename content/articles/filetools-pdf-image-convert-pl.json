@@ -1,0 +1,37 @@
+{
+  "slug": "filetools-pdf-image-convert",
+  "lang": "pl",
+  "title": "Konwersja PDF na obrazy i z powrotem: kompletny workflow",
+  "description": "Potrzebujesz zamienić strony PDF na obrazy? Albo połączyć zdjęcia w jeden PDF? Oto jak filetools.eu radzi sobie w obie strony — szybko, za darmo, bez wysyłania.",
+  "excerpt": "Konwersja PDF na obrazy to jedno z najczęściej wykonywanych zadań. Przechodzimy przez cały dwukierunkowy workflow między PDF a formatami obrazów.",
+  "content": "Konwersja PDF na obrazy i obrazów na PDF — każdy tego kiedyś potrzebuje. Masz prezentację i chcesz ją udostępnić w mediach społecznościowych. Zeskanowany dokument chcesz wysłać jako jeden plik. Zdjęcia produktów potrzebujesz w PDF dla klienta.\n\n[FileTools](https://filetools.eu) radzi sobie w obie strony. Bez rejestracji. Bez przechowywania na serwerze. Twoje dane pozostają na Twoim urządzeniu.\n\n**Po co konwertować PDF na obrazy?**\n\nPDF świetnie nadają się do dokumentów. Do mediów społecznościowych — już nie. Instagram, Twitter, LinkedIn — żadne z nich nie wyświetla PDF natywnie. Potrzebujesz JPG, PNG lub WebP.\n\nPrzykłady użycia:\n- Zamiana slajdów z prezentacji na obrazy do udostępnienia\n- Wyodrębnianie stron z magazynu lub katalogu na bloga\n- Tworzenie miniaturek z portfolio PDF\n- Pobranie jednej strony z umowy bez wysyłania całego pliku\n\nFileTools obsługuje trzy formaty wyjściowe: JPG (małe pliki, dobre do sieci), PNG (bezstratny, dobry do tekstu i grafiki) oraz WebP (nowoczesny, najlepsza kompresja).\n\n**Po co konwertować obrazy na PDF?**\n\nOdwrotny kierunek jest równie popularny. Zeskanowałeś pięć stron umowy telefonem. Każda to osobny PNG. Potrzebujesz jednego PDF dla klienta.\n\nAlbo zrobiłeś zdjęcia produktów do sklepu internetowego. Dwadzieścia zdjęć. Platforma chce jeden katalog PDF.\n\nFileTools pozwala przesłać wiele obrazów — JPG, PNG, WebP, nawet HEIC — i łączy je w jeden PDF w wybranej kolejności. Numeracja stron, orientacja i jakość są konfigurowalne przed konwersją.\n\n**Jak to działa**\n\nObie konwersje działają według tego samego prostego schematu:\n\n1. Wejdź na [filetools.eu](https://filetools.eu) i wybierz kierunek konwersji.\n2. Prześlij plik(i). PDF → obraz przyjmuje jeden PDF. Obraz → PDF przyjmuje wiele obrazów.\n3. Wybierz format wyjściowy i jakość.\n4. Pobierz wynik.\n\nWszystko działa po stronie klienta. Pliki nigdy nie opuszczają Twojej przeglądarki. To ważne przy umowach, fakturach czy danych osobowych.\n\n**Wskazówki dotyczące jakości**\n\nDla PDF → JPG używaj jakości 80-85 %. Dobry balans między rozmiarem pliku a czytelnością. Dla stron z dużą ilością tekstu PNG lepiej zachowuje ostre krawędzie. Do sieci WebP daje najmniejsze pliki z niemal bezstratną jakością.\n\nDla obraz → PDF utrzymuj obrazy na poziomie 150-200 DPI. Wyższe DPI robi PDF ogromnym. Niższe powoduje rozmycie przy druku. 150 DPI wystarcza do przeglądania cyfrowego. 300 DPI jeśli ktoś będzie drukować.\n\n**Kiedy pominąć konwersję**\n\nCzasami nie potrzebujesz konwersji w ogóle. Jeśli udostępniasz dokument współpracownikom, którzy mają czytniki PDF, zostaw go jako PDF. Jeśli potrzebujesz wyodrębnić tekst zamiast obrazów, użyj OCR z FileTools.\n\nW przypadku prezentacji wyeksportuj do PDF z aplikacji do slajdów, a następnie przekonwertuj konkretne slajdy na obrazy do postów w mediach społecznościowych. Taki workflow oszczędza eksportowanie każdego slajdu osobno.\n\n**Podsumowanie**\n\nKonwersje PDF-na-obraz i obraz-na-PDF to podstawowe operacje na plikach. [FileTools](https://filetools.eu) robi je błyskawicznie, prywatnie i za darmo. Bez kont. Bez przechowywania na serwerze. Tylko Twoje pliki i wynik, którego potrzebujesz.",
+  "category": "tools",
+  "tags": [
+    "konwersja PDF",
+    "konwersja obrazów",
+    "konwerter plików",
+    "PDF na JPG",
+    "obraz do PDF",
+    "narzędzia internetowe"
+  ],
+  "publishedAt": "2026-05-10",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=800&q=80",
+  "imageAlt": "Dokument konwertowany z PDF na obraz na ekranie laptopa",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "FileTools converter",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-jpg-to-pdf",
+    "filetools-merge-pdfs",
+    "filetools-split-pdf",
+    "filetools-batch-convert"
+  ]
+}

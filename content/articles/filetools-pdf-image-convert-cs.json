@@ -1,0 +1,37 @@
+{
+  "slug": "filetools-pdf-image-convert",
+  "lang": "cs",
+  "title": "Převod PDF na obrázky a zpět: Kompletní workflow",
+  "description": "Potřebujete stránky PDF převést na obrázky? Nebo složit fotky do PDF? Takhle to zvládne filetools.eu — rychle, zdarma, bez nahrávání.",
+  "excerpt": "Převod PDF na obrázky patří mezi nejžádanější operace. Pojďme si projít celý obousměrný workflow mezi PDF a obrazovými formáty.",
+  "content": "Převod PDF na obrázky a obrázků na PDF patří k věcem, které každý čas od času potřebuje. Máte prezentaci a chcete ji sdílet na sociálních sítích. Naskenovaný dokument potřebujete poslat jako jeden soubor. Produktové fotky chcete v PDF pro klienta.\n\n[FileTools](https://filetools.eu) zvládá oba směry. Bez registrace. Bez ukládání na server. Vaše data zůstávají na vašem zařízení.\n\n**Proč převádět PDF na obrázky?**\n\nPDF jsou skvělé pro dokumenty. Hrozné pro sociální sítě. Instagram, Twitter, LinkedIn — žádný z nich nezobrazuje PDF nativně. Potřebujete JPG, PNG nebo WebP.\n\nPříklady použití:\n- Proměnit slajdy z prezentace na sdílené obrázky\n- Extrahovat stránky z časopisu nebo katalogu na blog\n- Vytvořit náhledy z PDF portfolia\n- Vzít jednu stránku ze smlouvy bez posílání celého souboru\n\nFileTools podporuje tři výstupní formáty: JPG (malé soubory, vhodné pro web), PNG (bezztrátové, dobré pro text a grafiku) a WebP (moderní, nejlepší komprese).\n\n**Proč převádět obrázky na PDF?**\n\nOpačný směr je stejně častý. Naskenovali jste pět stránek smlouvy na telefonu. Každá je zvlášť jako PNG. Potřebujete jeden PDF soubor pro klienta.\n\nNebo jste nafotili produktové fotky pro e-shop. Dvacet obrázků. Tržiště chce jeden PDF katalog.\n\nFileTools umožňuje nahrát více obrázků — JPG, PNG, WebP, dokonce i HEIC — a sloučí je do jednoho PDF v pořadí, které zvolíte. Číslování stránek, orientace a kvalita se nastavují před konverzí.\n\n**Jak to funguje**\n\nObě konverze sledují stejný jednoduchý postup:\n\n1. Jděte na [filetools.eu](https://filetools.eu) a vyberte směr konverze.\n2. Nahrajte soubor(y). PDF → obrázek přijímá jeden PDF. Obrázek → PDF přijímá více obrázků.\n3. Vyberte výstupní formát a kvalitu.\n4. Stáhněte výsledek.\n\nVše běží na straně klienta. Soubory nikdy neopustí váš prohlížeč. To je důležité, když pracujete se smlouvami, fakturami nebo osobními údaji.\n\n**Tipy na kvalitu**\n\nPro PDF → JPG používejte kvalitu 80-85 %. Dobrý poměr velikosti a čitelnosti. Pro textové stránky PNG lépe zachovává ostré hrany. Pro web použijte WebP — nejmenší soubory s téměř bezztrátovou kvalitou.\n\nPro obrázek → PDF udržujte obrázky na 150-200 DPI. Vyšší DPI dělá PDF obrovské. Nižší je rozmazané při tisku. 150 DPI stačí pro digitální prohlížení. 300 DPI pokud se bude tisknout.\n\n**Kdy konverzi přeskočit**\n\nNěkdy nepotřebujete konvertovat vůbec. Pokud sdílíte dokument s kolegy, kteří všichni mají PDF prohlížeč, nechte ho jako PDF. Pokud potřebujete extrahovat text místo vizuálů, použijte OCR z FileTools.\n\nU prezentací exportujte do PDF z prezentační aplikace a pak převeďte konkrétní slajdy na obrázky pro sociální sítě. Tento workflow vám ušetří exportování každého slajdu zvlášť.\n\n**Shrnutí**\n\nPřevody PDF-na-obrázek a obrázek-na-PDF jsou základní kancelářské operace. [FileTools](https://filetools.eu) je dělá okamžitě, soukromě a zdarma. Žádné účty. Žádné ukládání na server. Jen vaše soubory a výstup, který potřebujete.",
+  "category": "tools",
+  "tags": [
+    "převod PDF",
+    "konverze obrázků",
+    "konvertor souborů",
+    "PDF na JPG",
+    "obrázek do PDF",
+    "webové nástroje"
+  ],
+  "publishedAt": "2026-05-10",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=800&q=80",
+  "imageAlt": "Dokument převáděný z PDF na obrázek na obrazovce notebooku",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "FileTools converter",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-jpg-to-pdf",
+    "filetools-merge-pdfs",
+    "filetools-split-pdf",
+    "filetools-batch-convert"
+  ]
+}
