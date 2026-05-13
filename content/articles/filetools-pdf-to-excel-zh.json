@@ -1,0 +1,42 @@
+{
+  "slug": "filetools-pdf-to-excel",
+  "lang": "zh",
+  "title": "PDF转Excel：秒提取表格数据",
+  "description": "别再手动输入PDF表格中的数字了。[FileTools](https://filetools.eu)可在几秒内将PDF转换为Excel——免费、私密、无需注册。",
+  "excerpt": "手动将PDF表格输入Excel纯属浪费时间。FileTools.eu几秒就能搞定——免费、私密、无需注册。",
+  "content": "## 别再手动输入数字了\n\nPDF表格随处可见。发票、报告、财务报表。把那些数据弄到Excel里过去只有一种办法：手动输入每一行。\n\n那是老办法了。\n\n[FileTools.eu](https://filetools.eu/pdf-to-excel) 几秒就能把PDF表格转成Excel。上传PDF，等一小会儿，下载一个可用的.xlsx文件。格式不会乱，数据不会坏。\n\n## 原理\n\n引擎读取PDF，识别表格结构，然后映射到Excel单元格。列还是列。表头还是表头。数字还是数字。\n\n它能很好地处理：\n\n- **多页表格** — 干净地分配到多个工作表或保持连续\n- **合并单元格** — 能检测并保留结构\n- **扫描版PDF** — 用OCR从图片型PDF中读取文字\n- **混合内容** — 同一页面上既有文本又有表格的PDF\n\n## 什么时候用\n\n**会计。** 客户发来PDF发票。你需要明细行到电子表格里。一次上传，搞定。\n\n**研究。** PDF报告里有数据表格。不用碰键盘就能提取数字。\n\n**电商。** 供应商目录是PDF格式。将产品清单转换为Excel进行库存管理。\n\n**房地产。** 房源信息、可比数据、市场报告——全是PDF。提取你需要的数据。\n\n## 为什么不用普通的转换器？\n\n因为大多数PDF转Excel转换器要么：\n\n- 上传到服务器，等电子邮件链接\n- 按文件收费\n- 限制3页以内\n- 弄乱你的格式\n\nFileTools完全没有这些问题。一切都在你的浏览器本地运行。文件永远不会离开你的电脑。不上传服务器。不等邮件。\n\n而且完全免费。没有积分，没有试用期，没有\"升级才能导出\"。\n\n## FileTools还能做更多\n\nFileTools不只是PDF转Excel。它能转换40多种格式：[图片转PDF](https://filetools.eu/jpg-to-pdf)、Word文档、演示文稿、电子书。始终保持同样的隐私优先原则。\n\n需要[合并PDF](https://filetools.eu/merge-pdfs)？拆分？压缩？解锁受保护的文档？同样的工具，同样的隐私保护。\n\n## 总结\n\n如果你还在手动把PDF表格输入Excel，你是在浪费时间。FileTools几秒就能搞定。免费、私密、无需注册。\n\n停止手动输入。开始转换。",
+  "category": "tools",
+  "tags": [
+    "PDF转Excel",
+    "文件转换",
+    "数据提取",
+    "OCR",
+    "效率工具"
+  ],
+  "publishedAt": "2026-05-13",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
+  "imageAlt": "电子表格与PDF文档的数据提取对比",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "PDF转Excel转换器",
+      "url": "https://filetools.eu/pdf-to-excel"
+    }
+  ],
+  "related": [
+    {
+      "slug": "filetools-pdf-to-word-conversion",
+      "lang": "zh",
+      "title": "PDF转Word：编辑扫描文档"
+    },
+    {
+      "slug": "filetools-excel-to-pdf",
+      "lang": "zh",
+      "title": "Excel转PDF：保持完美布局"
+    }
+  ]
+}

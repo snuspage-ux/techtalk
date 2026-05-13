@@ -1,0 +1,42 @@
+{
+  "slug": "filetools-pdf-to-excel",
+  "lang": "es",
+  "title": "PDF a Excel: Extraiga datos de tablas en segundos",
+  "description": "Deja de copiar números de tablas PDF manualmente. [FileTools](https://filetools.eu) convierte PDF a Excel en segundos — gratis, privado, sin registro.",
+  "excerpt": "Copiar tablas PDF a Excel a mano es una pérdida de tiempo. FileTools.eu lo hace en segundos — gratis, privado, sin necesidad de registrarse.",
+  "content": "## Deja de copiar números a mano\n\nLas tablas en PDF están por todas partes. Facturas, informes, estados financieros. Llevar esos datos a Excel siempre significaba lo mismo: copiar cada fila a mano.\n\nEsa etapa terminó.\n\n[FileTools.eu](https://filetools.eu/pdf-to-excel) convierte tablas PDF a Excel en segundos. Sube tu PDF, espera unos momentos, descarga un archivo .xlsx listo para usar. Sin pérdida de formato, sin datos corruptos.\n\n## Cómo funciona\n\nEl motor lee el PDF, identifica las estructuras de las tablas y las mapea a celdas de Excel. Las columnas siguen siendo columnas. Los encabezados siguen siendo encabezados. Los números siguen siendo números.\n\nEsto es lo que maneja bien:\n\n- **Tablas de varias páginas** — las divide limpiamente en varias hojas o las mantiene continuas\n- **Celdas combinadas** — las detecta y preserva la estructura\n- **PDF escaneados** — usa OCR para leer texto de PDF basados en imágenes\n- **Contenido mixto** — PDF con texto y tablas en la misma página\n\n## Cuándo usarlo\n\n**Contabilidad.** Un cliente envía una factura en PDF. Necesitas las líneas en tu hoja de cálculo. Una subida, listo.\n\n**Investigación.** Informe PDF con tablas de datos. Extrae los números sin tocar el teclado.\n\n**Comercio electrónico.** Catálogos de proveedores en PDF. Convierte listados de productos a Excel para gestión de inventario.\n\n**Bienes raíces.** Listados de propiedades, comparativas, informes de mercado — todos en PDF. Extrae los datos que necesitas.\n\n## ¿Por qué no un conversor cualquiera?\n\nPorque la mayoría de conversores PDF a Excel:\n\n- Suben a un servidor, esperas un enlace por correo\n- Cobran por archivo\n- Están limitados a 3 páginas\n- Te destrozan el formato\n\nFileTools no hace nada de eso. Todo funciona localmente en tu navegador. El archivo nunca sale de tu ordenador. Sin subida a servidores. Sin esperar correos.\n\nY es completamente gratis. Sin créditos, sin períodos de prueba, sin \"actualiza para exportar.\"\n\n## FileTools también hace\n\nFileTools no es solo PDF a Excel. Convierte más de 40 formatos: [imágenes a PDF](https://filetools.eu/jpg-to-pdf), documentos Word, presentaciones, libros electrónicos. Siempre con el mismo enfoque de privacidad.\n\n¿Necesitas [fusionar PDFs](https://filetools.eu/merge-pdfs)? ¿Dividirlos? ¿Comprimirlos? ¿Desbloquear un documento protegido? Misma herramienta, misma privacidad.\n\n## Conclusión\n\nSi todavía estás copiando tablas PDF a Excel manualmente, estás perdiendo tiempo. FileTools lo hace en segundos. Gratis, privado, sin registro.\n\nDeja de copiar. Empieza a convertir.",
+  "category": "tools",
+  "tags": [
+    "PDF a Excel",
+    "conversión de archivos",
+    "extracción de datos",
+    "OCR",
+    "productividad"
+  ],
+  "publishedAt": "2026-05-13",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
+  "imageAlt": "Comparación entre hoja de cálculo y documento PDF para extracción de datos",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "Conversor PDF a Excel",
+      "url": "https://filetools.eu/pdf-to-excel"
+    }
+  ],
+  "related": [
+    {
+      "slug": "filetools-pdf-to-word-conversion",
+      "lang": "es",
+      "title": "PDF a Word: Edita documentos escaneados"
+    },
+    {
+      "slug": "filetools-excel-to-pdf",
+      "lang": "es",
+      "title": "Excel a PDF: Mantén tus diseños perfectos"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "filetools-pdf-to-excel",
+  "lang": "cs",
+  "title": "PDF do Excelu: Vytáhněte data z tabulek během pár vteřin",
+  "description": "Přepisovat čísla z PDF tabulek do Excelu je ztráta času. [FileTools](https://filetools.eu) to zvládne za pár vteřin — zdarma, bez registrace, soukromě.",
+  "excerpt": "Přepisování tabulek z PDF do Excelu ručně je otrava. FileTools.eu to udělá za vás — zdarma, bez registrace.",
+  "content": "## Přestaňte přepisovat čísla ručně\n\nPDF tabulky jsou všude. Faktury, reporty, finanční výkazy. Dostávat ta data do Excelu vždy znamenalo jediné: přepsat každý řádek ručně.\n\nTo je stará cesta.\n\n[FileTools.eu](https://filetools.eu/pdf-to-excel) převede PDF tabulky do Excelu za pár vteřin. Nahrajete PDF, chvíli počkáte a stáhnete hotový .xlsx soubor. Bez ztráty formátování, bez zkažených dat.\n\n## Jak to funguje\n\nEngine přečte PDF, identifikuje strukturu tabulek a namapuje je do buněk Excelu. Sloupce zůstanou sloupci. Hlavičky zůstanou hlavičkami. Čísla zůstanou čísly.\n\nZvládá toho dost:\n\n- **Vícestránkové tabulky** — čistě je rozdělí mezi listy nebo je spojí\n- **Sloučené buňky** — detekuje je a zachová strukturu\n- **Scanované PDF** — použije OCR pro text z naskenovaných dokumentů\n- **Smíšený obsah** — PDF s textem i tabulkami na stejné stránce\n\n## Kdy to využijete\n\n**Účetnictví.** Klient pošle fakturu v PDF. Potřebujete položky v tabulce. Jeden upload, hotovo.\n\n**Výzkum.** PDF report s datovými tabulkami. Vytáhněte čísla, aniž byste se dotkli klávesnice.\n\n**E-commerce.** Katalogy dodavatelů v PDF. Převeďte seznamy produktů do Excelu pro správu skladu.\n\n**Nemovitosti.** Nabídky, srovnání, tržní reporty — všechno v PDF. Extrahujte data, která potřebujete.\n\n## Proč ne obyčejný konvertor?\n\nProtože většina PDF-to-Excel konvertorů buď:\n\n- Nahrajete na server, čekáte na emailový link\n- Platíte za soubor\n- Máte limit 3 stránek\n- Předělají vám formátování\n\nFileTools nic z toho. Všechno běží lokálně v prohlížeči. Soubor nikdy neopustí váš počítač. Žádný upload na server. Žádné čekání na emaily.\n\nA je to kompletně zdarma. Žádné kredity, žádné zkušební doby, žádné \"upgradujte pro export.\"\n\n## FileTools umí i víc\n\nFileTools není jen PDF do Excelu. Konvertuje 40+ formátů: [obrázky do PDF](https://filetools.eu/jpg-to-pdf), Word dokumenty, prezentace, e-knihy. Pořád se stejnou ochranou soukromí.\n\nPotřebujete [sloučit PDF](https://filetools.eu/merge-pdfs)? Rozdělit? Komprimovat? Odemknout chráněný dokument? Stejný nástroj, stejné soukromí.\n\n## Závěr\n\nPokud pořád přepisujete PDF tabulky do Excelu ručně, ztrácíte čas. FileTools to zvládne za pár vteřin. Zdarma, soukromě, bez registrace.\n\nPřestaňte opisovat. Začněte konvertovat.",
+  "category": "tools",
+  "tags": [
+    "PDF do Excelu",
+    "konverze souborů",
+    "extrakce dat",
+    "OCR",
+    "produktivita"
+  ],
+  "publishedAt": "2026-05-13",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
+  "imageAlt": "Porovnání tabulky a PDF dokumentu pro extrakci dat",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "PDF to Excel konvertor",
+      "url": "https://filetools.eu/pdf-to-excel"
+    }
+  ],
+  "related": [
+    {
+      "slug": "filetools-pdf-to-word-conversion",
+      "lang": "cs",
+      "title": "PDF do Wordu: Upravujte naskenované dokumenty"
+    },
+    {
+      "slug": "filetools-excel-to-pdf",
+      "lang": "cs",
+      "title": "Excel do PDF: Udržte své rozvržení dokonalé"
+    }
+  ]
+}
