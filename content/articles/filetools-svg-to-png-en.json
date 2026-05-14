@@ -1,0 +1,32 @@
+{
+  "slug": "filetools-svg-to-png-en",
+  "lang": "en",
+  "title": "SVG to PNG — When Vectors Meet Pixels (And Why You Need Both)",
+  "description": "Convert SVG vector files to PNG images online — free, private, no sign-up. Perfect for web developers, designers, and content creators.",
+  "excerpt": "Vectors scale forever. Rasters don't. Knowing when to use each — and how to convert — is a superpower.",
+  "content": "SVG and PNG are different animals. One is math. The other is pixels.\n\nSVG files are vector graphics — infinitely scalable, perfect for logos, icons, and illustrations. PNG files are raster — every pixel defined, ideal for photos, textures, and detailed graphics.\n\nYou need both.\n\n## When to use SVG\n\nSVG shines where resolution independence matters. A logo on a business card and a billboard should look the same. SVG handles this. It's also smaller than PNG for simple graphics because it stores formulas, not pixels.\n\nBrowsers render SVGs natively. CSS can style them. Animations work. For UI elements, SVG is almost always the right choice.\n\n## When to use PNG\n\nPNG wins for complexity. Photographs, gradients, shadows, and anything with thousands of colors — PNG captures them accurately. It also supports transparency, which JPEG can't do.\n\nSVG cannot render a photograph efficiently. That's where [FileTools](https://filetools.eu) comes in — convert SVG to PNG in one drag.\n\n## Converting SVG to PNG\n\nThe idea sounds simple. In practice, browsers render SVG differently. What looks perfect in one engine breaks in another.\n\n[FileTools](https://filetools.eu) standardizes the output. Drop your SVG file, pick a resolution, choose a background color or transparency, and download a clean PNG. All processing happens client-side — your file never leaves your machine.\n\nThis matters more than you think. SVG files can contain scripts or external references. Uploading them to random converters is a security risk. Client-side conversion eliminates that entirely.\n\n## Resolution matters\n\nSVG has no fixed resolution. It just describes shapes. When converting to PNG, you decide how many pixels matter.\n\n- 72 DPI — screen quality, small file\n- 150 DPI — good for presentations\n- 300 DPI — print ready\n\n[FileTools](https://filetools.eu) lets you pick the exact output dimensions. No guesswork.\n\n## Transparent or solid background\n\nSVG backgrounds are transparent by default. Same for PNG — unless you want otherwise. White backgrounds work better for email signatures or social media. Transparent works for logos on colored websites.\n\nChoose what fits your use case. [FileTools](https://filetools.eu) supports both in the same interface.\n\n## Beyond the conversion\n\nOnce you have your PNG, the next step might be resizing it, compressing it for web, or converting it to WebP. [FileTools](https://filetools.eu) handles all of that without switching tabs.\n\nThe same privacy-first approach works across the board. Like [RoomFlip](https://roomflip.io) processes room photos entirely client-side, FileTools keeps your design assets private too.\n\n## The short version\n\nSVG and PNG serve different jobs. SVG is for scalable graphics. PNG is for detailed images. Converting between them should be instant, private, and free.\n\nIt is, right here.",
+  "category": "tools",
+  "tags": [
+    "svg",
+    "png",
+    "image-conversion",
+    "vector-graphics",
+    "web-design",
+    "browser-tool"
+  ],
+  "publishedAt": "2026-05-14",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1561736778-92e52a7769ef?w=800&q=80",
+  "imageAlt": "Graphic design workspace with vector and raster graphics on screen",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

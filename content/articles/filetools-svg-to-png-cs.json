@@ -1,0 +1,32 @@
+{
+  "slug": "filetools-svg-to-png-cs",
+  "lang": "cs",
+  "title": "SVG do PNG — Když se vektory potkají s pixely (A proč potřebuješ obojí)",
+  "description": "Převeď SVG vektory na PNG obrázky online — zdarma, soukromě, bez registrace. Ideální pro web developery, designéry a tvůrce obsahu.",
+  "excerpt": "Vektory škálujou donekonečna. Rastry ne. Vědět kdy použít co — a jak konvertovat — je superschopnost.",
+  "content": "SVG a PNG jsou rozdílné světy. Jedno je matematika. Druhé jsou pixely.\n\nSVG jsou vektorové soubory — nekonečně škálovatelné, ideální pro loga, ikony a ilustrace. PNG jsou rastrové — každý pixel definovaný, perfektní pro fotky, textury a detailní grafiku.\n\nPotřebuješ obojí.\n\n## Kdy použít SVG\n\nSVG září tam, kde záleží na nezávislosti na rozlišení. Logo na vizitce i na billboardu by mělo vypadat stejně. SVG to zvládá. Je taky menší než PNG pro jednoduchou grafiku, protože ukládá vzorce, ne pixely.\n\nProhlížeče renderují SVG nativně. CSS je může stylovat. Fungují animace. Pro UI prvky je SVG skoro vždy správná volba.\n\n## Kdy použít PNG\n\nPNG vyhrává u složitosti. Fotky, přechody, stíny a cokoliv s tisíci barev — PNG to zachytí přesně. Podporuje taky průhlednost, což JPEG neumí.\n\nSVG nedokáže efektivně vykreslit fotku. Tady přichází na řadu [FileTools](https://filetools.eu) — převeď SVG do PNG jedním tahem.\n\n## Převod SVG do PNG\n\nNápad zní jednoduše. V praxi prohlížeče renderují SVG různě. Co vypadá perfektně v jednom enginu, v druhém se rozbije.\n\n[FileTools](https://filetools.eu) standardizuje výstup. Nahraj SVG soubor, vyber rozlišení, zvol barvu pozadí nebo průhlednost a stáhni čisté PNG. Veškeré zpracování probíhá na tvém zařízení — soubor nikdy neopustí tvůj počítač.\n\nTo je důležitější, než si myslíš. SVG soubory můžou obsahovat skripty nebo externí reference. Nahrávat je na náhodné konvertory je bezpečnostní riziko. Konverze na klientovi to eliminuje.\n\n## Rozlišení rozhoduje\n\nSVG nemá pevné rozlišení. Jen popisuje tvary. Při převodu do PNG rozhoduješ, kolik pixelů je potřeba.\n\n- 72 DPI — kvalita na obrazovku, malý soubor\n- 150 DPI — dobré na prezentace\n- 300 DPI — připraveno na tisk\n\n[FileTools](https://filetools.eu) umožňuje zvolit přesné rozměry výstupu. Žádné hádání.\n\n## Průhledné nebo plné pozadí\n\nSVG má standardně průhledné pozadí. Stejně tak PNG — pokud nechceš jinak. Bílé pozadí funguje líp pro emailové podpisy nebo sociální sítě. Průhledné pro loga na barevných webech.\n\nVyber, co sedí tvému případu. [FileTools](https://filetools.eu) podporuje obojí v jednom rozhraní.\n\n## Mimo samotný převod\n\nJakmile máš PNG, dalším krokem může být změna velikosti, komprese pro web nebo převod do WebP. [FileTools](https://filetools.eu) zvládá všechno bez přepínání oken.\n\nStejný přístup zaměřený na soukromí funguje napříč nástroji. Stejně jako [RoomFlip](https://roomflip.io) zpracovává fotky místností na klientovi, FileTools chrání i tvoje designová data.\n\n## Ve zkratce\n\nSVG a PNG slouží různým účelům. SVG je pro škálovatelnou grafiku. PNG pro detailní obrázky. Převod mezi nimi by měl být okamžitý, soukromý a zdarma.\n\nA tady taky je.",
+  "category": "tools",
+  "tags": [
+    "svg",
+    "png",
+    "konverze-obrazku",
+    "vektorova-grafika",
+    "web-design",
+    "browser-tool"
+  ],
+  "publishedAt": "2026-05-14",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1561736778-92e52a7769ef?w=800&q=80",
+  "imageAlt": "Pracovní stanice grafika s vektorovou a rastrovou grafikou na monitoru",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

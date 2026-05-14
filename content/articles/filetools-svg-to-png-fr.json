@@ -1,0 +1,32 @@
+{
+  "slug": "filetools-svg-to-png-fr",
+  "lang": "fr",
+  "title": "SVG vers PNG — Quand les vecteurs rencontrent les pixels (Et pourquoi tu as besoin des deux)",
+  "description": "Convertissez des fichiers vectoriels SVG en images PNG en ligne — gratuit, privé, sans inscription. Parfait pour les développeurs web, designers et créateurs de contenu.",
+  "excerpt": "Les vecteurs évoluent à l'infini. Les pixels non. Savoir quand utiliser quoi — et comment convertir — est un superpouvoir.",
+  "content": "SVG et PNG sont des animaux différents. L'un est des maths. L'autre est des pixels.\n\nLes fichiers SVG sont des graphiques vectoriels — infiniment évolutifs, parfaits pour les logos, icônes et illustrations. Les fichiers PNG sont matriciels — chaque pixel défini, idéaux pour les photos, textures et graphiques détaillés.\n\nTu as besoin des deux.\n\n## Quand utiliser SVG\n\nSVG brille là où l'indépendance de la résolution compte. Un logo sur une carte de visite et un panneau publicitaire doit être identique. SVG gère ça. C'est aussi plus petit que le PNG pour des graphiques simples car il stocke des formules, pas des pixels.\n\nLes navigateurs rendent le SVG nativement. Le CSS peut les styliser. Les animations fonctionnent. Pour les éléments d'interface, SVG est presque toujours le bon choix.\n\n## Quand utiliser PNG\n\nPNG gagne pour la complexité. Photos, dégradés, ombres et tout ce qui contient des milliers de couleurs — PNG les capture avec précision. Il supporte aussi la transparence, ce que JPEG ne peut pas faire.\n\nSVG ne peut pas rendre une photo efficacement. C'est là que [FileTools](https://filetools.eu) entre en jeu — convertis du SVG en PNG en un geste.\n\n## Convertir SVG en PNG\n\nL'idée semble simple. En pratique, les navigateurs rendent le SVG différemment. Ce qui semble parfait dans un moteur se brise dans un autre.\n\n[FileTools](https://filetools.eu) standardise la sortie. Dépose ton fichier SVG, choisis une résolution, sélectionne une couleur d'arrière-plan ou la transparence, et télécharge un PNG propre. Tout le traitement se fait côté client — ton fichier ne quitte jamais ta machine.\n\nC'est plus important que tu ne le penses. Les fichiers SVG peuvent contenir des scripts ou des références externes. Les uploader sur des convertisseurs aléatoires est un risque de sécurité. La conversion côté client élimine ça complètement.\n\n## La résolution compte\n\nSVG n'a pas de résolution fixe. Il décrit juste des formes. Lors de la conversion en PNG, tu décides combien de pixels comptent.\n\n- 72 DPI — qualité écran, fichier petit\n- 150 DPI — bon pour les présentations\n- 300 DPI — prêt pour l'impression\n\n[FileTools](https://filetools.eu) te permet de choisir les dimensions exactes de sortie. Pas de devinettes.\n\n## Fond transparent ou uni\n\nLes fonds SVG sont transparents par défaut. Idem pour le PNG — sauf si tu veux autrement. Les fonds blancs fonctionnent mieux pour les signatures email ou les réseaux sociaux. Les transparents pour les logos sur des sites colorés.\n\nChoisis ce qui convient à ton cas. [FileTools](https://filetools.eu) supporte les deux dans la même interface.\n\n## Au-delà de la conversion\n\nUne fois ton PNG en main, la prochaine étape pourrait être de le redimensionner, le compresser pour le web ou le convertir en WebP. [FileTools](https://filetools.eu) gère tout ça sans changer d'onglet.\n\nLa même approche axée sur la vie privée fonctionne partout. Tout comme [RoomFlip](https://roomflip.io) traite les photos de pièces côté client, FileTools garde tes actifs de design privés.\n\n## En résumé\n\nSVG et PNG servent des rôles différents. SVG est pour les graphiques évolutifs. PNG est pour les images détaillées. La conversion entre les deux devrait être instantanée, privée et gratuite.\n\nElle l'est — ici.",
+  "category": "tools",
+  "tags": [
+    "svg",
+    "png",
+    "conversion-image",
+    "graphiques-vectoriels",
+    "web-design",
+    "browser-tool"
+  ],
+  "publishedAt": "2026-05-14",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1561736778-92e52a7769ef?w=800&q=80",
+  "imageAlt": "Espace de travail de design graphique avec des graphiques vectoriels et matriciels à l'écran",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "filetools-svg-to-png-de",
+  "lang": "de",
+  "title": "SVG in PNG umwandeln — Wenn Vektoren auf Pixel treffen (Und warum du beides brauchst)",
+  "description": "Konvertiere SVG-Vektordateien online in PNG-Bilder — kostenlos, privat, ohne Anmeldung. Perfekt für Webentwickler, Designer und Content-Ersteller.",
+  "excerpt": "Vektoren skalieren ewig. Raster nicht. Zu wissen, wann man was verwendet — und wie man konvertiert — ist eine Superkraft.",
+  "content": "SVG und PNG sind unterschiedliche Tiere. Das eine ist Mathematik. Das andere sind Pixel.\n\nSVG-Dateien sind Vektorgrafiken — unendlich skalierbar, perfekt für Logos, Icons und Illustrationen. PNG-Dateien sind Rastergrafiken — jedes Pixel definiert, ideal für Fotos, Texturen und detailreiche Grafiken.\n\nDu brauchst beides.\n\n## Wann SVG verwenden\n\nSVG glänzt, wo Auflösungsunabhängigkeit zählt. Ein Logo auf einer Visitenkarte und einer Werbetafel sollte gleich aussehen. SVG meistert das. Es ist auch kleiner als PNG für einfache Grafiken, weil es Formeln statt Pixel speichert.\n\nBrowser rendern SVG nativ. CSS kann sie stylen. Animationen funktionieren. Für UI-Elemente ist SVG fast immer die richtige Wahl.\n\n## Wann PNG verwenden\n\nPNG gewinnt bei Komplexität. Fotos, Verläufe, Schatten und alles mit tausenden Farben — PNG erfasst sie präzise. Es unterstützt auch Transparenz, was JPEG nicht kann.\n\nSVG kann ein Foto nicht effizient darstellen. Hier kommt [FileTools](https://filetools.eu) ins Spiel — SVG in einem Zug in PNG konvertieren.\n\n## SVG in PNG konvertieren\n\nDie Idee klingt einfach. In der Praxis rendern Browser SVG unterschiedlich. Was in einer Engine perfekt aussieht, bricht in einer anderen.\n\n[FileTools](https://filetools.eu) standardisiert die Ausgabe. Ziehe deine SVG-Datei, wähle eine Auflösung, entscheide über Hintergrundfarbe oder Transparenz und lade ein sauberes PNG herunter. Die gesamte Verarbeitung erfolgt clientseitig — deine Datei verlässt niemals deinen Rechner.\n\nDas ist wichtiger als du denkst. SVG-Dateien können Skripte oder externe Referenzen enthalten. Sie auf beliebige Konverter hochzuladen ist ein Sicherheitsrisiko. Clientseitige Konvertierung eliminiert das vollständig.\n\n## Auflösung zählt\n\nSVG hat keine feste Auflösung. Es beschreibt nur Formen. Bei der Konvertierung zu PNG entscheidest du, wie viele Pixel zählen.\n\n- 72 DPI — Bildschirmqualität, kleine Datei\n- 150 DPI — gut für Präsentationen\n- 300 DPI — druckfertig\n\n[FileTools](https://filetools.eu) lässt dich die genauen Ausgabemaße wählen. Kein Rätselraten.\n## Transparenter oder voller Hintergrund\n\nSVG-Hintergründe sind standardmäßig transparent. Gleiches gilt für PNG — es sei denn, du möchtest anders. Weiße Hintergründe funktionieren besser für E-Mail-Signaturen oder soziale Medien. Transparente für Logos auf farbigen Websites.\n\nWähle, was zu deinem Anwendungsfall passt. [FileTools](https://filetools.eu) unterstützt beides in derselben Oberfläche.\n\n## Über die Konvertierung hinaus\n\nSobald du dein PNG hast, könnte der nächste Schritt sein, es zu skalieren, fürs Web zu komprimieren oder in WebP zu konvertieren. [FileTools](https://filetools.eu) erledigt alles ohne Tab-Wechsel.\n\nDerselbe datenschutzorientierte Ansatz gilt durchgängig. Genau wie [RoomFlip](https://roomflip.io) Raumfotos clientseitig verarbeitet, hält FileTools auch deine Design-Assets privat.\n\n## Kurzfassung\n\nSVG und PNG haben unterschiedliche Aufgaben. SVG ist für skalierbare Grafiken. PNG ist für detailreiche Bilder. Die Konvertierung zwischen ihnen sollte sofort, privat und kostenlos sein.\n\nUnd das ist sie — hier.",
+  "category": "tools",
+  "tags": [
+    "svg",
+    "png",
+    "bildkonvertierung",
+    "vektorgrafiken",
+    "webdesign",
+    "browser-tool"
+  ],
+  "publishedAt": "2026-05-14",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1561736778-92e52a7769ef?w=800&q=80",
+  "imageAlt": "Grafikdesign-Arbeitsplatz mit Vektor- und Rastergrafiken auf dem Bildschirm",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

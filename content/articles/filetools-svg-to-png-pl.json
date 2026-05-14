@@ -1,0 +1,32 @@
+{
+  "slug": "filetools-svg-to-png-pl",
+  "lang": "pl",
+  "title": "SVG na PNG — Gdy wektory spotykają piksele (I dlaczego potrzebujesz obu)",
+  "description": "Konwertuj pliki wektorowe SVG na obrazy PNG online — za darmo, prywatnie, bez rejestracji. Idealne dla web developerów, projektantów i twórców treści.",
+  "excerpt": "Wektory skalują się w nieskończoność. Rastry nie. Wiedzieć, kiedy użyć czego — i jak konwertować — to supermoc.",
+  "content": "SVG i PNG to różne zwierzęta. Jedno to matematyka. Drugie to piksele.\n\nPliki SVG to grafika wektorowa — nieskończenie skalowalna, idealna do logo, ikon i ilustracji. Pliki PNG to grafika rastrowa — każdy piksel zdefiniowany, doskonała do zdjęć, tekstur i szczegółowych grafik.\n\nPotrzebujesz obu.\n\n## Kiedy używać SVG\n\nSVG błyszczy tam, gdzie liczy się niezależność od rozdzielczości. Logo na wizytówce i na billboardzie powinno wyglądać tak samo. SVG to ogarnia. Jest też mniejsze niż PNG dla prostych grafik, bo przechowuje formuły, a nie piksele.\n\nPrzeglądarki renderują SVG natywnie. CSS może je stylizować. Działają animacje. Dla elementów interfejsu SVG to prawie zawsze właściwy wybór.\n\n## Kiedy używać PNG\n\nPNG wygrywa przy złożoności. Zdjęcia, gradienty, cienie i wszystko z tysiącami kolorów — PNG oddaje je precyzyjnie. Wspiera też przezroczystość, czego JPEG nie potrafi.\n\nSVG nie może efektywnie renderować zdjęcia. Tu wkracza [FileTools](https://filetools.eu) — konwertuj SVG na PNG jednym ruchem.\n\n## Konwersja SVG na PNG\n\nPomysł brzmi prosto. W praktyce przeglądarki renderują SVG różnie. To, co wygląda idealnie w jednym silniku, w innym się psuje.\n\n[FileTools](https://filetools.eu) standaryzuje wynik. Przeciągnij plik SVG, wybierz rozdzielczość, określ kolor tła lub przezroczystość i pobierz czysty PNG. Całe przetwarzanie odbywa się po stronie klienta — plik nigdy nie opuszcza twojego komputera.\n\nTo ważniejsze niż myślisz. Pliki SVG mogą zawierać skrypty lub zewnętrzne referencje. Wrzucanie ich na przypadkowe konwertery to ryzyko bezpieczeństwa. Konwersja po stronie klienta całkowicie to eliminuje.\n\n## Rozdzielczość ma znaczenie\n\nSVG nie ma stałej rozdzielczości. Tylko opisuje kształty. Podczas konwersji do PNG decydujesz, ile pikseli ma znaczenie.\n\n- 72 DPI — jakość ekranowa, mały plik\n- 150 DPI — dobre na prezentacje\n- 300 DPI — gotowe do druku\n\n[FileTools](https://filetools.eu) pozwala wybrać dokładne wymiary wyjściowe. Żadnego zgadywania.\n\n## Przezroczyste lub pełne tło\n\nTła SVG są domyślnie przezroczyste. Tak samo PNG — chyba że chcesz inaczej. Białe tła lepiej działają dla podpisów emailowych lub mediów społecznościowych. Przezroczyste dla logo na kolorowych stronach.\n\nWybierz, co pasuje do twojego przypadku. [FileTools](https://filetools.eu) wspiera obie opcje w tym samym interfejsie.\n\n## Poza samą konwersją\n\nGdy masz już PNG, następnym krokiem może być zmiana rozmiaru, kompresja dla sieci lub konwersja do WebP. [FileTools](https://filetools.eu) ogarnia wszystko bez przełączania kart.\n\nTo samo podejście stawiające prywatność na pierwszym miejscu działa wszędzie. Podobnie jak [RoomFlip](https://roomflip.io) przetwarza zdjęcia pomieszczeń po stronie klienta, FileTools utrzymuje twoje zasoby projektowe prywatne.\n\n## Krótko mówiąc\n\nSVG i PNG służą różnym celom. SVG jest do skalowalnej grafiki. PNG do szczegółowych obrazów. Konwersja między nimi powinna być błyskawiczna, prywatna i darmowa.\n\nI jest — tutaj.",
+  "category": "tools",
+  "tags": [
+    "svg",
+    "png",
+    "konwersja-zdjec",
+    "grafika-wektorowa",
+    "projektowanie-web",
+    "browser-tool"
+  ],
+  "publishedAt": "2026-05-14",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1561736778-92e52a7769ef?w=800&q=80",
+  "imageAlt": "Miejsce pracy grafika z grafiką wektorową i rastrową na ekranie",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}
