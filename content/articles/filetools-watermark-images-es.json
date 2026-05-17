@@ -1,0 +1,41 @@
+{
+  "slug": "filetools-watermark-images-es",
+  "lang": "es",
+  "title": "Cómo agregar marcas de agua a imágenes y PDF en línea",
+  "description": "Protege tu contenido visual. Aprende a añadir marcas de agua de texto e imagen a fotos, ilustraciones y documentos PDF con herramientas gratuitas en línea.",
+  "excerpt": "Poner marca de agua a tus imágenes y PDF es la forma más simple de reclamar tu propiedad. Así se hace en segundos — sin instalar nada.",
+  "content": "## Por qué importan las marcas de agua\n\nSubes una foto. Alguien la roba. Así es internet.\n\nLas marcas de agua son tu primera línea de defensa. Un logo visible o texto superpuesto dice: esto le pertenece a alguien. No es una solución perfecta, pero frena el robo ocasional.\n\nLos fotógrafos profesionales marcan todo. Los freelancers también. Incluso las marcas añaden marcas sutiles a fotos de productos. La lógica es simple — si robar requiere trabajo extra, la mayoría no se molesta.\n\n## Marca de agua de texto vs imagen\n\nDos enfoques. Ambos funcionan.\n\n**Las marcas de agua de texto** son rápidas. Tu nombre, tu marca, un aviso de copyright. Eliges una fuente, ajustas la opacidad, la colocas visible pero no molesta. Las esquinas funcionan mejor para fotos. Los patrones diagonales son mejores para documentos.\n\n**Las marcas de agua de imagen** son tu logo o firma. Se ven más profesionales. La desventaja es el tamaño del archivo — un PNG transparente añade kilobytes. Vale la pena para activos de negocio.\n\n## Dónde colocar marcas de agua\n\n### Fotos e ilustraciones\n\nLas imágenes individuales son sencillas. Subir, posicionar, exportar. La clave es la opacidad — visible para disuadir el robo pero sutil para no arruinar la imagen. 30-50 % de opacidad es el punto ideal.\n\nEl procesamiento por lotes importa si creas en volumen. ¿Cincuenta imágenes? No quieres marcarlas una por una. [FileTools.eu](https://filetools.eu) maneja el marcado por lotes para imágenes y PDF en una sola operación.\n\n### Documentos PDF\n\nEl marcado de PDF es diferente. Generalmente marcas todas las páginas. Las marcas de texto como \"BORRADOR\" o \"CONFIDENCIAL\" sobre el fondo funcionan bien. Para contratos y propuestas, una marca en el pie de página es más limpia.\n\nLas marcas de imagen en PDF requieren posicionamiento cuidadoso. No quieres que tu logo oculte contenido. Arriba a la derecha o abajo a la izquierda son opciones estándar.\n\n## La configuración correcta\n\n| Configuración | Recomendación |\n|--------------|---------------|\n| Opacidad | 30–50 % |\n| Posición | Abajo derecha para fotos, diagonal para PDF |\n| Fuente (texto) | Sans-serif, negrita |\n| Formato imagen | PNG con transparencia |\n| Rotación | Diagonal (−30° a −45°) para texto |\n\n## Privacidad\n\nCon el marcado en línea, tus archivos viajan por servidores ajenos. Asegúrate de que la herramienta elimine tus originales tras el procesamiento. [FileTools.eu](https://filetools.eu) procesa todo en memoria y elimina archivos automáticamente. Sin copias. Sin fugas de datos.\n\n## Qué evitar\n\nNo coloques marcas en esquinas que puedan recortarse. No uses 100 % de opacidad. No uses fuentes diminutas. No hagas la marca removible con un pincel de curación — los patrones diagonales repetidos son más difíciles de borrar.\n\nTambién: no marques tan agresivamente que tu imagen se vea mal. El objetivo es proteger, no castigar.\n\n## Cuándo no marcar\n\n¿Fotos de stock? A veces necesitas imágenes limpias. Las publicaciones en redes sociales a menudo funcionan mejor sin marcas. Los portafolios de arte se benefician de una presentación limpia.\n\nUsa marcas de agua estratégicamente. No en todas partes.\n\n## Flujo rápido\n\n1. Prepara tu marca como PNG transparente (400×150px es una buena base)\n2. Sube tus archivos a [FileTools.eu](https://filetools.eu)\n3. Elige posición y opacidad\n4. Exporta el lote\n5. Listo en menos de un minuto\n\nPara PDF: sube el documento, elige \"Marca de agua PDF,\" configura tu texto o imagen, aplica a todas las páginas. Eso es todo.\n\nMarcar es gratis. Toma segundos. Y frena la mayoría de robos antes de que empiecen. Hazlo.",
+  "category": "tools",
+  "tags": [
+    "marca de agua",
+    "protección de imágenes",
+    "marca de agua pdf",
+    "copyright",
+    "herramientas online",
+    "procesamiento por lotes"
+  ],
+  "publishedAt": "2026-05-17",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&q=80",
+  "imageAlt": "Patrón abstracto de marca de agua digital sobre fondo oscuro",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    {
+      "title": "Cómo comprimir archivos en línea sin perder calidad",
+      "slug": "filetools-compress-files-online"
+    },
+    {
+      "title": "Guía de redimensionamiento de imágenes para redes sociales",
+      "slug": "filetools-image-resize"
+    },
+    {
+      "title": "Por qué la conversión local importa para la privacidad",
+      "slug": "filetools-privacy-local-conversion"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "filetools-watermark-images-fr",
+  "lang": "fr",
+  "title": "Ajouter un filigrane aux images et PDF en ligne",
+  "description": "Protégez vos contenus visuels. Apprenez à ajouter des filigranes textes et images à vos photos, illustrations et documents PDF avec des outils gratuits en ligne.",
+  "excerpt": "Filigraner vos images et PDF est le moyen le plus simple de revendiquer votre propriété. Voici comment faire en quelques secondes — sans logiciel.",
+  "content": "## Pourquoi le filigrane est important\n\nVous téléchargez une photo. Quelqu'un la vole. C'est Internet.\n\nLe filigrane est votre première ligne de défense. Un logo visible ou une superposition de texte indique : ceci appartient à quelqu'un. Ce n'est pas une solution parfaite, mais cela arrête le vol occasionnel.\n\nLes photographes professionnels filigranent tout. Les freelances aussi. Même les marques ajoutent des marques subtiles à leurs photos produits. La logique est simple — si le vol demande un effort supplémentaire, la plupart des gens n'iront pas plus loin.\n\n## Filigrane texte vs image\n\nDeux approches. Les deux fonctionnent.\n\n**Les filigranes texte** sont rapides. Votre nom, votre marque, un copyright. Choisissez une police, réglez l'opacité, placez-le visible mais pas gênant. Les coins fonctionnent mieux pour les photos. Les motifs diagonaux sont meilleurs pour les documents.\n\n**Les filigranes image** sont votre logo ou signature. Ils sont plus professionnels. L'inconvénient est la taille du fichier — un PNG transparent ajoute des kilooctets. Cela vaut le coup pour les documents professionnels.\n\n## Où placer les filigranes\n\n### Photos et illustrations\n\nLes images uniques sont simples. Téléchargez, positionnez, exportez. La clé est l'opacité — assez visible pour dissuader le vol mais assez discrète pour ne pas gâcher l'image. 30 à 50 % d'opacité est l'idéal.\n\nLe traitement par lots est crucial si vous créez en volume. Cinquante images ? Vous ne voulez pas les filigraner une par une. [FileTools.eu](https://filetools.eu) gère le filigrane par lots pour les images et les PDF en une seule opération.\n\n### Documents PDF\n\nLe filigrane PDF est différent. Vous marquez généralement toutes les pages. Les filigranes texte comme \"BROUILLON\" ou \"CONFIDENTIEL\" en arrière-plan fonctionnent bien. Pour les contrats et propositions, un filigrane en pied de page est plus propre.\n\nLes filigranes image sur PDF nécessitent un positionnement précis. Vous ne voulez pas que votre logo cache du contenu. En haut à droite ou en bas à gauche sont les choix standards.\n\n## Les bons réglages\n\n| Réglage | Recommandation |\n|---------|---------------|\n| Opacité | 30–50 % |\n| Position | Bas droite pour les photos, diagonale pour les PDF |\n| Police (texte) | Sans empattement, gras |\n| Format image | PNG avec transparence |\n| Rotation | Diagonale (−30° à −45°) pour le texte |\n\n## Confidentialité\n\nAvec le filigrane en ligne, vos fichiers transitent par des serveurs tiers. Assurez-vous que l'outil supprime vos originaux après traitement. [FileTools.eu](https://filetools.eu) traite tout en mémoire et supprime automatiquement les fichiers. Aucune copie conservée. Aucune fuite de données.\n\n## Ce qu'il faut éviter\n\nNe placez pas les filigranes dans des coins qui peuvent être recadrés. N'utilisez pas 100 % d'opacité. Pas de polices minuscules. Ne rendez pas le filigrane supprimable avec un pinceau de retouche — les motifs diagonaux répétés sont plus difficiles à effacer.\n\nAussi : ne filigranez pas trop agressivement au point de gâcher l'image. Le but est la protection, pas la punition.\n\n## Quand ne pas filigraner\n\nPhotos libres de droits ? Parfois vous avez besoin d'images propres. Les publications sur les réseaux sociaux performent souvent mieux sans marques. Les portfolios artistiques bénéficient d'une présentation épurée.\n\nUtilisez les filigranes stratégiquement. Pas partout.\n\n## Étapes rapides\n\n1. Préparez votre filigrane en PNG transparent (400×150px est une bonne base)\n2. Téléchargez vos fichiers sur [FileTools.eu](https://filetools.eu)\n3. Choisissez la position et l'opacité\n4. Exportez le lot\n5. Fini en moins d'une minute\n\nPour les PDF : téléchargez le document, choisissez \"Filigrane PDF,\" définissez votre texte ou image, appliquez à toutes les pages. C'est tout.\n\nLe filigrane est gratuit. Cela prend quelques secondes. Et cela arrête la plupart des vols avant qu'ils ne commencent. Faites-le.",
+  "category": "tools",
+  "tags": [
+    "filigrane",
+    "protection d'image",
+    "filigrane pdf",
+    "copyright",
+    "outils en ligne",
+    "traitement par lots"
+  ],
+  "publishedAt": "2026-05-17",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&q=80",
+  "imageAlt": "Motif de filigrane numérique abstrait sur fond sombre",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    {
+      "title": "Comment compresser des fichiers en ligne sans perte de qualité",
+      "slug": "filetools-compress-files-online"
+    },
+    {
+      "title": "Guide de redimensionnement d'images pour les réseaux sociaux",
+      "slug": "filetools-image-resize"
+    },
+    {
+      "title": "Pourquoi la conversion locale est importante pour la confidentialité",
+      "slug": "filetools-privacy-local-conversion"
+    }
+  ]
+}

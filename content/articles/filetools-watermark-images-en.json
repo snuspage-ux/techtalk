@@ -1,0 +1,41 @@
+{
+  "slug": "filetools-watermark-images-en",
+  "lang": "en",
+  "title": "How to Add Watermarks to Images and PDFs Online",
+  "description": "Protect your visual content. Learn how to add text and image watermarks to photos, illustrations, and PDF documents using free online tools.",
+  "excerpt": "Watermarking your images and PDFs is the simplest way to claim ownership. Here's how to do it in seconds — no software needed.",
+  "content": "## Why Watermarking Matters\n\nYou upload a photo. Someone steals it. That's the internet.\n\nWatermarks are your first line of defense. A visible logo or text overlay tells people: this belongs to someone. It's not a perfect solution, but it stops casual theft cold.\n\nProfessional photographers watermark everything. Freelancers do too. Even brands add subtle marks to product shots. The logic is simple — if stealing requires extra work, most people won't bother.\n\n## Text vs Image Watermarks\n\nTwo approaches. Both work.\n\n**Text watermarks** are fast. Your name, your brand, a copyright notice. Pick a font, adjust opacity, position it where it's visible but not destructive. Corner placements work best for photos. Diagonal repeating patterns are better for documents.\n\n**Image watermarks** are your logo or signature. They look more professional. The trade-off is file size — a transparent PNG overlay adds kilobytes. Worth it for business assets.\n\n## Where to Add Watermarks\n\n### Photos and Illustrations\n\nSingle images are straightforward. Upload, position, export. The key is opacity — you want it visible enough to deter theft but subtle enough not to ruin the image. 30-50% opacity is the sweet spot.\n\nBatch processing matters if you're a creator. Fifty images? You don't want to watermark each one by hand. [FileTools.eu](https://filetools.eu) handles batch watermarking for images and PDFs in one go.\n\n### PDF Documents\n\nPDF watermarking is different. You're usually marking every page. Text watermarks like \"DRAFT\" or \"CONFIDENTIAL\" across the background work well. For contracts and proposals, a footer watermark keeps things clean.\n\nImage watermarks on PDFs need careful positioning. You don't want your logo obscuring content. Top-right or bottom-left are standard choices.\n\n## The Right Settings\n\n| Setting | Recommendation |\n|---------|---------------|\n| Opacity | 30-50% |\n| Position | Bottom-right for images, diagonal for PDFs |\n| Font (text) | Sans-serif, bold |\n| Image format | PNG with transparency |\n| Rotation | Diagonal (-30° to -45°) for text marks |\n\n## Privacy Matters\n\nHere's the thing about online watermarking — your files travel through their servers. Make sure the tool you use deletes your originals after processing. [FileTools.eu](https://filetools.eu) processes everything in memory and removes files automatically. No copies stored. No data leaks.\n\n## What to Avoid\n\nDon't place watermarks in corners that can be cropped. Don't use 100% opacity. Don't use tiny fonts. Don't make the watermark removable with a healing brush — repeating diagonal patterns are harder to erase.\n\nAlso: don't watermark so aggressively that your image looks bad. The goal is protection, not punishment.\n\n## When Not to Watermark\n\nStock photography? Sometimes you need clean images. Social media posts often perform better without marks. Art portfolios benefit from clean presentation.\n\nUse watermarks strategically. Not everywhere.\n\n## Quick Workflow\n\n1. Prepare your watermark image as a transparent PNG (400×150px is a good base)\n2. Upload your files to [FileTools.eu](https://filetools.eu)\n3. Choose watermark position and opacity\n4. Export the batch\n5. Done in under a minute\n\nFor PDFs: upload the document, pick \"Watermark PDF,\" set your text or image, apply to all pages. That's it.\n\nWatermarking is free. It takes seconds. And it stops most theft before it starts. Do it.",
+  "category": "tools",
+  "tags": [
+    "watermark",
+    "image protection",
+    "pdf watermark",
+    "copyright",
+    "online tools",
+    "batch processing"
+  ],
+  "publishedAt": "2026-05-17",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&q=80",
+  "imageAlt": "Abstract digital watermark pattern on a dark background",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    {
+      "title": "How to Compress Files Online Without Losing Quality",
+      "slug": "filetools-compress-files-online"
+    },
+    {
+      "title": "Image Resizing Guide for Social Media",
+      "slug": "filetools-image-resize"
+    },
+    {
+      "title": "Why Local File Conversion Matters for Privacy",
+      "slug": "filetools-privacy-local-conversion"
+    }
+  ]
+}

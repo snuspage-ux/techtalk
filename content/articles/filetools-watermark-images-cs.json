@@ -1,0 +1,41 @@
+{
+  "slug": "filetools-watermark-images-cs",
+  "lang": "cs",
+  "title": "Jak přidat vodoznak na obrázky a PDF online",
+  "description": "Ochraňte svůj vizuální obsah. Naučte se přidávat textové i obrázkové vodoznaky na fotky, ilustrace a PDF dokumenty pomocí online nástrojů zdarma.",
+  "excerpt": "Vodoznak na obrázcích a PDF je nejjednodušší způsob, jak si nárokovat vlastnictví. Tady je návod na pár sekund — bez instalace.",
+  "content": "## Proč vodoznaky dávají smysl\n\nNahrajete fotku. Někdo ji ukradne. To je internet.\n\nVodoznak je vaše první obranná linie. Viditelné logo nebo text říká: tohle někomu patří. Není to dokonalé, ale zastaví to běžné krádeže.\n\nProfesionální fotografové vodoznakují všechno. Freelanceři taky. Dokonce i značky přidávají jemné značky do produktových fotek. Logika je jednoduchá — když krádež vyžaduje extra práci, většina lidí se do toho nepustí.\n\n## Textový vs obrázkový vodoznak\n\nDva přístupy. Oba fungují.\n\n**Textový vodoznak** je rychlý. Vaše jméno, značka, copyright. Vyberete font, nastavíte průhlednost, umístíte tam, kde je vidět, ale neruší. Rohy fungují nejlíp u fotek. Diagonální vzory jsou lepší u dokumentů.\n\n**Obrázkový vodoznak** je vaše logo nebo podpis. Vypadá profesionálněji. Nevýhoda je velikost — průhledný PNG overlay přidá kilobajty. Stojí to za to u business materiálů.\n\n## Kam vodoznak umístit\n\n### Fotky a ilustrace\n\nJednotlivé obrázky jsou jednoduché. Nahrát, umístit, exportovat. Klíč je průhlednost — chcete, aby byl vidět, ale nerušil. 30-50 % je ideál.\n\nDávkové zpracování je zásadní, když tvoříte ve větším. Padesát fotek? Nechcete je vodoznakit jednu po jedné. [FileTools.eu](https://filetools.eu) zvládne dávkové vodoznaky pro obrázky i PDF najednou.\n\n### PDF dokumenty\n\nVodoznak v PDF je jiný. Obvykle chcete označit všechny stránky. Textové vodoznaky jako \"KONCEPT\" nebo \"DŮVĚRNÉ\" přes pozadí fungují skvěle. U smluv a nabídek je čistší vodoznak v zápatí.\n\nObrázkové vodoznaky v PDF vyžadují přesné umístění. Nechcete, aby logo zakrývalo obsah. Pravý horní nebo levý dolní roh jsou standard.\n\n## Správná nastavení\n\n| Nastavení | Doporučení |\n|-----------|------------|\n| Průhlednost | 30-50 % |\n| Pozice | Vpravo dole u fotek, diagonálně u PDF |\n| Font (text) | Bezpatkový, tučný |\n| Formát obrázku | PNG s průhledností |\n| Rotace | Diagonální (-30° až -45°) pro text |\n\n## Soukromí\n\nDůležitá věc u online vodoznakování — vaše soubory putují přes cizí servery. Ujistěte se, že nástroj po zpracování originály smaže. [FileTools.eu](https://filetools.eu) zpracovává všechno v paměti a soubory automaticky maže. Žádné kopie. Žádný únik dat.\n\n## Čemu se vyhnout\n\nNedávejte vodoznaky do rohů, které jdou oříznout. Nepoužívejte 100% krytí. Nepoužívejte malé fonty. Nedělejte vodoznak odstranitelný healing štětcem — diagonální vzory se hůř mažou.\n\nTaky: nevodoznaktěte tak agresivně, že obrázek vypadá špatně. Cíl je ochrana, ne trest.\n\n## Kdy vodoznak nepoužívat\n\nStock fotky? Někdy potřebujete čisté obrázky. Sociální sítě často fungují líp bez označení. Portfolia umělců těží z čisté prezentace.\n\nPoužívejte vodoznaky strategicky. Ne všude.\n\n## Rychlý postup\n\n1. Připravte si vodoznak jako průhledný PNG (400×150px je dobrý základ)\n2. Nahrajte soubory na [FileTools.eu](https://filetools.eu)\n3. Zvolte pozici a průhlednost\n4. Exportujte dávku\n5. Hotovo za minutu\n\nU PDF: nahrajte dokument, zvolte \"Vodoznak PDF,\" nastavte text nebo obrázek, aplikujte na všechny stránky. A je to.\n\nVodoznakování je zdarma. Trvá vteřiny. A zastaví většinu krádeží dřív, než začnou. Dělejte to.",
+  "category": "tools",
+  "tags": [
+    "vodoznak",
+    "ochrana obrázků",
+    "vodoznak pdf",
+    "copyright",
+    "online nástroje",
+    "dávkové zpracování"
+  ],
+  "publishedAt": "2026-05-17",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&q=80",
+  "imageAlt": "Abstraktní digitální vzor vodoznaku na tmavém pozadí",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    {
+      "title": "Jak komprimovat soubory online bez ztráty kvality",
+      "slug": "filetools-compress-files-online"
+    },
+    {
+      "title": "Průvodce změnou velikosti obrázků pro sociální sítě",
+      "slug": "filetools-image-resize"
+    },
+    {
+      "title": "Proč na soukromí při konverzi souborů záleží",
+      "slug": "filetools-privacy-local-conversion"
+    }
+  ]
+}
