@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/0n8m5n4iui96..css","style"]
+:HL["/_next/static/chunks/0mw9pjd.7nqqi.css","style"]
 :HL["https://images.unsplash.com/photo-1593078166039-c9878df5c520?w=800&q=80","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"lang","param":{"type":"d","key":"zh","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"tubevoice-review-zh","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"L1i7vsI0xPtqcOIVvuL1A"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"lang","param":{"type":"d","key":"zh","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"tubevoice-review-zh","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"yab8aJ9mXf98WM9WrCYZj"}

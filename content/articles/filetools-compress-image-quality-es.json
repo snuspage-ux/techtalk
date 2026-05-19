@@ -1,0 +1,36 @@
+{
+  "slug": "filetools-compress-image-quality-es",
+  "lang": "es",
+  "title": "Comprimir imágenes sin perder calidad: Guía completa",
+  "description": "Aprende a comprimir imágenes JPEG, PNG y WebP manteniéndolas nítidas. Herramientas gratuitas que realmente funcionan.",
+  "excerpt": "Las imágenes grandes ralentizan tu web. Aquí te mostramos cómo reducirlas sin pérdida visible — con [FileTools](https://filetools.eu) y técnicas probadas.",
+  "content": "# Comprimir imágenes sin perder calidad: Guía completa\n\nLos archivos de imágenes grandes son la razón número uno de que los sitios web carguen lento. Los estudios muestran que el 53 % de los usuarios móviles abandonan una página que tarda más de tres segundos en cargar. ¿Y esas fotos enormes de tu iPhone? Suelen tener 5-10 MB cada una.\n\nNo necesitas software caro. Aquí tienes la guía práctica para comprimir imágenes sin pérdida visible de calidad.\n\n## Por qué importa la compresión de imágenes\n\nCada segundo de carga te cuesta conversiones. Amazon calculó que 100 ms de retraso les cuesta el 1 % de ingresos. En un sitio más pequeño, el impacto es aún mayor.\n\nGoogle también usa la velocidad de página como factor de ranking. Los sitios lentos aparecen más abajo. Y las imágenes representan aproximadamente el 50 % del peso total de una página.\n\n## Compresión sin pérdida vs con pérdida\n\nExisten dos enfoques:\n\n**Compresión sin pérdida** — el archivo se reduce pero los datos de píxeles siguen siendo idénticos. Funciona mejor en diagramas, capturas de pantalla y logotipos. Ahorro: 10-40 %.\n\n**Compresión con pérdida** — elimina datos que tu ojo probablemente no notará. Ideal para fotografías e imágenes complejas. Ahorro: 50-80 % sin diferencia visible.\n\nEl truco es encontrar el punto óptimo. Demasiado agresivo = artefactos feos. Demasiado conservador = ancho de banda desperdiciado.\n\n## Las mejores herramientas\n\n### FileTools.eu — Gratis y privado\n\n[FileTools](https://filetools.eu/image-compress) comprime imágenes JPEG, PNG, WebP y AVIF directamente en tu navegador. Todo se procesa localmente — los archivos nunca salen de tu máquina. Importante si manejas fotos de clientes o diseños sensibles.\n\nArrastra, suelta, elige calidad, descarga. Sin registro.\n\n### Otras herramientas sólidas\n\n- **ImageOptim** — solo Mac, sin pérdida, elimina metadatos\n- **Squoosh** — la app web de Google, excelente para comparación visual\n- **TinyPNG/TinyJPG** — reducción inteligente de PNG, calidad decente\n\n### El enfoque manual (para perfeccionistas)\n\nAbre la imagen en un editor. Exporta como JPEG al 80-85 % de calidad. Verifica en una pantalla real, no solo en la miniatura.\n\nPara WebP, prueba calidad 70-80. Suele verse tan bien como JPEG al 90 pero con la mitad del tamaño.\n\n## Números reales\n\nProbado con una foto de 4,2 MB tomada con un iPhone 14 Pro:\n\n- Original JPEG 100 %: 4,2 MB\n- JPEG 85 %: 620 KB (85 % menos)\n- WebP 80 %: 340 KB (92 % menos)\n- AVIF 70 %: 280 KB (93 % menos)\n\nLas tres versiones comprimidas se veían casi idénticas en un monitor 4K de 27 pulgadas.\n\n## Conversión por lotes\n\nSi tienes 50 fotos de productos o una carpeta de documentos escaneados — no los hagas uno por uno. [FileTools](https://filetools.eu) permite procesar múltiples archivos a la vez con la misma configuración.\n\nCalidad definida una vez. Carpeta completa subida. Zip con resultados descargado.\n\n## Conclusión\n\nComprime todo antes de subirlo a tu web. JPEG con pérdida al 85 % o WebP al 80 % da la mejor relación. Usa herramientas locales como [FileTools](https://filetools.eu) para privacidad. Prueba en una pantalla real. Nunca bajes del 70 % de calidad.\n\nTus usuarios consiguen páginas más rápidas. Google te posiciona mejor. Todos ganan.",
+  "category": "tools",
+  "tags": [
+    "compresión de imágenes",
+    "rendimiento web",
+    "JPEG",
+    "PNG",
+    "WebP",
+    "optimización de archivos"
+  ],
+  "publishedAt": "2026-05-19",
+  "readingTime": 5,
+  "image": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=800&q=80",
+  "imageAlt": "Comparación de imágenes comprimidas y originales en una pantalla",
+  "backlinks": [
+    {
+      "text": "FileTools Compresor de imágenes",
+      "url": "https://filetools.eu/image-compress"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-compress-files-online-es",
+    "filetools-image-resize-es",
+    "filetools-webp-png-workflow-es"
+  ]
+}

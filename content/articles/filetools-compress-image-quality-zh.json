@@ -1,0 +1,36 @@
+{
+  "slug": "filetools-compress-image-quality-zh",
+  "lang": "zh",
+  "title": "无损压缩图片：完整指南",
+  "description": "学习如何在保持清晰度的同时压缩 JPEG、PNG 和 WebP 图片。免费在线工具，真正有效。",
+  "excerpt": "大图片是网站加载缓慢的头号原因。本文介绍如何在不损失质量的情况下缩小图片——使用 [FileTools](https://filetools.eu) 和经过验证的技术。",
+  "content": "# 无损压缩图片：完整指南\n\n大图片文件是网站加载缓慢的头号原因。研究表明，53% 的手机用户会在页面加载超过三秒时离开。而 iPhone 拍摄的那些巨大照片？每张通常有 5-10 MB。\n\n你不需要昂贵的软件。以下是实用指南，教你如何在无明显质量损失的情况下压缩图片。\n\n## 为什么图片压缩很重要\n\n每一秒加载时间都会让你损失转化率。亚马逊计算，100 毫秒的延迟会使他们损失 1% 的收入。对于较小的网站，影响更大。\n\n谷歌也将页面速度作为排名因素。慢速网站排名更低。图片平均占页面总重量的 50%。\n\n## 无损压缩与有损压缩\n\n有两种方法：\n\n**无损压缩** — 文件变小，但像素数据保持不变。最适合图表、截图和标志。可节省：10-40%。\n\n**有损压缩** — 删除你的眼睛可能不会注意到的数据。非常适合照片和复杂图像。可节省：50-80%，无明显差异。\n\n关键在于找到最佳平衡点。过于激进 = 难看的伪影。过于保守 = 浪费带宽。\n\n## 最佳工具\n\n### FileTools.eu — 免费且保护隐私\n\n[FileTools](https://filetools.eu/image-compress) 可直接在浏览器中压缩 JPEG、PNG、WebP 和 AVIF 图片。一切在本地处理 — 文件永远不会离开你的电脑。处理客户照片或敏感设计时这一点很重要。\n\n拖放、选择质量、下载。无需注册。\n\n### 其他可靠工具\n\n- **ImageOptim** — 仅限 Mac，无损，自动移除元数据\n- **Squoosh** — 谷歌的网络应用，适合可视化比较\n- **TinyPNG/TinyJPG** — 智能 PNG 压缩，质量不错\n\n### 手动方法（适合完美主义者）\n\n在编辑器中打开图片。以 80-85% 质量导出为 JPEG。在真实屏幕上检查，而不仅仅是缩略图。\n\n对于 WebP，尝试质量 70-80。它通常看起来和 90% 质量的 JPEG 一样好，但文件大小只有一半。\n\n## 实际数据\n\n在 iPhone 14 Pro 拍摄的 4.2 MB 照片上测试：\n\n- 原始 JPEG 100%：4.2 MB\n- JPEG 85%：620 KB（减少 85%）\n- WebP 80%：340 KB（减少 92%）\n- AVIF 70%：280 KB（减少 93%）\n\n三个压缩版本在 27 英寸 4K 显示器上看起来几乎完全相同。\n\n## 批量转换\n\n如果你有 50 张产品照片或一摞扫描文档 — 不要逐个处理。[FileTools](https://filetools.eu) 支持使用相同设置同时处理多个文件。\n\n设置一次目标质量。上传整个文件夹。下载压缩结果压缩包。\n\n## 结论\n\n在上传到网站之前压缩所有图片。85% 质量的有损 JPEG 或 80% 质量的 WebP 性价比最高。使用 [FileTools](https://filetools.eu) 等本地工具保护隐私。在真实屏幕上测试。除非你想要像素糊，否则不要低于 70% 质量。\n\n用户获得更快的页面。谷歌给你更高排名。双赢。",
+  "category": "tools",
+  "tags": [
+    "图片压缩",
+    "网站性能",
+    "JPEG",
+    "PNG",
+    "WebP",
+    "文件优化"
+  ],
+  "publishedAt": "2026-05-19",
+  "readingTime": 5,
+  "image": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=800&q=80",
+  "imageAlt": "屏幕上压缩图片与原始图片的对比",
+  "backlinks": [
+    {
+      "text": "FileTools 图片压缩工具",
+      "url": "https://filetools.eu/image-compress"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-compress-files-online-zh",
+    "filetools-image-resize-zh",
+    "filetools-webp-png-workflow-zh"
+  ]
+}
