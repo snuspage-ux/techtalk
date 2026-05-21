@@ -1,0 +1,43 @@
+{
+  "slug": "filetools-background-removal-cs",
+  "lang": "cs",
+  "title": "Jak zdarma odstranit pozadí z fotky online — Photoshop nepotřebujete",
+  "description": "Odstraňte pozadí z obrázku online pomocí FileTools. Bez instalace, bez znalostí, bez vodoznaku. Hotovo za pár vteřin.",
+  "excerpt": "Potřebujete odstranit pozadí z fotky? FileTools to zvládne za pár vteřin. Žádný Photoshop, žádné předplatné, žádný vodoznak.",
+  "content": "\n## Odstraňte pozadí z obrázku online — Rychle, zdarma, bez vodoznaku\n\nMáte produktovou fotku s ošklivým pozadím. Nebo portrét, který potřebuje čisté bílé pozadí. Anebo logo na nepřehledném stole.\n\nNepotřebujete Photoshop. Nepotřebujete grafika. Nepotřebujete platit předplatné.\n\nS [nástrojem na odstranění pozadí od FileTools](https://filetools.eu/remove-background) nahrajete, počkáte pár vteřin a stáhnete čistý PNG s průhledným pozadím. To je všechno.\n\n### Jak to funguje\n\nNástroj používá AI k detekci hlavního objektu v jakémkoliv obrázku — lidi, produkty, zvířata, loga. Oddělí objekt od pozadí pixel po pixelu. Výsledek má ostré hrany, žádné zbytkové artefakty a plnou podporu průhlednosti.\n\nPodporované formáty: JPG, PNG, WEBP. Výstup je vždy PNG s alfa kanálem.\n\n### Kdy to využijete\n\n**Produktové fotky pro e-shop.** Fotíte na bílém pozadí, ale občas to není dokonalé. Opravíte to za pár vteřin.\n\n**Profilové fotky.** LinkedIn, týmové stránky, životopisy. Čisté pozadí působí profesionálně.\n\n**Marketingové materiály.** Grafika na sociální sítě, letáky, prezentace. Vložte průhledný výřez kamkoliv.\n\n**Loga a brand.** Extrahujte logo z fotky a používejte ho kdekoliv.\n\n### Proč FileTools\n\nBez registrace. Bez skrytých limitů. Bez vodoznaku na stažených souborech.\n\nZpracování probíhá na serveru — vaše zařízení nic nepočítá. Nahrát můžete z mobilu, tabletu i notebooku. Funguje stejně.\n\nA když potřebujete odstranit pozadí z více souborů najednou, zkuste [dávkové zpracování](https://filetools.eu/batch-convert) — zpracujete desítky najednou.\n\n### Tipy pro nejlepší výsledek\n\n- Používejte kontrastní obrázky. Objekt proti jednolitému, barevně odlišnému pozadí dává nejlepší výsledek.\n- Vlasy a srst jsou náročné. AI zvládá většinu případů, ale velmi detailní okraje můžou potřebovat ruční úpravu.\n- U složitých pozadí (vzory, podobné barvy jako objekt) možná budete potřebovat větší kontrast. Pořiďte novou fotku.\n\nPotřebujete po odstranění pozadí udělat víc? [Zkomprimujte výsledný PNG](https://filetools.eu/compress-images) pro web nebo ho [převeďte na WEBP](https://filetools.eu/webp-png-workflow) pro rychlejší načítání.\n\nOdstraňování pozadí je jedna z těch věcí, co děláte jednou týdně a vždycky se vám nechce. Už nemusíte.\n",
+  "category": "tools",
+  "tags": [
+    "odstranění pozadí",
+    "úprava fotek",
+    "bezplatné online nástroje",
+    "PNG průhlednost",
+    "AI úprava fotografií"
+  ],
+  "publishedAt": "2026-05-21",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "Produktová fotka s průhledným pozadím na obrazovce notebooku",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "Odstranit pozadí",
+      "url": "https://filetools.eu/remove-background"
+    },
+    {
+      "text": "Dávkové zpracování",
+      "url": "https://filetools.eu/batch-convert"
+    },
+    {
+      "text": "Komprimovat obrázky",
+      "url": "https://filetools.eu/compress-images"
+    }
+  ],
+  "related": [
+    "filetools-webp-png-workflow-cs",
+    "filetools-image-resize-cs",
+    "filetools-compress-image-quality-cs"
+  ]
+}

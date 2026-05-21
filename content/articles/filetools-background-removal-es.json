@@ -1,0 +1,43 @@
+{
+  "slug": "filetools-background-removal-es",
+  "lang": "es",
+  "title": "Cómo eliminar el fondo de una imagen online gratis — Sin Photoshop",
+  "description": "Elimina el fondo de una imagen online con FileTools. Sin software, sin conocimientos, sin marca de agua. En segundos.",
+  "excerpt": "¿Necesitas eliminar el fondo de una foto? FileTools lo hace en segundos. Sin Photoshop, sin suscripción, sin marca de agua.",
+  "content": "\n## Elimina el fondo de una imagen online — Rápido, gratis, sin marca de agua\n\nTienes una foto de producto con un fondo feo. O un retrato que necesita un fondo blanco limpio. O un logo sobre un escritorio desordenado.\n\nNo necesitas Photoshop. No necesitas un diseñador. No necesitas pagar una suscripción.\n\nCon el [eliminador de fondos de FileTools](https://filetools.eu/remove-background), subes, esperas unos segundos y descargas un PNG limpio con fondo transparente. Así de simple.\n\n### Cómo funciona\n\nLa herramienta usa IA para detectar el sujeto principal en cualquier imagen — personas, productos, animales, logotipos. Separa el sujeto del fondo píxel por píxel. El resultado tiene bordes nítidos, sin artefactos residuales y soporte completo de transparencia.\n\nFormatos compatibles: JPG, PNG, WEBP. La salida siempre es PNG con canal alfa.\n\n### Cuándo lo necesitas\n\n**Fotos de productos para e-commerce.** Fotografías sobre fondo blanco de todas formas, pero a veces no es perfecto. Arréglalo en segundos.\n\n**Fotos de perfil.** LinkedIn, páginas de equipo, currículums. Un fondo limpio te hace ver profesional.\n\n**Materiales de marketing.** Gráficos para redes sociales, flyers, presentaciones. Inserta un recorte transparente en cualquier diseño.\n\n**Logos y marca.** Extrae tu logo de una foto y úsalo donde quieras.\n\n### Por qué FileTools\n\nSin cuenta. Sin límites ocultos. Sin marca de agua en tus descargas.\n\nEl procesamiento ocurre en el servidor — tu dispositivo no hace nada. Sube desde un móvil, tablet o portátil. Funciona igual.\n\nY si necesitas eliminar fondos de varios archivos, prueba el [procesamiento por lotes](https://filetools.eu/batch-convert) — docenas a la vez.\n\n### Consejos profesionales\n\n- Usa imágenes de alto contraste. Un sujeto sobre un fondo sólido de color diferente da el mejor resultado.\n- El pelo y el pelaje son difíciles. La IA maneja la mayoría de los casos, pero los bordes muy detallados pueden necesitar un retoque manual.\n- Para fondos complejos (patrones, colores similares al sujeto), necesitas más contraste. Toma una nueva foto.\n\n¿Necesitas hacer más después de eliminar el fondo? [Comprime el PNG resultante](https://filetools.eu/compress-images) para la web o [conviértelo a WEBP](https://filetools.eu/webp-png-workflow) para que cargue más rápido.\n\nEliminar fondos es una de esas tareas que haces una vez por semana y siempre detestas. Ya no tienes que hacerlo.\n",
+  "category": "tools",
+  "tags": [
+    "eliminación de fondos",
+    "edición de imágenes",
+    "herramientas online gratis",
+    "transparencia PNG",
+    "edición de fotos con IA"
+  ],
+  "publishedAt": "2026-05-21",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "Foto de producto con fondo transparente en la pantalla de un portátil",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "Eliminar fondo",
+      "url": "https://filetools.eu/remove-background"
+    },
+    {
+      "text": "Procesamiento por lotes",
+      "url": "https://filetools.eu/batch-convert"
+    },
+    {
+      "text": "Comprimir imágenes",
+      "url": "https://filetools.eu/compress-images"
+    }
+  ],
+  "related": [
+    "filetools-webp-png-workflow-es",
+    "filetools-image-resize-es",
+    "filetools-compress-image-quality-es"
+  ]
+}

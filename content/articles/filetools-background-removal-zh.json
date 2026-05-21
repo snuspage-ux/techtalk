@@ -1,0 +1,43 @@
+{
+  "slug": "filetools-background-removal-zh",
+  "lang": "zh",
+  "title": "在线免费去除图片背景 — 无需Photoshop",
+  "description": "使用FileTools在线去除图片背景。无需软件，无需技能，无水印。几秒钟完成。",
+  "excerpt": "需要去除照片背景？FileTools几秒钟搞定。不用Photoshop，不用订阅，没有水印。",
+  "content": "\n## 在线去除图片背景 — 快速、免费、无水印\n\n你有一张产品照片，背景很难看。或者需要一张干净白色背景的头像。又或者需要从杂乱桌面上提取一个Logo。\n\n你不需要Photoshop。你不需要设计师。你不需要付费订阅。\n\n使用[FileTools背景去除工具](https://filetools.eu/remove-background)，上传图片，等几秒钟，下载一张带有透明背景的干净PNG。就这么简单。\n\n### 工作原理\n\n该工具使用AI检测任何图像中的主要主体 — 人物、产品、动物、Logo。它逐像素地将主体与背景分离。结果是边缘清晰，没有残留伪影，完全支持透明度。\n\n支持的格式：JPG、PNG、WEBP。输出始终是带Alpha通道的PNG。\n\n### 何时需要\n\n**电商产品照片。** 你本来就在白色背景上拍摄，但有时并不完美。几秒钟修复。\n\n**头像照片。** LinkedIn、团队页面、简历。干净的背景让你看起来专业。\n\n**营销材料。** 社交媒体图形、传单、演示文稿。将透明剪切图插入任何设计中。\n\n**Logo和品牌。** 从照片中提取Logo，随处使用。\n\n### 为什么选择FileTools\n\n无需注册。没有隐藏限制。下载无水印。\n\n处理在服务器上完成 — 你的设备无需做任何事。可以从手机、平板或笔记本电脑上传。效果一样。\n\n如果需要一次处理多个文件的背景，试试[批量转换](https://filetools.eu/batch-convert) — 一次处理几十个。\n\n### 专业技巧\n\n- 使用高对比度图片。主体在单一、不同颜色的背景上效果最好。\n- 头发和毛皮比较难处理。AI能处理大多数情况，但非常精细的边缘可能需要手动修饰。\n- 对于复杂背景（图案、与主体颜色相近），需要更多对比度。重新拍摄一张照片。\n\n去除背景后还需要做更多？[压缩生成的PNG](https://filetools.eu/compress-images)以适用于网络，或[将其转换为WEBP](https://filetools.eu/webp-png-workflow)以加快加载速度。\n\n去除背景是你每周都会做但总是不想做的任务之一。现在不必了。\n",
+  "category": "tools",
+  "tags": [
+    "背景去除",
+    "图片编辑",
+    "免费在线工具",
+    "PNG透明度",
+    "AI照片编辑"
+  ],
+  "publishedAt": "2026-05-21",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "笔记本电脑屏幕上带有透明背景的产品照片",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "去除背景",
+      "url": "https://filetools.eu/remove-background"
+    },
+    {
+      "text": "批量转换",
+      "url": "https://filetools.eu/batch-convert"
+    },
+    {
+      "text": "压缩图片",
+      "url": "https://filetools.eu/compress-images"
+    }
+  ],
+  "related": [
+    "filetools-webp-png-workflow-zh",
+    "filetools-image-resize-zh",
+    "filetools-compress-image-quality-zh"
+  ]
+}
