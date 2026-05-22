@@ -11,7 +11,7 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string; slug: string }> }): Promise<Metadata> {
   const { lang, slug } = await params;
-  const article = getArticle(slug);
+  const article = getArticle(slug, lang);
   if (!article) return {};
 
   const langMap: Record<string, string> = { en: "en_US", cs: "cs_CZ", de: "de_DE", fr: "fr_FR", es: "es_ES", pl: "pl_PL", zh: "zh_CN" };
@@ -94,8 +94,8 @@ function renderContent(content: string, backlinks?: { text: string; url: string 
 
 export default async function ArticlePage({ params }: { params: Promise<{ lang: string; slug: string }> }) {
   const { lang, slug } = await params;
-  const article = getArticle(slug);
-  if (!article || article.lang !== lang) notFound();
+  const article = getArticle(slug, lang);
+  if (!article) notFound();
 
   const rel = (article as any).related || getArticlesByLang(lang).filter((a: any) => a.slug !== slug).slice(0, 3);
 
@@ -158,8 +158,8 @@ export default async function ArticlePage({ params }: { params: Promise<{ lang: 
         <section className="mt-16 pt-12 border-t border-white/[0.06]">
           <h2 className="text-sm font-semibold text-zinc-400 uppercase tracking-wider mb-6">More articles</h2>
           <div className="grid gap-4 md:grid-cols-3">
-            {rel.map((r: any) => { const full = getArticle(r.slug); return (
-              <Link key={r.slug} href={`/${r.lang}/${r.slug}`} className="group block rounded-xl border border-white/[0.06] bg-[#111118] p-4 hover:border-violet-500/20 transition-colors">
+            {rel.map((r: any) => { const full = getArticle(typeof r === 'string' ? r : r.slug, lang); return (
+              <Link key={typeof r === 'string' ? r : r.slug} href={`/${lang}/${typeof r === 'string' ? r : r.slug}`} className="group block rounded-xl border border-white/[0.06] bg-[#111118] p-4 hover:border-violet-500/20 transition-colors">
                 {full?.image && <img src={full.image} alt={r.title} className="w-full h-24 object-cover rounded-lg mb-3" loading="lazy" />}
                 <h3 className="text-sm font-semibold text-white group-hover:text-violet-300 transition-colors line-clamp-2">{r.title}</h3>
               </Link>

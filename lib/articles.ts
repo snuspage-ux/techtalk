@@ -12,8 +12,8 @@ export function getAllArticles(): Article[] {
     .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
 }
 
-export function getArticle(slug: string): Article | undefined {
-  return getAllArticles().find(a => a.slug === slug);
+export function getArticle(slug: string, lang?: string): Article | undefined {
+  return getAllArticles().find(a => a.slug === slug && (!lang || a.lang === lang));
 }
 
 export function getArticlesByLang(lang: string): Article[] {
