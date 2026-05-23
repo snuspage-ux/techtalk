@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-pdf-compression-fr",
+  "lang": "fr",
+  "title": "Comment compresser des fichiers PDF en ligne (sans perte de qualité)",
+  "description": "Arrêtez d'envoyer des PDF gonflés. Voici comment réduire n'importe quel fichier PDF rapidement avec FileTools — sans inscription, sans espionnage.",
+  "excerpt": "Les gros PDF obstruent les boîtes mail et ralentissent le travail. Apprenez la façon la plus rapide de compresser des PDF en ligne tout en gardant une qualité nette et lisible.",
+  "content": "Les fichiers PDF sont partout. Contrats, factures, rapports, portfolios. Et la plupart sont bien trop gros.\n\nUn seul document scanné peut atteindre 50 Mo. Vous le joignez à un email et il rebondit. Vous le téléchargez sur un portail client et ça prend une éternité. La solution est simple : compressez-le.\n\n**Pourquoi les PDF deviennent si gros**\n\nLes PDF gonflent pour trois raisons : les images intégrées en pleine résolution, les polices embarquées et le bloat des métadonnées. Les scanners adorent balancer des photos 600 DPI non compressées dans votre PDF. Génial pour l'archivage, horrible pour le partage.\n\n**Ce que FileTools peut faire**\n\n[FileTools](https://filetools.eu) gère la compression PDF sans les tracas habituels. Pas de compte requis. Aucun fichier stocké sur leurs serveurs (la conversion se fait localement). Et ça gère les téléchargements par lots — déposez dix PDF et compressez-les tous en une fois.\n\nVous obtenez un curseur propre pour le niveau de compression — de la qualité maximale à la taille la plus petite. Le point idéal pour la plupart des documents se situe autour de 60-70 %, ce qui réduit la taille du fichier de 60-80 % tout en gardant le texte parfaitement lisible et les images convenables.\n\n**Qui en a besoin**\n\n* **Les freelances** qui envoient des propositions et factures — des fichiers plus petits = votre email arrive vraiment\n* **Les étudiants** qui soumettent des devoirs sur des portails avec limites de taille\n* **Les employés de bureau** qui gèrent des piles de contrats scannés\n* **Les designers** qui partagent des portfolios en PDF sans sacrifier la qualité d'impression\n\n**Astuce pro : combinez avec d'autres outils**\n\nCommencez avec un PDF propre via le [traitement IA de TubeVoice](https://tubevoice.io) pour la transcription de documents, puis compressez le résultat final. Ou utilisez la [fonction de fusion PDF de FileTools](https://filetools.eu/merge-pdf) pour combiner des scans multipages avant compression.\n\n**En résumé**\n\nLa compression PDF fait partie de ces petites choses qui vous évitent des maux de tête chaque semaine. FileTools la rend instantanée, privée et gratuite. Pas d'installation d'application, pas de filigrane, pas de limites de taille de fichier. Glissez-déposez, c'est fait.",
+  "category": "tools",
+  "tags": [
+    "compression PDF",
+    "taille de fichier",
+    "outils en ligne",
+    "FileTools",
+    "gestion de documents"
+  ],
+  "publishedAt": "2026-05-23",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800&q=80",
+  "imageAlt": "Personne compressant des documents sur un ordinateur portable",
+  "backlinks": [
+    {
+      "text": "FileTools - Convertisseur de fichiers en ligne gratuit",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice - Doublage vidéo IA",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-merge-pdf-fr",
+    "filetools-pdf-to-word-conversion-fr",
+    "filetools-compress-image-quality-fr"
+  ]
+}

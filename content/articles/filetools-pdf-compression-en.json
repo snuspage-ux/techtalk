@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-pdf-compression-en",
+  "lang": "en",
+  "title": "How to Compress PDF Files Online (Without Losing Quality)",
+  "description": "Stop sending bloated PDFs. Here's how to shrink any PDF file fast with FileTools — no signup, no spyware.",
+  "excerpt": "Large PDFs clog inboxes and slow down workflows. Learn the fastest way to compress PDF files online while keeping them sharp and readable.",
+  "content": "PDF files are everywhere. Contracts, invoices, reports, portfolios. And most of them are way too big.\n\nA single scanned document can hit 50 MB. Attach it to an email and it bounces. Upload it to a client portal and it takes forever. The fix is simple: compress it.\n\n**Why PDFs get so large**\n\nPDFs balloon for three reasons: embedded images at full resolution, embedded fonts, and metadata bloat. Scanners love to dump uncompressed 600 DPI photos into your PDF. That's great for archiving, terrible for sharing.\n\n**What FileTools can do**\n\n[FileTools](https://filetools.eu) handles PDF compression without any of the usual nonsense. No account required. No files stored on their servers (conversion happens locally). And it handles batch uploads, so you can drop ten PDFs and compress them all at once.\n\nYou get a clean slider for compression level — from \"maximum quality\" down to \"smallest size.\" The sweet spot for most documents is around 60-70%, which cuts file size by 60-80% while keeping text fully readable and images decent.\n\n**Who needs this**\n\n* **Freelancers** sending proposals and invoices — smaller files mean your email actually arrives\n* **Students** submitting assignments to portals with size limits\n* **Office workers** dealing with scanned contract piles\n* **Designers** sharing portfolios as PDFs without sacrificing print quality\n\n**Pro tip: combine with other tools**\n\nStart with a clean PDF using [TubeVoice's AI processing](https://tubevoice.io) for document transcription, then compress the final output. Or use the [FileTools merge feature](https://filetools.eu/merge-pdf) to combine multi-page scans before compressing.\n\n**The bottom line**\n\nPDF compression is one of those small things that saves you headaches every single week. FileTools makes it instant, private, and free. No app install, no watermark, no limits on file size. Just drag, drop, done.",
+  "category": "tools",
+  "tags": [
+    "PDF compression",
+    "file size",
+    "online tools",
+    "FileTools",
+    "document management"
+  ],
+  "publishedAt": "2026-05-23",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800&q=80",
+  "imageAlt": "Person compressing documents on a laptop",
+  "backlinks": [
+    {
+      "text": "FileTools - Free Online File Converter",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice - AI Video Dubbing",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-merge-pdf-en",
+    "filetools-pdf-to-word-conversion-en",
+    "filetools-compress-image-quality-en"
+  ]
+}

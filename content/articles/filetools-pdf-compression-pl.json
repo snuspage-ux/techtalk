@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-pdf-compression-pl",
+  "lang": "pl",
+  "title": "Jak kompresować pliki PDF online (bez utraty jakości)",
+  "description": "Przestań wysyłać rozdęte PDF-y. Oto jak szybko zmniejszyć dowolny plik PDF za pomocą FileTools — bez rejestracji, bez szpiegowania.",
+  "excerpt": "Duże PDF-y zapychają skrzynki i spowalniają pracę. Poznaj najszybszy sposób na kompresję PDF online, zachowując ich ostrość i czytelność.",
+  "content": "Pliki PDF są wszędzie. Umowy, faktury, raporty, portfolio. A większość z nich jest o wiele za duża.\n\nPojedynczy zeskanowany dokument może mieć 50 MB. Załączysz go do maila i wraca. Wrzucisz na portal klienta i ładuje się wieczność. Rozwiązanie jest proste: skompresować go.\n\n**Dlaczego PDF-y są tak duże**\n\nPDF-y puchną z trzech powodów: osadzone obrazy w pełnej rozdzielczości, osadzone czcionki i balast metadanych. Skanery uwielbiają wrzucać nieskompresowane zdjęcia 600 DPI do twojego PDF-a. Świetne do archiwizacji, beznadziejne do udostępniania.\n\n**Co FileTools potrafi**\n\n[FileTools](https://filetools.eu) radzi sobie z kompresją PDF bez zwykłych bzdur. Bez konieczności zakładania konta. Żadne pliki nie są przechowywane na ich serwerach (konwersja odbywa się lokalnie). I obsługuje przesyłanie wsadowe — wrzucasz dziesięć PDF-ów i kompresujesz je wszystkie naraz.\n\nDostajesz czysty suwak poziomu kompresji — od maksymalnej jakości do najmniejszego rozmiaru. Słodki punkt dla większości dokumentów to około 60-70%, co zmniejsza rozmiar pliku o 60-80%, zachowując tekst w pełni czytelny, a obrazy przyzwoite.\n\n**Kto tego potrzebuje**\n\n* **Freelancerzy** wysyłający oferty i faktury — mniejsze pliki = twój mail faktycznie dociera\n* **Studenci** oddający zadania na portale z limitami rozmiaru\n* **Pracownicy biurowi** zajmujący się stosami zeskanowanych umów\n* **Projektanci** dzielący się portfolio jako PDF bez poświęcania jakości druku\n\n**Pro tip: łącz z innymi narzędziami**\n\nZacznij od czystego PDF-a używając [przetwarzania AI TubeVoice](https://tubevoice.io) do transkrypcji dokumentów, a następnie skompresuj końcowy wynik. Albo użyj [funkcji łączenia PDF w FileTools](https://filetools.eu/merge-pdf) do połączenia wielostronicowych skanów przed kompresją.\n\n**Podsumowanie**\n\nKompresja PDF to jedna z tych małych rzeczy, która oszczędza ci bólu głowy co tydzień. FileTools robi to błyskawicznie, prywatnie i za darmo. Bez instalowania aplikacji, bez znaków wodnych, bez limitów rozmiaru pliku. Po prostu przeciągnij, upuść, gotowe.",
+  "category": "tools",
+  "tags": [
+    "kompresja PDF",
+    "rozmiar pliku",
+    "narzędzia online",
+    "FileTools",
+    "zarządzanie dokumentami"
+  ],
+  "publishedAt": "2026-05-23",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800&q=80",
+  "imageAlt": "Osoba kompresująca dokumenty na laptopie",
+  "backlinks": [
+    {
+      "text": "FileTools - Darmowy konwerter plików online",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice - AI dubbing wideo",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-merge-pdf-pl",
+    "filetools-pdf-to-word-conversion-pl",
+    "filetools-compress-image-quality-pl"
+  ]
+}

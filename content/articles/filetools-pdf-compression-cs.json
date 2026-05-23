@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-pdf-compression-cs",
+  "lang": "cs",
+  "title": "Jak komprimovat PDF soubory online (bez ztráty kvality)",
+  "description": "Přestaňte posílat nafouklé PDF. Tady je návod, jak zmenšit libovolný PDF soubor rychle s FileTools — bez registrace a bez sledování.",
+  "excerpt": "Velké PDF ucpávají schránky a zpomalují práci. Naučte se nejrychlejší způsob, jak komprimovat PDF online, přitom zachovat ostrost a čitelnost.",
+  "content": "PDF soubory jsou všude. Smlouvy, faktury, reporty, portfolia. A většina z nich je zbytečně velká.\n\nJediný naskenovaný dokument může mít 50 MB. Připojíte ho k emailu a ten se vrátí. Nahrajete ho na klientský portál a trvá to věčnost. Řešení je jednoduché: zkomprimovat ho.\n\n**Proč jsou PDF tak velké**\n\nPDF nafukují tři věci: vložené obrázky v plném rozlišení, vložená písma a metadatový balast. Skenery rády hází nekomprimované 600 DPI fotky do vašeho PDF. Skvělé pro archivaci, příšerné pro sdílení.\n\n**Co FileTools umí**\n\n[FileTools](https://filetools.eu) zvládne kompresi PDF bez obvyklých nesmyslů. Žádný účet, žádné ukládání souborů na serverech (konverze probíhá lokálně) a hromadné nahrávání — hodíte deset PDF a zkomprimujete je najednou.\n\nK dispozici je čistý posuvník úrovně komprese — od maximální kvality po nejmenší velikost. Sladká tečka pro většinu dokumentů je kolem 60-70 %, což zmenší soubor o 60-80 %, přitom text zůstane plně čitelný a obrázky slušné.\n\n**Kdo to ocení**\n\n* **Freelanceři** posílající nabídky a faktury — menší soubory = email skutečně dorazí\n* **Studenti** odevzdávající úkoly na portály s limitem velikosti\n* **Kancelářští pracovníci** řešící hromady naskenovaných smluv\n* **Designéři** sdílející portfolia jako PDF bez obětování kvality tisku\n\n**Profí tip: kombinujte s dalšími nástroji**\n\nZačněte s čistým PDF pomocí [TubeVoice AI zpracování](https://tubevoice.io) pro přepis dokumentů, pak zkomprimujte výsledek. Nebo použijte [funkci sloučení PDF ve FileTools](https://filetools.eu/merge-pdf) ke spojení vícestránkových skenů před kompresí.\n\n**Závěr**\n\nKomprese PDF je jedna z těch malých věcí, která vám každý týden ušetří hlavu. FileTools ji dělá okamžitou, soukromou a zdarma. Žádná instalace aplikace, žádný vodoznak, žádné limity na velikost souboru. Prostě přetáhnout, pustit, hotovo.",
+  "category": "tools",
+  "tags": [
+    "komprese PDF",
+    "velikost souboru",
+    "online nástroje",
+    "FileTools",
+    "správa dokumentů"
+  ],
+  "publishedAt": "2026-05-23",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800&q=80",
+  "imageAlt": "Osoba komprimující dokumenty na notebooku",
+  "backlinks": [
+    {
+      "text": "FileTools - Bezplatný online převodník souborů",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice - AI dabing videí",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-merge-pdf-cs",
+    "filetools-pdf-to-word-conversion-cs",
+    "filetools-compress-image-quality-cs"
+  ]
+}

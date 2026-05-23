@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-pdf-compression-zh",
+  "lang": "zh",
+  "title": "如何在线压缩PDF文件（不损失质量）",
+  "description": "别再发送臃肿的PDF了。这里教你如何用FileTools快速压缩任何PDF文件——无需注册，无需追踪。",
+  "excerpt": "大PDF会堵塞收件箱并拖慢工作流程。学习最快的方法在线压缩PDF，同时保持清晰可读。",
+  "content": "PDF文件无处不在。合同、发票、报告、作品集。而且它们中的大多数都太大了。\n\n单个扫描文档可能达到50 MB。附在邮件里发送会被退回。上传到客户门户网站要等半天。解决方法很简单：压缩它。\n\n**为什么PDF会变得这么大**\n\nPDF臃肿的原因有三个：嵌入全分辨率图片、嵌入字体以及元数据冗余。扫描仪喜欢把未压缩的600 DPI照片塞进你的PDF。这对归档很好，但对分享来说很糟糕。\n\n**FileTools能做什么**\n\n[FileTools](https://filetools.eu) 处理PDF压缩而不需要那些常见的麻烦。无需注册账户。文件不会存储在他们的服务器上（转换在本地进行）。而且它支持批量上传——你可以丢进十个PDF，然后一次性压缩所有文件。\n\n你会得到一个干净的压缩级别滑块——从\"最高质量\"到\"最小尺寸\"。大多数文档的最佳点大约在60-70%，这可以将文件大小减少60-80%，同时保持文本完全可读和图片质量不错。\n\n**谁需要这个**\n\n* **自由职业者**发送方案和发票——更小的文件意味着你的邮件真的能送达\n* **学生**向有大小限制的门户网站提交作业\n* **办公室职员**处理成堆的扫描合同\n* **设计师**分享PDF格式的作品集而不牺牲打印质量\n\n**专业提示：与其他工具结合使用**\n\n先使用 [TubeVoice的AI处理](https://tubevoice.io) 进行文档转录以获得干净的PDF，然后压缩最终输出。或者使用 [FileTools的合并功能](https://filetools.eu/merge-pdf) 在压缩前合并多页扫描件。\n\n**结论**\n\nPDF压缩是那种每周都能为你省去麻烦的小事。FileTools让它变得即时、私密且免费。无需安装应用，无水印，无文件大小限制。只需拖放，搞定。",
+  "category": "tools",
+  "tags": [
+    "PDF压缩",
+    "文件大小",
+    "在线工具",
+    "FileTools",
+    "文档管理"
+  ],
+  "publishedAt": "2026-05-23",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800&q=80",
+  "imageAlt": "在笔记本电脑上压缩文件的人",
+  "backlinks": [
+    {
+      "text": "FileTools - 免费在线文件转换器",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice - AI视频配音",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-merge-pdf-zh",
+    "filetools-pdf-to-word-conversion-zh",
+    "filetools-compress-image-quality-zh"
+  ]
+}
