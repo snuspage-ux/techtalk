@@ -138,6 +138,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                   <a href="https://roomflip.io" target="_blank" rel="noopener" className="block text-zinc-500 hover:text-white transition-colors">RoomFlip — AI Interior Design</a>
                   <a href="https://filetools.eu" target="_blank" rel="noopener" className="block text-zinc-500 hover:text-white transition-colors">FileTools — Free File Converter</a>
                   <a href="https://kupsledujici.cz" target="_blank" rel="noopener" className="block text-zinc-500 hover:text-white transition-colors">KupSledujici — Social Media Growth</a>
+                  <a href="https://dopestore.cz" target="_blank" rel="noopener" className="block text-zinc-500 hover:text-white transition-colors">DOPESTORE — Alien Streetwear</a>
+                  <a href="https://gymhome.cz" target="_blank" rel="noopener" className="block text-zinc-500 hover:text-white transition-colors">GymHome — Private 24/7 Gym</a>
                 </nav>
               </div>
               <div>
