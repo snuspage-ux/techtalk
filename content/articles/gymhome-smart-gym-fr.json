@@ -1,0 +1,26 @@
+{
+  "slug": "gymhome-smart-gym-fr",
+  "lang": "fr",
+  "title": "La salle de sport sans accueil : comment serrures connectées et réservation en ligne transforment le fitness",
+  "description": "Les salles privées en libre-service avec accès par serrure connectée se multiplient. Comment la technologie a rendu possible la salle sans personnel.",
+  "excerpt": "Réserver en ligne, payer par carte, recevoir un code par e-mail, ouvrir une serrure connectée. Une salle peut désormais tourner 24h/24 sans accueil.",
+  "content": "Vous réservez un créneau en ligne, payez par carte, et une demi-heure avant la séance, un e-mail arrive avec un code à usage unique. Vous le saisissez sur une serrure connectée — et toute la salle est à vous. Pas d'accueil, pas de personnel, pas d'inconnu sur la machine d'à côté.\n\nLes salles de sport privées en libre-service sont l'une des tendances fitness les plus intéressantes de ces dernières années — et elles reposent entièrement sur la technologie. Serrures connectées à codes uniques, systèmes de réservation en ligne, passerelles de paiement et vidéosurveillance permettent ensemble d'exploiter une salle sans personne sur place.\n\nPour l'exploitant, le calcul est simple : le premier poste de coût — les salaires — disparaît. Un espace plus petit, sans accueil ni vestiaires pour des dizaines de personnes, signifie un loyer réduit. Le résultat se voit sur le prix : une séance privée coûte une fraction d'un studio avec coach.\n\nPour les pratiquants, le bénéfice principal est ailleurs : l'intimité. Les enquêtes montrent depuis des années que la « gym anxiety » — la gêne de s'entraîner devant les autres — est l'un des freins les plus fréquents. Dans une salle privée, plus d'attente aux machines, plus de regards, plus d'heures de pointe. On s'entraîne à son rythme, avec sa musique, à minuit si on veut.\n\nEn Tchéquie, ce modèle est développé par GymHome — des salles en libre-service à Frýdek-Místek et Ostrava, où l'on réserve un bloc de 75 minutes à partir de 189 CZK pour s'entraîner seul, à deux ou à trois. Tout le parcours, de la réservation à l'entrée par serrure connectée, se déroule sans le moindre contact avec du personnel, 24 heures sur 24.\n\nTechniquement, c'est la fiabilité de la chaîne qui compte : le système de réservation doit dialoguer avec la passerelle de paiement, celle-ci avec le générateur de codes, et la serrure doit fonctionner même en cas de coupure d'internet. D'où l'usage de serrures à validation hors ligne — le code porte en lui-même son information de validité chiffrée.\n\nLa salle sans accueil n'est pas le futur, c'est le présent. Et à mesure que serrures connectées et systèmes de réservation deviennent abordables, attendez-vous à voir ouvrir une salle privée près de chez vous.",
+  "category": "tools",
+  "tags": [
+    "salle en libre-service",
+    "serrure connectée",
+    "réservation en ligne",
+    "technologie fitness",
+    "GymHome"
+  ],
+  "publishedAt": "2026-07-15",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&q=80",
+  "imageAlt": "Salle de sport moderne et vide avec haltères et machines",
+  "backlinks": [
+    {
+      "text": "GymHome",
+      "url": "https://gymhome.cz"
+    }
+  ]
+}
