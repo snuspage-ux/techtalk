@@ -13,7 +13,11 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ cat: string }> }): Promise<Metadata> {
   const { cat } = await params;
   const label = CAT_LABELS[cat] || cat;
-  return { title: `${label} — TechTalk`, description: `Articles about ${label.toLowerCase()} on TechTalk magazine.` };
+  return {
+    title: `${label} — TechTalk`,
+    description: `Articles about ${label.toLowerCase()} on TechTalk magazine.`,
+    alternates: { canonical: `https://techtalk.tech/category/${cat}` },
+  };
 }
 
 export default async function CategoryPage({ params }: { params: Promise<{ cat: string }> }) {

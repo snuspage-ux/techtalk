@@ -52,8 +52,10 @@ function ArticleCard({ a }: { a: Article }) {
 }
 
 export function ArticleGrid({ articles }: { articles: Article[] }) {
-  const [lang, setLang] = useState<string | null>("_pending");
-  const filtered = lang === "_pending" ? [] : lang ? articles.filter(a => a.lang === lang) : articles;
+  // Default to "en" so the server-rendered HTML contains real article links (SEO).
+  // LanguageFilter switches to the visitor's preferred language after hydration.
+  const [lang, setLang] = useState<string | null>("en");
+  const filtered = lang ? articles.filter(a => a.lang === lang) : articles;
   const featured = filtered[0];
   const rest = filtered.slice(1);
 

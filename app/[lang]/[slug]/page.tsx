@@ -17,9 +17,10 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
   const langMap: Record<string, string> = { en: "en_US", cs: "cs_CZ", de: "de_DE", fr: "fr_FR", es: "es_ES", pl: "pl_PL", zh: "zh_CN" };
   const baseTopic = slug.replace(/-[a-z]{2}$/, "");
   const allArticles = getAllArticles();
-  const hrefLangs = allArticles
-    .filter(a => a.slug.replace(/-[a-z]{2}$/, "") === baseTopic && a.slug !== slug)
-    .map(a => ({ hrefLang: a.lang, href: `https://techtalk.tech/${a.lang}/${a.slug}` }));
+  const variants = allArticles.filter(a => a.slug.replace(/-[a-z]{2}$/, "") === baseTopic);
+  const hrefLangs = variants.map(a => ({ hrefLang: a.lang, href: `https://techtalk.tech/${a.lang}/${a.slug}` }));
+  const enVariant = variants.find(a => a.lang === "en");
+  if (enVariant) hrefLangs.push({ hrefLang: "x-default", href: `https://techtalk.tech/en/${enVariant.slug}` });
 
   return {
     title: article.title,
