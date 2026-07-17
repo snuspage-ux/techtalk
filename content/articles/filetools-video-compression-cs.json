@@ -1,0 +1,26 @@
+{
+  "slug": "filetools-video-compression-cs",
+  "lang": "cs",
+  "title": "Komprese videa online: jak zmenšit soubor bez viditelné ztráty kvality",
+  "description": "Videa jsou největší soubory, které běžně posíláme. Jak funguje komprese, co dělají kodeky a kdy stačí nástroj v prohlížeči.",
+  "excerpt": "Rozdíl mezi 500 MB a 50 MB často není v kvalitě, ale ve zvoleném kodeku a datovém toku.",
+  "content": "Video z telefonu má klidně gigabajt, e-mail končí na 25 MB a messenger video při odeslání rozmaže k nepoznání. Komprese videa je proto jedna z nejčastějších úloh, kterou lidé s multimédii řeší — a zároveň jedna z nejméně pochopených.\n\nZákladní princip: velikost videa určuje datový tok (bitrate), ne rozlišení samotné. Moderní kodeky jako H.265 nebo AV1 umí stejnou vizuální kvalitu zabalit do polovičního toku oproti staršímu H.264. Právě proto jde stejné video zmenšit z 500 MB na 50 MB, aniž by běžné oko poznalo rozdíl — kodek jen chytřeji rozhoduje, které detaily divák stejně nevidí.\n\nKdy komprimovat a jak moc? Pro posílání kolegům nebo na sociální sítě stačí 1080p s tokem kolem 5–8 Mb/s. Archivace rodinných videí snese víc — tam se vyplatí zachovat originál a komprimovat jen kopii ke sdílení. Naopak video, které půjde do dalšího střihu, komprimujte co nejméně: každá další generace komprese kvalitu sčítá dolů.\n\nDlouho platilo, že na kompresi potřebujete desktopový program. Dnes to zvládne prohlížeč: nástroje jako FileTools zpracují video přímo online, bez instalace a bez front. U citlivých záběrů dávejte přednost nástrojům, které zpracovávají soubor lokálně v prohlížeči — video pak vůbec neopustí váš počítač.\n\nTři praktická pravidla na závěr: komprimujte vždy z originálu, ne z už komprimované verze; snižujte bitrate dřív než rozlišení (1080p s nižším tokem vypadá lépe než rozmazané 4K); a před hromadným zpracováním si otestujte nastavení na krátkém úseku. Ušetříte hodiny přepočítávání i gigabajty úložiště.",
+  "category": "tools",
+  "tags": [
+    "komprese videa",
+    "zmenšení souboru",
+    "kodeky",
+    "online nástroje",
+    "FileTools"
+  ],
+  "publishedAt": "2026-07-15",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+  "imageAlt": "Detail technologického čipu symbolizující zpracování dat",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ]
+}

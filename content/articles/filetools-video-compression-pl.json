@@ -1,0 +1,26 @@
+{
+  "slug": "filetools-video-compression-pl",
+  "lang": "pl",
+  "title": "Kompresja wideo online: jak zmniejszyć plik bez widocznej utraty jakości",
+  "description": "Wideo to największe pliki, jakie regularnie wysyłamy. Jak działa kompresja, co robią kodeki i kiedy wystarczy narzędzie w przeglądarce.",
+  "excerpt": "Różnica między 500 MB a 50 MB zwykle nie leży w jakości, tylko w wybranym kodeku i bitrate.",
+  "content": "Film z telefonu potrafi ważyć gigabajt, e-mail kończy się na 25 MB, a komunikatory rozmywają wideo przy wysyłce nie do poznania. Kompresja wideo to jedno z najczęstszych zadań multimedialnych — i jedno z najmniej rozumianych.\n\nPodstawowa zasada: o rozmiarze wideo decyduje bitrate, a nie sama rozdzielczość. Nowoczesne kodeki jak H.265 czy AV1 potrafią zapakować tę samą jakość wizualną w połowę przepływności starszego H.264. Właśnie dlatego ten sam film można zmniejszyć z 500 MB do 50 MB tak, że gołe oko nie zauważy różnicy — kodek po prostu mądrzej decyduje, których detali widz i tak nie zobaczy.\n\nKiedy kompresować i jak mocno? Do wysyłki współpracownikom czy na social media wystarczy 1080p przy 5–8 Mb/s. Archiwum rodzinnych nagrań zasługuje na więcej: zachowaj oryginał, a kompresuj tylko kopię do udostępniania. Materiał do dalszego montażu kompresuj jak najmniej — każda kolejna generacja kompresji sumuje straty.\n\nPrzez lata kompresja oznaczała instalowanie programu. Dziś radzi sobie z tym przeglądarka: narzędzia takie jak FileTools przetwarzają wideo bezpośrednio online, bez instalacji i kolejek. Przy wrażliwych nagraniach wybieraj narzędzia przetwarzające plik lokalnie w przeglądarce — wideo nigdy nie opuszcza wtedy twojego komputera.\n\nTrzy praktyczne zasady na koniec: kompresuj zawsze z oryginału, nie z już skompresowanej wersji; obniżaj bitrate, zanim obniżysz rozdzielczość (1080p z niższym bitrate wygląda lepiej niż rozmyte 4K); i przetestuj ustawienia na krótkim fragmencie przed masowym przetwarzaniem. Zaoszczędzisz godziny przeliczania i gigabajty miejsca.",
+  "category": "tools",
+  "tags": [
+    "kompresja wideo",
+    "zmniejszanie plików",
+    "kodeki",
+    "narzędzia online",
+    "FileTools"
+  ],
+  "publishedAt": "2026-07-15",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+  "imageAlt": "Zbliżenie na układ scalony symbolizujący przetwarzanie danych",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "filetools-video-compression-fr",
+  "lang": "fr",
+  "title": "Compresser une vidéo en ligne : réduire la taille sans perte de qualité visible",
+  "description": "Les vidéos sont les fichiers les plus lourds que nous envoyons. Comment fonctionne la compression et quand un outil navigateur suffit.",
+  "excerpt": "La différence entre 500 Mo et 50 Mo ne tient souvent pas à la qualité, mais au codec et au débit choisis.",
+  "content": "Une vidéo de téléphone atteint vite le gigaoctet, l'e-mail s'arrête à 25 Mo, et les messageries floutent les vidéos à l'envoi. La compression vidéo est donc l'une des tâches multimédias les plus courantes — et l'une des moins comprises.\n\nLe principe de base : la taille d'une vidéo dépend de son débit (bitrate), pas seulement de sa résolution. Les codecs modernes comme H.265 ou AV1 offrent la même qualité visuelle pour la moitié du débit du vieux H.264. C'est pourquoi une même vidéo peut passer de 500 Mo à 50 Mo sans différence à l'œil nu — le codec décide simplement plus intelligemment quels détails le spectateur ne verra de toute façon pas.\n\nQuand compresser et à quel point ? Pour envoyer à des collègues ou publier sur les réseaux, du 1080p à 5–8 Mb/s suffit largement. Les archives familiales méritent plus de soin : gardez l'original et ne compressez qu'une copie de partage. À l'inverse, une vidéo destinée au montage doit être compressée le moins possible : chaque génération de compression cumule les pertes.\n\nLongtemps, il fallait un logiciel de bureau. Aujourd'hui, le navigateur s'en charge : des outils comme FileTools traitent la vidéo directement en ligne, sans installation ni file d'attente. Pour des images sensibles, privilégiez les outils qui traitent le fichier localement dans le navigateur — la vidéo ne quitte alors jamais votre ordinateur.\n\nTrois règles pratiques pour finir : compressez toujours depuis l'original, jamais depuis une version déjà compressée ; baissez le débit avant la résolution (du 1080p à débit réduit rend mieux qu'un 4K flou) ; et testez vos réglages sur un court extrait avant un traitement en masse. Vous économiserez des heures d'encodage et des gigaoctets de stockage.",
+  "category": "tools",
+  "tags": [
+    "compression vidéo",
+    "réduction de fichier",
+    "codecs",
+    "outils en ligne",
+    "FileTools"
+  ],
+  "publishedAt": "2026-07-15",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+  "imageAlt": "Gros plan d'une puce électronique symbolisant le traitement de données",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ]
+}

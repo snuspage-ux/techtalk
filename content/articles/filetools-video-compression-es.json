@@ -1,0 +1,26 @@
+{
+  "slug": "filetools-video-compression-es",
+  "lang": "es",
+  "title": "Comprimir vídeo online: cómo reducir el tamaño sin pérdida visible de calidad",
+  "description": "Los vídeos son los archivos más pesados que enviamos a diario. Cómo funciona la compresión y cuándo basta una herramienta en el navegador.",
+  "excerpt": "La diferencia entre 500 MB y 50 MB no suele estar en la calidad, sino en el códec y el bitrate elegidos.",
+  "content": "Un vídeo del móvil alcanza fácilmente un gigabyte, el correo se corta en 25 MB y los mensajeros difuminan los vídeos al enviarlos. Comprimir vídeo es una de las tareas multimedia más habituales — y una de las peor entendidas.\n\nEl principio básico: el tamaño de un vídeo lo determina su bitrate, no solo la resolución. Códecs modernos como H.265 o AV1 empaquetan la misma calidad visual en la mitad del bitrate del veterano H.264. Por eso el mismo vídeo puede pasar de 500 MB a 50 MB sin que el ojo note la diferencia: el códec simplemente decide con más inteligencia qué detalles el espectador no verá de todos modos.\n\n¿Cuándo comprimir y cuánto? Para enviar a compañeros o publicar en redes basta 1080p con 5–8 Mbps. Los archivos familiares merecen más cuidado: conserva el original y comprime solo una copia para compartir. En cambio, el material destinado a edición debe comprimirse lo mínimo: cada generación de compresión acumula pérdida.\n\nDurante años comprimir significaba instalar un programa de escritorio. Hoy lo hace el navegador: herramientas como FileTools procesan el vídeo directamente online, sin instalación ni colas. Con material sensible, prefiere herramientas que procesen el archivo localmente en el navegador: el vídeo nunca sale de tu ordenador.\n\nTres reglas prácticas para terminar: comprime siempre desde el original, nunca desde una versión ya comprimida; baja el bitrate antes que la resolución (1080p con menos bitrate se ve mejor que un 4K borroso); y prueba la configuración en un clip corto antes de procesar en lote. Ahorrarás horas de recodificación y gigabytes de almacenamiento.",
+  "category": "tools",
+  "tags": [
+    "compresión de vídeo",
+    "reducir tamaño",
+    "códecs",
+    "herramientas online",
+    "FileTools"
+  ],
+  "publishedAt": "2026-07-15",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+  "imageAlt": "Primer plano de un chip tecnológico que simboliza el procesamiento de datos",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ]
+}

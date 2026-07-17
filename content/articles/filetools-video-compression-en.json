@@ -1,0 +1,26 @@
+{
+  "slug": "filetools-video-compression-en",
+  "lang": "en",
+  "title": "Compressing Video Online: How to Shrink Files Without Visible Quality Loss",
+  "description": "Videos are the largest files we routinely send. How compression works, what codecs do, and when a browser tool is enough.",
+  "excerpt": "The difference between 500 MB and 50 MB is usually not quality — it's the codec and bitrate you choose.",
+  "content": "A phone video can easily hit a gigabyte, e-mail stops at 25 MB, and messengers blur videos beyond recognition on send. Video compression is one of the most common media tasks people face — and one of the least understood.\n\nThe core principle: a video's size is determined by its bitrate, not its resolution alone. Modern codecs like H.265 or AV1 can pack the same visual quality into half the bitrate of the older H.264. That's why the same video can shrink from 500 MB to 50 MB without the naked eye noticing — the codec simply makes smarter decisions about which details viewers won't see anyway.\n\nWhen to compress and how much? For sending to colleagues or posting on social media, 1080p at around 5–8 Mbps is plenty. Family video archives deserve more care — keep the original and compress only a sharing copy. Footage headed for further editing should be compressed as little as possible: every compression generation stacks quality loss.\n\nFor years, compression meant installing a desktop program. Today a browser handles it: tools like FileTools process video directly online, with no installation and no queues. For sensitive footage, prefer tools that process the file locally in the browser — the video then never leaves your computer.\n\nThree practical rules to finish: always compress from the original, not an already-compressed copy; lower the bitrate before lowering the resolution (1080p at a lower bitrate looks better than blurry 4K); and test your settings on a short clip before batch processing. It saves hours of re-encoding and gigabytes of storage.",
+  "category": "tools",
+  "tags": [
+    "video compression",
+    "file size reduction",
+    "codecs",
+    "online tools",
+    "FileTools"
+  ],
+  "publishedAt": "2026-07-15",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+  "imageAlt": "Close-up of a technology chip symbolizing data processing",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ]
+}

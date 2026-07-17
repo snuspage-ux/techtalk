@@ -1,0 +1,26 @@
+{
+  "slug": "filetools-video-compression-de",
+  "lang": "de",
+  "title": "Videos online komprimieren: Dateien verkleinern ohne sichtbaren Qualitätsverlust",
+  "description": "Videos sind die größten Dateien, die wir regelmäßig verschicken. Wie Kompression funktioniert und wann ein Browser-Tool genügt.",
+  "excerpt": "Der Unterschied zwischen 500 MB und 50 MB liegt meist nicht in der Qualität, sondern in Codec und Bitrate.",
+  "content": "Ein Handyvideo erreicht schnell ein Gigabyte, E-Mail endet bei 25 MB, und Messenger verwaschen Videos beim Senden bis zur Unkenntlichkeit. Videokompression ist deshalb eine der häufigsten Medienaufgaben — und eine der am wenigsten verstandenen.\n\nDas Grundprinzip: Die Größe eines Videos bestimmt die Bitrate, nicht die Auflösung allein. Moderne Codecs wie H.265 oder AV1 packen dieselbe visuelle Qualität in die halbe Bitrate des älteren H.264. Genau deshalb lässt sich dasselbe Video von 500 MB auf 50 MB verkleinern, ohne dass das bloße Auge einen Unterschied sieht — der Codec entscheidet nur klüger, welche Details der Zuschauer ohnehin nicht wahrnimmt.\n\nWann komprimieren und wie stark? Für den Versand an Kollegen oder Social Media reichen 1080p mit etwa 5–8 Mbit/s. Familienarchive verdienen mehr Sorgfalt — Original behalten und nur eine Kopie zum Teilen komprimieren. Material für weiteren Schnitt dagegen so wenig wie möglich komprimieren: Jede Kompressionsgeneration addiert Qualitätsverlust.\n\nLange brauchte man dafür ein Desktop-Programm. Heute erledigt das der Browser: Tools wie FileTools verarbeiten Videos direkt online, ohne Installation und ohne Warteschlangen. Bei sensiblen Aufnahmen sollte man Tools bevorzugen, die die Datei lokal im Browser verarbeiten — das Video verlässt dann nie den eigenen Rechner.\n\nDrei praktische Regeln zum Schluss: immer vom Original komprimieren, nie von einer bereits komprimierten Version; erst die Bitrate senken, dann die Auflösung (1080p mit niedrigerer Bitrate sieht besser aus als verwaschenes 4K); und Einstellungen vor der Stapelverarbeitung an einem kurzen Clip testen. Das spart Stunden an Neukodierung und Gigabytes an Speicher.",
+  "category": "tools",
+  "tags": [
+    "Videokompression",
+    "Datei verkleinern",
+    "Codecs",
+    "Online-Tools",
+    "FileTools"
+  ],
+  "publishedAt": "2026-07-15",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+  "imageAlt": "Nahaufnahme eines Technologie-Chips als Symbol für Datenverarbeitung",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ]
+}
