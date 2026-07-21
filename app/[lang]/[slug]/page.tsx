@@ -133,7 +133,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ lang: 
     <main className="max-w-3xl mx-auto px-6 py-16">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
-      <Link href="/" className="text-sm text-zinc-500 hover:text-violet-400 transition-colors mb-8 inline-block">← Back to TechTalk</Link>
+      <Link href={lang === "en" ? "/" : `/${lang}`} className="text-sm text-zinc-500 hover:text-violet-400 transition-colors mb-8 inline-block">← TechTalk</Link>
       <div className="flex items-center gap-3 text-xs text-zinc-500 mb-6">
         <Link href={`/category/${article.category}`} className={`px-2 py-0.5 rounded-full border ${CAT_COLORS[article.category] || ""}`}>{article.category}</Link>
         <span className="w-1 h-1 rounded-full bg-zinc-600" />
