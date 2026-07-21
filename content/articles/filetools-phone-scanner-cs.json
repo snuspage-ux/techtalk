@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-phone-scanner-cs",
+  "lang": "cs",
+  "title": "Udělej ze svého telefonu skener dokumentů (bez aplikace)",
+  "description": "Na čisté PDF skeny nepotřebuješ skener ani placenou appku. Jak naskenovat dokumenty telefonem a bezplatným nástrojem v prohlížeči.",
+  "excerpt": "Šuplík plný papírů a skener nikde? Telefon plus bezplatný nástroj v prohlížeči ti na čisté PDF stačí.",
+  "content": "Někdo tě požádá, ať „naskenuješ a pošleš\" podepsaný formulář, a ty skener nemáš. Obvyklá reakce je stáhnout další aplikaci, která chce předplatné a tvoje kontakty. Nepotřebuješ ji.\n\n**Fotoaparát v telefonu už zvládne to těžké**\n\nDnešní telefony snímají text dost ostře na jakýkoli dokument. Trik je proměnit tu fotku v pořádné, oříznuté a narovnané PDF, ne v křivý JPG, který v e-mailu vypadá neprofesionálně.\n\n**Jednoduchý bezplatný postup**\n\n1. **Foť naplocho a při dobrém světle.** Polož list na tmavou plochu, vyhni se stínům, foť přímo shora. Denní světlo je lepší než lampa.\n2. **Převeď na PDF v prohlížeči.** Nahraj fotku do [FileTools](https://filetools.eu) a udělej z ní PDF — bez instalace, bez účtu.\n3. **Slej vícestránkové dokumenty.** Z několika fotek uděláš jeden čistý soubor přes [FileTools](https://filetools.eu/merge-pdfs), ve správném pořadí.\n4. **Před odesláním zkomprimuj.** Fotka z 12 Mpx dělá těžké PDF; zmenši ho, ať se vejde do e-mailu.\n\n**Proč jsou nástroje v prohlížeči lepší než skenovací appky**\n\nSkenovací aplikace tlačí předplatné, do free verze přidávají vodoznaky a často nahrávají tvoje dokumenty na svoje servery. Nástroj, který zpracuje soubory lokálně, znamená, že tvoje podepsaná smlouva nebo občanka neopustí zařízení. U citlivých věcí to hraje roli.\n\n**Kdy vážně potřebuješ skutečný skener**\n\nNa hromadnou archivaci nebo dokonalé barvy pořád platí hardware. Ale na občasný formulář, účtenku nebo smlouvu je telefon plus bezplatný převodník rychlejší než hledat skener v kanceláři.\n\nŽivot bez papíru nevyžaduje nové vybavení. Vyžaduje vědět, že tvůj telefon už tím skenerem je.",
+  "category": "tools",
+  "tags": [
+    "skenování dokumentů",
+    "skener v telefonu",
+    "PDF",
+    "bezpapírově",
+    "FileTools"
+  ],
+  "publishedAt": "2026-07-23",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "Telefon fotí papírový dokument na stole",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-pdf-to-word-conversion",
+    "filetools-merge-pdfs",
+    "filetools-mobile-file-conversion"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-phone-scanner-es",
+  "lang": "es",
+  "title": "Convierte tu móvil en un escáner de documentos (sin apps)",
+  "description": "No necesitas un escáner ni una app de pago para PDF nítidos. Cómo escanear documentos con el móvil y una herramienta web gratis.",
+  "excerpt": "¿Un cajón lleno de papeles y ningún escáner? Tu móvil más una herramienta web gratis bastan para PDF nítidos.",
+  "content": "Alguien te pide \"escanear y enviar\" un formulario firmado y no tienes escáner. El reflejo habitual: bajar otra app que quiere suscripción y tus contactos. No hace falta.\n\n**La cámara del móvil ya hace lo difícil**\n\nLas cámaras actuales captan el texto con nitidez suficiente para cualquier documento. El truco es convertir esa foto en un PDF limpio, recortado y enderezado, no en un JPG torcido que queda poco profesional en un correo.\n\n**El flujo simple y gratis**\n\n1. **Fotografía plano y con buena luz.** Hoja sobre superficie oscura, evita sombras, dispara desde arriba. La luz del día gana a la lámpara.\n2. **Convierte a PDF en el navegador.** Sube la foto a [FileTools](https://filetools.eu) y hazla PDF — sin instalar, sin cuenta.\n3. **Une documentos de varias páginas.** Varias fotos se vuelven un archivo limpio con [FileTools](https://filetools.eu/merge-pdfs), en el orden correcto.\n4. **Comprime antes de enviar.** Una foto de 12 megapíxeles genera un PDF pesado; redúcelo para que quepa en un email.\n\n**Por qué las herramientas web ganan a las apps escáner**\n\nLas apps escáner empujan suscripciones, ponen marcas de agua en la versión gratis y a menudo suben tus documentos a sus servidores. Una herramienta que procesa en local significa que tu contrato firmado o tu DNI nunca sale del dispositivo. En lo sensible, eso importa.\n\n**Cuándo necesitas de verdad un escáner real**\n\nEl archivado masivo o el color perfecto siguen pidiendo hardware. Pero para el formulario, el recibo o el contrato ocasional, el móvil más un conversor gratis es más rápido que buscar el escáner de la oficina.\n\nLa vida sin papel no exige equipo nuevo. Exige saber que tu móvil ya es el escáner.",
+  "category": "tools",
+  "tags": [
+    "escaneo de documentos",
+    "escáner móvil",
+    "PDF",
+    "sin papel",
+    "FileTools"
+  ],
+  "publishedAt": "2026-07-23",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "Móvil fotografiando un documento en papel sobre un escritorio",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-pdf-to-word-conversion",
+    "filetools-merge-pdfs",
+    "filetools-mobile-file-conversion"
+  ]
+}

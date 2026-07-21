@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-phone-scanner-fr",
+  "lang": "fr",
+  "title": "Transformez votre téléphone en scanner de documents (sans appli)",
+  "description": "Pas besoin de scanner ni d'appli payante pour des PDF nets. Voici comment scanner des documents avec votre téléphone et un outil web gratuit.",
+  "excerpt": "Un tiroir plein de papiers et aucun scanner ? Votre téléphone plus un outil web gratuit suffisent pour des PDF nets.",
+  "content": "On vous demande de \"scanner et envoyer\" un formulaire signé, et vous n'avez pas de scanner. Le réflexe habituel : télécharger encore une appli qui veut un abonnement et vos contacts. Inutile.\n\n**L'appareil photo fait déjà le plus dur**\n\nLes appareils photo de téléphone capturent le texte assez net pour tout document. L'astuce est de transformer cette photo en un PDF propre, recadré et redressé, plutôt qu'un JPG de travers qui fait peu pro dans une boîte mail.\n\n**Le flux simple et gratuit**\n\n1. **Photographiez à plat et bien éclairé.** Page sur surface sombre, évitez les ombres, tirez droit du dessus. La lumière du jour bat le plafonnier.\n2. **Convertissez en PDF dans le navigateur.** Envoyez la photo à [FileTools](https://filetools.eu) et faites-en un PDF — sans installation, sans compte.\n3. **Fusionnez les documents multipages.** Plusieurs photos deviennent un fichier propre via [FileTools](https://filetools.eu/merge-pdfs), dans le bon ordre.\n4. **Compressez avant d'envoyer.** Une photo 12 mégapixels fait un PDF lourd ; réduisez-le pour qu'il tienne dans un mail.\n\n**Pourquoi les outils web battent les applis scanner**\n\nLes applis scanner poussent des abonnements, ajoutent des filigranes à l'offre gratuite et envoient souvent vos documents sur leurs serveurs. Un outil qui traite les fichiers en local, c'est votre contrat signé ou votre pièce d'identité qui ne quitte jamais l'appareil. Pour le sensible, ça compte.\n\n**Quand il faut vraiment un vrai scanner**\n\nL'archivage en masse ou une couleur parfaite exigent encore du matériel. Mais pour le formulaire, le reçu ou le contrat occasionnel, le téléphone plus un convertisseur gratuit va plus vite que de chercher le scanner du bureau.\n\nLe sans-papier n'exige pas de nouveau matériel. Il exige de savoir que votre téléphone est déjà le scanner.",
+  "category": "tools",
+  "tags": [
+    "numérisation",
+    "scanner téléphone",
+    "PDF",
+    "sans papier",
+    "FileTools"
+  ],
+  "publishedAt": "2026-07-23",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "Téléphone photographiant un document papier sur un bureau",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-pdf-to-word-conversion",
+    "filetools-merge-pdfs",
+    "filetools-mobile-file-conversion"
+  ]
+}

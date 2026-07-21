@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-phone-scanner-en",
+  "lang": "en",
+  "title": "Turn Your Phone Into a Document Scanner (No App Required)",
+  "description": "You do not need a scanner or a paid app to get clean PDF scans. Here's how to scan documents with your phone and a free browser tool.",
+  "excerpt": "A drawer full of paper and no scanner in sight? Your phone plus a free browser tool is all you need for clean PDFs.",
+  "content": "Someone asks you to \"scan and send\" a signed form, and you do not own a scanner. The usual move is to download yet another app that wants a subscription and your contacts. You do not need it.\n\n**Your phone camera already does the hard part**\n\nModern phone cameras capture text sharply enough for any document. The trick is turning that photo into a proper, cropped, straightened PDF instead of a crooked JPG that looks unprofessional in an inbox.\n\n**The simple, free workflow**\n\n1. **Photograph flat and well-lit.** Put the page on a dark surface, avoid shadows, shoot from directly above. Daylight beats a ceiling lamp.\n2. **Convert to PDF in the browser.** Upload the photo to [FileTools](https://filetools.eu) and turn it into a PDF — no app install, no account.\n3. **Merge multi-page documents.** Several photos become one clean file with [FileTools](https://filetools.eu/merge-pdfs), in the right order.\n4. **Compress before sending.** A 12-megapixel photo makes a heavy PDF; shrink it so it actually fits in an email.\n\n**Why browser tools beat scanner apps**\n\nScanner apps push subscriptions, add watermarks to the free tier, and often upload your documents to their servers. A browser tool that processes files locally means your signed contract or ID never leaves your device. For anything sensitive, that matters.\n\n**When you genuinely need a real scanner**\n\nHigh-volume archiving or perfect color reproduction still calls for hardware. But for the occasional form, receipt, or contract, your phone plus a free converter is faster than finding the office scanner.\n\nThe paperless life does not require new gear. It requires knowing your phone is already the scanner.",
+  "category": "tools",
+  "tags": [
+    "document scanning",
+    "phone scanner",
+    "PDF",
+    "paperless",
+    "FileTools"
+  ],
+  "publishedAt": "2026-07-23",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "Phone photographing a paper document on a desk",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-pdf-to-word-conversion",
+    "filetools-merge-pdfs",
+    "filetools-mobile-file-conversion"
+  ]
+}

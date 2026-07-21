@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-phone-scanner-pl",
+  "lang": "pl",
+  "title": "Zmień telefon w skaner dokumentów (bez aplikacji)",
+  "description": "Do czystych skanów PDF nie potrzebujesz skanera ani płatnej aplikacji. Jak zeskanować dokumenty telefonem i darmowym narzędziem w przeglądarce.",
+  "excerpt": "Szuflada pełna papierów i żadnego skanera? Telefon plus darmowe narzędzie w przeglądarce wystarczą na czyste PDF-y.",
+  "content": "Ktoś prosi, żebyś \"zeskanował i wysłał\" podpisany formularz, a ty nie masz skanera. Zwykły odruch: pobrać kolejną aplikację, która chce abonamentu i twoich kontaktów. Nie potrzebujesz jej.\n\n**Aparat w telefonie już robi to trudne**\n\nDzisiejsze aparaty rejestrują tekst dość ostro na każdy dokument. Sztuką jest zamienić to zdjęcie w porządny, przycięty i wyprostowany PDF, a nie krzywy JPG, który w skrzynce wygląda nieprofesjonalnie.\n\n**Prosty, darmowy proces**\n\n1. **Fotografuj płasko i przy dobrym świetle.** Kartka na ciemnym tle, unikaj cieni, rób zdjęcie prosto z góry. Światło dzienne bije lampę.\n2. **Zamień na PDF w przeglądarce.** Wgraj zdjęcie do [FileTools](https://filetools.eu) i zrób z niego PDF — bez instalacji, bez konta.\n3. **Scal dokumenty wielostronicowe.** Kilka zdjęć stanie się jednym czystym plikiem przez [FileTools](https://filetools.eu/merge-pdfs), we właściwej kolejności.\n4. **Skompresuj przed wysłaniem.** Zdjęcie 12 Mpix daje ciężki PDF; zmniejsz go, żeby zmieścił się w mailu.\n\n**Dlaczego narzędzia w przeglądarce biją aplikacje skanujące**\n\nAplikacje skanujące pchają abonamenty, dodają znaki wodne w wersji darmowej i często wysyłają dokumenty na swoje serwery. Narzędzie przetwarzające pliki lokalnie oznacza, że twoja podpisana umowa czy dowód nigdy nie opuszczają urządzenia. Przy wrażliwych rzeczach to ważne.\n\n**Kiedy naprawdę potrzebujesz prawdziwego skanera**\n\nMasowa archiwizacja albo idealny kolor wciąż wymagają sprzętu. Ale do okazjonalnego formularza, paragonu czy umowy telefon plus darmowy konwerter jest szybszy niż szukanie skanera w biurze.\n\nŻycie bez papieru nie wymaga nowego sprzętu. Wymaga wiedzy, że twój telefon już jest skanerem.",
+  "category": "tools",
+  "tags": [
+    "skanowanie dokumentów",
+    "skaner w telefonie",
+    "PDF",
+    "bez papieru",
+    "FileTools"
+  ],
+  "publishedAt": "2026-07-23",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "Telefon fotografuje papierowy dokument na biurku",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-pdf-to-word-conversion",
+    "filetools-merge-pdfs",
+    "filetools-mobile-file-conversion"
+  ]
+}

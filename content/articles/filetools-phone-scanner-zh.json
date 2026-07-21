@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-phone-scanner-zh",
+  "lang": "zh",
+  "title": "把手机变成文档扫描仪（无需任何App）",
+  "description": "想要干净的 PDF 扫描件，你不需要扫描仪，也不需要付费 App。教你用手机加一个免费的浏览器工具扫描文档。",
+  "excerpt": "抽屉里全是纸，却没有扫描仪？一部手机加一个免费浏览器工具，就够做出干净的 PDF。",
+  "content": "有人让你把签好的表格「扫描一下发过来」，可你没有扫描仪。通常的反应是再下一个想要订阅和通讯录的 App。其实不必。\n\n**手机摄像头已经把难的部分做完了**\n\n如今的手机摄像头拍文字足够清晰，应付任何文档都没问题。关键是把那张照片变成干净、裁切、摆正的 PDF，而不是一张歪斜的 JPG——那种放进邮箱里显得很不专业。\n\n**简单又免费的流程**\n\n1. **放平、光线充足地拍。** 把纸放在深色台面上，避开阴影，正上方拍摄。日光胜过顶灯。\n2. **在浏览器里转成 PDF。** 把照片上传到 [FileTools](https://filetools.eu) 转成 PDF——无需安装、无需账号。\n3. **合并多页文档。** 几张照片通过 [FileTools](https://filetools.eu/merge-pdfs) 变成一个干净的文件，顺序正确。\n4. **发送前压缩。** 1200 万像素的照片会生成很大的 PDF；压小一点，才塞得进邮件。\n\n**为什么浏览器工具胜过扫描 App**\n\n扫描 App 拼命推订阅，免费版加水印，还常把你的文档上传到它们的服务器。一个在本地处理文件的工具，意味着你签好的合同或证件从不离开设备。涉及敏感信息时，这很重要。\n\n**什么时候你真的需要专业扫描仪**\n\n大批量归档或完美的色彩还原，仍然要靠硬件。但对偶尔一份表格、收据或合同来说，手机加一个免费转换器，比去找办公室的扫描仪更快。\n\n无纸化生活不需要新设备，只需要知道——你的手机早就是那台扫描仪。",
+  "category": "tools",
+  "tags": [
+    "文档扫描",
+    "手机扫描",
+    "PDF",
+    "无纸化",
+    "FileTools"
+  ],
+  "publishedAt": "2026-07-23",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "手机在书桌上拍摄一份纸质文档",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-pdf-to-word-conversion",
+    "filetools-merge-pdfs",
+    "filetools-mobile-file-conversion"
+  ]
+}

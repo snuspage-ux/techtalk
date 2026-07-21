@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-phone-scanner-de",
+  "lang": "de",
+  "title": "Mach dein Handy zum Dokumentenscanner (ganz ohne App)",
+  "description": "Für saubere PDF-Scans brauchst du weder Scanner noch bezahlte App. So scannst du Dokumente mit dem Handy und einem kostenlosen Browser-Tool.",
+  "excerpt": "Schublade voller Papier und kein Scanner? Dein Handy plus ein kostenloses Browser-Tool genügt für saubere PDFs.",
+  "content": "Jemand bittet dich, ein unterschriebenes Formular zu \"scannen und schicken\", und du hast keinen Scanner. Der übliche Reflex: noch eine App laden, die Abo und Kontakte will. Brauchst du nicht.\n\n**Deine Handykamera erledigt das Schwierige schon**\n\nModerne Handykameras erfassen Text scharf genug für jedes Dokument. Der Trick ist, das Foto in ein sauberes, zugeschnittenes, gerade gerücktes PDF zu verwandeln statt in ein schiefes JPG, das im Postfach unprofessionell wirkt.\n\n**Der einfache, kostenlose Ablauf**\n\n1. **Flach und gut beleuchtet fotografieren.** Blatt auf dunkle Fläche, Schatten vermeiden, direkt von oben. Tageslicht schlägt Deckenlampe.\n2. **Im Browser in PDF umwandeln.** Foto zu [FileTools](https://filetools.eu) hochladen und in PDF verwandeln — ohne Installation, ohne Konto.\n3. **Mehrseitige Dokumente zusammenführen.** Aus mehreren Fotos wird mit [FileTools](https://filetools.eu/merge-pdfs) eine saubere Datei, in der richtigen Reihenfolge.\n4. **Vor dem Senden komprimieren.** Ein 12-Megapixel-Foto ergibt ein schweres PDF; verkleinere es, damit es in eine Mail passt.\n\n**Warum Browser-Tools Scanner-Apps schlagen**\n\nScanner-Apps drängen Abos auf, versehen die Gratisstufe mit Wasserzeichen und laden Dokumente oft auf ihre Server. Ein Tool, das Dateien lokal verarbeitet, heißt: Dein unterschriebener Vertrag oder Ausweis verlässt das Gerät nie. Bei Sensiblem zählt das.\n\n**Wann du wirklich einen echten Scanner brauchst**\n\nMassenarchivierung oder perfekte Farben verlangen weiter Hardware. Aber für das gelegentliche Formular, den Beleg oder Vertrag ist das Handy plus Gratis-Konverter schneller als die Suche nach dem Büroscanner.\n\nPapierloses Leben braucht keine neue Ausrüstung. Es braucht das Wissen, dass dein Handy der Scanner schon ist.",
+  "category": "tools",
+  "tags": [
+    "Dokumentenscan",
+    "Handy-Scanner",
+    "PDF",
+    "papierlos",
+    "FileTools"
+  ],
+  "publishedAt": "2026-07-23",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "Handy fotografiert ein Papierdokument auf dem Schreibtisch",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-pdf-to-word-conversion",
+    "filetools-merge-pdfs",
+    "filetools-mobile-file-conversion"
+  ]
+}

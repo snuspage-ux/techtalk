@@ -1,0 +1,31 @@
+{
+  "slug": "tubevoice-webinar-replays-cs",
+  "lang": "cs",
+  "title": "Tvoje staré webináře jsou nevytěžený zlatý důl — jak je znovu použít",
+  "description": "Nahrané webináře většinou po jednom živém vysílání umřou ve složce. S dabingem a recyklací může stejná nahrávka vydělávat roky.",
+  "excerpt": "Už máš natočené hodiny hodnotných webinářů. Většina leží ladem. Recyklované a nadabované se stanou evergreen globálním aktivem.",
+  "content": "Odvedl jsi skvělý webinář. Naživo přišla stovka lidí, odpovídal jsi na dotazy, povedlo se. Pak nahrávka skončila ve složce a už ji nikdo neviděl. To je osud většiny webinářového obsahu — jedno živé vysílání a pak ticho.\n\nJe to škoda, protože webinář je už tak nejtěžší druh obsahu: dlouhý, strukturovaný, opravdu užitečný. Živá akce byla jen jeho první život.\n\n**Rozstříhej záznam na evergreen klipy**\n\nŠedesátiminutový webinář není jedno aktivum; je to deset. Každá silná odpověď, každá minilekce, každá ukázka je samostatný short. Vystřihni je, přidej titulky a máš z jediné nahrávky týdny obsahu na sítě — bez nového natáčení.\n\n**Udělej z celého záznamu zdroj na vyžádání**\n\nOřízni hluchá místa a organizační věci a nahrávka se stane lead magnetem nebo placeným minikurzem. Lidé, co živě nestihli, rádi zhlédnou sestříhaný záznam.\n\n**Pak odemkni další jazyky**\n\nTady je část, kterou většina tvůrců přeskočí. Webinář byl v jednom jazyce, takže publikum bylo zastropované na mluvčí toho jazyka. [TubeVoice](https://tubevoice.io) nadabuje záznam do víc než 50 jazyků a zachová tvůj hlas i tempo. Najednou může webinář natočený jednou obsloužit zájemce na trzích, kam jsi nikdy neprodával.\n\nZvlášť u B2B se to nabaluje. Jediný hutný webinář, nadabovaný do pěti jazyků a rozstříhaný na shorty, může roky generovat leady napříč tuctem zemí — z práce, kterou už jsi udělal.\n\n**Kde začít**\n\nVezmi svůj nejúspěšnější minulý webinář. Vystřihni pět nejsilnějších momentů na sítě, sestříhej celý záznam do verze na vyžádání a nadabuj obojí do dvou tří jazyků, které ti analytika už napovídá. Změř leady. Většina lidí zůstane v šoku, kolik hodnoty leželo ve složce ladem.\n\nTvoje webináře nejsou spotřebované. Jsou to zásoby. Zrecykluj je a nadabuj, a obsah, který jsi udělal jednou, funguje dál dlouho potom, co živý chat utichl.",
+  "category": "ai",
+  "tags": [
+    "webináře",
+    "recyklace obsahu",
+    "AI dabing",
+    "evergreen obsah",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-07-28",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=800&q=80",
+  "imageAlt": "Notebook se stříháním nahraného webináře",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "tubevoice-podcast-to-video",
+    "tubevoice-content-repurpose",
+    "tubevoice-viewer-retention"
+  ]
+}
