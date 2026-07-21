@@ -1,9 +1,12 @@
-import { getAllArticles } from "@/lib/articles";
+import { getPublishedArticles } from "@/lib/articles";
 
 const BASE = "https://techtalk.tech";
 
+// Re-generate hourly so newly-due articles enter the feed on their date.
+export const revalidate = 3600;
+
 export async function GET() {
-  const articles = getAllArticles().slice(0, 50);
+  const articles = getPublishedArticles().slice(0, 50);
   const now = new Date().toUTCString();
 
   const items = articles.map(a => {
