@@ -16,13 +16,16 @@ export function getArticle(slug: string, lang?: string): Article | undefined {
   return getAllArticles().find(a => a.slug === slug && (!lang || a.lang === lang));
 }
 
-// Articles are pre-written with future publishedAt dates and revealed on their
-// day. Everything shown to visitors (home, category, feed, sitemap) must go
-// through the published set so future-dated drafts stay hidden until their date.
-// Uses UTC "today"; ISO YYYY-MM-DD strings compare correctly lexicographically.
+// Articles are pre-written with a future publishedAt and revealed when that
+// moment arrives. publishedAt may be a date ("2026-07-22", treated as midnight
+// UTC) or a full timestamp ("2026-07-22T05:00:00Z") — the latter lets us drop
+// two articles a day (morning and evening). Everything shown to visitors
+// (home, category, feed, sitemap) goes through this set, so scheduled drafts
+// stay hidden until their time. Pages revalidate every 15 min (see route files)
+// so a drop appears within minutes of its timestamp without a rebuild.
 export function getPublishedArticles(): Article[] {
-  const today = new Date().toISOString().slice(0, 10);
-  return getAllArticles().filter(a => a.publishedAt <= today);
+  const now = Date.now();
+  return getAllArticles().filter(a => new Date(a.publishedAt).getTime() <= now);
 }
 
 export function getArticlesByLang(lang: string): Article[] {

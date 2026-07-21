@@ -3,7 +3,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 
 // Re-render hourly so newly-due articles reveal themselves without a rebuild.
-export const revalidate = 3600;
+export const revalidate = 900;
 
 const CAT_LABELS: Record<string, string> = { ai: "Artificial Intelligence", tools: "Tools & Productivity", web: "Web Development", creative: "Creative Software" };
 const CAT_COLORS: Record<string, string> = { ai: "text-violet-400 bg-violet-500/10 border-violet-500/20", tools: "text-emerald-400 bg-emerald-500/10 border-emerald-500/20", web: "text-blue-400 bg-blue-500/10 border-blue-500/20", creative: "text-amber-400 bg-amber-500/10 border-amber-500/20" };

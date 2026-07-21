@@ -1,0 +1,35 @@
+{
+  "slug": "kupsledujici-best-time-to-post-cs",
+  "lang": "cs",
+  "title": "„Nejlepší čas na příspěvek“ je mýtus — tady je, na čem fakt záleží",
+  "description": "Obecné tabulky nejlepšího času k postování jsou k ničemu. Jak najít svoje skutečné okno a proč je první hodina důležitější než hodiny na budíku.",
+  "excerpt": "Přestaň kopírovat tabulky „postuj v 9 ráno“. Tvůj nejlepší čas závisí na publiku — a co se stane v první hodině, je důležitější než přesná minuta.",
+  "content": "Vygoogli „nejlepší čas na příspěvek\" a dostaneš sebevědomé tabulky: úterý 9 ráno, čtvrtek 19. Jsou většinou k ničemu, protože průměrují miliony účtů, které vypadají úplně jinak než ten tvůj.\n\n**Tvoje publikum, ne internetové**\n\nJediný plán, na kterém záleží, je kdy jsou aktivní *tvoji* sledující. Každá platforma to ukazuje v analytice — jednoduchý graf, kdy je tvoje publikum online. Postuj krátce před těmi špičkami, ať je obsah čerstvý, když otevřou appku. CZ/SK publikum se chová jinak než americké; použij vlastní data, ne globální průměr.\n\n**První hodina poráží přesnou minutu**\n\nPlatformy o osudu příspěvku rozhodují rychle. Když v první hodině sbírá silné reakce, dostane se k víc lidem. Když padne naplocho, zapadne. Právě proto na čase vůbec záleží — chceš postovat, když můžou tvoji nejaktivnější sledující rychle zareagovat.\n\n**Konzistence poráží dokonalé načasování**\n\nÚčet, který postuje pravidelně, naučí algoritmus i publikum čekat obsah. Dokonalé načasování při náhodném plánu prohraje s slušným načasováním při spolehlivém.\n\n**Nakopnutí první hodiny**\n\nProtože je ta první hodina rozhodující, někteří CZ/SK tvůrci dají svým nejdůležitějším příspěvkům počáteční nakopnutí přes [KupSledujici](https://kupsledujici.cz), aby algoritmus viděl tempo přesně ve chvíli, kdy rozhoduje, jak daleko příspěvek pustit.\n\nPokud postuješ video, [TubeVoice](https://tubevoice.io) ho nadabuje do víc než 50 jazyků — a různá jazyková publika mají špičku v jinou hodinu, takže dosah rozprostřeš přes celý den.\n\nZapomeň na obecnou tabulku. Mrkni na vlastní analytiku, postuj před špičkou publika, zvládni první hodinu a buď konzistentní. To je celý vzorec.",
+  "category": "tools",
+  "tags": [
+    "nejlepší čas na příspěvek",
+    "plán postování",
+    "strategie na sítích",
+    "SMM",
+    "CZ/SK"
+  ],
+  "publishedAt": "2026-07-23T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&q=80",
+  "imageAlt": "Analytika ukazující aktivní hodiny publika",
+  "backlinks": [
+    {
+      "text": "KupSledujici",
+      "url": "https://kupsledujici.cz"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "kupsledujici-frequency-strategy",
+    "kupsledujici-engagement",
+    "kupsledujici-social-media-analytics"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-fill-sign-pdf-en",
+  "lang": "en",
+  "title": "Stop Printing PDFs Just to Sign Them — Fill and Sign Online",
+  "description": "Printing, signing, and scanning a PDF is a waste of time and paper. Here's how to fill and sign documents online, for free, without an account.",
+  "excerpt": "Print, sign, scan, email — the most pointless office ritual there is. You can fill and sign a PDF online in two minutes instead.",
+  "content": "Someone emails you a form. You print it, sign it by hand, scan it back, and email it. Four steps, a printer, and a scanner — to add one signature. It is one of the most pointless rituals left in office life, and it disappears the moment you fill and sign digitally.\n\n**What \"fill and sign\" actually means**\n\nMost PDFs that need a signature are not locked; they are just flat documents. You can type directly into the blank fields, add checkmarks, and drop in a signature image or a drawn one — all on screen. No printer, no scanner, no reinstalling desktop software you use twice a year.\n\n**The free workflow**\n\n1. **Open the PDF in a browser tool.** Upload it to [FileTools](https://filetools.eu) — no account, no install.\n2. **Type into the fields.** Names, dates, boxes — add text wherever needed.\n3. **Add your signature.** Draw it once, or upload a photo of your handwritten signature on white paper.\n4. **Export a clean PDF** and email it straight back.\n\n**Why the browser beats the printer**\n\nBesides saving paper and time, a typed-and-signed PDF looks far more professional than a crooked phone scan of a printout. And because [FileTools](https://filetools.eu) processes files in the browser, a sensitive contract does not get uploaded to some company's servers.\n\n**Locked or protected PDFs**\n\nOccasionally a PDF is password-protected or restricted. If it will not let you edit, unlock it first with [FileTools](https://filetools.eu/pdf-unlock), then fill and sign as normal.\n\nThe print-sign-scan ritual made sense in 2005. Today it is just friction. Fill and sign on screen, and the form that used to take fifteen minutes takes two.",
+  "category": "tools",
+  "tags": [
+    "fill and sign PDF",
+    "e-signature",
+    "paperless",
+    "online PDF tools",
+    "FileTools"
+  ],
+  "publishedAt": "2026-07-26T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "Person signing a PDF on a laptop with a trackpad",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-pdf-unlock",
+    "filetools-pdf-to-word-conversion",
+    "filetools-merge-pdfs"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-fill-sign-pdf-zh",
+  "lang": "zh",
+  "title": "别再为了签字而打印 PDF——在线填写并签名",
+  "description": "打印、签字、再扫描一份 PDF，是在浪费时间和纸。教你免费、无需账号，在线填写并签署文件。",
+  "excerpt": "打印、签字、扫描、发邮件——最没意义的办公仪式。其实你可以在线两分钟填好并签好一份 PDF。",
+  "content": "有人给你发来一份表格。你把它打印出来、手写签字、再扫描回去、发邮件。四个步骤、一台打印机、一台扫描仪——只为加一个签名。这是办公生活里最没意义的仪式之一，而当你改用数字方式填写并签署时，它就消失了。\n\n**「填写并签名」到底是什么**\n\n大多数需要签名的 PDF 并没有被锁；它们只是扁平的文档。你可以直接在空白字段里打字、勾选，并放入一张签名图片或手绘签名——全在屏幕上完成。不用打印机、不用扫描仪，也不用重装一年只用两次的软件。\n\n**免费流程**\n\n1. **在浏览器工具里打开 PDF。** 上传到 [FileTools](https://filetools.eu)——无需账号、无需安装。\n2. **在字段里打字。** 姓名、日期、方框——需要的地方加上文字。\n3. **加上签名。** 手绘一次，或上传一张你签在白纸上的签名照片。\n4. **导出干净的 PDF**，直接回邮。\n\n**为什么浏览器胜过打印机**\n\n除了省纸省时间，打字加签名的 PDF，看起来比用手机歪歪扭扭扫描的打印件专业得多。而且因为 [FileTools](https://filetools.eu) 在浏览器里处理文件，敏感的合同不会被上传到某家公司的服务器。\n\n**被锁或受保护的 PDF**\n\n偶尔 PDF 会加密码或有限制。如果它不让你编辑，先用 [FileTools](https://filetools.eu/pdf-unlock) 解锁，然后照常填写并签名。\n\n打印-签字-扫描的仪式在 2005 年有它的道理。如今它只是阻力。在屏幕上填写并签名，过去十五分钟的表格，两分钟就搞定。",
+  "category": "tools",
+  "tags": [
+    "填写签署PDF",
+    "电子签名",
+    "无纸化",
+    "在线PDF工具",
+    "FileTools"
+  ],
+  "publishedAt": "2026-07-26T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "有人在笔记本电脑上用触控板签署 PDF",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-pdf-unlock",
+    "filetools-pdf-to-word-conversion",
+    "filetools-merge-pdfs"
+  ]
+}

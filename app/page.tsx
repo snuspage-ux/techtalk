@@ -2,7 +2,7 @@ import { getPublishedArticles } from "@/lib/articles";
 import { ArticleGrid } from "@/components/ArticleGrid";
 
 // Re-render hourly so newly-due articles reveal themselves without a rebuild.
-export const revalidate = 3600;
+export const revalidate = 900;
 
 export default function Home() {
   const articles = getPublishedArticles().map(a => ({

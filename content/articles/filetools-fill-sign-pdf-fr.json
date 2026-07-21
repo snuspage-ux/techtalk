@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-fill-sign-pdf-fr",
+  "lang": "fr",
+  "title": "Arrêtez d'imprimer un PDF juste pour le signer — remplissez et signez en ligne",
+  "description": "Imprimer, signer et rescanner un PDF est une perte de temps et de papier. Comment remplir et signer des documents en ligne, gratuitement, sans compte.",
+  "excerpt": "Imprimer, signer, scanner, envoyer — le rituel de bureau le plus inutile qui soit. Vous pouvez remplir et signer un PDF en ligne en deux minutes.",
+  "content": "On vous envoie un formulaire par mail. Vous l'imprimez, le signez à la main, le rescannez et le renvoyez. Quatre étapes, une imprimante, un scanner — pour une signature. L'un des rituels les plus inutiles de la vie de bureau, qui disparaît dès que vous remplissez et signez en numérique.\n\n**Ce que « remplir et signer » veut dire**\n\nLa plupart des PDF à signer ne sont pas verrouillés ; ce sont des documents plats. Vous tapez directement dans les champs vides, ajoutez des coches et déposez une image de signature ou la dessinez — tout à l'écran. Pas d'imprimante, pas de scanner, pas de logiciel à réinstaller.\n\n**Le flux gratuit**\n\n1. **Ouvrez le PDF dans un outil web.** Envoyez-le à [FileTools](https://filetools.eu) — sans compte, sans installation.\n2. **Tapez dans les champs.** Noms, dates, cases — ajoutez du texte où il faut.\n3. **Ajoutez votre signature.** Dessinez-la une fois, ou chargez une photo de votre signature sur papier blanc.\n4. **Exportez un PDF propre** et renvoyez-le directement.\n\n**Pourquoi le navigateur bat l'imprimante**\n\nAu-delà du papier et du temps, un PDF tapé et signé paraît bien plus pro qu'un scan de travers pris au téléphone. Et comme [FileTools](https://filetools.eu) traite les fichiers dans le navigateur, un contrat sensible n'atterrit pas sur les serveurs d'une entreprise.\n\n**PDF verrouillés**\n\nParfois un PDF est protégé par mot de passe. S'il refuse l'édition, déverrouillez-le d'abord avec [FileTools](https://filetools.eu/pdf-unlock), puis remplissez et signez normalement.\n\nLe rituel imprimer-signer-scanner avait du sens en 2005. Aujourd'hui, ce n'est que de la friction. Remplissez et signez à l'écran, et le formulaire passe de quinze minutes à deux.",
+  "category": "tools",
+  "tags": [
+    "remplir signer PDF",
+    "signature électronique",
+    "sans papier",
+    "outils PDF en ligne",
+    "FileTools"
+  ],
+  "publishedAt": "2026-07-26T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "Personne signant un PDF sur un ordinateur portable au trackpad",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-pdf-unlock",
+    "filetools-pdf-to-word-conversion",
+    "filetools-merge-pdfs"
+  ]
+}

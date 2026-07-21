@@ -4,7 +4,7 @@ import { getPublishedArticles, CATEGORIES } from "@/lib/articles";
 const BASE = "https://techtalk.tech";
 
 // Re-generate hourly so newly-due articles enter the sitemap on their date.
-export const revalidate = 3600;
+export const revalidate = 900;
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date().toISOString();
