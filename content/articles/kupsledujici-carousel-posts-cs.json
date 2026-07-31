@@ -1,0 +1,35 @@
+{
+  "slug": "kupsledujici-carousel-posts-cs",
+  "lang": "cs",
+  "title": "Proč karusely poráží jednotlivé příspěvky (a jak udělat ty, co se prokliknou)",
+  "description": "Karuselové příspěvky mají větší dosah a víc uložení než jednotlivé obrázky. Proč formát funguje a jak postavit takový, co udrží pozornost.",
+  "excerpt": "Nenápadný karusel tiše převálcuje skoro každý jiný typ příspěvku. Proč — a jak udělat takový, co lidi doswipují až na konec.",
+  "content": "Když děláš jen příspěvky s jedním obrázkem, ignoruješ formát, který na většině platforem tiše vyhrává: karusel. Vícesnímkové příspěvky konzistentně sbírají víc uložení, víc času na příspěvku a větší dosah — z jednoho prostého důvodu.\n\n**Proč formát funguje**\n\nKaždý swipe je signál. Když se někdo posune ze snímku jedna na dva a na tři, platforma to čte jako interakci a strávený čas a odmění příspěvek větším dosahem. Jeden obrázek dostane letmý pohled; dobrý karusel dostane deset vteřin aktivní pozornosti. Přesně tohle algoritmus měří.\n\n**Jak udělat takový, co lidi dokoukají**\n\n1. **Snímek jedna je háček.** Jeho jediný úkol je udělat swipování hodným námahy — odvážné tvrzení, otázka, slib odměny.\n2. **Jedna myšlenka na snímek.** Necpi. Každý snímek má doručit jeden jasný bod a táhnout k dalšímu.\n3. **Vytvoř otevřenou smyčku.** Naznač na snímku jedna, co získají na snímku sedm. Zvědavost je protáhne skrz.\n4. **Zakonči shrnutím hodným uložení.** Poslední snímek má být ten, který si lidi ukládají nebo screenshotí — to uložení je nejsilnější signál, co můžeš získat.\n\n**Nakopnutí první hodiny**\n\nKarusely odměňují počáteční tempo jako každý příspěvek. Někteří CZ/SK tvůrci dají svým nejlepším karuselům počáteční nakopnutí přes [KupSledujici](https://kupsledujici.cz), aby se obsah se silným proswipováním ukázal víc lidem, dokud algoritmus ještě rozhoduje o jeho dosahu.\n\n**Poznámka pro video tvůrce**\n\nDěláš z karuselu video? [TubeVoice](https://tubevoice.io) ho nadabuje do víc než 50 jazyků, takže jedna myšlenka osloví publikum daleko za tvým.\n\nPřestaň automaticky postovat jednotlivé obrázky. Postav karusel s opravdovým háčkem, jednou myšlenkou na snímek a koncem hodným uložení — a formát udělá zbytek.",
+  "category": "tools",
+  "tags": [
+    "karuselové příspěvky",
+    "strategie na Instagramu",
+    "engagement",
+    "formát obsahu",
+    "CZ/SK"
+  ],
+  "publishedAt": "2026-08-04T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&q=80",
+  "imageAlt": "Telefon zobrazující swipovatelný karuselový příspěvek",
+  "backlinks": [
+    {
+      "text": "KupSledujici",
+      "url": "https://kupsledujici.cz"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "kupsledujici-engagement",
+    "kupsledujici-instagram-growth",
+    "kupsledujici-content-repurposing"
+  ]
+}

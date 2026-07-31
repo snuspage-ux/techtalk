@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-annotate-pdf-de",
+  "lang": "de",
+  "title": "Ein PDF kommentieren ohne Drucken: Notizen, Markierungen, Pfeile",
+  "description": "Für Feedback auf einem PDF brauchst du kein Acrobat. So markierst, kommentierst und annotierst du Dokumente gratis im Browser.",
+  "excerpt": "„Kannst du das PDF kommentieren?“ muss nicht Drucken, Kritzeln und Scannen heißen. Am Bildschirm in zwei Minuten, gratis.",
+  "content": "Jemand teilt ein Dokument und will Feedback. Der alte Reflex: drucken, an den Rand kritzeln, zurückscannen. Es geht viel schneller — und deine Notizen bleiben lesbar und leicht umzusetzen.\n\n**Annotieren heißt markieren, nicht bearbeiten**\n\nFür Feedback musst du den Text nicht ändern — du musst auf Dinge zeigen. Markierungen kennzeichnen wichtige Zeilen. Kommentare erklären, was sich ändern soll. Pfeile und Kästen lenken den Blick auf eine Stelle. Alles liegt über dem PDF, ohne das Original zu verändern.\n\n**Der kostenlose Ablauf**\n\n1. **PDF im Browser öffnen.** Zu [FileTools](https://filetools.eu) hochladen — ohne Konto, ohne Installation.\n2. **Markieren und kommentieren.** Kennzeichne wichtige Stellen und hinterlasse erklärende Notizen.\n3. **Exportieren und zurücksenden** — ein annotiertes PDF, das der andere überall öffnet.\n\n**Warum das Drucken-und-Scannen schlägt**\n\nHandschriftliche Randnotizen sind oft unlesbar und immer langsamer. Getippte Kommentare sind klar, durchsuchbar und landen als sauberes Dokument statt als schiefes Handyfoto. Und weil [FileTools](https://filetools.eu) im Browser läuft, landet ein vertraulicher Vertrag nicht auf fremden Servern.\n\n**Wenn das PDF gesperrt ist**\n\nManche PDFs sind eingeschränkt. Entsperre es zuerst mit [FileTools](https://filetools.eu/pdf-unlock) und annotiere dann normal.\n\nEine Prüfung sollte Minuten dauern, keinen Gang zum Drucker. Markieren, kommentieren, senden — und dein Feedback kommt klar und leicht umsetzbar an.",
+  "category": "tools",
+  "tags": [
+    "PDF annotieren",
+    "PDF-Kommentare",
+    "Dokumentenprüfung",
+    "Produktivität",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-03T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "PDF-Dokument mit Markierungen und Kommentarnotizen",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-fill-sign-pdf",
+    "filetools-pdf-unlock",
+    "filetools-merge-pdfs"
+  ]
+}

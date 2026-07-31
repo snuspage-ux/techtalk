@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-annotate-pdf-fr",
+  "lang": "fr",
+  "title": "Annoter un PDF sans l'imprimer : notes, surlignages et flèches",
+  "description": "Pas besoin d'Acrobat pour commenter un PDF. Comment surligner, commenter et annoter des documents gratuitement dans le navigateur.",
+  "excerpt": "« Tu peux annoter ce PDF ? » n'oblige pas à imprimer, gribouiller et scanner. Faites-le à l'écran en deux minutes, gratuitement.",
+  "content": "On vous partage un document et on vous demande votre avis. Le vieux réflexe : l'imprimer, gribouiller dans les marges, le rescanner. Il existe bien plus rapide — vos notes restent lisibles et faciles à appliquer.\n\n**Annoter, c'est marquer, pas éditer**\n\nPas besoin de changer le texte pour donner un avis — il faut pointer les choses. Les surlignages signalent les lignes importantes. Les notes expliquent quoi changer. Flèches et cadres attirent l'œil sur un point. Tout se pose sur le PDF sans toucher l'original.\n\n**Le flux gratuit**\n\n1. **Ouvrez le PDF dans le navigateur.** Chargez-le sur [FileTools](https://filetools.eu) — sans compte, sans installation.\n2. **Surlignez et commentez.** Marquez les passages clés et laissez des notes expliquant votre avis.\n3. **Exportez et renvoyez** un seul PDF annoté, ouvrable partout.\n\n**Pourquoi c'est mieux qu'imprimer-scanner**\n\nLes notes manuscrites sont souvent illisibles et toujours plus lentes. Les commentaires tapés sont clairs, cherchables et arrivent en document net, pas en photo de travers. Et comme [FileTools](https://filetools.eu) marche dans le navigateur, un contrat confidentiel ne part pas sur des serveurs.\n\n**Si le PDF est verrouillé**\n\nCertains PDF sont restreints. Déverrouillez-le avec [FileTools](https://filetools.eu/pdf-unlock), puis annotez normalement.\n\nRelire devrait prendre des minutes, pas un aller-retour à l'imprimante. Surlignez, commentez, envoyez — votre avis arrive clair et facile à appliquer.",
+  "category": "tools",
+  "tags": [
+    "annoter PDF",
+    "commentaires PDF",
+    "relecture",
+    "productivité",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-03T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "Document PDF avec surlignages et notes de commentaire",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-fill-sign-pdf",
+    "filetools-pdf-unlock",
+    "filetools-merge-pdfs"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-annotate-pdf-cs",
+  "lang": "cs",
+  "title": "Okomentuj PDF bez tisku: poznámky, zvýraznění a šipky",
+  "description": "Na připomínky k PDF nepotřebuješ Acrobat. Jak zvýrazňovat, komentovat a označovat dokumenty zdarma v prohlížeči.",
+  "excerpt": "„Můžeš okomentovat tohle PDF?“ nemusí znamenat tisk, čmárání a sken. Uděláš to na obrazovce za dvě minuty a zdarma.",
+  "content": "Někdo sdílí dokument a chce zpětnou vazbu. Starý reflex je vytisknout ho, načmárat do okrajů a naskenovat zpět. Existuje mnohem rychlejší cesta, která udrží tvoje poznámky čitelné a připomínky snadné k zapracování.\n\n**Anotace znamená označit, ne editovat**\n\nNa zpětnou vazbu nemusíš měnit text dokumentu — potřebuješ na věci ukázat. Zvýraznění označí důležité řádky. Komentáře vysvětlí, co se má změnit. Šipky a rámečky nasměrují pozornost na konkrétní místo. Všechno sedí nad PDF, aniž se dotkne originálu.\n\n**Bezplatný postup**\n\n1. **Otevři PDF v prohlížeči.** Nahraj ho do [FileTools](https://filetools.eu) — bez účtu, bez instalace.\n2. **Zvýrazňuj a komentuj.** Označ pasáže, na kterých záleží, a přidej poznámky vysvětlující tvou zpětnou vazbu.\n3. **Exportuj a pošli zpět** jedno okomentované PDF, které druhý otevře kdekoli.\n\n**Proč to poráží tisk a sken**\n\nRučně psané poznámky na okraji jsou často nečitelné a vždycky pomalejší. Napsané komentáře jsou jasné, dají se hledat a dorazí jako čistý dokument, ne jako křivá fotka výtisku z mobilu. A protože [FileTools](https://filetools.eu) běží v prohlížeči, důvěrná smlouva nebo draft se nenahraje na cizí servery.\n\n**Když je PDF zamčené**\n\nNěkterá PDF jsou omezená, takže je nejde označit. Nejdřív ho odemkni přes [FileTools](https://filetools.eu/pdf-unlock) a pak anotuj jako obvykle.\n\nRevize dokumentu má zabrat minuty, ne cestu k tiskárně. Zvýrazni, okomentuj, pošli — a tvoje zpětná vazba dorazí jasná a snadná k zapracování.",
+  "category": "tools",
+  "tags": [
+    "okomentovat PDF",
+    "poznámky v PDF",
+    "revize dokumentu",
+    "produktivita",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-03T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "PDF dokument se zvýrazněním a komentáři",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-fill-sign-pdf",
+    "filetools-pdf-unlock",
+    "filetools-merge-pdfs"
+  ]
+}

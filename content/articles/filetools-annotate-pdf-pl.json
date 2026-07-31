@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-annotate-pdf-pl",
+  "lang": "pl",
+  "title": "Zanotuj PDF bez drukowania: notatki, zakreślenia i strzałki",
+  "description": "Do komentowania PDF nie potrzebujesz Acrobata. Jak zakreślać, komentować i anotować dokumenty za darmo w przeglądarce.",
+  "excerpt": "„Możesz zanotować ten PDF?“ nie musi oznaczać drukowania, bazgrania i skanowania. Zrób to na ekranie w dwie minuty, za darmo.",
+  "content": "Ktoś udostępnia dokument i prosi o opinię. Stary odruch: wydrukować, nabazgrać na marginesie, zeskanować z powrotem. Jest dużo szybsza droga, która trzyma twoje notatki czytelne i łatwe do wdrożenia.\n\n**Anotacja to zaznaczanie, nie edycja**\n\nDo opinii nie musisz zmieniać tekstu — musisz wskazać rzeczy. Zakreślenia oznaczają ważne linie. Notatki wyjaśniają, co zmienić. Strzałki i ramki kierują wzrok na punkt. Wszystko leży na PDF, nie ruszając oryginału.\n\n**Darmowy proces**\n\n1. **Otwórz PDF w przeglądarce.** Wgraj go do [FileTools](https://filetools.eu) — bez konta, bez instalacji.\n2. **Zakreślaj i komentuj.** Oznacz ważne fragmenty i zostaw notatki z opinią.\n3. **Wyeksportuj i odeślij** jeden zanotowany PDF, który druga osoba otworzy wszędzie.\n\n**Dlaczego bije drukuj-i-skanuj**\n\nOdręczne notatki są często nieczytelne i zawsze wolniejsze. Wpisane komentarze są jasne, przeszukiwalne i przychodzą jako czysty dokument, nie krzywe zdjęcie. A ponieważ [FileTools](https://filetools.eu) działa w przeglądarce, poufna umowa nie trafia na cudze serwery.\n\n**Jeśli PDF jest zablokowany**\n\nNiektóre PDF-y są ograniczone. Odblokuj go przez [FileTools](https://filetools.eu/pdf-unlock), a potem anotuj normalnie.\n\nRecenzja powinna zająć minuty, nie wyprawę do drukarki. Zakreśl, skomentuj, wyślij — a twoja opinia dotrze jasna i łatwa do wdrożenia.",
+  "category": "tools",
+  "tags": [
+    "anotacja PDF",
+    "komentarze PDF",
+    "recenzja dokumentu",
+    "produktywność",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-03T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "Dokument PDF z zakreśleniami i notatkami",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-fill-sign-pdf",
+    "filetools-pdf-unlock",
+    "filetools-merge-pdfs"
+  ]
+}

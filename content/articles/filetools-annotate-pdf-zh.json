@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-annotate-pdf-zh",
+  "lang": "zh",
+  "title": "不打印也能批注 PDF：批注、高亮和箭头",
+  "description": "批注 PDF 不需要 Acrobat。教你在浏览器里免费高亮、评论和标注文档。",
+  "excerpt": "「你能批注一下这份 PDF 吗？」不必意味着打印、乱涂、再扫描。在屏幕上两分钟搞定，还免费。",
+  "content": "有人分享一份文档，请你给意见。老一套的反应是：打印出来、在页边乱涂、再扫描回去。有一种快得多的方式，能让你的批注清晰易读、也让意见更容易被采纳。\n\n**批注是标记，不是编辑**\n\n给意见并不需要改动文档的文字——你需要的是「指出来」。高亮标出重要的行。批注说明该改什么。箭头和方框把注意力引到具体某处。这一切都浮在 PDF 之上，不动原文。\n\n**免费流程**\n\n1. **在浏览器里打开 PDF。** 上传到 [FileTools](https://filetools.eu)——无需账号、无需安装。\n2. **高亮并评论。** 标出重要段落，留下解释你意见的批注。\n3. **导出并回传** 一份批注好的 PDF，对方在任何地方都能打开。\n\n**为什么它胜过打印再扫描**\n\n手写的页边批注往往看不清，也总是更慢。打字的评论清晰、可搜索，交回去的是一份干净文档，而不是一张歪斜的打印件照片。而且因为 [FileTools](https://filetools.eu) 在浏览器里运行，机密的合同或草稿不会被上传到别人的服务器。\n\n**如果 PDF 被锁**\n\n有些 PDF 有限制，无法批注。先用 [FileTools](https://filetools.eu/pdf-unlock) 解锁，再照常批注。\n\n审阅一份文档，本该只花几分钟，而不是跑一趟打印机。高亮、评论、发送——你的意见就清清楚楚、也好落实地到了对方手里。",
+  "category": "tools",
+  "tags": [
+    "批注PDF",
+    "PDF评论",
+    "文档审阅",
+    "效率",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-03T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "带有高亮和批注的 PDF 文档",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-fill-sign-pdf",
+    "filetools-pdf-unlock",
+    "filetools-merge-pdfs"
+  ]
+}

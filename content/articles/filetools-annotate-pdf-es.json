@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-annotate-pdf-es",
+  "lang": "es",
+  "title": "Anota un PDF sin imprimirlo: notas, resaltados y flechas",
+  "description": "No necesitas Acrobat para comentar un PDF. Cómo resaltar, comentar y anotar documentos gratis en el navegador.",
+  "excerpt": "«¿Puedes anotar este PDF?» no tiene que significar imprimir, garabatear y escanear. Hazlo en pantalla en dos minutos, gratis.",
+  "content": "Alguien comparte un documento y pide tu opinión. El reflejo antiguo: imprimirlo, garabatear en los márgenes y escanearlo. Hay una vía mucho más rápida que mantiene tus notas legibles y fáciles de aplicar.\n\n**Anotar es marcar, no editar**\n\nNo necesitas cambiar el texto para opinar — necesitas señalar cosas. Los resaltados marcan las líneas importantes. Las notas explican qué cambiar. Flechas y recuadros llevan la atención a un punto. Todo se pone sobre el PDF sin tocar el original.\n\n**El flujo gratis**\n\n1. **Abre el PDF en el navegador.** Súbelo a [FileTools](https://filetools.eu) — sin cuenta, sin instalar.\n2. **Resalta y comenta.** Marca los pasajes que importan y deja notas explicando tu opinión.\n3. **Exporta y devuelve** un único PDF anotado que el otro abre en cualquier sitio.\n\n**Por qué gana a imprimir y escanear**\n\nLas notas a mano suelen ser ilegibles y siempre más lentas. Los comentarios escritos son claros, buscables y llegan como documento limpio, no como foto torcida. Y como [FileTools](https://filetools.eu) funciona en el navegador, un contrato confidencial no se sube a servidores ajenos.\n\n**Si el PDF está bloqueado**\n\nAlgunos PDF están restringidos. Desbloquéalo con [FileTools](https://filetools.eu/pdf-unlock) y anota normal.\n\nRevisar debería llevar minutos, no un viaje a la impresora. Resalta, comenta, envía — y tu opinión llega clara y fácil de aplicar.",
+  "category": "tools",
+  "tags": [
+    "anotar PDF",
+    "comentarios PDF",
+    "revisión de documentos",
+    "productividad",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-03T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "Documento PDF con resaltados y notas de comentario",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-fill-sign-pdf",
+    "filetools-pdf-unlock",
+    "filetools-merge-pdfs"
+  ]
+}

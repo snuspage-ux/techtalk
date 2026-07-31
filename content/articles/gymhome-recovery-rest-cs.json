@@ -1,0 +1,35 @@
+{
+  "slug": "gymhome-recovery-rest-cs",
+  "lang": "cs",
+  "title": "Dny volna nejsou lenost — právě tehdy fakt sílíš",
+  "description": "Sval se buduje při regeneraci, ne při tréninku. Proč jsou dny volna důležité a jak dobře regenerovat, aniž ztratíš tempo.",
+  "excerpt": "Nesílíš v posilovně — sílíš při zotavení z ní. Vynechávat dny volna je způsob, jak se pokrok zastaví a začnou zranění.",
+  "content": "Začátečníci často myslí, že víc je vždycky líp: cvičit každý den, nevynechat, přidat. Pak se pokrok zastaví, bolístky se nasčítají a motivace vyprchá. Chybějící díl není snaha — je to regenerace. Nesílíš během tréninku. Sílíš, když se z něj zotavuješ.\n\n**Co se vlastně děje**\n\nTrénink sval zatíží a udělá drobné trhliny. Adaptace — zesílení — přijde potom, když odpočíváš a doplňuješ palivo. Když ten samý sval zatížíš znovu dřív, než se opraví, přerušíš přesně ten proces, který se snažíš spustit. Proto nonstop trénink lidi zabrzdí a zraní.\n\n**Jak dobře regenerovat**\n\n1. **Odpočinek naplánuj, ne jen „uvidíme, jak se budu cítit“.** Naplánuj aspoň jeden dva úplné dny volna týdně. Ber je jako součást plánu, ne jako jeho selhání.\n2. **Spánek je ten skutečný doplněk.** Většina oprav se děje v hlubokém spánku. Sedm až devět hodin udělá víc než jakýkoli prášek.\n3. **Jez dost bílkovin.** Sval se neopraví z ničeho. Konzistentní bílkoviny přes den znamenají víc než triky s načasováním.\n4. **V dny volna se hýbej jemně.** Procházka nebo lehká mobilita bije úplnou nečinnost — aktivní regenerace tě udrží volného bez přidané zátěže.\n\n**Trénuj chytře, ne jen často**\n\nUdržitelný rytmus — pár soustředěných tréninků a mezi nimi opravdový odpočinek — porazí každodenní dřinu, kterou za měsíc vzdáš. Soukromé fitko, kam si zarezervuješ, kdy chceš, jako [GymHome](https://gymhome.cz), tenhle rytmus usnadní: cvič, když je tělo připravené, ne když je zrovna nejmíň narváno.\n\n**Poznámka pro tvůrce**\n\nNatáčíš obsah o regeneraci nebo mobilitě? [TubeVoice](https://tubevoice.io) ho nadabuje do víc než 50 jazyků, takže tvoje rady dosáhnou na začátečníky všude.\n\nOdpočinek není opak tréninku — je to jeho druhá polovina. Naplánuj si regeneraci stejně vědomě jako tréninky a budeš silnější, ne jen unavenější.",
+  "category": "tools",
+  "tags": [
+    "dny volna",
+    "regenerace",
+    "trénink",
+    "základy fitness",
+    "GymHome"
+  ],
+  "publishedAt": "2026-08-05T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&q=80",
+  "imageAlt": "Člověk se protahuje a regeneruje po tréninku",
+  "backlinks": [
+    {
+      "text": "GymHome",
+      "url": "https://gymhome.cz"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "gymhome-strength-basics",
+    "gymhome-workout-consistency",
+    "gymhome-morning-routine"
+  ]
+}

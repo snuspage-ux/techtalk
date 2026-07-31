@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-annotate-pdf-en",
+  "lang": "en",
+  "title": "Mark Up a PDF Without Printing It: Comments, Highlights and Arrows",
+  "description": "You don't need Acrobat to leave feedback on a PDF. Here's how to highlight, comment and mark up documents free in the browser.",
+  "excerpt": "\"Can you mark up this PDF?\" doesn't have to mean printing, scribbling and scanning. Do it on screen in two minutes, for free.",
+  "content": "Someone shares a document and asks for your feedback. The old reflex is to print it, scribble in the margins, and scan it back. There is a far faster way that keeps your notes legible and your feedback easy to act on.\n\n**Annotating means marking up, not editing**\n\nYou do not need to change the document's text to give feedback — you need to point at things. Highlights flag the important lines. Comment notes explain what should change. Arrows and boxes draw attention to a specific spot. All of it sits on top of the PDF without altering the original.\n\n**The free workflow**\n\n1. **Open the PDF in the browser.** Upload it to [FileTools](https://filetools.eu) — no account, no software install.\n2. **Highlight and comment.** Mark the passages that matter and drop notes explaining your feedback.\n3. **Export and send back** a single annotated PDF the other person can open anywhere.\n\n**Why this beats print-and-scan**\n\nHandwritten margin notes are often unreadable and always slower. Typed comments are clear, searchable, and land as a clean document rather than a crooked phone photo of a printout. And because [FileTools](https://filetools.eu) works in the browser, a confidential contract or draft is not uploaded to someone's servers.\n\n**If the PDF is locked**\n\nSome PDFs are restricted so you cannot mark them up. Unlock it first with [FileTools](https://filetools.eu/pdf-unlock), then annotate as normal.\n\nReviewing a document should take minutes, not a trip to the printer. Highlight, comment, send — and your feedback arrives clear and easy to act on.",
+  "category": "tools",
+  "tags": [
+    "annotate PDF",
+    "PDF comments",
+    "document review",
+    "productivity",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-03T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "PDF document with highlights and comment notes",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-fill-sign-pdf",
+    "filetools-pdf-unlock",
+    "filetools-merge-pdfs"
+  ]
+}
