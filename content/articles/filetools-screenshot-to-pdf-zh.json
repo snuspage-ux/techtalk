@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-screenshot-to-pdf-zh",
+  "lang": "zh",
+  "title": "把一堆截图变成一个干净的 PDF",
+  "description": "发 15 张零散截图，显得杂乱又不专业。教你在浏览器里把它们合并成一个有序的 PDF。",
+  "excerpt": "邮件里十五张截图，透着「业余」。一个整洁的 PDF，说明你很有条理。这是两分钟的解法。",
+  "content": "我们都会截图——一张收据、一段聊天、一个报错、一条预订确认。麻烦出在要发出去的时候。十五个零散的图片附件看起来乱糟糟，到了对方那还乱序，把简单的事搞得像一团糟。\n\n**一个 PDF 胜过十五张图**\n\n一个 PDF 让你的截图保持正确顺序，打开就是一份干净的文档，显得是精心准备的。无论是纠纷的证据、一套操作说明，还是留档的聊天记录，一个文件都更好发、好读、好存。\n\n**免费流程**\n\n1. **按你想要的顺序收集截图。**\n2. **用 [FileTools](https://filetools.eu) 合并成 PDF**——上传图片、排好顺序、导出一个文件。无需账号、无需安装。\n3. **太大就压缩。** 一堆手机截图会生成很大的 PDF；用 [FileTools](https://filetools.eu/pdf-compression) 压小，任何邮箱都塞得下。\n\n**为什么用浏览器，而不是 App**\n\n截图里常有隐私——消息、账号、个人资料。一个在本地处理文件的工具，意味着这些图片不会被上传到某家公司的服务器。涉及敏感信息时，这是更安全的选择。\n\n**一个整洁的习惯**\n\n把它变成你的默认做法，只花两分钟，却改变了你邮件给人的印象。同事、房东或客服打开的是一份清晰文档，而不是要滑过十几个附件——他们会不自觉地更认真对待你。\n\n别再一张张地附截图了。把它们叠成一个 PDF，发出去的东西，看起来就像你是认真的。",
+  "category": "tools",
+  "tags": [
+    "截图转PDF",
+    "合并图片",
+    "PDF",
+    "效率",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-01T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "多张截图正被合并成一个 PDF",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-merge-pdfs",
+    "filetools-pdf-compression",
+    "filetools-jpg-to-pdf"
+  ]
+}

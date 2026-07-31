@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-screenshot-to-pdf-fr",
+  "lang": "fr",
+  "title": "Transformez une pile de captures d'écran en un seul PDF propre",
+  "description": "Envoyer 15 captures séparées fait brouillon et peu pro. Comment les réunir en un seul PDF ordonné dans le navigateur.",
+  "excerpt": "Quinze captures dans un mail, ça fait amateur. Un PDF net dit que vous maîtrisez. Voici la solution en deux minutes.",
+  "content": "On fait tous des captures — un reçu, une conversation, un bug, une confirmation. Le souci arrive à l'envoi. Quinze pièces jointes séparées paraissent chaotiques, arrivent dans le désordre et font passer le simple pour du bazar.\n\n**Un PDF bat quinze images**\n\nUn seul PDF garde les captures dans l'ordre, s'ouvre comme un document net et paraît réfléchi. Preuve pour un litige, mode d'emploi ou historique de chat pour vos archives : un fichier s'envoie, se lit et se range plus facilement.\n\n**Le flux gratuit**\n\n1. **Rassemblez les captures** dans l'ordre voulu.\n2. **Réunissez-les en PDF** avec [FileTools](https://filetools.eu) — chargez les images, ordonnez, exportez un fichier. Sans compte, sans installation.\n3. **Compressez si c'est lourd** avec [FileTools](https://filetools.eu/pdf-compression), pour que ça tienne dans toute boîte.\n\n**Pourquoi le navigateur, pas une appli**\n\nLes captures contiennent souvent du privé — messages, numéros de compte, données perso. Un outil qui traite en local, c'est des images qui ne partent pas sur des serveurs. Pour le sensible, le choix plus sûr.\n\n**Une habitude nette**\n\nEn faire votre réflexe prend deux minutes et change l'effet de vos mails. Un collègue, un bailleur ou le support ouvre un document clair au lieu d'une douzaine de pièces jointes — et vous prend plus au sérieux.\n\nArrêtez de joindre les captures une par une. Empilez-les en un PDF et envoyez quelque chose de soigné.",
+  "category": "tools",
+  "tags": [
+    "captures en PDF",
+    "combiner images",
+    "PDF",
+    "productivité",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-01T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "Plusieurs captures d'écran réunies en un PDF",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-merge-pdfs",
+    "filetools-pdf-compression",
+    "filetools-jpg-to-pdf"
+  ]
+}

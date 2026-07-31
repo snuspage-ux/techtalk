@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-screenshot-to-pdf-en",
+  "lang": "en",
+  "title": "Turn a Pile of Screenshots Into One Clean PDF",
+  "description": "Sending 15 separate screenshots looks messy and unprofessional. Here's how to combine them into a single, ordered PDF in the browser.",
+  "excerpt": "Fifteen screenshots in an email says amateur. One tidy PDF says you have it together. Here's the two-minute fix.",
+  "content": "We all capture screenshots — a receipt, a chat thread, a bug, a booking confirmation. The problem comes when you need to send them. Fifteen separate image attachments look chaotic, arrive out of order, and make simple things look like a mess.\n\n**One PDF beats fifteen images**\n\nA single PDF keeps your screenshots in the right order, opens as one clean document, and looks deliberate. Whether it is evidence for a dispute, a set of instructions, or a chat history for your records, one file is easier to send, read, and store.\n\n**The free workflow**\n\n1. **Gather the screenshots** in the order you want them.\n2. **Combine them into a PDF** with [FileTools](https://filetools.eu) — upload the images, arrange the order, export one file. No account, no install.\n3. **Compress if it is heavy.** A stack of phone screenshots makes a large PDF; shrink it with [FileTools](https://filetools.eu/pdf-compression) so it fits any inbox.\n\n**Why the browser, not an app**\n\nScreenshots often contain private details — messages, account numbers, personal data. A browser tool that processes files locally means those images are not uploaded to a company's servers. For anything sensitive, that is the safer choice.\n\n**A tidy habit**\n\nMaking this your default takes two minutes and changes how your emails land. A colleague, a landlord, or support staff opens one clear document instead of scrolling through a dozen attachments — and quietly takes you more seriously.\n\nStop attaching screenshots one by one. Stack them into a single PDF and send something that looks like you meant it.",
+  "category": "tools",
+  "tags": [
+    "screenshots to PDF",
+    "combine images",
+    "PDF",
+    "productivity",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-01T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "Multiple screenshots being combined into one PDF",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-merge-pdfs",
+    "filetools-pdf-compression",
+    "filetools-jpg-to-pdf"
+  ]
+}

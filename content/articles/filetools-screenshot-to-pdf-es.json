@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-screenshot-to-pdf-es",
+  "lang": "es",
+  "title": "Convierte un montón de capturas en un solo PDF limpio",
+  "description": "Enviar 15 capturas sueltas se ve desordenado y poco profesional. Cómo unirlas en un único PDF ordenado en el navegador.",
+  "excerpt": "Quince capturas en un correo gritan aficionado. Un PDF ordenado dice que lo tienes controlado. La solución de dos minutos.",
+  "content": "Todos hacemos capturas — un recibo, un chat, un error, una confirmación. El problema llega al enviarlas. Quince adjuntos sueltos se ven caóticos, llegan desordenados y hacen que lo simple parezca un lío.\n\n**Un PDF gana a quince imágenes**\n\nUn solo PDF mantiene las capturas en orden, se abre como un documento limpio y se ve deliberado. Sea prueba para una disputa, unas instrucciones o un historial de chat para tu archivo, un archivo se envía, lee y guarda más fácil.\n\n**El flujo gratis**\n\n1. **Reúne las capturas** en el orden que quieras.\n2. **Únelas en un PDF** con [FileTools](https://filetools.eu) — sube las imágenes, ordénalas, exporta un archivo. Sin cuenta, sin instalar.\n3. **Comprime si pesa** con [FileTools](https://filetools.eu/pdf-compression), para que quepa en cualquier bandeja.\n\n**Por qué el navegador, no una app**\n\nLas capturas suelen tener datos privados — mensajes, números de cuenta, datos personales. Una herramienta que procesa en local significa que esas imágenes no se suben a servidores ajenos. En lo sensible, la opción más segura.\n\n**Un hábito ordenado**\n\nHacerlo tu opción por defecto lleva dos minutos y cambia cómo llegan tus correos. Un colega, un casero o soporte abre un documento claro en vez de una docena de adjuntos — y te toma más en serio.\n\nDeja de adjuntar capturas una a una. Apílalas en un PDF y envía algo que parezca intencionado.",
+  "category": "tools",
+  "tags": [
+    "capturas a PDF",
+    "combinar imágenes",
+    "PDF",
+    "productividad",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-01T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "Varias capturas de pantalla combinándose en un PDF",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-merge-pdfs",
+    "filetools-pdf-compression",
+    "filetools-jpg-to-pdf"
+  ]
+}

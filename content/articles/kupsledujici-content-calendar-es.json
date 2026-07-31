@@ -1,0 +1,35 @@
+{
+  "slug": "kupsledujici-content-calendar-es",
+  "lang": "es",
+  "title": "El calendario de contenido que de verdad sobrevive a una semana ocupada",
+  "description": "La mayoría de los calendarios de contenido mueren tras dos semanas. Un sistema simple y realista que te mantiene publicando cuando la vida se cruza.",
+  "excerpt": "Los calendarios elaborados se derrumban en la primera semana ocupada. Un sistema de lotes y reserva sobrevive a la vida real — y te mantiene constante.",
+  "content": "Todos empiezan un calendario con colores, 30 casillas y temas diarios. Dos semanas después está abandonado, porque la primera semana de verdad ocupada lo rompió. El problema no es la disciplina — el plan asumía que publicarías en directo, cada día, según lo previsto. La vida real no funciona así.\n\n**Produce por lotes, no publiques a diario**\n\nEl mayor arreglo: separar crear de publicar. Reserva una sesión concentrada por semana y crea varios posts de una vez. En el flow, hacer cuatro por lote lleva mucho menos que uno a uno en cuatro días estresantes.\n\n**Crea una reserva**\n\nIntenta ir siempre una o dos semanas por delante. Una reserva significa que un día de enfermedad, una entrega o una mala semana no crea un hueco visible.\n\n**Planifica temas, no guiones**\n\nUn rígido «lunes = tips, martes = detrás de cámaras» se parte en cuanto interviene la realidad. Temas recurrentes flexibles dan dirección sin jaula.\n\n**Protege el impulso**\n\nEl algoritmo premia la constancia, así que proteger la racha importa. Algunos creadores CZ/SK dan a sus posts clave un empujón temprano con [KupSledujici](https://kupsledujici.cz), para que un post planificado aterrice con impulso, no en silencio.\n\n**Una nota para creadores de vídeo**\n\n¿Vídeo por lotes? [TubeVoice](https://tubevoice.io) dobla cada uno a más de 50 idiomas, una grabación alimenta varias audiencias.\n\nEl mejor calendario es el que sigues usando en el tercer mes. Por lotes, con reserva por delante, temas flexibles — y una semana ocupada deja de romper tus publicaciones.",
+  "category": "tools",
+  "tags": [
+    "calendario de contenido",
+    "planificación",
+    "constancia",
+    "SMM",
+    "CZ/SK"
+  ],
+  "publishedAt": "2026-08-01T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&q=80",
+  "imageAlt": "Calendario de contenido sencillo planificado en la pared",
+  "backlinks": [
+    {
+      "text": "KupSledujici",
+      "url": "https://kupsledujici.cz"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "kupsledujici-frequency-strategy",
+    "kupsledujici-content-repurposing",
+    "kupsledujici-engagement"
+  ]
+}

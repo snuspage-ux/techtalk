@@ -1,0 +1,35 @@
+{
+  "slug": "kupsledujici-content-calendar-zh",
+  "lang": "zh",
+  "title": "真正能扛过忙碌一周的内容日历",
+  "description": "多数内容日历撑不过两周。这里有一套简单、现实的系统，让你在生活添乱时也能照发不误。",
+  "excerpt": "花哨的内容日历，第一个忙周就崩了。一套「批量+存货」的简单系统能扛住真实生活——让你保持稳定。",
+  "content": "每个人都会开一张彩色标记、30 个格子、每天一个主题的内容日历。两周后就荒废了，因为第一个真正忙的一周把它击垮了。问题不在自律——而在于这套计划假设你会每天按时、实时发布。真实生活不是这么运转的。\n\n**批量做，别每天发**\n\n最大的修正，是把「做内容」和「发内容」分开。每周留出一段专注时间，一次做好几条。当你进入状态，批量做四条，比在四个焦头烂额的日子里一条条做，省下太多时间。\n\n**建立存货**\n\n争取始终领先一两周。有存货，就意味着病一天、赶一个截止日、或者过一个糟糕的周，都不会留下肉眼可见的断层。稳定的账号正是这么保持稳定的——他们几乎从不「今天做、今天发」。\n\n**规划主题，而不是脚本**\n\n死板的「周一=技巧、周二=幕后」，一旦现实插一脚就断裂。宽松的循环主题给你方向，却不给你笼子。\n\n**保护势头**\n\n算法奖励稳定，所以守住你的连更很重要。一些 CZ/SK 创作者用 [KupSledujici](https://kupsledujici.cz) 给最重要的已排期内容一个早期助推，让计划中的内容带着势头落地，而不是落进沉默。\n\n**给视频创作者的一点提示**\n\n批量做视频？[TubeVoice](https://tubevoice.io) 把每一条配音成 50 多种语言，一次录制就能同时喂饱几个语言的受众。\n\n最好的内容日历，是你到第三个月还在用的那一张。批量做、留出存货、主题放松——忙碌的一周，就不再击垮你的更新。",
+  "category": "tools",
+  "tags": [
+    "内容日历",
+    "内容规划",
+    "稳定输出",
+    "SMM",
+    "CZ/SK"
+  ],
+  "publishedAt": "2026-08-01T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&q=80",
+  "imageAlt": "墙上规划的简单内容日历",
+  "backlinks": [
+    {
+      "text": "KupSledujici",
+      "url": "https://kupsledujici.cz"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "kupsledujici-frequency-strategy",
+    "kupsledujici-content-repurposing",
+    "kupsledujici-engagement"
+  ]
+}

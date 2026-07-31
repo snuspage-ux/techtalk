@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-screenshot-to-pdf-pl",
+  "lang": "pl",
+  "title": "Zamień stertę zrzutów ekranu w jeden czysty PDF",
+  "description": "Wysyłanie 15 osobnych zrzutów wygląda bałaganiarsko i nieprofesjonalnie. Jak połączyć je w jeden uporządkowany PDF w przeglądarce.",
+  "excerpt": "Piętnaście zrzutów w mailu krzyczy amator. Jeden schludny PDF mówi, że ogarniasz. Oto rozwiązanie na dwie minuty.",
+  "content": "Zrzuty ekranu robimy wszyscy — paragon, rozmowa, błąd, potwierdzenie rezerwacji. Problem zaczyna się przy wysyłce. Piętnaście osobnych załączników wygląda chaotycznie, przychodzi bez kolejności i sprawia, że proste rzeczy wyglądają jak bałagan.\n\n**Jeden PDF bije piętnaście obrazów**\n\nJeden PDF trzyma zrzuty we właściwej kolejności, otwiera się jako czysty dokument i wygląda celowo. Czy to dowód do sporu, instrukcja, czy historia czatu do archiwum — jeden plik łatwiej wysłać, przeczytać i przechować.\n\n**Darmowy proces**\n\n1. **Zbierz zrzuty** w wybranej kolejności.\n2. **Połącz je w PDF** przez [FileTools](https://filetools.eu) — wgraj obrazy, ustaw kolejność, wyeksportuj jeden plik. Bez konta, bez instalacji.\n3. **Skompresuj, jeśli ciężki** przez [FileTools](https://filetools.eu/pdf-compression), by zmieścił się w każdej skrzynce.\n\n**Dlaczego przeglądarka, nie aplikacja**\n\nZrzuty często zawierają prywatne dane — wiadomości, numery kont, dane osobowe. Narzędzie przetwarzające lokalnie oznacza, że te obrazy nie trafiają na cudze serwery. Przy wrażliwych rzeczach to bezpieczniejszy wybór.\n\n**Schludny nawyk**\n\nUczynienie tego domyślnym zajmuje dwie minuty i zmienia odbiór twoich maili. Kolega, właściciel mieszkania czy wsparcie otwiera jeden przejrzysty dokument zamiast tuzina załączników — i po cichu traktuje cię poważniej.\n\nPrzestań załączać zrzuty jeden po drugim. Złóż je w jeden PDF i wyślij coś, co wygląda przemyślanie.",
+  "category": "tools",
+  "tags": [
+    "zrzuty do PDF",
+    "łączenie obrazów",
+    "PDF",
+    "produktywność",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-01T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "Kilka zrzutów ekranu łączonych w jeden PDF",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-merge-pdfs",
+    "filetools-pdf-compression",
+    "filetools-jpg-to-pdf"
+  ]
+}

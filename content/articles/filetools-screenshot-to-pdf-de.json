@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-screenshot-to-pdf-de",
+  "lang": "de",
+  "title": "Aus einem Haufen Screenshots ein sauberes PDF machen",
+  "description": "15 einzelne Screenshots zu senden wirkt chaotisch und unprofessionell. So fasst du sie im Browser zu einem geordneten PDF zusammen.",
+  "excerpt": "Fünfzehn Screenshots in einer Mail sagen Amateur. Ein ordentliches PDF sagt, du hast es im Griff. Hier die Zwei-Minuten-Lösung.",
+  "content": "Screenshots macht jeder — ein Beleg, ein Chatverlauf, ein Bug, eine Buchungsbestätigung. Das Problem kommt beim Senden. Fünfzehn einzelne Bildanhänge wirken chaotisch, kommen unsortiert an und lassen Einfaches nach Chaos aussehen.\n\n**Ein PDF schlägt fünfzehn Bilder**\n\nEin einziges PDF hält die Screenshots in der richtigen Reihenfolge, öffnet als sauberes Dokument und wirkt gewollt. Ob Beweis für einen Streitfall, eine Anleitung oder ein Chatverlauf fürs Archiv — eine Datei sendet, liest und speichert sich leichter.\n\n**Der kostenlose Ablauf**\n\n1. **Screenshots sammeln** in der gewünschten Reihenfolge.\n2. **Zu einem PDF zusammenfügen** mit [FileTools](https://filetools.eu) — Bilder hochladen, Reihenfolge ordnen, eine Datei exportieren. Ohne Konto, ohne Installation.\n3. **Komprimieren, wenn schwer.** Ein Stapel Handy-Screenshots ergibt ein großes PDF; verkleinere es mit [FileTools](https://filetools.eu/pdf-compression).\n\n**Warum Browser, nicht App**\n\nScreenshots enthalten oft Privates — Nachrichten, Kontonummern, persönliche Daten. Ein Tool, das lokal verarbeitet, heißt: Diese Bilder landen nicht auf fremden Servern. Bei Sensiblem die sicherere Wahl.\n\n**Eine ordentliche Gewohnheit**\n\nDas zum Standard zu machen dauert zwei Minuten und ändert, wie deine Mails wirken. Ein Kollege, Vermieter oder Support öffnet ein klares Dokument statt ein Dutzend Anhänge — und nimmt dich still ernster.\n\nHör auf, Screenshots einzeln anzuhängen. Stapel sie zu einem PDF und sende etwas, das nach Absicht aussieht.",
+  "category": "tools",
+  "tags": [
+    "Screenshots zu PDF",
+    "Bilder zusammenfügen",
+    "PDF",
+    "Produktivität",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-01T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "Mehrere Screenshots werden zu einem PDF zusammengefügt",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-merge-pdfs",
+    "filetools-pdf-compression",
+    "filetools-jpg-to-pdf"
+  ]
+}

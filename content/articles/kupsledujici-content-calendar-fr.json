@@ -1,0 +1,35 @@
+{
+  "slug": "kupsledujici-content-calendar-fr",
+  "lang": "fr",
+  "title": "Le calendrier de contenu qui survit vraiment à une semaine chargée",
+  "description": "La plupart des calendriers de contenu meurent après deux semaines. Voici un système simple et réaliste qui vous fait publier malgré la vie.",
+  "excerpt": "Les calendriers sophistiqués s'effondrent à la première semaine chargée. Un système lot-et-réserve survit à la vraie vie — et vous garde régulier.",
+  "content": "Tout le monde démarre un calendrier codé couleur avec 30 cases et des thèmes quotidiens. Deux semaines plus tard, il est abandonné, car la première vraie semaine chargée l'a cassé. Le problème n'est pas la discipline — le plan supposait que vous publieriez en direct, chaque jour, à l'heure. La vraie vie ne marche pas ainsi.\n\n**Produisez par lots, ne publiez pas chaque jour**\n\nLe plus grand correctif : séparer la création de la publication. Réservez une session concentrée par semaine et créez plusieurs posts d'un coup. Dans le flow, faire quatre posts par lot prend bien moins de temps qu'un par un sur quatre jours stressants.\n\n**Constituez une réserve**\n\nVisez toujours une à deux semaines d'avance. Une réserve signifie qu'un jour de maladie, une deadline ou une mauvaise semaine ne crée pas de trou visible.\n\n**Planifiez des thèmes, pas des scripts**\n\nUn rigide « lundi = astuces, mardi = coulisses » casse dès que la réalité intervient. Des thèmes récurrents souples donnent une direction sans cage.\n\n**Protégez l'élan**\n\nL'algorithme récompense la régularité, alors protéger sa série compte. Certains créateurs CZ/SK donnent à leurs posts clés un coup de pouce précoce avec [KupSledujici](https://kupsledujici.cz), pour qu'un post planifié atterrisse avec de l'élan, pas dans le silence.\n\n**Une note pour les créateurs vidéo**\n\nVidéo par lots ? [TubeVoice](https://tubevoice.io) double chacune dans plus de 50 langues, une session nourrit plusieurs audiences.\n\nLe meilleur calendrier est celui que vous utilisez encore au troisième mois. Par lots, une réserve d'avance, des thèmes souples — et une semaine chargée cesse de casser vos publications.",
+  "category": "tools",
+  "tags": [
+    "calendrier de contenu",
+    "planification",
+    "régularité",
+    "SMM",
+    "CZ/SK"
+  ],
+  "publishedAt": "2026-08-01T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&q=80",
+  "imageAlt": "Calendrier de contenu simple planifié au mur",
+  "backlinks": [
+    {
+      "text": "KupSledujici",
+      "url": "https://kupsledujici.cz"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "kupsledujici-frequency-strategy",
+    "kupsledujici-content-repurposing",
+    "kupsledujici-engagement"
+  ]
+}

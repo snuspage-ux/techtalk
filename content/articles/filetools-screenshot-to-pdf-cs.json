@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-screenshot-to-pdf-cs",
+  "lang": "cs",
+  "title": "Proměň hromadu screenshotů v jedno čisté PDF",
+  "description": "Posílat 15 samostatných screenshotů působí zmateně a neprofesionálně. Jak je spojit do jednoho seřazeného PDF v prohlížeči.",
+  "excerpt": "Patnáct screenshotů v e-mailu křičí amatér. Jedno úhledné PDF říká, že to máš pod kontrolou. Tady je řešení na dvě minuty.",
+  "content": "Screenshoty děláme všichni — účtenka, konverzace, chyba, potvrzení rezervace. Problém přijde, když je potřeba poslat. Patnáct samostatných obrázků působí chaoticky, dorazí přeházené a i jednoduché věci vypadají jako nepořádek.\n\n**Jedno PDF poráží patnáct obrázků**\n\nJediné PDF udrží screenshoty ve správném pořadí, otevře se jako jeden čistý dokument a působí promyšleně. Ať je to důkaz do sporu, sada instrukcí, nebo historie chatu do archivu, jeden soubor se snáz posílá, čte i ukládá.\n\n**Bezplatný postup**\n\n1. **Posbírej screenshoty** v pořadí, které chceš.\n2. **Spoj je do PDF** přes [FileTools](https://filetools.eu) — nahraj obrázky, seřaď je, exportuj jeden soubor. Bez účtu, bez instalace.\n3. **Zkomprimuj, pokud je těžké.** Hromada mobilních screenshotů dělá velké PDF; zmenši ho přes [FileTools](https://filetools.eu/pdf-compression), ať se vejde do každé schránky.\n\n**Proč prohlížeč, ne aplikace**\n\nScreenshoty často obsahují soukromé detaily — zprávy, čísla účtů, osobní data. Nástroj, který zpracuje soubory lokálně, znamená, že se ty obrázky nenahrají na cizí servery. U citlivých věcí je to bezpečnější volba.\n\n**Úhledný návyk**\n\nUdělat z tohohle výchozí postup zabere dvě minuty a změní, jak tvoje e-maily působí. Kolega, majitel bytu nebo podpora otevře jeden přehledný dokument místo scrollování tuctem příloh — a tiše tě bere víc vážně.\n\nPřestaň přikládat screenshoty jeden po druhém. Slož je do jednoho PDF a pošli něco, co vypadá, žes to myslel vážně.",
+  "category": "tools",
+  "tags": [
+    "screenshoty do PDF",
+    "spojit obrázky",
+    "PDF",
+    "produktivita",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-01T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617957714916-9d3b9fdd3a92?w=800&q=80",
+  "imageAlt": "Několik screenshotů se spojuje do jednoho PDF",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "filetools-merge-pdfs",
+    "filetools-pdf-compression",
+    "filetools-jpg-to-pdf"
+  ]
+}

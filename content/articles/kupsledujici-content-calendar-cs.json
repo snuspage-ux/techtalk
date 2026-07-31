@@ -1,0 +1,35 @@
+{
+  "slug": "kupsledujici-content-calendar-cs",
+  "lang": "cs",
+  "title": "Obsahový kalendář, který přežije i našlapaný týden",
+  "description": "Většina obsahových kalendářů umře po dvou týdnech. Tady je jednoduchý, realistický systém, díky kterému postuješ, i když do toho vleze život.",
+  "excerpt": "Načančané kalendáře padnou hned první náročný týden. Jednoduchý systém dávkování a zásoby přežije realitu — a udrží tě konzistentní.",
+  "content": "Každý začne barevně odlišený obsahový kalendář s 30 sloty a denními tématy. Za dva týdny je opuštěný, protože ho rozbil první opravdu náročný týden. Problém není disciplína — je to, že plán počítal s tím, že budeš postovat naživo, každý den, podle rozvrhu. Realita takhle nefunguje.\n\n**Dávkuj, nepostuj denně**\n\nNejvětší oprava je oddělit tvorbu obsahu od jeho publikování. Vyhraď si jedno soustředěné sezení týdně a vytvoř víc příspěvků naráz. Když jsi ve flow, nadávkovat čtyři příspěvky zabere mnohem míň času než dělat je po jednom ve čtyřech stresových dnech.\n\n**Vybuduj si zásobu**\n\nSnaž se být pořád týden dva napřed. Zásoba znamená, že nemoc, deadline nebo blbý týden nevytvoří viditelnou mezeru. Přesně tak zůstávají konzistentní účty konzistentní — skoro nikdy nepostují dnešní práci dnes.\n\n**Plánuj témata, ne scénáře**\n\nRigidní „pondělí = tipy, úterý = zákulisí“ praskne ve chvíli, kdy zasáhne realita. Volná opakující se témata dají směr bez klece. Vždycky zhruba víš, co vytvořit, ale nikdy se necítíš uvězněný ve slotu.\n\n**Chraň tempo**\n\nAlgoritmus odměňuje konzistenci, takže hlídat si sérii se vyplatí. Někteří CZ/SK tvůrci dají svým nejdůležitějším naplánovaným příspěvkům počáteční nakopnutí přes [KupSledujici](https://kupsledujici.cz), aby plánovaný příspěvek dopadl s tempem, ne do ticha.\n\n**Poznámka pro video tvůrce**\n\nDávkuješ video? [TubeVoice](https://tubevoice.io) nadabuje každé do víc než 50 jazyků, takže jedno natáčení nakrmí několik jazykových publik naráz.\n\nNejlepší obsahový kalendář je ten, který používáš i ve třetím měsíci. Dávkuj práci, drž si zásobu, nech témata volná — a náročný týden ti přestane rozbíjet postování.",
+  "category": "tools",
+  "tags": [
+    "obsahový kalendář",
+    "plánování obsahu",
+    "konzistence",
+    "SMM",
+    "CZ/SK"
+  ],
+  "publishedAt": "2026-08-01T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&q=80",
+  "imageAlt": "Jednoduchý obsahový kalendář naplánovaný na stěně",
+  "backlinks": [
+    {
+      "text": "KupSledujici",
+      "url": "https://kupsledujici.cz"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "kupsledujici-frequency-strategy",
+    "kupsledujici-content-repurposing",
+    "kupsledujici-engagement"
+  ]
+}
