@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-merge-pdf-en",
+  "lang": "en",
+  "title": "How to Merge Multiple PDFs Into One — No Install",
+  "description": "Practical guide to merging two or more PDFs in your browser in 30 seconds. No install, no upload to sketchy servers.",
+  "excerpt": "Got invoices, contracts, or scanned pages as separate PDFs? Merging them into one takes less time than finding the right tool.",
+  "content": "Classic scenario: a client sends 5 attachments, you need one PDF for accounting. Or you scan a passport with your phone — every page separate. You don’t want to buy Adobe Acrobat, and online services forward files who-knows-where.\n\n## The fastest path in a browser\n\n[FileTools Merge PDF](https://filetools.tech) merges files right in your browser — nothing gets sent to a server, it all runs locally via WebAssembly. Drag your PDFs, reorder with mouse, click \"Merge\" and you’ve got one file. Works on phones too — 10-20 files takes seconds.\n\n## What to watch out for\n\n- **Order** — after dropping, double-check pages are in the right sequence. Reorder by dragging.\n- **Size** — merged PDFs can be a few MB heavier because they don’t compress. If output is too big, run it through compression after (most tools bundle both).\n- **Protected PDFs** — if they’re password-locked, unlock first. Most online mergers won’t touch encrypted files.\n\n## Alternatives for power users\n\nmacOS: Preview — open first PDF, drag others into the sidebar → File → Export as PDF. Windows PowerToys has \"Advanced PDF Merger\". CLI option is pdftk, but that’s for the terminal crowd.\n\nFor 95% of use cases, an online tool works fine — [FileTools](https://filetools.tech) never stores your files, which is safer than a random service from Google’s first page.",
+  "category": "tools",
+  "tags": [
+    "PDF",
+    "merge PDF",
+    "office",
+    "tools",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-06T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "Laptop with open PDF documents",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.tech"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-annotate-pdf",
+    "filetools-pdf-compression",
+    "filetools-fill-sign-pdf"
+  ]
+}

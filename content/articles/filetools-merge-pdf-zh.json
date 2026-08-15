@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-merge-pdf-zh",
+  "lang": "zh",
+  "title": "如何将多个PDF合并成一个——无需安装",
+  "description": "30秒内在浏览器里合并两个或多个PDF的实用指南。免安装，不用上传到可疑服务器。",
+  "excerpt": "发票、合同或扫描页面分成好几个PDF？合并它们比找工具更快。",
+  "content": "典型场景：客户发来5个附件，你需要一个PDF交给会计。或者用手机扫描护照——每一页都是单独文件。不想买Adobe Acrobat，在线服务又不知道把文件转发到哪里去。\n\n## 浏览器里最快的方法\n\n[FileTools Merge PDF](https://filetools.tech)直接在浏览器里合并——什么都不发送到服务器，全部通过WebAssembly本地运行。拖入PDF，鼠标排序，点\"合并\"就得到一个文件。手机也能用——10-20个文件只需几秒。\n\n## 需要注意的地方\n\n- **顺序**——放入后确认页面排列正确，可以拖动重新排序。\n- **文件大小**——合并后的PDF可能会大几MB，因为不会压缩。太大就再压缩一遍（多数工具两个功能都有）。\n- **加密PDF**——有密码保护的先解锁。多数在线合并工具不能处理加密文件。\n\n## 高级用户的替代方案\n\nmacOS：预览——打开第一个PDF，其他拖到侧边栏 → 文件 → 导出为PDF。Windows PowerToys有\"Advanced PDF Merger\"。命令行：pdftk，适合终端爱好者。\n\n95%的情况用在线工具就够了——[FileTools](https://filetools.tech)不存储任何文件，比Google第一页搜到的随机服务安全得多。",
+  "category": "tools",
+  "tags": [
+    "PDF",
+    "合并PDF",
+    "办公",
+    "工具",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-06T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "笔记本电脑上打开的PDF文档",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.tech"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-annotate-pdf",
+    "filetools-pdf-compression",
+    "filetools-fill-sign-pdf"
+  ]
+}

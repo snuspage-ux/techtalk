@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-merge-pdf-fr",
+  "lang": "fr",
+  "title": "Fusionner plusieurs PDF en un — sans installation",
+  "description": "Guide pratique pour fusionner deux PDF ou plus dans le navigateur en 30 secondes. Sans install, sans upload vers des serveurs douteux.",
+  "excerpt": "Factures, contrats ou pages scannées en PDF séparés ? Les fusionner prend moins de temps que trouver le bon outil.",
+  "content": "Scénario classique : un client envoie 5 pièces jointes, tu as besoin d’un seul PDF pour la compta. Ou tu scannes un passeport avec ton téléphone — chaque page séparée. Tu ne veux pas acheter Adobe Acrobat, et les services en ligne renvoient tes fichiers Dieu sait où.\n\n## La voie la plus rapide dans le navigateur\n\n[FileTools Merge PDF](https://filetools.tech) fusionne les fichiers directement dans le navigateur — rien n’est envoyé à un serveur, tout tourne en local via WebAssembly. Glisse tes PDF, réorganise à la souris, clique \"Fusionner\" et tu as un seul fichier. Marche aussi sur mobile — 10-20 fichiers, quelques secondes.\n\n## À surveiller\n\n- **Ordre** — après le drag, vérifie que les pages sont dans le bon sens. Réorganise en glissant.\n- **Taille** — les PDF fusionnés peuvent être plus lourds de quelques Mo car pas compressés. Si le résultat est trop gros, passe-le en compression après (la plupart des outils font les deux).\n- **PDF protégés** — si mot de passe, déverrouille d’abord. La plupart des outils en ligne ne touchent pas aux fichiers chiffrés.\n\n## Alternatives pour utilisateurs avancés\n\nmacOS : Aperçu — ouvre le premier PDF, glisse les autres dans la barre latérale → Fichier → Exporter en PDF. Windows PowerToys a \"Advanced PDF Merger\". CLI : pdftk, mais c’est pour les geeks du terminal.\n\nPour 95% des cas, un outil en ligne suffit — [FileTools](https://filetools.tech) ne stocke rien, ce qui est plus sûr qu’un service au hasard depuis Google.",
+  "category": "tools",
+  "tags": [
+    "PDF",
+    "fusionner PDF",
+    "bureau",
+    "outils",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-06T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "Ordinateur portable avec documents PDF ouverts",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.tech"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-annotate-pdf",
+    "filetools-pdf-compression",
+    "filetools-fill-sign-pdf"
+  ]
+}

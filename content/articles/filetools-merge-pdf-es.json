@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-merge-pdf-es",
+  "lang": "es",
+  "title": "Cómo unir varios PDF en uno — sin instalar nada",
+  "description": "Guía práctica para fusionar dos o más PDF en el navegador en 30 segundos. Sin instalar, sin subir a servidores dudosos.",
+  "excerpt": "¿Facturas, contratos o páginas escaneadas en PDF separados? Unirlos toma menos tiempo que encontrar la herramienta correcta.",
+  "content": "Escenario clásico: un cliente manda 5 adjuntos, tú necesitas un solo PDF para contabilidad. O escaneas un pasaporte con el móvil — cada página por separado. No quieres comprar Adobe Acrobat, y los servicios online reenvían archivos a saber dónde.\n\n## La vía más rápida en el navegador\n\n[FileTools Merge PDF](https://filetools.tech) une los archivos directamente en el navegador — nada se envía al servidor, todo corre local vía WebAssembly. Arrastra los PDF, ordena con el ratón, clic \"Unir\" y tienes un archivo. Funciona en móvil — 10-20 archivos son segundos.\n\n## Qué vigilar\n\n- **Orden** — tras soltar, comprueba que las páginas están correctas. Reordena arrastrando.\n- **Tamaño** — los PDF unidos pueden pesar unos MB más porque no se comprimen. Si sale muy grande, pásalo por compresión después (la mayoría de herramientas hacen ambas cosas).\n- **PDF protegidos** — si tienen contraseña, desbloquea primero. La mayoría de mergers online no tocan archivos cifrados.\n\n## Alternativas para usuarios avanzados\n\nmacOS: Vista Previa — abre el primer PDF, arrastra los otros a la barra lateral → Archivo → Exportar como PDF. Windows PowerToys tiene \"Advanced PDF Merger\". CLI: pdftk, pero es para gente de terminal.\n\nPara el 95% de los casos una herramienta online basta — [FileTools](https://filetools.tech) no almacena nada, más seguro que un servicio al azar de Google.",
+  "category": "tools",
+  "tags": [
+    "PDF",
+    "unir PDF",
+    "oficina",
+    "herramientas",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-06T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "Portátil con documentos PDF abiertos",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.tech"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-annotate-pdf",
+    "filetools-pdf-compression",
+    "filetools-fill-sign-pdf"
+  ]
+}

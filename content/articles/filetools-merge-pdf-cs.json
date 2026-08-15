@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-merge-pdf-cs",
+  "lang": "cs",
+  "title": "Jak spojit více PDF do jednoho — bez instalace",
+  "description": "Praktický návod, jak sloučit dvě nebo více PDF v prohlížeči za 30 sekund. Bez instalace, bez uploadu na cizí server.",
+  "excerpt": "Máš faktury, smlouvy nebo naskenované stránky v samostatných PDFkách? Sloučit je do jednoho zabere méně času, než najít nástroj.",
+  "content": "Klasický scénář: klient pošle 5 příloh, ty potřebuješ jednu PDF pro účetní. Nebo skenuješ pas mobilem — každá strana zvlášť. Adobe Acrobat kupovat nechceš, online služby přeposílají soubory Bůh ví kam.\n\n## Nejrychlejší cesta v prohlížeči\n\n[FileTools Merge PDF](https://filetools.tech) sloučí soubory přímo v prohlížeči — nic se neposílá na server, běží to celé lokálně přes WebAssembly. Přetáhneš PDFka, seřadíš myší, klik „Sloučit\" a máš jeden soubor. Zvládne to i telefon, práce s 10-20 soubory je otázka pár sekund.\n\n## Co si dát pozor\n\n- **Pořadí** — po přetažení zkontroluj, že strany jsou správně. Přehodit se dá tažením.\n- **Velikost** — spojené PDF může mít pár MB navíc, protože se nekomprimuje. Když je výsledek moc velký, dej ho pak přes komprese (většina nástrojů umí obě funkce v jednom).\n- **Chráněná PDFka** — pokud jsou heslované, nejdřív je odzabezpečit. Sloučení heslovaných většina online tool neumí.\n\n## Alternativy pro pokročilé\n\nNa macOS: Náhled (Preview) — otevři první PDF, přetáhni ostatní do postranního panelu → Soubor → Exportovat jako PDF. Ve Windows PowerToys mají „Advanced PDF Merger\". CLI verze je pdftk, ale to už je pro geeky.\n\nPro 95 % případů je online nástroj v pohodě — [FileTools](https://filetools.tech) neukládá soubory nikam, což je bezpečnější než náhodná služba z první stránky Google.",
+  "category": "tools",
+  "tags": [
+    "PDF",
+    "merge PDF",
+    "kancelář",
+    "nástroje",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-06T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "Notebook s otevřenými PDF dokumenty",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.tech"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-annotate-pdf",
+    "filetools-pdf-compression",
+    "filetools-fill-sign-pdf"
+  ]
+}
