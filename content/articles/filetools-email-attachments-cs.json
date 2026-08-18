@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-email-attachments-cs",
+  "lang": "cs",
+  "title": "Soubor je moc velký pro e-mail? Takhle ho zmenšíš",
+  "description": "Gmail končí na 25 MB, Outlook na 20 MB. Jak zmenšit PDF, fotky i video, aby prošly e-mailem — bez instalace čehokoli.",
+  "excerpt": "„Příloha překračuje povolenou velikost.“ Známá hláška, rychlé řešení.",
+  "content": "Gmail má limit 25 MB, Outlook 20 MB — a to včetně kódování, takže reálně projde ještě míň. Když se ti vrátí e-mail kvůli velké příloze, máš tři možnosti: zmenšit, rozdělit, nebo poslat odkaz.\n\n## PDF: komprese udělá zázraky\n\nNaskenovaná smlouva klidně sebere 40 MB, protože každá stránka je obří obrázek. Online komprese PDF ji stáhne na 2–5 MB bez viditelné ztráty čitelnosti. Funguje to přímo v prohlížeči — nahraješ, stáhneš, hotovo za minutu.\n\n## Fotky: zmenši rozlišení, ne kvalitu\n\nFotka z mobilu má dnes 5–12 MB, ale na obrazovce příjemce stačí 1920 px na šířku — to je pod 1 MB. Deset fotek z dovolené tak srazíš z 80 MB na 8 MB. Pošli je přes kompresi obrázků a nikdo nepozná rozdíl.\n\n## Video: e-mail není správná cesta\n\nVideo do e-mailu skoro nikdy neprojde. Zkomprimuj ho (H.265 umí ubrat 50 % velikosti), nebo ho nahraj na úložiště a pošli odkaz. U videí nad 100 MB je odkaz jediná rozumná cesta.\n\n## Rychlý checklist\n\nPDF → komprese. Fotky → zmenšit rozlišení. Video → komprese nebo odkaz. Víc souborů → ZIP.\n\nVšechno z toho zvládneš zdarma v prohlížeči na [FileTools](https://filetools.eu) — bez registrace a bez instalace.",
+  "category": "tools",
+  "tags": [
+    "e-mail",
+    "komprese",
+    "PDF",
+    "přílohy",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-09T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&q=80",
+  "imageAlt": "Notebook s otevřeným e-mailovým klientem",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-compress-files-online",
+    "filetools-pdf-compression",
+    "filetools-image-resize"
+  ]
+}

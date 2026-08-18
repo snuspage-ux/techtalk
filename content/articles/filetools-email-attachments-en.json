@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-email-attachments-en",
+  "lang": "en",
+  "title": "File Too Big for Email? Here's How to Shrink It",
+  "description": "Gmail caps at 25 MB, Outlook at 20 MB. How to shrink PDFs, photos and video so they fit through email — no software installs needed.",
+  "excerpt": "“Attachment exceeds the maximum size.” A familiar message with a quick fix.",
+  "content": "Gmail's limit is 25 MB, Outlook's is 20 MB — and that includes encoding overhead, so even less actually fits. When your email bounces over an attachment, you have three options: shrink it, split it, or send a link.\n\n## PDFs: compression works wonders\n\nA scanned contract can easily hit 40 MB because every page is a huge image. Online PDF compression brings it down to 2–5 MB with no visible loss in readability. It runs right in your browser — upload, download, done in a minute.\n\n## Photos: reduce resolution, not quality\n\nA phone photo runs 5–12 MB these days, but the recipient's screen only needs 1920 px wide — under 1 MB. Ten vacation photos drop from 80 MB to 8 MB. Run them through an image compressor and nobody will spot the difference.\n\n## Video: email is the wrong tool\n\nVideo almost never fits through email. Compress it (H.265 can cut size by 50%), or upload it to storage and send a link. For anything over 100 MB, a link is the only sane route.\n\n## Quick checklist\n\nPDF → compress. Photos → resize. Video → compress or link. Multiple files → ZIP.\n\nYou can do all of it free in your browser at [FileTools](https://filetools.eu) — no sign-up, no installs.",
+  "category": "tools",
+  "tags": [
+    "email",
+    "compression",
+    "PDF",
+    "attachments",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-09T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&q=80",
+  "imageAlt": "Laptop with an email client open",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-compress-files-online",
+    "filetools-pdf-compression",
+    "filetools-image-resize"
+  ]
+}

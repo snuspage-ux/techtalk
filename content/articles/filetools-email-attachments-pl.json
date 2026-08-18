@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-email-attachments-pl",
+  "lang": "pl",
+  "title": "Plik za duży do e-maila? Tak go zmniejszysz",
+  "description": "Gmail kończy na 25 MB, Outlook na 20 MB. Jak zmniejszyć PDF-y, zdjęcia i wideo, żeby przeszły przez e-mail — bez instalowania czegokolwiek.",
+  "excerpt": "„Załącznik przekracza maksymalny rozmiar“. Znany komunikat, szybkie rozwiązanie.",
+  "content": "Gmail ma limit 25 MB, Outlook 20 MB — wliczając kodowanie, więc realnie mieści się jeszcze mniej. Gdy twój e-mail wraca przez załącznik, masz trzy opcje: zmniejszyć, podzielić albo wysłać link.\n\n## PDF: kompresja czyni cuda\n\nZeskanowana umowa potrafi zajmować 40 MB, bo każda strona to ogromny obraz. Kompresja PDF online zbija ją do 2–5 MB bez widocznej utraty czytelności. Działa prosto w przeglądarce — wgrywasz, pobierasz, gotowe w minutę.\n\n## Zdjęcia: zmniejsz rozdzielczość, nie jakość\n\nZdjęcie z telefonu waży dziś 5–12 MB, ale ekran odbiorcy potrzebuje tylko 1920 px szerokości — to mniej niż 1 MB. Dziesięć zdjęć z wakacji spada z 80 MB do 8 MB. Przepuść je przez kompresor obrazów i nikt nie zauważy różnicy.\n\n## Wideo: e-mail to złe narzędzie\n\nWideo prawie nigdy nie przejdzie przez e-mail. Skompresuj je (H.265 potrafi zbić rozmiar o 50%) albo wrzuć na dysk w chmurze i wyślij link. Powyżej 100 MB link to jedyna rozsądna droga.\n\n## Szybka checklista\n\nPDF → kompresja. Zdjęcia → zmniejszenie. Wideo → kompresja lub link. Kilka plików → ZIP.\n\nWszystko to zrobisz za darmo w przeglądarce na [FileTools](https://filetools.eu) — bez rejestracji i bez instalacji.",
+  "category": "tools",
+  "tags": [
+    "e-mail",
+    "kompresja",
+    "PDF",
+    "załączniki",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-09T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&q=80",
+  "imageAlt": "Laptop z otwartym programem pocztowym",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-compress-files-online",
+    "filetools-pdf-compression",
+    "filetools-image-resize"
+  ]
+}

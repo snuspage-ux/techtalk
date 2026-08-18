@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-email-attachments-de",
+  "lang": "de",
+  "title": "Datei zu groß für E-Mail? So verkleinerst du sie",
+  "description": "Gmail macht bei 25 MB Schluss, Outlook bei 20 MB. So verkleinerst du PDFs, Fotos und Videos für den E-Mail-Versand — ganz ohne Installation.",
+  "excerpt": "„Anhang überschreitet die maximale Größe.“ Bekannte Meldung, schnelle Lösung.",
+  "content": "Gmail erlaubt 25 MB, Outlook 20 MB — inklusive Kodierungs-Overhead, real passt also noch weniger durch. Wenn deine Mail wegen eines Anhangs zurückkommt, hast du drei Optionen: verkleinern, aufteilen oder einen Link schicken.\n\n## PDFs: Komprimierung wirkt Wunder\n\nEin gescannter Vertrag kommt locker auf 40 MB, weil jede Seite ein riesiges Bild ist. Online-PDF-Komprimierung drückt ihn auf 2–5 MB, ohne dass die Lesbarkeit sichtbar leidet. Läuft direkt im Browser — hochladen, runterladen, in einer Minute erledigt.\n\n## Fotos: Auflösung runter, nicht die Qualität\n\nEin Handyfoto wiegt heute 5–12 MB, aber der Bildschirm des Empfängers braucht nur 1920 px Breite — das ist unter 1 MB. Zehn Urlaubsfotos schrumpfen so von 80 MB auf 8 MB. Jag sie durch einen Bildkompressor und niemand sieht den Unterschied.\n\n## Video: E-Mail ist das falsche Werkzeug\n\nVideos passen fast nie durch E-Mail. Komprimiere sie (H.265 spart bis zu 50 %) oder lade sie in einen Cloud-Speicher und verschicke den Link. Ab 100 MB ist der Link der einzig vernünftige Weg.\n\n## Schnelle Checkliste\n\nPDF → komprimieren. Fotos → verkleinern. Video → komprimieren oder Link. Mehrere Dateien → ZIP.\n\nAll das geht kostenlos im Browser auf [FileTools](https://filetools.eu) — ohne Registrierung, ohne Installation.",
+  "category": "tools",
+  "tags": [
+    "E-Mail",
+    "Komprimierung",
+    "PDF",
+    "Anhänge",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-09T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&q=80",
+  "imageAlt": "Laptop mit geöffnetem E-Mail-Programm",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-compress-files-online",
+    "filetools-pdf-compression",
+    "filetools-image-resize"
+  ]
+}

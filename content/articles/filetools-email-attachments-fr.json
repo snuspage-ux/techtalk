@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-email-attachments-fr",
+  "lang": "fr",
+  "title": "Fichier trop lourd pour l'e-mail ? Voici comment le réduire",
+  "description": "Gmail plafonne à 25 Mo, Outlook à 20 Mo. Comment réduire PDF, photos et vidéos pour qu'ils passent par e-mail — sans rien installer.",
+  "excerpt": "« La pièce jointe dépasse la taille maximale. » Message connu, solution rapide.",
+  "content": "Gmail limite à 25 Mo, Outlook à 20 Mo — encodage compris, donc en réalité il passe encore moins. Quand ton e-mail rebondit à cause d'une pièce jointe, tu as trois options : réduire, découper ou envoyer un lien.\n\n## PDF : la compression fait des miracles\n\nUn contrat scanné atteint facilement 40 Mo, parce que chaque page est une énorme image. La compression PDF en ligne le ramène à 2–5 Mo sans perte visible de lisibilité. Ça tourne directement dans le navigateur — tu télécharges, tu récupères, c'est réglé en une minute.\n\n## Photos : réduis la résolution, pas la qualité\n\nUne photo de smartphone pèse aujourd'hui 5–12 Mo, mais l'écran du destinataire n'a besoin que de 1920 px de large — moins de 1 Mo. Dix photos de vacances passent ainsi de 80 Mo à 8 Mo. Passe-les dans un compresseur d'images et personne ne verra la différence.\n\n## Vidéo : l'e-mail n'est pas le bon outil\n\nUne vidéo ne passe presque jamais par e-mail. Compresse-la (le H.265 réduit la taille de 50 %) ou mets-la sur un stockage en ligne et envoie le lien. Au-delà de 100 Mo, le lien est la seule voie raisonnable.\n\n## Checklist rapide\n\nPDF → compression. Photos → redimensionner. Vidéo → compression ou lien. Plusieurs fichiers → ZIP.\n\nTout ça se fait gratuitement dans ton navigateur sur [FileTools](https://filetools.eu) — sans inscription, sans installation.",
+  "category": "tools",
+  "tags": [
+    "e-mail",
+    "compression",
+    "PDF",
+    "pièces jointes",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-09T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&q=80",
+  "imageAlt": "Ordinateur portable avec une messagerie ouverte",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-compress-files-online",
+    "filetools-pdf-compression",
+    "filetools-image-resize"
+  ]
+}

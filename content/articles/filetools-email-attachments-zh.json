@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-email-attachments-zh",
+  "lang": "zh",
+  "title": "文件太大发不了邮件？这样压缩就行",
+  "description": "Gmail上限25 MB，Outlook上限20 MB。教你压缩PDF、照片和视频，让附件顺利通过邮件发送——无需安装任何软件。",
+  "excerpt": "“附件超过最大限制”——熟悉的提示，其实有快速解决办法。",
+  "content": "Gmail的附件上限是25 MB，Outlook是20 MB——而且还包含编码开销，实际能发的更少。邮件因附件过大被退回时，你有三个选择：压缩、拆分，或者改发链接。\n\n## PDF：压缩效果立竿见影\n\n一份扫描合同轻松达到40 MB，因为每一页都是巨大的图片。在线PDF压缩能把它降到2–5 MB，清晰度几乎不受影响。直接在浏览器里操作——上传、下载，一分钟搞定。\n\n## 照片：降分辨率，不降画质\n\n手机照片现在动辄5–12 MB，但对方屏幕只需要1920像素宽——不到1 MB。十张度假照片就能从80 MB压到8 MB。用图片压缩工具处理一下，没人看得出区别。\n\n## 视频：邮件不是合适的渠道\n\n视频几乎不可能通过邮件发送。要么压缩（H.265能减少50%体积），要么上传到网盘发链接。超过100 MB的视频，发链接是唯一明智的选择。\n\n## 快速清单\n\nPDF→压缩。照片→缩小尺寸。视频→压缩或链接。多个文件→打包ZIP。\n\n这些都能在浏览器里免费完成，去 [FileTools](https://filetools.eu) 试试——无需注册，无需安装。",
+  "category": "tools",
+  "tags": [
+    "邮件",
+    "压缩",
+    "PDF",
+    "附件",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-09T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&q=80",
+  "imageAlt": "打开邮件客户端的笔记本电脑",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-compress-files-online",
+    "filetools-pdf-compression",
+    "filetools-image-resize"
+  ]
+}
