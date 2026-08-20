@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-corporate-training-en",
+  "lang": "en",
+  "title": "Corporate Training in 7 Languages? Record It Once",
+  "description": "Your international team doesn't need 7 versions of every training video. Record once and AI dubbing translates it — keeping the trainer's voice.",
+  "excerpt": "Onboarding video for offices in Germany, Poland, and Spain? You don't have to film it three times.",
+  "content": "Your company grows, offices open abroad — and suddenly you have a problem: onboarding and training videos exist in one language only. Nobody reads subtitles, and reshooting everything with a trainer per language is absurd. The result? Half the team clicks through training without understanding it.\n\n## Why subtitles fail for training\n\nTraining videos show software, processes, diagrams. When an employee reads subtitles, they're not watching the screen. For compliance training that's an outright risk — a misunderstood procedure becomes a mistake on the job.\n\n## How AI dubbing solves it\n\n1. **Record one master version** in the language that comes naturally.\n2. **Upload it to [TubeVoice](https://tubevoice.io)** and pick target languages — German, Polish, and Spanish in one go.\n3. **The voice stays the same.** Voice cloning keeps your trainer's voice, so training feels consistent across every office.\n4. **Update in minutes.** When a process changes, you re-record one version and re-dub.\n\n## What the numbers say\n\nProfessional dubbing studios charge hundreds of euros per minute of video. AI dubbing cuts that cost by over 90% and turns weeks into hours. For internal content that changes every quarter, it's the only sustainable path.\n\n## One last tip\n\nTraining materials — slide decks, PDF checklists — convert and compress easily with [FileTools](https://filetools.eu) so they're simple to share.\n\nRecord your next training once. TubeVoice makes sure everyone on the team understands it — in their own language.",
+  "category": "ai",
+  "tags": [
+    "corporate training",
+    "ai-dubbing",
+    "onboarding",
+    "internal comms",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-08-11T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+  "imageAlt": "Team in a meeting room watching a training presentation",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-online-courses",
+    "tubevoice-webinar-replays",
+    "tubevoice-education-global"
+  ]
+}

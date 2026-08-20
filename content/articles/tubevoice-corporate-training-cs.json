@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-corporate-training-cs",
+  "lang": "cs",
+  "title": "Firemní školení v 7 jazycích? Natoč ho jednou",
+  "description": "Mezinárodní tým nepotřebuje 7 verzí školicího videa. Natoč ho jednou a AI dabing ho přeloží do všech jazyků — se stejným hlasem lektora.",
+  "excerpt": "Onboarding video pro pobočku v Německu, Polsku a Španělsku? Nemusíš ho točit třikrát.",
+  "content": "Firma roste, přibývají pobočky v zahraničí — a najednou máš problém: onboarding a školicí videa jsou jen v jednom jazyce. Titulky nikdo nečte, přetáčet vše s lektorem v každém jazyce je nesmysl. Výsledek? Půlka týmu školení odklikne bez pochopení.\n\n## Proč titulky u školení nefungují\n\nŠkolicí video často ukazuje software, procesy, diagramy. Když zaměstnanec čte titulky, nesleduje obrazovku. U compliance školení je to přímo riziko — nepochopený postup znamená chyby v praxi.\n\n## Jak to řeší AI dabing\n\n1. **Natoč master verzi** v jazyce, který ti je přirozený.\n2. **Nahraj ji do [TubeVoice](https://tubevoice.io)** a vyber cílové jazyky — třeba němčinu, polštinu a španělštinu najednou.\n3. **Hlas zůstane stejný.** Klonování hlasu zachová lektora, takže školení působí konzistentně napříč pobočkami.\n4. **Aktualizace za minuty.** Když se změní proces, přetočíš jen jednu verzi a znovu nadabuješ.\n\n## Co na to čísla\n\nProfesionální dabing studia stojí stovky eur za minutu videa. AI dabing srazí náklady o víc než 90 % a z týdnů udělá hodiny. Pro interní obsah, kde se materiály mění každý kvartál, je to jediná udržitelná cesta.\n\n## Tip na závěr\n\nPodklady ke školení — prezentace, PDF checklisty — převedeš a zkomprimuješ přes [FileTools](https://filetools.eu), ať se dají snadno sdílet.\n\nNatoč své příští školení jednou. TubeVoice se postará, aby mu rozuměl každý v týmu — vlastním jazykem.",
+  "category": "ai",
+  "tags": [
+    "firemní školení",
+    "AI dabing",
+    "onboarding",
+    "interní komunikace",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-08-11T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+  "imageAlt": "Tým na poradě sleduje školicí prezentaci",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-online-courses",
+    "tubevoice-webinar-replays",
+    "tubevoice-education-global"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-corporate-training-es",
+  "lang": "es",
+  "title": "¿Formación corporativa en 7 idiomas? Grábala una sola vez",
+  "description": "Tu equipo internacional no necesita 7 versiones de cada vídeo de formación. Grábalo una vez y el doblaje con IA lo traduce con la misma voz.",
+  "excerpt": "¿Un vídeo de onboarding para las oficinas de Alemania, Polonia y Francia? No hace falta rodarlo tres veces.",
+  "content": "La empresa crece, se abren oficinas fuera — y de repente tienes un problema: los vídeos de onboarding y formación solo existen en un idioma. Nadie lee los subtítulos, y volver a grabar todo con un formador por idioma es absurdo. ¿El resultado? La mitad del equipo pasa la formación haciendo clic sin entenderla.\n\n## Por qué los subtítulos fallan en formación\n\nUn vídeo de formación muestra software, procesos, diagramas. Si el empleado lee subtítulos, no mira la pantalla. En formación de compliance es directamente un riesgo: un procedimiento mal entendido se convierte en un error real.\n\n## Cómo lo resuelve el doblaje con IA\n\n1. **Graba una versión máster** en el idioma que te resulte natural.\n2. **Súbela a [TubeVoice](https://tubevoice.io)** y elige los idiomas de destino: alemán, polaco y español de una vez.\n3. **La voz no cambia.** La clonación de voz conserva al formador, y la formación suena consistente en todas las oficinas.\n4. **Actualiza en minutos.** Si cambia un proceso, regrabas una sola versión y vuelves a doblar.\n\n## Lo que dicen los números\n\nLos estudios de doblaje profesional cobran cientos de euros por minuto de vídeo. El doblaje con IA recorta ese coste más de un 90 % y convierte semanas en horas. Para contenido interno que cambia cada trimestre, es el único camino sostenible.\n\n## Un último consejo\n\nLos materiales de apoyo — presentaciones, checklists en PDF — se convierten y comprimen fácil con [FileTools](https://filetools.eu).\n\nGraba tu próxima formación una sola vez. TubeVoice se encarga de que todo el equipo la entienda — cada uno en su idioma.",
+  "category": "ai",
+  "tags": [
+    "formación corporativa",
+    "doblaje IA",
+    "onboarding",
+    "comunicación interna",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-08-11T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+  "imageAlt": "Equipo en una sala de reuniones viendo una presentación de formación",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-online-courses",
+    "tubevoice-webinar-replays",
+    "tubevoice-education-global"
+  ]
+}

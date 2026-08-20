@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-corporate-training-zh",
+  "lang": "zh",
+  "title": "企业培训要做 7 种语言？其实录一次就够",
+  "description": "跨国团队不需要为每个培训视频做 7 个版本。录制一次，AI 配音自动翻译成多语言，还保留讲师原声。",
+  "excerpt": "要给德国、波兰、西班牙的办公室做入职培训视频？不用拍三遍。",
+  "content": "公司在增长，海外办公室越开越多——问题也来了：入职和培训视频只有一种语言。字幕没人认真看，每种语言都重新拍一遍更不现实。结果呢？一半员工把培训一路点完，什么都没学进去。\n\n## 为什么字幕在培训场景不管用\n\n培训视频里全是软件操作、流程、图表。员工低头读字幕时，就看不到屏幕上的演示。合规培训更是直接的风险——理解错的流程会变成工作中的实际错误。\n\n## AI 配音怎么解决\n\n1. **用你最自然的语言录一版母版。**\n2. **上传到 [TubeVoice](https://tubevoice.io)**，一次选好目标语言——德语、波兰语、西班牙语一起搞定。\n3. **声音保持不变。**声音克隆保留讲师原声，各地办公室听到的培训风格完全一致。\n4. **更新只要几分钟。**流程变了，只需重录一个版本再重新配音。\n\n## 算一笔账\n\n专业配音工作室每分钟视频收费数百欧元。AI 配音能把成本砍掉 90% 以上，把几周的周期缩短到几小时。对每个季度都在更新的内部内容来说，这是唯一可持续的做法。\n\n## 最后一个小技巧\n\n培训配套材料——幻灯片、PDF 清单——用 [FileTools](https://filetools.eu) 转换压缩，分享更方便。\n\n下一次培训，只录一遍。剩下的交给 TubeVoice，让团队每个人都用母语听懂它。",
+  "category": "ai",
+  "tags": [
+    "企业培训",
+    "AI配音",
+    "入职培训",
+    "内部沟通",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-08-11T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+  "imageAlt": "会议室里团队正在观看培训演示",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-online-courses",
+    "tubevoice-webinar-replays",
+    "tubevoice-education-global"
+  ]
+}
