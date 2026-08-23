@@ -1,0 +1,34 @@
+{
+  "slug": "tubevoice-product-launch-videos-cs",
+  "lang": "cs",
+  "title": "Launch videa v sedmi jazycích bez posunutí termínu",
+  "description": "Launch video v jednom jazyce omezí dosah na jeden trh. AI dabing umí vyrobit lokalizované verze za pár hodin, ne za tři týdny natáčení.",
+  "excerpt": "Produkt vydáváš globálně. Tak proč má launch video jen jednu jazykovou verzi?",
+  "content": "Launch má jedno okno. Pár dní, kdy o produktu někdo mluví, sdílí ho a píše o něm. Když v tomhle okně máš video jenom v angličtině, polovina publika ho přeskočí — a druhý pokus už nepřijde.\n\n## Proč se lokalizace obvykle nestihne\n\nKlasický postup je pomalý: přeložit skript, najít dabéra pro každý jazyk, obsadit studio, nahrát, sestříhat, zkontrolovat. U pěti jazyků jsou to tři týdny a rozpočet v desítkách tisíc. Launch termín se posune, nebo se lokalizace prostě škrtne.\n\nVýsledek je pak titulkovaná verze na YouTube, u které polovina lidí vypne zvuk a odejde po deseti sekundách.\n\n## Jak to jde rychleji\n\nAI dabing tenhle řetězec zkracuje na jeden krok. Nahraješ hotové launch video, vybereš jazyky a dostaneš zpátky verze ve svém vlastním hlase — se stejným tempem, pauzami i důrazem. [TubeVoice](https://tubevoice.io) zvládá přes 50 jazyků a hudba i ruchy zůstanou nedotčené.\n\nPrakticky to znamená, že lokalizaci můžeš udělat až ve chvíli, kdy je finální střih hotový. Žádné paralelní plánování studií, žádné čekání na dabéry.\n\n## Na co si dát pozor\n\nCeny, jednotky a datumy převeď ještě ve skriptu — AI je přečte, ale nepřepočítá. Grafiku a titulky ve videu si připrav zvlášť; obrázky a náhledy zvládneš rychle v [FileTools](https://filetools.eu).\n\nA hlavně: vydej všechny jazykové verze ve stejný den. Launch okno se neopakuje.\n\nVyzkoušej [TubeVoice](https://tubevoice.io) na příštím launch videu a porovnej retenci lokalizovaných verzí s titulkovanou.",
+  "category": "ai",
+  "tags": [
+    "launch video",
+    "lokalizace",
+    "AI dabing",
+    "produktový marketing",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-08-14T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+  "imageAlt": "Tým sleduje spuštění produktu na obrazovce notebooku",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-video-ads",
+    "tubevoice-ecommerce-product-videos"
+  ]
+}

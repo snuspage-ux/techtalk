@@ -1,0 +1,34 @@
+{
+  "slug": "tubevoice-product-launch-videos-zh",
+  "lang": "zh",
+  "title": "七种语言的发布视频，还不用推迟上线日",
+  "description": "只有一种语言的发布视频，把你的覆盖面锁死在一个市场。AI 配音几小时就能交付本地化版本，而不是等三周的录音排期。",
+  "excerpt": "产品是全球发布的，发布视频为什么只会说一种语言？",
+  "content": "一次发布只有一个窗口期。就那么几天，有人聊你的产品、转发它、写它。如果这几天里你的视频只有英文版，一半的观众会直接划走——而且没有第二次机会。\n\n## 为什么本地化总是赶不上发布日\n\n传统流程太慢：翻译脚本、每种语言找配音演员、约录音棚、录制、剪辑、审核。五种语言就是三周时间和五位数预算。于是要么发布日往后挪，要么本地化被砍掉。\n\n最后上线的就变成一个加字幕的版本——很大一部分观众会关掉声音，十秒内离开。\n\n## 更快的做法\n\nAI 配音把这一整条链压缩成一步。上传剪好的发布视频，选好语言，拿回用你自己声音说话的版本，语速、停顿和重音都还在。[TubeVoice](https://tubevoice.io) 支持 50 多种语言，背景音乐和音效原样保留。\n\n实际操作上，这意味着本地化可以放在成片锁定之后再做。不用并行排录音棚，也不用等配音档期。\n\n## 仍然要盯住的地方\n\n价格、单位和日期先在脚本里换算好——AI 只会照读，不会替你重算。画面上的文字和封面图要单独处理；用 [FileTools](https://filetools.eu) 改尺寸、转格式几分钟就搞定。\n\n还有一点：所有语言版本同一天上线。发布窗口不会重来。\n\n下次发布视频丢进 [TubeVoice](https://tubevoice.io) 跑一遍，对比一下配音版和字幕版的完播率。",
+  "category": "ai",
+  "tags": [
+    "发布视频",
+    "本地化",
+    "AI配音",
+    "产品营销",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-08-14T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+  "imageAlt": "团队在笔记本电脑上观看产品发布",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-video-ads",
+    "tubevoice-ecommerce-product-videos"
+  ]
+}

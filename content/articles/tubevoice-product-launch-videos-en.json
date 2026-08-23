@@ -1,0 +1,34 @@
+{
+  "slug": "tubevoice-product-launch-videos-en",
+  "lang": "en",
+  "title": "Launch Videos in Seven Languages Without Delaying Ship Day",
+  "description": "A single-language launch video caps your reach at one market. AI dubbing turns localized versions around in hours instead of three weeks.",
+  "excerpt": "You're shipping globally. So why does your launch video speak one language?",
+  "content": "A launch has one window. A few days where people talk about your product, share it, and write about it. If your video only exists in English during that window, half your audience scrolls past — and there's no second attempt.\n\n## Why localization usually misses the date\n\nThe traditional pipeline is slow: translate the script, cast a voice actor per language, book studio time, record, edit, review. Five languages means three weeks and a five-figure budget. So the launch slips, or localization gets cut.\n\nWhat ships instead is a subtitled upload — and a big chunk of viewers mute it and leave within ten seconds.\n\n## The faster route\n\nAI dubbing collapses that chain into one step. Upload the finished launch video, pick your languages, and get back versions in your own voice, with your pacing, pauses, and emphasis intact. [TubeVoice](https://tubevoice.io) covers 50+ languages and leaves music and sound design untouched.\n\nPractically, this means localization happens after picture lock. No parallel studio scheduling, no waiting on talent availability.\n\n## Things that still bite\n\nConvert prices, units, and dates in the script first — AI will read them, not recalculate them. Handle on-screen text and thumbnails separately; [FileTools](https://filetools.eu) makes quick work of resizing and reformatting those assets.\n\nAnd ship every language on the same day. The launch window doesn't come back.\n\nRun your next launch video through [TubeVoice](https://tubevoice.io) and compare retention on the dubbed cuts against the subtitled one.",
+  "category": "ai",
+  "tags": [
+    "launch video",
+    "localization",
+    "ai dubbing",
+    "product marketing",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-08-14T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+  "imageAlt": "Team watching a product launch on a laptop screen",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-video-ads",
+    "tubevoice-ecommerce-product-videos"
+  ]
+}
