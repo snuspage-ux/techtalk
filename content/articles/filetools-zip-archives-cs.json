@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-zip-archives-cs",
+  "lang": "cs",
+  "title": "ZIP archivy bez instalace: zabalit, rozbalit, zaheslovat",
+  "description": "Jak zabalit a rozbalit ZIP přímo v prohlížeči, kdy má smysl přidat heslo a proč se velké soubory komprimací skoro nezmenší.",
+  "excerpt": "Dvacet fotek do jednoho souboru za pár vteřin. Bez WinRARu, bez nahrávání na cizí server.",
+  "content": "Potřebuješ někomu poslat dvacet souborů. E-mail má limit na přílohy, cloud vyžaduje účet na obou stranách a WinRAR se tě po dvacáté ptá na licenci. ZIP je pořád nejjednodušší odpověď — jenom to nemusí být přes program.\n\n## Zabalit i rozbalit rovnou v prohlížeči\n\nNa [FileTools](https://filetools.eu) přetáhneš soubory do okna, dostaneš jeden archiv a stáhneš ho. Opačně to funguje stejně: hodíš tam ZIP a vytáhneš z něj buď všechno, nebo jenom ty tři soubory, které opravdu potřebuješ. Bez účtu, bez instalace, i na mobilu.\n\nCelé to běží u tebe v zařízení přes WebAssembly, takže se soubory nikam nenahrávají. Zavřeš tab a je po všem.\n\n## Heslo použij jen tam, kde dává smysl\n\nHeslo na ZIPu je fajn pro smlouvy, výplatnice nebo skeny dokladů. Pravidlo je jediné a nudné: heslo nikdy neposílej stejným kanálem jako archiv. Když jde ZIP mailem, heslo pošli zprávou. Jinak jsi vlastně nic nezamknul.\n\n## Nečekej zázraky v kompresi\n\nTextové soubory, CSV a logy se často zmenší i o osmdesát procent. JPEG, MP4 a PDF jsou už komprimované, takže z nich vytlačíš pár procent a nic víc. Když potřebuješ, aby byla příloha reálně menší, komprimuj obrázky nebo video zvlášť — až potom bal.\n\n## Závěr\n\nJeden soubor místo dvaceti, volitelné heslo, žádná instalace. Zbytek práce se soubory — slučování PDF, převody formátů, komprese — zvládne [FileTools](https://filetools.eu) ve stejném okně. Podobně přímočaře funguje i [RoomFlip](https://roomflip.io): nahraješ fotku pokoje a dostaneš nový návrh interiéru.",
+  "category": "tools",
+  "tags": [
+    "zip",
+    "archivy",
+    "komprese",
+    "soubory",
+    "soukromi"
+  ],
+  "publishedAt": "2026-08-15T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
+  "imageAlt": "Složky a soubory připravené k zabalení do archivu",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-batch-convert",
+    "filetools-compress-files-online",
+    "filetools-split-pdf"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-zip-archives-pl",
+  "lang": "pl",
+  "title": "Pliki ZIP bez instalowania programów: pakuj, rozpakuj, zabezpiecz",
+  "description": "Jak spakować i rozpakować ZIP prosto w przeglądarce, kiedy hasło naprawdę ma sens i dlaczego duże pliki multimedialne prawie się nie kurczą.",
+  "excerpt": "Dwadzieścia plików w jednym, w kilka sekund. Bez WinRAR-a i bez wysyłania czegokolwiek na obcy serwer.",
+  "content": "Musisz wysłać komuś dwadzieścia plików. Poczta ogranicza załączniki, chmura wymaga konta po obu stronach, a WinRAR po raz dwudziesty pyta o licencję. ZIP nadal jest najprostszą odpowiedzią — tylko nie musi się to wiązać z instalacją.\n\n## Pakowanie i rozpakowywanie w przeglądarce\n\nNa [FileTools](https://filetools.eu) przeciągasz pliki do okna, dostajesz jedno archiwum i je pobierasz. W drugą stronę tak samo: wrzucasz ZIP i wyciągasz z niego albo wszystko, albo tylko te trzy pliki, których naprawdę potrzebujesz. Bez konta, bez instalacji, także na telefonie.\n\nCałość działa na twoim urządzeniu przez WebAssembly, więc nic nigdzie nie jest wysyłane. Zamykasz kartę i po sprawie.\n\n## Hasło tylko tam, gdzie coś daje\n\nHasło ma sens przy umowach, paskach wypłat i skanach dokumentów. Zasada jest jedna i nudna: nigdy nie wysyłaj hasła tym samym kanałem co archiwum. Jeśli ZIP idzie mailem, hasło idzie wiadomością. Inaczej właściwie nic nie zamknąłeś.\n\n## Nie licz na cuda kompresji\n\nPliki tekstowe, CSV i logi potrafią schudnąć o osiemdziesiąt procent i więcej. JPEG, MP4 i PDF są już skompresowane, więc wyciśniesz z nich kilka procent i tyle. Jeśli załącznik naprawdę ma być mniejszy, najpierw skompresuj zdjęcia albo wideo, a dopiero potem pakuj.\n\n## Podsumowanie\n\nJeden plik zamiast dwudziestu, hasło kiedy trzeba, zero instalacji. Reszta pracy z plikami — łączenie PDF-ów, konwersje formatów, kompresja multimediów — jest w tym samym oknie na [FileTools](https://filetools.eu). Na tej samej zasadzie działa [RoomFlip](https://roomflip.io): wrzucasz zdjęcie pokoju, dostajesz przeprojektowane wnętrze.",
+  "category": "tools",
+  "tags": [
+    "zip",
+    "archiwa",
+    "kompresja",
+    "pliki",
+    "prywatność"
+  ],
+  "publishedAt": "2026-08-15T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
+  "imageAlt": "Foldery i pliki gotowe do spakowania w archiwum",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-batch-convert",
+    "filetools-compress-files-online",
+    "filetools-split-pdf"
+  ]
+}

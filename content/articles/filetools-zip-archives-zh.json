@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-zip-archives-zh",
+  "lang": "zh",
+  "title": "无需安装软件处理 ZIP 文件：打包、解压、加密",
+  "description": "直接在浏览器里打包和解压 ZIP，什么时候加密码才真的有用，以及为什么大的图片和视频几乎压不小。",
+  "excerpt": "二十个文件合成一个，只要几秒。不用 WinRAR，也不用把文件传到别人的服务器。",
+  "content": "你要给别人发二十个文件。邮箱限制附件大小，网盘要求两边都有账号，WinRAR 第二十次提醒你还没买授权。ZIP 依然是最省事的答案——只是不必为它装任何软件。\n\n## 在浏览器里直接打包和解压\n\n在 [FileTools](https://filetools.eu) 上，把文件拖进窗口，拿到一个压缩包，下载就行。反过来也一样：丢进一个 ZIP，可以全部解压，也可以只取出你真正需要的那三个文件。不用注册，不用安装，手机上也能用。\n\n整个过程通过 WebAssembly 在你自己的设备上运行，文件不会被上传到任何地方。关掉标签页，什么都不会留下。\n\n## 密码只在值得的地方用\n\n合同、工资单、证件扫描件，加密码是合理的。规则只有一条，而且很无聊：绝对不要用发送压缩包的同一个渠道发密码。压缩包走邮件，密码就走即时消息。否则等于没锁。\n\n## 别指望压缩有奇迹\n\n文本、CSV 和日志文件经常能压掉八成以上。而 JPEG、MP4 和 PDF 本身已经是压缩格式，最多再挤出百分之几。如果附件确实必须变小，先单独压缩图片或视频，然后再打包。\n\n## 小结\n\n一个文件代替二十个，需要时加密码，什么都不用装。其余的文件处理——合并 PDF、转换格式、压缩媒体——都在 [FileTools](https://filetools.eu) 的同一个窗口里。[RoomFlip](https://roomflip.io) 也是同样的思路：上传一张房间照片，拿回重新设计的室内方案。",
+  "category": "tools",
+  "tags": [
+    "zip",
+    "压缩包",
+    "压缩",
+    "文件管理",
+    "隐私"
+  ],
+  "publishedAt": "2026-08-15T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
+  "imageAlt": "准备打包成压缩文件的文件夹和文件",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-batch-convert",
+    "filetools-compress-files-online",
+    "filetools-split-pdf"
+  ]
+}

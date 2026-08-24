@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-zip-archives-es",
+  "lang": "es",
+  "title": "Archivos ZIP sin instalar nada: comprimir, extraer, proteger",
+  "description": "Cómo crear y abrir un ZIP directamente en el navegador, cuándo merece la pena poner contraseña y por qué los archivos multimedia grandes apenas se reducen.",
+  "excerpt": "Veinte archivos en uno, en segundos. Sin WinRAR y sin subir nada a un servidor ajeno.",
+  "content": "Tienes que enviarle veinte archivos a alguien. El correo limita los adjuntos, la nube pide cuenta en los dos extremos y WinRAR te vuelve a preguntar por la licencia por vigésima vez. El ZIP sigue siendo la respuesta más simple — solo que no hace falta instalar nada.\n\n## Comprimir y extraer en el navegador\n\nEn [FileTools](https://filetools.eu) arrastras los archivos a la ventana, recibes un archivo comprimido y lo descargas. Al revés funciona igual: sueltas un ZIP y sacas o bien todo, o bien solo los tres archivos que realmente necesitas. Sin cuenta, sin instalación y también desde el móvil.\n\nTodo se ejecuta en tu propio dispositivo mediante WebAssembly, así que no se sube nada a ningún sitio. Cierras la pestaña y no queda rastro.\n\n## Pon contraseña solo donde aporta algo\n\nLa contraseña tiene sentido en contratos, nóminas y escaneos de documentos de identidad. La regla es una y es aburrida: nunca envíes la contraseña por el mismo canal que el archivo. Si el ZIP va por correo, la contraseña va por mensaje. Si no, en realidad no has cerrado nada.\n\n## No esperes milagros de la compresión\n\nLos ficheros de texto, los CSV y los logs suelen reducirse un ochenta por ciento o más. Los JPEG, MP4 y PDF ya están comprimidos, así que sacarás un par de puntos porcentuales y poco más. Si el adjunto tiene que pesar menos de verdad, comprime antes las imágenes o el vídeo y luego crea el ZIP.\n\n## Conclusión\n\nUn archivo en lugar de veinte, contraseña cuando toca, nada instalado. El resto del trabajo con archivos — unir PDF, convertir formatos, comprimir medios — está en la misma ventana de [FileTools](https://filetools.eu). [RoomFlip](https://roomflip.io) funciona con la misma idea: subes una foto de una habitación y recibes un interior rediseñado.",
+  "category": "tools",
+  "tags": [
+    "zip",
+    "archivos",
+    "compresión",
+    "gestión de archivos",
+    "privacidad"
+  ],
+  "publishedAt": "2026-08-15T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
+  "imageAlt": "Carpetas y archivos listos para comprimir en un archivo ZIP",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-batch-convert",
+    "filetools-compress-files-online",
+    "filetools-split-pdf"
+  ]
+}

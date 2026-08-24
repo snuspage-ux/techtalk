@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-zip-archives-fr",
+  "lang": "fr",
+  "title": "Fichiers ZIP sans logiciel : compresser, extraire, protéger",
+  "description": "Créer et ouvrir une archive ZIP directement dans le navigateur, savoir quand un mot de passe sert vraiment, et pourquoi les gros médias ne rétrécissent presque pas.",
+  "excerpt": "Vingt fichiers en un seul, en quelques secondes. Sans WinRAR, sans rien envoyer sur un serveur inconnu.",
+  "content": "Tu dois envoyer vingt fichiers à quelqu'un. La messagerie limite les pièces jointes, le cloud veut un compte des deux côtés, et WinRAR te reparle de sa licence pour la vingtième fois. Le ZIP reste la réponse la plus simple — sauf qu'il n'a pas besoin d'un logiciel.\n\n## Compresser et extraire dans le navigateur\n\nSur [FileTools](https://filetools.eu), tu glisses les fichiers dans la fenêtre, tu récupères une archive et tu la télécharges. Dans l'autre sens, c'est pareil : tu déposes un ZIP et tu en sors soit tout, soit uniquement les trois fichiers dont tu as réellement besoin. Sans compte, sans installation, y compris sur téléphone.\n\nTout tourne sur ton appareil via WebAssembly, donc rien n'est envoyé nulle part. Tu fermes l'onglet et il ne reste rien.\n\n## Le mot de passe, seulement quand il sert\n\nUn mot de passe a du sens pour des contrats, des bulletins de paie ou des scans de pièces d'identité. La règle est unique et ennuyeuse : ne transmets jamais le mot de passe par le même canal que l'archive. Si le ZIP part par mail, le mot de passe part par message. Sinon tu n'as rien verrouillé du tout.\n\n## N'attends pas de miracle côté compression\n\nLes fichiers texte, les CSV et les logs perdent souvent quatre-vingts pour cent de leur poids. Les JPEG, MP4 et PDF sont déjà compressés : tu grattes quelques pour cent et c'est tout. Si la pièce jointe doit vraiment être plus légère, compresse d'abord les images ou la vidéo, puis crée l'archive.\n\n## En résumé\n\nUn fichier au lieu de vingt, un mot de passe quand il le faut, rien à installer. Le reste du travail sur tes fichiers — fusionner des PDF, convertir des formats, compresser des médias — tient dans la même fenêtre sur [FileTools](https://filetools.eu). [RoomFlip](https://roomflip.io) suit la même logique : tu envoies une photo de pièce, tu reçois un intérieur redessiné.",
+  "category": "tools",
+  "tags": [
+    "zip",
+    "archives",
+    "compression",
+    "fichiers",
+    "confidentialité"
+  ],
+  "publishedAt": "2026-08-15T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
+  "imageAlt": "Dossiers et fichiers prêts à être compressés dans une archive",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-batch-convert",
+    "filetools-compress-files-online",
+    "filetools-split-pdf"
+  ]
+}

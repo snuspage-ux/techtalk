@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-zip-archives-de",
+  "lang": "de",
+  "title": "ZIP-Dateien ohne Software: packen, entpacken, schützen",
+  "description": "Wie du ZIP-Archive direkt im Browser erstellst und öffnest, wann ein Passwort wirklich sinnvoll ist und warum große Mediendateien kaum kleiner werden.",
+  "excerpt": "Zwanzig Dateien in einer, in Sekunden. Ohne WinRAR und ohne Upload auf fremde Server.",
+  "content": "Du musst jemandem zwanzig Dateien schicken. Das Postfach begrenzt Anhänge, die Cloud will auf beiden Seiten ein Konto, und WinRAR fragt zum zwanzigsten Mal nach der Lizenz. ZIP ist immer noch die einfachste Antwort — nur muss dafür nichts installiert werden.\n\n## Packen und entpacken im Browser\n\nBei [FileTools](https://filetools.eu) ziehst du die Dateien ins Fenster, bekommst ein Archiv zurück und lädst es herunter. Umgekehrt genauso: ZIP hineinziehen und entweder alles entpacken oder nur die drei Dateien, die du wirklich brauchst. Ohne Konto, ohne Installation, auch am Handy.\n\nAlles läuft per WebAssembly auf deinem Gerät, es wird nichts hochgeladen. Tab schließen und weg ist es.\n\n## Passwort nur da, wo es etwas bringt\n\nSinnvoll ist ein Passwort bei Verträgen, Gehaltsabrechnungen und Ausweisscans. Die Regel ist einfach und langweilig: Schick das Passwort nie über denselben Kanal wie das Archiv. Geht die ZIP per Mail, geht das Passwort per Messenger. Sonst hast du eigentlich nichts abgeschlossen.\n\n## Erwarte keine Wunder bei der Kompression\n\nTextdateien, CSVs und Logs schrumpfen oft um achtzig Prozent und mehr. JPEG, MP4 und PDF sind bereits komprimiert, da holst du ein paar Prozent heraus und das war's. Wenn der Anhang wirklich kleiner werden muss, komprimiere erst die Bilder oder das Video und packe danach.\n\n## Fazit\n\nEine Datei statt zwanzig, ein Passwort wo nötig, nichts installiert. Der Rest der Dateiarbeit — PDFs zusammenführen, Formate konvertieren, Medien komprimieren — liegt im selben Fenster auf [FileTools](https://filetools.eu). Nach demselben Prinzip funktioniert [RoomFlip](https://roomflip.io): Foto vom Raum hochladen, neu gestaltetes Interieur zurückbekommen.",
+  "category": "tools",
+  "tags": [
+    "zip",
+    "archive",
+    "komprimierung",
+    "dateien",
+    "datenschutz"
+  ],
+  "publishedAt": "2026-08-15T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
+  "imageAlt": "Ordner und Dateien, bereit zum Packen in ein Archiv",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-batch-convert",
+    "filetools-compress-files-online",
+    "filetools-split-pdf"
+  ]
+}

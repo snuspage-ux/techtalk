@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-zip-archives-en",
+  "lang": "en",
+  "title": "ZIP Files Without the Software: Pack, Unpack, Protect",
+  "description": "How to zip and unzip files straight in your browser, when a password is actually worth adding, and why big media files barely shrink at all.",
+  "excerpt": "Twenty files into one, in seconds. No WinRAR, no uploading anything to a stranger's server.",
+  "content": "You need to send someone twenty files. Email caps your attachments, cloud storage wants an account on both ends, and WinRAR is asking about that licence for the twentieth time. ZIP is still the simplest answer — it just doesn't have to involve installing anything.\n\n## Pack and unpack in the browser\n\nOn [FileTools](https://filetools.eu) you drag files into the window, get one archive back, and download it. It works the same in reverse: drop in a ZIP and pull out either everything or just the three files you actually need. No account, no install, works on a phone.\n\nAll of it runs on your own device through WebAssembly, so nothing is uploaded anywhere. Close the tab and it's gone.\n\n## Use a password only where it earns its place\n\nA password makes sense for contracts, payslips and scanned ID documents. The rule is single and boring: never send the password through the same channel as the archive. If the ZIP goes by email, the password goes by message. Otherwise you haven't really locked anything.\n\n## Don't expect miracles from compression\n\nText files, CSVs and logs routinely shrink by eighty percent or more. JPEGs, MP4s and PDFs are already compressed, so you'll squeeze out a few percent and that's it. If the attachment genuinely has to be smaller, compress the images or the video first, then zip the result.\n\n## The takeaway\n\nOne file instead of twenty, a password when it matters, nothing installed. The rest of your file work — merging PDFs, converting formats, compressing media — lives in the same window on [FileTools](https://filetools.eu). [RoomFlip](https://roomflip.io) works on the same principle: upload a photo of a room, get a redesigned interior back.",
+  "category": "tools",
+  "tags": [
+    "zip",
+    "archives",
+    "compression",
+    "file management",
+    "privacy"
+  ],
+  "publishedAt": "2026-08-15T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
+  "imageAlt": "Folders and files ready to be packed into an archive",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-batch-convert",
+    "filetools-compress-files-online",
+    "filetools-split-pdf"
+  ]
+}
