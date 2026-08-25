@@ -1,0 +1,35 @@
+{
+  "slug": "roomflip-gallery-wall-cs",
+  "lang": "cs",
+  "title": "Galerijní stěna, co nevypadá jako nástěnka na chodbě",
+  "description": "Obrazová stěna vypadá jednoduše, dokud ji nezačneš věšet. Jak vybrat rámy, rozvrhnout rozestupy a nezničit si zeď deseti zkušebními dírami.",
+  "excerpt": "Většina galerijních stěn selže ve stejném bodě: rozestupy. Tady je postup, který ti ušetří deset zbytečných děr ve zdi.",
+  "content": "Galerijní stěna vypadá jako nejjednodušší upgrade pokoje — dokud nestojíš s kladivem před prázdnou zdí a nevíš, kde začít. Rozdíl mezi „vypadá to draze\" a „vypadá to jako nástěnka na chodbě\" je jenom v pár rozhodnutích.\n\n## Rámy sjednoť, obsah rozhoď\n\nNejrychlejší cesta k profesionálnímu výsledku: jeden typ rámu ve dvou až třech velikostech, obsah naopak různorodý. Fotky, tisky, textilie, i prázdný pasparta rám. Když míchaš rámy i obsah zároveň, oko nemá se čeho chytit a stěna působí chaoticky.\n\n## Rozestupy jsou celé tajemství\n\nDrž 5–7 cm mezi rámy. Konzistentně, u všech. Větší mezery a kompozice se rozpadne na samostatné obrázky; menší a splyne v jednu skvrnu. Střed celé kompozice patří do výšky očí, tedy asi 145–150 cm nad podlahu — ne doprostřed volné zdi, jak většina lidí instinktivně věší.\n\n## Nejdřív papír, potom kladivo\n\nObkresli každý rám na balicí papír, vystřihni a nalep lepicí páskou na zeď. Přeskládej to třikrát, klidně pětkrát. Teprve pak vrtej — přes papír, který ti drží přesnou pozici háčku. Ušetříš si deset zkušebních děr.\n\nChceš vidět výsledek dřív, než sáhneš po vrtačce? [RoomFlip](https://roomflip.io) ti z fotky pokoje vyrenderuje varianty rozvržení, takže si vybereš kompozici v telefonu místo na zdi. A když si tisky připravuješ sám, [FileTools](https://filetools.eu) zvládne převod i zmenšení souborů do tiskového formátu bez instalace čehokoli.\n\nZačni pěti rámy. Galerijní stěnu je vždycky lepší postupně doplňovat než hned zaplnit celou zeď.",
+  "category": "ai",
+  "tags": [
+    "galerijní stěna",
+    "obývací pokoj",
+    "dekorace",
+    "AI design",
+    "RoomFlip"
+  ],
+  "publishedAt": "2026-08-16T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=800&q=80",
+  "imageAlt": "Obývací pokoj s galerijní stěnou nad pohovkou",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "roomflip-living-room-redesign",
+    "roomflip-lighting-design",
+    "roomflip-renter-friendly"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "roomflip-gallery-wall-fr",
+  "lang": "fr",
+  "title": "Un mur de cadres qui ne ressemble pas à un panneau de liège",
+  "description": "Un mur de cadres semble simple jusqu'au moment d'accrocher. Comment choisir les cadres, régler les espacements et éviter dix trous d'essai dans le mur.",
+  "excerpt": "La plupart des murs de cadres échouent au même endroit : l'espacement. Voici la méthode qui t'évite dix trous inutiles dans le plâtre.",
+  "content": "Un mur de cadres a l'air d'être l'amélioration la plus facile de la maison — jusqu'à ce que tu te retrouves marteau en main devant un mur vide sans savoir par où commencer. Entre « ça fait cher » et « ça fait panneau d'affichage de bureau », il n'y a que deux ou trois décisions.\n\n## Cadres uniformes, contenus variés\n\nLe chemin le plus rapide vers un résultat pro : un seul style de cadre en deux ou trois tailles, et des contenus très différents. Photos, affiches, un morceau de tissu, même un passe-partout vide. Si tu mélanges cadres *et* contenus, l'œil n'a plus de repère et le mur devient du désordre.\n\n## L'espacement, c'est tout le secret\n\nGarde 5 à 7 cm entre les cadres. De façon constante, sur tous les côtés. Plus large, la composition se désagrège en images séparées ; plus serré, tout se fond en une tache. Le centre de l'ensemble se place à hauteur des yeux, environ 145–150 cm du sol — pas au milieu du mur vide, là où la plupart des gens accrochent d'instinct.\n\n## D'abord le papier, ensuite le marteau\n\nTrace chaque cadre sur du papier kraft, découpe et scotche les formes au mur. Réorganise trois fois. Cinq s'il le faut. Ensuite seulement, perce — à travers le papier, qui garde la position du crochet pour toi. Cette seule habitude t'évite un mur criblé de trous d'essai.\n\nEnvie de voir le résultat avant de sortir la perceuse ? [RoomFlip](https://roomflip.io) génère des variantes d'agencement à partir d'une simple photo de la pièce : tu choisis sur ton téléphone plutôt que sur le mur. Et si tu prépares les tirages toi-même, [FileTools](https://filetools.eu) convertit et redimensionne les fichiers pour l'impression sans rien installer.\n\nCommence par cinq cadres. Un mur de cadres se construit toujours mieux dans le temps qu'en un après-midi.",
+  "category": "ai",
+  "tags": [
+    "mur de cadres",
+    "salon",
+    "décoration",
+    "design IA",
+    "RoomFlip"
+  ],
+  "publishedAt": "2026-08-16T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=800&q=80",
+  "imageAlt": "Salon avec un mur de cadres au-dessus du canapé",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "roomflip-living-room-redesign",
+    "roomflip-lighting-design",
+    "roomflip-renter-friendly"
+  ]
+}

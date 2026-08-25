@@ -1,0 +1,35 @@
+{
+  "slug": "roomflip-gallery-wall-es",
+  "lang": "es",
+  "title": "Muros de cuadros que no parecen un tablón de corcho",
+  "description": "Un muro de cuadros parece fácil hasta que toca colgarlo. Cómo elegir marcos, acertar con la separación y evitar diez agujeros de prueba en la pared.",
+  "excerpt": "La mayoría de los muros de cuadros falla en el mismo punto: la separación. Este método te ahorra diez agujeros innecesarios en el yeso.",
+  "content": "Un muro de cuadros parece la mejora más fácil de la casa — hasta que estás delante de una pared vacía con el martillo en la mano sin saber por dónde empezar. Entre que parezca caro y que parezca un tablón de anuncios de oficina hay solo dos o tres decisiones.\n\n## Marcos iguales, contenidos distintos\n\nLa vía rápida a un resultado profesional: un único estilo de marco en dos o tres tamaños, y contenidos muy variados. Fotos, láminas, un trozo de tela, incluso un passepartout vacío. Si mezclas marcos *y* contenidos a la vez, el ojo no encuentra ancla y la pared se lee como desorden.\n\n## La separación es todo el truco\n\nMantén 5–7 cm entre marcos. De forma constante, por todos los lados. Más separación y la composición se desmonta en cuadros sueltos; menos y se funde en una mancha. El centro del conjunto va a la altura de los ojos, unos 145–150 cm del suelo — no en el centro de la pared vacía, que es donde casi todo el mundo cuelga por instinto.\n\n## Primero papel, después martillo\n\nCalca cada marco en papel de embalar, recórtalo y pega las siluetas en la pared con cinta. Recolócalas tres veces. Cinco si hace falta. Solo entonces taladra, atravesando el papel, que te sujeta la posición del gancho. Ese único hábito te ahorra una pared llena de agujeros de prueba.\n\n¿Quieres ver el resultado antes de sacar el taladro? [RoomFlip](https://roomflip.io) genera variantes de composición a partir de una foto de la habitación, así eliges en el móvil en vez de en el yeso. Y si preparas tú las impresiones, [FileTools](https://filetools.eu) convierte y ajusta los archivos para imprenta sin instalar nada.\n\nEmpieza con cinco marcos. Un muro de cuadros siempre queda mejor si crece con el tiempo que si lo llenas en una tarde.",
+  "category": "ai",
+  "tags": [
+    "muro de cuadros",
+    "salón",
+    "decoración",
+    "diseño con IA",
+    "RoomFlip"
+  ],
+  "publishedAt": "2026-08-16T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=800&q=80",
+  "imageAlt": "Salón con un muro de cuadros sobre el sofá",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "roomflip-living-room-redesign",
+    "roomflip-lighting-design",
+    "roomflip-renter-friendly"
+  ]
+}

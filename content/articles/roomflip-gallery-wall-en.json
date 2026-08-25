@@ -1,0 +1,35 @@
+{
+  "slug": "roomflip-gallery-wall-en",
+  "lang": "en",
+  "title": "Gallery walls that don't look like a corkboard",
+  "description": "A gallery wall looks simple until you start hanging it. How to pick frames, get the spacing right, and avoid drilling ten test holes in your wall.",
+  "excerpt": "Most gallery walls fail at the same point: spacing. Here's the method that saves you ten unnecessary holes in the plaster.",
+  "content": "A gallery wall looks like the easiest upgrade in the house — right up until you're standing in front of a blank wall with a hammer, unsure where to start. The gap between \"this looks expensive\" and \"this looks like an office corkboard\" comes down to two or three decisions.\n\n## Unify the frames, vary the contents\n\nFastest route to a professional result: one frame style in two or three sizes, with wildly varied contents. Photos, prints, a piece of fabric, even an empty mat. Mix both frames and contents and the eye has nothing to anchor on, so the wall reads as clutter.\n\n## Spacing is the whole trick\n\nKeep 5–7 cm between frames. Consistently, on every side. Wider and the composition falls apart into separate pictures; tighter and it blurs into one dark smudge. The centre of the whole arrangement belongs at eye level — roughly 145–150 cm from the floor — not centred on the blank wall, which is where most people instinctively hang.\n\n## Paper first, hammer second\n\nTrace each frame onto kraft paper, cut it out, and tape the shapes to the wall. Rearrange three times. Five if you need to. Only then drill, straight through the paper so it holds the hook position for you. That single habit saves you a wall full of test holes.\n\nWant to see the result before the drill comes out? [RoomFlip](https://roomflip.io) renders layout options straight from a photo of your room, so you choose the composition on your phone instead of on the plaster. And if you're prepping prints yourself, [FileTools](https://filetools.eu) converts and resizes files for print without installing anything.\n\nStart with five frames. A gallery wall is always better grown over time than dumped on the wall in one afternoon.",
+  "category": "ai",
+  "tags": [
+    "gallery wall",
+    "living room",
+    "home decor",
+    "AI design",
+    "RoomFlip"
+  ],
+  "publishedAt": "2026-08-16T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=800&q=80",
+  "imageAlt": "Living room with a gallery wall above the sofa",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "roomflip-living-room-redesign",
+    "roomflip-lighting-design",
+    "roomflip-renter-friendly"
+  ]
+}
