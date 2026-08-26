@@ -1,0 +1,35 @@
+{
+  "slug": "gymhome-night-training-fr",
+  "lang": "fr",
+  "title": "S'entraîner après minuit : pourquoi ça marche mieux qu'on croit",
+  "description": "L'entraînement nocturne a un énorme avantage : une salle vide. Comment s'y habituer, quoi manger et pourquoi ton sommeil peut tenir le coup.",
+  "excerpt": "À 2 h du matin, personne n'attend le banc de développé. S'entraîner la nuit paraît extrême — pour beaucoup, c'est le seul créneau qui reste.",
+  "content": "Entre 17 h et 20 h, toutes les salles se ressemblent : file d'attente au banc, kettlebells toutes prises, et quelqu'un assis sur une machine à scroller son téléphone. À 23 h, la même pièce est vide. Si tu bosses en horaires décalés, que tu as des enfants en bas âge ou que tes soirées sont déjà prises, l'entraînement de nuit n'est pas extrême : c'est ton seul créneau réel.\n\n## Une salle vide change toute la séance\n\nQuand tu n'attends pas, tes temps de repos sont exactement ceux que tu as prévus, pas ceux que la foule t'impose. La surcharge progressive repose sur le fait de refaire les mêmes exercices dans le même ordre en ajoutant du poids. Dans une salle bondée, impossible à tenir. À 2 h du matin, oui.\n\nIl y a aussi le mental. Se sentir observé décourage plus de gens que le manque de motivation. Dans une salle vide, ce problème disparaît.\n\n## Et le sommeil, alors ?\n\nIl trinque si tu t'y prends mal. Un entraînement intense fait monter le rythme cardiaque et la température corporelle, et l'endormissement traîne. Ce qui aide : finir au moins 60 à 90 minutes avant de te coucher, douche tiède plutôt que glacée, lumières tamisées, et zéro caféine après 20 h. Un pre-workout à 200 mg de caféine à minuit, c'est un mauvais calcul.\n\nMange léger : un peu de protéines et peu de glucides environ une heure avant. Estomac plein et squats lourds ne font pas bon ménage.\n\n## Où s'entraîner la nuit\n\nLes salles classiques ferment. Les salles en libre-service, non : tu réserves un créneau en ligne, tu reçois un code, et une serrure connectée t'ouvre à n'importe quelle heure. [GymHome](https://gymhome.cz) fonctionne ainsi 24 h/24 — une séance à 3 h du matin y est une option normale, et l'espace est entièrement à toi.\n\nTeste deux semaines à la même heure. Le corps s'adapte plus vite que tu ne le crois — et au final, seule la régularité compte.",
+  "category": "tools",
+  "tags": [
+    "entraînement nocturne",
+    "salle 24/7",
+    "musculation",
+    "sommeil",
+    "GymHome"
+  ],
+  "publishedAt": "2026-08-17T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800&q=80",
+  "imageAlt": "Salle de sport vide éclairée la nuit",
+  "backlinks": [
+    {
+      "text": "GymHome",
+      "url": "https://gymhome.cz"
+    },
+    {
+      "text": "Kupsledujici",
+      "url": "https://kupsledujici.cz"
+    }
+  ],
+  "related": [
+    "gymhome-smart-gym",
+    "gymhome-gym-anxiety",
+    "gymhome-workout-consistency"
+  ]
+}
