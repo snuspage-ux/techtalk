@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-csv-to-excel-de",
+  "lang": "de",
+  "title": "CSV in Excel — ohne zerschossene Spalten und verlorene Nullen",
+  "description": "Umlaute werden zu Zeichensalat, Telefonnummern verlieren die führende Null, Datumsangaben kippen. So konvertierst du CSV nach Excel gleich beim ersten Mal richtig.",
+  "excerpt": "Ein Doppelklick auf eine CSV — und Excel rät Dinge, die du nie wolltest. So nimmst du ihm das Raten ab.",
+  "content": "Eine CSV ist nur eine Textdatei mit Kommas. Trotzdem kann sie dir einen Nachmittag ruinieren — Umlaute werden zu Sonderzeichen, aus 00420 wird 420, und der 3. April wird stillschweigend zum 4. März.\n\nDie Ursache ist immer dieselbe: Beim Doppelklick rät Excel. So hörst du damit auf.\n\n## Öffne CSV-Dateien nicht per Doppelklick\n\nNimm stattdessen Daten → Daten abrufen → Aus Text/CSV. Excel zeigt dir eine Vorschau, in der du drei Dinge selbst festlegst: Kodierung, Trennzeichen und den Typ jeder Spalte.\n\nKodierung auf **UTF-8** stellen. Das löst neunzig Prozent aller Zeichenprobleme. Kommt die Datei aus einem älteren System, probier Windows-1252.\n\nBeim Trennzeichen wird es interessant: Deutsche Exporte nutzen oft Semikolon, weil das Komma als Dezimaltrennzeichen belegt ist. Excel erkennt das nicht zuverlässig.\n\n## Spalten, die Text bleiben müssen\n\nKlick jede Spalte in der Vorschau an und stell sie auf **Text**, wenn es um Folgendes geht:\n\n- Telefonnummern und Postleitzahlen (sonst verschwindet die führende Null)\n- Kontonummern, Steuer-IDs, EAN-Codes (lange Ziffernfolgen landen in wissenschaftlicher Notation)\n- Produktcodes wie 1-2 oder 3E4 (daraus macht Excel Datumsangaben oder Potenzen)\n\nDatumsspalten explizit setzen und Excel sagen, ob die Quelle TMJ oder MTJ ist. Nicht dem Zufall überlassen.\n\n## Wenn es fünfzig Dateien sind\n\nEinzeln importieren ergibt keinen Sinn, wenn dein Shop jede Nacht eine neue CSV auswirft. [Batch Convert von FileTools](https://filetools.eu/batch-convert) nimmt einen ganzen Ordner und gibt die XLSX-Dateien auf einmal zurück, mit erhaltener Kodierung.\n\n## Fazit\n\nDrei Einstellungen — Kodierung, Trennzeichen, Spaltentyp — und die Daten sitzen beim ersten Versuch sauber. Alles danach ist nur Wiederholung.\n\nAusprobieren kannst du das direkt bei [FileTools](https://filetools.eu): läuft im Browser, nichts wird hochgeladen.",
+  "category": "tools",
+  "tags": [
+    "CSV",
+    "Excel",
+    "Dateikonvertierung",
+    "Tabellen",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-18T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
+  "imageAlt": "Laptop-Bildschirm mit Tabelle und Diagrammen",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "Batch Convert",
+      "url": "https://filetools.eu/batch-convert"
+    }
+  ],
+  "related": [
+    "filetools-pdf-to-excel",
+    "filetools-batch-convert",
+    "filetools-document-conversion"
+  ]
+}

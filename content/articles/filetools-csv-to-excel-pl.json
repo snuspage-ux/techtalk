@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-csv-to-excel-pl",
+  "lang": "pl",
+  "title": "CSV do Excela bez rozsypanych kolumn i znikających zer",
+  "description": "Polskie znaki się psują, numery tracą zero na początku, daty się odwracają. Zobacz, jak przekonwertować CSV do Excela poprawnie za pierwszym razem.",
+  "excerpt": "Klikasz dwa razy w plik CSV i Excel zaczyna zgadywać rzeczy, o które go nie prosiłeś. Oto jak mu to odebrać.",
+  "content": "CSV to zwykły plik tekstowy z przecinkami. A mimo to potrafi zepsuć całe popołudnie: polskie znaki zamieniają się w krzaki, z 00420 zostaje 420, a 3 kwietnia po cichu staje się 4 marca.\n\nPrzyczyna zawsze jest ta sama: przy dwukliku Excel zgaduje. Oto jak mu to uniemożliwić.\n\n## Nie otwieraj CSV dwuklikiem\n\nZamiast tego użyj Dane → Pobierz dane → Z pliku tekstowego/CSV. Excel pokaże podgląd, w którym ustawiasz ręcznie trzy rzeczy: kodowanie, separator i typ każdej kolumny.\n\nKodowanie ustaw na **UTF-8**. To rozwiązuje dziewięćdziesiąt procent problemów ze znakami. Jeśli plik pochodzi ze starszego systemu, spróbuj Windows-1250.\n\nSeparator jest ważniejszy, niż się wydaje: polskie eksporty często używają średnika, bo przecinek pełni rolę separatora dziesiętnego. Excel tego nie zawsze wykrywa.\n\n## Kolumny, które muszą zostać tekstem\n\nKliknij kolumnę w podglądzie i przestaw ją na **Tekst** wszędzie tam, gdzie masz:\n\n- numery telefonów i kody pocztowe (inaczej zniknie zero z przodu)\n- numery kont, NIP, kody EAN (długie liczby lądują w notacji naukowej)\n- kody produktów typu 1-2 albo 3E4 (Excel zrobi z nich daty lub potęgi)\n\nKolumny z datą ustaw wprost i powiedz Excelowi, czy źródło jest w formacie DMR czy MDR. Nie zostawiaj tego interpretacji.\n\n## Kiedy masz ich pięćdziesiąt\n\nImport po jednym nie ma sensu, gdy sklep generuje nowy CSV każdej nocy. [Batch Convert od FileTools](https://filetools.eu/batch-convert) bierze cały folder i oddaje pliki XLSX naraz, z zachowanym kodowaniem.\n\n## Podsumowanie\n\nTrzy ustawienia — kodowanie, separator, typ kolumny — i dane wchodzą czyste za pierwszym razem. Reszta to już tylko powtarzanie.\n\nKonwersję możesz przetestować od razu na [FileTools](https://filetools.eu): działa w przeglądarce i nic nigdzie nie wysyła.",
+  "category": "tools",
+  "tags": [
+    "CSV",
+    "Excel",
+    "konwersja plików",
+    "arkusze",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-18T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
+  "imageAlt": "Ekran laptopa z arkuszem danych i wykresami",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "Batch Convert",
+      "url": "https://filetools.eu/batch-convert"
+    }
+  ],
+  "related": [
+    "filetools-pdf-to-excel",
+    "filetools-batch-convert",
+    "filetools-document-conversion"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-csv-to-excel-cs",
+  "lang": "cs",
+  "title": "CSV do Excelu bez rozsypaných sloupců a zmizelých nul",
+  "description": "Diakritika v CSV se rozsype, telefonní čísla přijdou o nulu, datumy se přehodí. Návod, jak převést CSV do Excelu správně napoprvé, i dávkově.",
+  "excerpt": "Když dvojklikneš na CSV, Excel si domyslí věci, které jsi nechtěl. Tohle je způsob, jak ho o to připravit.",
+  "content": "CSV je jen textový soubor s čárkami. Přesto ti dokáže zničit odpoledne — diakritika se změní na hieroglyfy, z čísla 00420 zbude 420 a z 3. dubna se stane 4. března.\n\nZa všechno může to, že Excel při dvojkliku hádá. Tady je, jak mu hádání zakázat.\n\n## Neotvírej CSV dvojklikem\n\nPoužij Data → Načíst data → Z textu/CSV. Excel ti ukáže náhled, kde ručně nastavíš tři věci: kódování, oddělovač a typ každého sloupce.\n\nKódování dej **UTF-8**. To řeší devadesát procent problémů s háčky a čárkami. Pokud soubor vyexportoval starší český systém, zkus Windows-1250.\n\nOddělovač: české exporty často používají středník, protože čárka je desetinná. Excel to sám netrefí.\n\n## Sloupce, které musí zůstat textem\n\nKlikni na sloupec v náhledu a přepni ho na **Text** všude, kde jde o:\n\n- telefonní čísla a PSČ (jinak zmizí úvodní nula)\n- IČO, čísla účtů, EAN kódy (dlouhá čísla se zaokrouhlí na vědecký zápis)\n- kódy produktů typu 1-2 nebo 3E4 (Excel z nich udělá datum nebo mocninu)\n\nDatum nastav explicitně a řekni Excelu, jestli je zdroj ve formátu DMY nebo MDY. Neptej se ho na názor.\n\n## Když jich máš padesát\n\nRuční import po jednom nedává smysl u exportu z e-shopu, který sype nový CSV každý den. [Batch Convert od FileTools](https://filetools.eu/batch-convert) ti nahraje celou složku a vrátí XLSX najednou, se zachovaným kódováním.\n\n## Závěr\n\nTři nastavení — kódování, oddělovač, typ sloupce — a máš čistá data napoprvé. Zbytek je jen opakování.\n\nPřevod si můžeš rovnou zkusit na [FileTools](https://filetools.eu), běží v prohlížeči a nic nikam neposílá.",
+  "category": "tools",
+  "tags": [
+    "CSV",
+    "Excel",
+    "převod souborů",
+    "tabulky",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-18T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
+  "imageAlt": "Obrazovka notebooku s tabulkou dat a grafy",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "Batch Convert",
+      "url": "https://filetools.eu/batch-convert"
+    }
+  ],
+  "related": [
+    "filetools-pdf-to-excel",
+    "filetools-batch-convert",
+    "filetools-document-conversion"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-csv-to-excel-fr",
+  "lang": "fr",
+  "title": "CSV vers Excel sans colonnes cassées ni zéros disparus",
+  "description": "Les accents deviennent illisibles, les numéros perdent leur zéro initial, les dates s'inversent. Voici comment convertir un CSV en Excel correctement du premier coup.",
+  "excerpt": "Un double-clic sur un CSV et Excel se met à deviner des choses que tu n'as jamais demandées. Voilà comment l'en empêcher.",
+  "content": "Un CSV, c'est juste un fichier texte avec des virgules. Et pourtant il peut te bousiller un après-midi : les accents deviennent des symboles, 00420 se transforme en 420, et le 3 avril devient discrètement le 4 mars.\n\nLa cause est toujours la même : au double-clic, Excel devine. Voici comment lui retirer ce privilège.\n\n## N'ouvre pas un CSV par double-clic\n\nPasse par Données → Obtenir des données → À partir d'un fichier texte/CSV. Excel affiche un aperçu où tu règles trois choses à la main : l'encodage, le séparateur et le type de chaque colonne.\n\nMets l'encodage sur **UTF-8**. Ça règle quatre-vingt-dix pour cent des problèmes de caractères. Si le fichier vient d'un vieux système, essaie Windows-1252.\n\nLe séparateur compte plus qu'on ne croit : beaucoup d'exports européens utilisent le point-virgule, parce que la virgule sert de séparateur décimal. Excel ne le détecte pas toujours.\n\n## Les colonnes qui doivent rester en texte\n\nClique sur chaque colonne dans l'aperçu et passe-la en **Texte** dès qu'il s'agit de :\n\n- numéros de téléphone et codes postaux (sinon le zéro initial saute)\n- numéros de compte, SIRET, codes EAN (les longs nombres partent en notation scientifique)\n- références produit du type 1-2 ou 3E4 (Excel en fait des dates ou des puissances)\n\nDéfinis les colonnes de date explicitement et précise si la source est JMA ou MJA. Ne laisse pas Excel interpréter.\n\n## Quand tu en as cinquante\n\nImporter un par un n'a aucun sens si ta boutique génère un nouveau CSV chaque nuit. [Batch Convert de FileTools](https://filetools.eu/batch-convert) prend un dossier entier et renvoie les XLSX d'un coup, encodage conservé.\n\n## En résumé\n\nTrois réglages — encodage, séparateur, type de colonne — et tes données arrivent propres du premier coup. Le reste n'est que de la répétition.\n\nTu peux tester la conversion directement sur [FileTools](https://filetools.eu) : ça tourne dans le navigateur, rien n'est envoyé ailleurs.",
+  "category": "tools",
+  "tags": [
+    "CSV",
+    "Excel",
+    "conversion de fichiers",
+    "tableurs",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-18T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
+  "imageAlt": "Écran d'ordinateur portable affichant un tableur et des graphiques",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "Batch Convert",
+      "url": "https://filetools.eu/batch-convert"
+    }
+  ],
+  "related": [
+    "filetools-pdf-to-excel",
+    "filetools-batch-convert",
+    "filetools-document-conversion"
+  ]
+}

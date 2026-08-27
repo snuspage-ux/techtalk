@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-csv-to-excel-zh",
+  "lang": "zh",
+  "title": "CSV 转 Excel：不再乱码、不再丢开头的零",
+  "description": "中文变乱码、手机号丢掉开头的零、日期月日颠倒。教你一次就把 CSV 正确导入 Excel，还能批量处理整个文件夹。",
+  "excerpt": "双击打开 CSV，Excel 就开始替你猜。这篇讲的是怎么把猜的权力收回来。",
+  "content": "CSV 不过是一个带逗号的文本文件。但它能毁掉你一个下午：中文变成乱码，00420 变成 420，4 月 3 日悄悄变成 3 月 4 日。\n\n原因永远一样——双击打开时，Excel 在猜。下面是怎么让它别猜。\n\n## 别用双击打开 CSV\n\n改走「数据 → 获取数据 → 从文本/CSV」。Excel 会给出预览界面，你可以手动设定三件事：编码、分隔符、每一列的类型。\n\n编码选 **UTF-8**，这能解决九成的乱码问题。如果文件来自较老的系统，可以试试 GBK。\n\n分隔符比多数人以为的更关键。很多欧洲系统导出的文件用分号，因为逗号在那边是小数点，Excel 未必能自动识别。\n\n## 必须保持文本格式的列\n\n在预览里点每一列，遇到下面这些就切成**文本**：\n\n- 手机号、邮政编码（否则开头的零会消失）\n- 银行账号、税号、EAN 条码（长数字会被转成科学计数法）\n- 形如 1-2 或 3E4 的商品编码（Excel 会当成日期或指数）\n\n日期列要明确指定，并告诉 Excel 源数据是「日月年」还是「月日年」，不要留给它自己判断。\n\n## 当你有五十个文件时\n\n如果店铺每晚导出一份新 CSV，一个个手动导入就没意义了。[FileTools 批量转换](https://filetools.eu/batch-convert) 可以吃下整个文件夹，一次性返回 XLSX，编码原样保留。\n\n## 小结\n\n三个设置——编码、分隔符、列类型——数据第一次就能干净落地。之后只是重复而已。\n\n可以直接在 [FileTools](https://filetools.eu) 上试，全程在浏览器里跑，文件不会被上传。",
+  "category": "tools",
+  "tags": [
+    "CSV",
+    "Excel",
+    "文件转换",
+    "表格",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-18T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
+  "imageAlt": "笔记本电脑屏幕上显示的数据表格和图表",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "Batch Convert",
+      "url": "https://filetools.eu/batch-convert"
+    }
+  ],
+  "related": [
+    "filetools-pdf-to-excel",
+    "filetools-batch-convert",
+    "filetools-document-conversion"
+  ]
+}

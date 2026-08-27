@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-csv-to-excel-en",
+  "lang": "en",
+  "title": "CSV to Excel Without Broken Columns or Missing Zeros",
+  "description": "Accents turn to gibberish, phone numbers lose their leading zero, dates flip month and day. Here's how to convert CSV to Excel correctly the first time.",
+  "excerpt": "Double-click a CSV and Excel starts guessing things you never asked for. Here's how to take the guessing away.",
+  "content": "A CSV is just a text file with commas in it. And yet it can ruin an afternoon — accented characters turn into symbols, 00420 becomes 420, and April 3rd quietly becomes March 4th.\n\nThe cause is always the same: double-clicking lets Excel guess. Here's how to stop it.\n\n## Don't open CSVs by double-clicking\n\nUse Data → Get Data → From Text/CSV instead. Excel gives you a preview where you set three things manually: encoding, delimiter, and the type of every column.\n\nSet encoding to **UTF-8**. That fixes ninety percent of the mangled-character problems. If the file came out of an older regional system, try Windows-1252 or Windows-1250.\n\nDelimiter matters more than people think. European exports often use semicolons because the comma is their decimal separator, and Excel won't always detect it.\n\n## Columns that must stay text\n\nClick each column in the preview and switch it to **Text** wherever you have:\n\n- phone numbers and postal codes (otherwise the leading zero disappears)\n- account numbers, tax IDs, EAN barcodes (long digits get rounded into scientific notation)\n- product codes like 1-2 or 3E4 (Excel turns these into dates or exponents)\n\nSet date columns explicitly and tell Excel whether the source is DMY or MDY. Don't leave it to interpretation.\n\n## When you have fifty of them\n\nImporting one at a time makes no sense when your store exports a fresh CSV every night. [FileTools Batch Convert](https://filetools.eu/batch-convert) takes a whole folder and hands back XLSX files at once, with the encoding preserved.\n\n## The takeaway\n\nThree settings — encoding, delimiter, column type — and your data lands clean on the first try. Everything after that is just repetition.\n\nYou can run the conversion at [FileTools](https://filetools.eu); it works in the browser and nothing gets uploaded anywhere.",
+  "category": "tools",
+  "tags": [
+    "CSV",
+    "Excel",
+    "file conversion",
+    "spreadsheets",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-18T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
+  "imageAlt": "Laptop screen showing a spreadsheet of data and charts",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "Batch Convert",
+      "url": "https://filetools.eu/batch-convert"
+    }
+  ],
+  "related": [
+    "filetools-pdf-to-excel",
+    "filetools-batch-convert",
+    "filetools-document-conversion"
+  ]
+}

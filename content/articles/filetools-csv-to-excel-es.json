@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-csv-to-excel-es",
+  "lang": "es",
+  "title": "De CSV a Excel sin columnas rotas ni ceros perdidos",
+  "description": "Las tildes se rompen, los teléfonos pierden el cero inicial, las fechas se invierten. Así conviertes un CSV a Excel bien a la primera, incluso por lotes.",
+  "excerpt": "Haces doble clic en un CSV y Excel empieza a adivinar cosas que nunca pediste. Así le quitas esa costumbre.",
+  "content": "Un CSV es solo un archivo de texto con comas. Y aun así puede arruinarte una tarde: las tildes se convierten en símbolos, 00420 pasa a ser 420 y el 3 de abril se transforma sin avisar en el 4 de marzo.\n\nLa causa siempre es la misma: al hacer doble clic, Excel adivina. Así se lo quitas.\n\n## No abras el CSV con doble clic\n\nVe a Datos → Obtener datos → Desde texto/CSV. Excel te muestra una vista previa donde configuras tres cosas a mano: codificación, delimitador y tipo de cada columna.\n\nPon la codificación en **UTF-8**. Eso resuelve el noventa por ciento de los caracteres rotos. Si el archivo sale de un sistema antiguo, prueba Windows-1252.\n\nEl delimitador importa más de lo que parece: muchos exportes europeos usan punto y coma, porque la coma es el separador decimal. Excel no siempre lo detecta.\n\n## Columnas que deben quedarse como texto\n\nHaz clic en cada columna de la vista previa y cámbiala a **Texto** siempre que sean:\n\n- teléfonos y códigos postales (si no, desaparece el cero inicial)\n- números de cuenta, NIF, códigos EAN (los números largos acaban en notación científica)\n- referencias de producto tipo 1-2 o 3E4 (Excel las convierte en fechas o potencias)\n\nDefine las columnas de fecha de forma explícita e indica si el origen es DMA o MDA. No lo dejes a interpretación.\n\n## Cuando tienes cincuenta\n\nImportar de uno en uno no tiene sentido si tu tienda genera un CSV nuevo cada noche. [Batch Convert de FileTools](https://filetools.eu/batch-convert) coge una carpeta entera y devuelve los XLSX de golpe, con la codificación intacta.\n\n## Conclusión\n\nTres ajustes — codificación, delimitador, tipo de columna — y los datos entran limpios a la primera. Lo demás es repetir.\n\nPuedes probar la conversión en [FileTools](https://filetools.eu): funciona en el navegador y no sube nada a ningún sitio.",
+  "category": "tools",
+  "tags": [
+    "CSV",
+    "Excel",
+    "conversión de archivos",
+    "hojas de cálculo",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-18T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
+  "imageAlt": "Pantalla de portátil con una hoja de cálculo y gráficos",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "Batch Convert",
+      "url": "https://filetools.eu/batch-convert"
+    }
+  ],
+  "related": [
+    "filetools-pdf-to-excel",
+    "filetools-batch-convert",
+    "filetools-document-conversion"
+  ]
+}
