@@ -1,0 +1,34 @@
+{
+  "slug": "roomflip-attic-conversion-cs",
+  "lang": "cs",
+  "title": "Půdní vestavba: tři čísla, která rozhodnou dřív než architekt",
+  "description": "Jak z půdy udělat obyvatelný pokoj: minimální výška, sklon krovu, nosnost stropu a světlo. Praktický návod plus jak si vestavbu vizualizovat předem.",
+  "excerpt": "Půda je poslední velký prostor, který většina lidí nechává ležet ladem. A přitom je to nejlevnější způsob, jak přidat pokoj.",
+  "content": "Půda je poslední velký prostor, který většina lidí nechává ležet ladem. A přitom je to nejlevnější způsob, jak přidat pokoj bez přístavby.\n\n## Nejdřív změř tři čísla\n\n**Výška v hřebeni** — potřebuješ minimálně 2,3 m, ideálně 2,5 m. Pod 2 m to nikdy nebude obytný prostor, jen úložák.\n\n**Sklon krovu** — od 35° výš získáš použitelnou podlahovou plochu i u stěn. Pod 30° zůstane skoro všechno pod šikminou.\n\n**Nosnost stropu** — původní strop bývá dimenzovaný na skladování, ne na postel, knihovnu a dva lidi. Tohle nechej na statikovi, ne na YouTube.\n\n## Světlo rozhoduje o všem\n\nStřešní okna dávají zhruba dvakrát víc světla než svislé okno stejné velikosti. Dej je níž, než ti kdo navrhne — spodní hrana ve výšce 110-120 cm od podlahy, ať vidíš ven i vsedě.\n\nBílý strop a světlá podlaha přidají místnosti pocitově metr. Tmavé dřevo na šikmině udělá pravý opak.\n\n## Co dělat s šikminou\n\nNebojuj s ní. Postav pod ni to, co nepotřebuje výšku: postel, nízké skříňky na míru, pracovní stůl, čtecí kout. Střed místnosti nech volný — tam se chodí.\n\n## Vyzkoušej to dřív, než zavoláš řemeslníky\n\nVestavba stojí stovky tisíc a rozmístění se rozhoduje jednou. Nahraj fotku holé půdy do [RoomFlip](https://roomflip.io) a nech si vygenerovat pár variant — ložnice, ateliér, dětský pokoj. Za pět minut uvidíš, co dává smysl, a ušetříš tři schůzky navíc.",
+  "category": "tools",
+  "tags": [
+    "podkroví",
+    "rekonstrukce",
+    "interiér",
+    "bydlení",
+    "design"
+  ],
+  "publishedAt": "2026-08-19T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+  "imageAlt": "Podkrovní pokoj se šikmým stropem a střešním oknem",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "roomflip-small-spaces",
+    "roomflip-lighting-design"
+  ]
+}

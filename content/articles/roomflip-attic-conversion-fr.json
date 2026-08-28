@@ -1,0 +1,34 @@
+{
+  "slug": "roomflip-attic-conversion-fr",
+  "lang": "fr",
+  "title": "Aménager des combles : trois chiffres qui décident de tout",
+  "description": "Transformer un grenier en vraie pièce : hauteur sous faîtage, pente de toit, portance du plancher et lumière. Guide pratique et visualisation avant travaux.",
+  "excerpt": "Le grenier est le dernier grand volume que la plupart des gens laissent vide — et la pièce la moins chère que tu ajouteras jamais.",
+  "content": "Le grenier est le dernier grand volume que la plupart des gens laissent vide. C'est pourtant la pièce la moins chère que tu ajouteras jamais : murs et toit existent déjà.\n\n## Mesure d'abord trois chiffres\n\n**Hauteur sous faîtage** — il faut au minimum 2,3 m, idéalement 2,5 m. En dessous de 2 m, ce ne sera jamais un espace de vie, juste du rangement.\n\n**Pente du toit** — à partir de 35°, tu récupères de la surface utilisable le long des murs. En dessous de 30°, presque tout disparaît sous le rampant.\n\n**Portance du plancher** — les solives d'origine ont été dimensionnées pour des cartons, pas pour un lit, une bibliothèque et deux adultes. Ça, c'est pour un ingénieur structure, pas pour YouTube.\n\n## La lumière décide du reste\n\nUne fenêtre de toit apporte environ deux fois plus de lumière qu'une fenêtre verticale de même taille. Pose-la plus bas qu'on ne te le conseille : bord inférieur à 110-120 cm du sol, pour voir dehors assis.\n\nPlafond blanc et sol clair ajoutent un mètre perçu. Du bois sombre sur le rampant fait exactement l'inverse.\n\n## Compose avec le rampant\n\nPlace dessous ce qui n'a pas besoin de hauteur : le lit, des rangements bas sur mesure, un bureau, un coin lecture. Garde le centre dégagé — c'est là qu'on circule.\n\n## Teste avant d'appeler les artisans\n\nUn aménagement coûte cher et le plan se décide une seule fois. Charge une photo des combles bruts dans [RoomFlip](https://roomflip.io) et génère plusieurs versions — chambre, atelier, chambre d'enfant. Cinq minutes suffisent pour trancher.",
+  "category": "tools",
+  "tags": [
+    "combles",
+    "rénovation",
+    "intérieur",
+    "maison",
+    "design"
+  ],
+  "publishedAt": "2026-08-19T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+  "imageAlt": "Pièce sous combles avec plafond mansardé et fenêtre de toit",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "roomflip-small-spaces",
+    "roomflip-lighting-design"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "roomflip-attic-conversion-pl",
+  "lang": "pl",
+  "title": "Adaptacja poddasza: trzy liczby, które decydują o wszystkim",
+  "description": "Jak zamienić strych w prawdziwy pokój: wysokość w kalenicy, kąt nachylenia dachu, nośność stropu i światło. Praktyczny poradnik plus wizualizacja przed remontem.",
+  "excerpt": "Poddasze to ostatnia duża przestrzeń, którą większość ludzi zostawia pustą — i najtańszy pokój, jaki dołożysz do domu.",
+  "content": "Poddasze to ostatnia duża przestrzeń, którą większość ludzi zostawia pustą. A jest to najtańszy pokój, jaki dołożysz — ściany i dach już stoją.\n\n## Najpierw zmierz trzy liczby\n\n**Wysokość w kalenicy** — potrzebujesz minimum 2,3 m, najlepiej 2,5 m. Poniżej 2 m to nigdy nie będzie pokój, tylko schowek.\n\n**Kąt nachylenia dachu** — od 35° w górę zyskujesz użyteczną powierzchnię także przy ścianach. Poniżej 30° prawie wszystko chowa się pod skosem.\n\n**Nośność stropu** — oryginalne belki liczono pod kartony, nie pod łóżko, regał i dwie dorosłe osoby. To zadanie dla konstruktora, nie dla YouTube'a.\n\n## Światło decyduje o reszcie\n\nOkno dachowe daje mniej więcej dwa razy więcej światła niż pionowe tej samej wielkości. Zamontuj je niżej, niż ci doradzą — dolna krawędź 110-120 cm nad podłogą, żebyś widział na zewnątrz siedząc.\n\nBiały sufit i jasna podłoga dokładają pokojowi metr w odczuciu. Ciemne drewno na skosie robi dokładnie odwrotnie.\n\n## Graj ze skosem, nie przeciw niemu\n\nPod skosem stawiaj to, co nie potrzebuje wysokości: łóżko, niskie zabudowy na wymiar, biurko, kącik do czytania. Środek pokoju zostaw wolny — tamtędy się chodzi.\n\n## Sprawdź to, zanim zadzwonisz po ekipę\n\nAdaptacja kosztuje fortunę, a układ ustala się raz. Wrzuć zdjęcie pustego poddasza do [RoomFlip](https://roomflip.io) i wygeneruj kilka wariantów — sypialnia, pracownia, pokój dziecka. Pięć minut i wiesz, co ma sens.",
+  "category": "tools",
+  "tags": [
+    "poddasze",
+    "remont",
+    "wnętrza",
+    "dom",
+    "design"
+  ],
+  "publishedAt": "2026-08-19T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+  "imageAlt": "Pokój na poddaszu ze skosem i oknem dachowym",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "roomflip-small-spaces",
+    "roomflip-lighting-design"
+  ]
+}

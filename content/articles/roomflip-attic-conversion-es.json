@@ -1,0 +1,34 @@
+{
+  "slug": "roomflip-attic-conversion-es",
+  "lang": "es",
+  "title": "Convertir el ático: tres números que lo deciden todo",
+  "description": "Cómo convertir un desván en habitación real: altura de cumbrera, pendiente del tejado, resistencia del forjado y luz. Guía práctica y visualización previa.",
+  "excerpt": "El ático es el último gran espacio que casi todo el mundo deja vacío, y la habitación más barata que vas a añadir nunca.",
+  "content": "El ático es el último gran espacio que casi todo el mundo deja vacío. Y es la habitación más barata que vas a añadir: las paredes y el tejado ya están.\n\n## Mide primero tres números\n\n**Altura en cumbrera** — necesitas 2,3 m como mínimo, idealmente 2,5 m. Por debajo de 2 m nunca será espacio habitable, solo trastero.\n\n**Pendiente del tejado** — a partir de 35° recuperas superficie útil junto a las paredes. Por debajo de 30°, casi todo queda bajo la inclinación.\n\n**Resistencia del forjado** — las vigas originales se calcularon para cajas, no para una cama, una estantería y dos adultos. Esto es para un aparejador, no para YouTube.\n\n## La luz decide el resto\n\nUna ventana de tejado da aproximadamente el doble de luz que una vertical del mismo tamaño. Colócala más baja de lo que te propongan: borde inferior a 110-120 cm del suelo, para ver fuera sentado.\n\nTecho blanco y suelo claro suman un metro de percepción. Madera oscura en la inclinación hace justo lo contrario.\n\n## Juega con la inclinación\n\nDebajo va lo que no necesita altura: la cama, armarios bajos a medida, el escritorio, un rincón de lectura. Deja el centro libre, que es por donde se pasa.\n\n## Pruébalo antes de llamar a los obreros\n\nUna reforma así cuesta mucho y la distribución se decide una sola vez. Sube una foto del ático vacío a [RoomFlip](https://roomflip.io) y genera varias versiones: dormitorio, estudio, cuarto infantil. En cinco minutos sabes qué tiene sentido.",
+  "category": "tools",
+  "tags": [
+    "ático",
+    "reforma",
+    "interiorismo",
+    "hogar",
+    "diseño"
+  ],
+  "publishedAt": "2026-08-19T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+  "imageAlt": "Habitación abuhardillada con techo inclinado y ventana de tejado",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "roomflip-small-spaces",
+    "roomflip-lighting-design"
+  ]
+}

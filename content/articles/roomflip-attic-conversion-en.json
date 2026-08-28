@@ -1,0 +1,34 @@
+{
+  "slug": "roomflip-attic-conversion-en",
+  "lang": "en",
+  "title": "Attic Conversion: Three Numbers That Decide Everything",
+  "description": "Turning an attic into a real room: minimum ridge height, roof pitch, floor load capacity and daylight. A practical guide plus how to visualise the layout first.",
+  "excerpt": "The attic is the last big space most people leave empty — and the cheapest room you will ever add to a house.",
+  "content": "The attic is the last big space most people leave empty. It is also the cheapest room you will ever add, because the walls and roof already exist.\n\n## Measure three numbers first\n\n**Ridge height** — you need at least 2.3 m, ideally 2.5 m. Below 2 m it will never be a living space, only storage.\n\n**Roof pitch** — at 35° and steeper you get usable floor area near the walls. Below 30°, almost everything disappears under the slope.\n\n**Floor load capacity** — the original ceiling joists were sized for boxes, not for a bed, a bookshelf and two adults. This one goes to a structural engineer, not to YouTube.\n\n## Daylight decides the rest\n\nRoof windows deliver roughly twice the light of a vertical window of the same size. Mount them lower than anyone suggests — bottom edge 110-120 cm above the floor, so you can see out while sitting.\n\nA white ceiling and a pale floor add a psychological metre to the room. Dark timber on the slope does the opposite.\n\n## Work with the slope, not against it\n\nPut the things that do not need height underneath it: the bed, low built-in storage, a desk, a reading nook. Keep the centre of the room clear — that is where you walk.\n\n## Test it before you call the builders\n\nA conversion costs a small fortune and the layout gets decided once. Upload a photo of the bare attic to [RoomFlip](https://roomflip.io) and generate a few versions — bedroom, studio, kids' room. Five minutes tells you what actually works, and saves you three meetings.",
+  "category": "tools",
+  "tags": [
+    "attic",
+    "renovation",
+    "interior",
+    "home",
+    "design"
+  ],
+  "publishedAt": "2026-08-19T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+  "imageAlt": "Attic room with a sloped ceiling and a roof window",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "roomflip-small-spaces",
+    "roomflip-lighting-design"
+  ]
+}
