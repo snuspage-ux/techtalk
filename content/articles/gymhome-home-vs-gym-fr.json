@@ -1,0 +1,35 @@
+{
+  "slug": "gymhome-home-vs-gym-fr",
+  "lang": "fr",
+  "title": "Muscu à la maison ou en salle : lequel tu tiendras vraiment",
+  "description": "Haltères chez toi ou abonnement en salle ? On compare les coûts réels, les résultats et surtout : où tu t'entraîneras encore dans quatre mois.",
+  "excerpt": "Chez toi, zéro trajet. En salle, de la vraie fonte et la tête réglée sur l'entraînement. La différence n'est pas le prix, c'est l'assiduité.",
+  "content": "Presque tout le monde tombe sur la même question : acheter quelques haltères pour l'appartement, ou payer une salle ? La réponse n'est pas une histoire d'argent. C'est une histoire de savoir où tu t'entraîneras encore trois fois par semaine dans quatre mois, quand l'élan de janvier sera retombé.\n\n## Ce que ça coûte réellement\n\nUn setup maison correct — haltères réglables, banc, tapis — tourne autour de 400 à 900 euros. Une salle, c'est 30 à 60 euros par mois : le matériel est donc rentabilisé en un an et demi environ. Ce calcul ne tient que si tu t'en sers. Un banc qui dort sous le lit est l'équipement fitness le plus cher du monde.\n\n## Où se situe la vraie différence\n\nÀ la maison, tu gagnes du temps : aucun trajet, séance à 6h en pyjama. Tu perds sur la charge. Dès que tu veux squatter 100 kg, il te faut un rack, une barre et des disques — autre budget, autre surface au sol.\n\nLa salle a un second avantage dont on parle peu : l'interrupteur mental. Tu franchis la porte, tu es là pour une seule raison. Chez toi, la machine à laver, l'enfant ou une notification finissent toujours par te trouver.\n\n## Le compromis qui marche\n\nPour la plupart des gens, c'est les deux : séances courtes au poids du corps et aux élastiques les jours chargés, plus deux vraies séances de fonte par semaine. Ça ne fonctionne que si tu peux entrer en salle quand ton emploi du temps le permet — pas seulement dans la file de 18h à 20h.\n\nC'est exactement l'idée de [GymHome](https://gymhome.cz) : tu réserves un créneau en ligne, un code ouvre la porte, l'espace est à toi. Teste ce mix deux semaines, tu sauras vite quelle moitié te manque.",
+  "category": "tools",
+  "tags": [
+    "entraînement maison",
+    "salle de sport",
+    "fitness",
+    "musculation",
+    "GymHome"
+  ],
+  "publishedAt": "2026-08-20T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=80",
+  "imageAlt": "Haltères posés sur le sol d'un salon",
+  "backlinks": [
+    {
+      "text": "GymHome",
+      "url": "https://gymhome.cz"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "gymhome-workout-consistency",
+    "gymhome-strength-basics",
+    "gymhome-smart-gym"
+  ]
+}
