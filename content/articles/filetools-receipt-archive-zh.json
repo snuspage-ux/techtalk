@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-receipt-archive-zh",
+  "lang": "zh",
+  "title": "一个下午，把散乱票据变成可搜索的档案",
+  "description": "相册里的票据照片帮不上任何忙。本文给出一套简单流程，把它们变成可搜索的 PDF，报税季不再手忙脚乱。",
+  "excerpt": "难的不是拍票据，而是一年后能不能找到那一张。这套流程一个下午搭好，之后每月只要五分钟。",
+  "content": "年底了，会计要凭证，你打开相册：340 张票据照片夹在旅游照片中间。是不是很眼熟？\n\n问题不在于拍照。问题在于票据照片是\"瞎\"的——搜不了、排不了序，三个月后你根本想不起上面写了什么。\n\n## 第一步：一个文件夹，一套命名规则\n\n按月建文件夹，文件名统一用 `年-月-日_商户_金额`。看着很机关作风，但正因如此才好用：`2026-08-14_中石化_320.jpg` 不用打开就知道全部信息。\n\n在收银台当场拍，别拖到晚上。热敏纸几个月就褪色，最后你手里只剩一张白条。\n\n## 第二步：把照片转成带文字层的 PDF\n\n这一步才是关键。在 [FileTools.eu](https://filetools.eu) 上先走 JPG → PDF，再过一遍 OCR，得到的文档是真能搜索的。输入\"中石化\"或税号，票据立刻浮出来。\n\n处理全程在浏览器本地完成，敏感凭证不会离开你的电脑。不用注册，也没有那种把流程逼停的大小限制。\n\n## 第三步：每月合并一次\n\n月底把当月所有票据合并成一个 PDF。会计收到的是一个文件而不是四十个，来回追问少了，你也省下半小时。\n\n备份放两处——云端加本地硬盘。税务凭证的保存期限通常是五到十年。\n\n## 实际要花多少时间\n\n第一次大概两小时，前提是你有整整一年要清理。之后每月五分钟，就这么多。\n\n先从最近三个月开始，在 [FileTools.eu](https://filetools.eu) 上试一遍。看到第一个能搜索的 PDF，剩下的你自己就会做完。",
+  "category": "tools",
+  "tags": [
+    "票据",
+    "PDF",
+    "OCR",
+    "记账",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-21T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+  "imageAlt": "一摞纸质票据放在手机和笔记本电脑旁边",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-ocr",
+    "filetools-phone-scanner",
+    "filetools-jpg-to-pdf"
+  ]
+}

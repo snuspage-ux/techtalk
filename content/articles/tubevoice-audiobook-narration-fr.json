@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-audiobook-narration-fr",
+  "lang": "fr",
+  "title": "Enregistrer un livre audio en un week-end avec une IA",
+  "description": "Studio, comédien et trois semaines de post-production ne sont plus obligatoires. Voici comment transformer un manuscrit en livre audio écoutable en deux jours.",
+  "excerpt": "Une production classique coûte des milliers d'euros et prend des semaines. Un narrateur IA ramène ça à un week-end — à condition de connaître les pièges.",
+  "content": "Ton manuscrit est terminé et tu sais que la version audio se vend. Puis le studio annonce 2 500 euros et trois semaines de délai. C'est là que le projet finit dans un dossier oublié.\n\nIl existe une autre voie. Un narrateur IA de [TubeVoice](https://tubevoice.io) traite un livre de 300 pages en quelques heures. Tu consacres alors ton temps à ce qui décide vraiment de la qualité : la préparation du texte.\n\n## Un texte pour l'oreille n'est pas un texte pour l'œil\n\nC'est 80 % du résultat. Relis ton manuscrit avec une seule question : est-ce que ça tient à voix haute ?\n\nSupprime les notes de bas de page ou intègre-les dans une phrase. Remplace « voir figure 3 » par une description. Développe les abréviations — « cf. » et « etc. » sonnent faux à chaque fois. Coupe les phrases longues : un auditeur ne peut pas revenir d'une ligne en arrière.\n\nEnregistre chaque chapitre dans un fichier séparé. En cas de problème, tu régénères trois minutes au lieu de huit heures.\n\n## Choisis une voix et tiens-t'y\n\nTeste toujours sur le passage le plus difficile du livre — un dialogue, une scène émotionnelle, une définition technique. Jamais la page une : elle sonne bien avec n'importe quelle voix.\n\nEn fiction, une voix plus chaude et un rythme lent fonctionnent mieux ; en essai, un débit rapide et sobre. Et surtout : une seule voix pour tout le livre. Un changement entre chapitres passe pour une erreur, même volontaire.\n\n## Les autres langues, c'est le vrai gain\n\nL'équation change ici. Une fois le texte prêt, publier la même œuvre en anglais, allemand ou polonais ne coûte qu'une fraction du prix initial. Le clonage vocal conserve la même identité sonore d'une édition à l'autre.\n\nPour fusionner et convertir les fichiers de chapitres, [FileTools.eu](https://filetools.eu) fait le travail ingrat.\n\nPrépare le texte, choisis une voix, passe le chapitre un dans [TubeVoice](https://tubevoice.io). Dimanche soir, tu sauras si ça vaut le coup.",
+  "category": "ai",
+  "tags": [
+    "livre audio",
+    "voix IA",
+    "narration",
+    "auto-édition",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-08-21T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800&q=80",
+  "imageAlt": "Micro et casque posés sur un bureau à côté d'un livre ouvert",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-voice-cloning",
+    "tubevoice-podcast-to-video",
+    "tubevoice-audio-quality"
+  ]
+}

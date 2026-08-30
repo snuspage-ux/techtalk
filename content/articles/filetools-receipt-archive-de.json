@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-receipt-archive-de",
+  "lang": "de",
+  "title": "Belegarchiv an einem Nachmittag: durchsuchbar statt Chaos",
+  "description": "Belegfotos in der Galerie helfen niemandem. So machst du daraus durchsuchbare PDFs, sparst dir die Sucherei und hast beim Steuertermin endlich Ruhe im Kopf.",
+  "excerpt": "Das Schwierige ist nicht, Belege zu fotografieren. Es ist, einen davon ein Jahr später wiederzufinden. Dieses System läuft nach einmaligem Aufsetzen fast von allein.",
+  "content": "Jahresende, der Steuerberater will Unterlagen, du öffnest die Galerie: 340 Belegfotos zwischen Urlaubsbildern. Kennst du.\n\nDas Problem ist nicht das Fotografieren. Das Problem ist, dass ein Belegfoto blind ist – nicht durchsuchbar, nicht sortierbar, und nach drei Monaten weißt du nicht mehr, was draufstand.\n\n## Schritt 1: ein Ordner, ein Namensschema\n\nLeg pro Monat einen Ordner an und benenne Dateien nach `JJJJ-MM-TT_Händler_Betrag`. Sieht bürokratisch aus, funktioniert genau deshalb: `2026-08-14_shell_46,20.jpg` sagt alles, ohne dass du etwas öffnen musst.\n\nFotografiere direkt an der Kasse, nicht abends. Thermopapier verblasst innerhalb weniger Monate – dann hältst du einen leeren Zettel in der Hand.\n\n## Schritt 2: Fotos in PDFs mit Textebene umwandeln\n\nHier kippt die Sache. Auf [FileTools.eu](https://filetools.eu) schickst du die Bilder durch JPG → PDF und anschließend durch OCR. Ergebnis: ein Dokument, in dem du wirklich suchen kannst. \"Shell\" oder Steuernummer eintippen, Beleg gefunden.\n\nDie Verarbeitung läuft lokal im Browser, sensible Unterlagen verlassen dein Gerät also nicht. Kein Konto, kein Größenlimit, das den Ablauf sprengt.\n\n## Schritt 3: monatlich zusammenführen\n\nAm Monatsende alle Belege zu einem PDF zusammenführen. Der Steuerberater bekommt eine Datei statt vierzig, stellt weniger Rückfragen, und du sparst eine halbe Stunde Hin und Her.\n\nSichere an zwei Orten – Cloud und lokale Platte. Aufbewahrungsfristen liegen je nach Belegart bei sechs bis zehn Jahren.\n\n## Was es wirklich kostet\n\nBeim ersten Mal etwa zwei Stunden, wenn ein ganzes Jahr aufzuräumen ist. Danach fünf Minuten im Monat. Mehr nicht.\n\nFang mit den letzten drei Monaten auf [FileTools.eu](https://filetools.eu) an. Nach dem ersten durchsuchbaren PDF machst du den Rest von selbst.",
+  "category": "tools",
+  "tags": [
+    "Belege",
+    "PDF",
+    "OCR",
+    "Buchhaltung",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-21T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+  "imageAlt": "Stapel Papierbelege neben Smartphone und Laptop",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-ocr",
+    "filetools-phone-scanner",
+    "filetools-jpg-to-pdf"
+  ]
+}

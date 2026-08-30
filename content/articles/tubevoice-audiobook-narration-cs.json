@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-audiobook-narration-cs",
+  "lang": "cs",
+  "title": "Audioknihu nahraješ za víkend. Stačí AI vypravěč",
+  "description": "Studio, herec a týdny postprodukce už nejsou nutné. Ukazujeme, jak z rukopisu udělat poslouchatelnou audioknihu za dva dny a kolik to reálně stojí.",
+  "excerpt": "Nahrát audioknihu klasicky znamená 3 týdny a desítky tisíc. AI vypravěč to zkrátí na víkend — když víš, kde jsou úskalí.",
+  "content": "Máš hotový rukopis a víš, že audio verze prodává. Jenže nabídka ze studia zní 60 000 Kč a tři týdny čekání. Většina autorů se v tomhle bodě otočí a audioknihu nikdy nevydá.\n\nPřitom to jde jinak. AI vypravěč od [TubeVoice](https://tubevoice.io) zvládne 300stránkovou knihu za pár hodin renderu — a ty se soustředíš na to, co skutečně rozhoduje: přípravu textu.\n\n## Text pro ucho není text pro oko\n\nTohle je 80 % výsledku. Vezmi rukopis a projdi ho s jedinou otázkou: uslyším to?\n\nVyhoď poznámky pod čarou nebo je přepiš do věty. Nahraď \"viz obrázek 3\" popisem. Zkratky rozepiš — \"ČR\" AI přečte správně, \"cca\" už ne vždy. Dlouhá souvětí rozděl; posluchač si nemůže vrátit oko o řádek zpátky.\n\nKapitoly ukládej jako samostatné soubory. Když se něco pokazí, přerenderuješ tři minuty místo osmi hodin.\n\n## Vyber hlas a drž se ho\n\nZkušební vzorek dělej vždy na nejtěžší pasáži knihy — dialog, emotivní scéna, technická definice. Ne na první stránce, ta zní dobře pořád.\n\nU beletrie funguje teplejší hlas s pomalejším tempem, u non-fiction rychlejší a věcnější. A hlavně: jeden hlas přes celou knihu. Střídání vypravěčů mezi kapitolami působí jako chyba, i když bylo záměrné.\n\n## Vícejazyčná verze je bonus zdarma\n\nTady se to celé vyplatí. Jakmile máš připravený text, vydat stejnou knihu anglicky, německy a polsky stojí zlomek původní ceny. Klonování hlasu udrží stejný \"zvuk značky\" napříč jazyky.\n\nHotové kapitoly si pak srovnej a spoj — na převody a spojování souborů se hodí [FileTools.eu](https://filetools.eu).\n\nPřiprav text, vyber hlas a rozjeď první kapitolu na [TubeVoice](https://tubevoice.io). Do neděle víš, jestli to má smysl.",
+  "category": "ai",
+  "tags": [
+    "audiokniha",
+    "AI hlas",
+    "voiceover",
+    "self-publishing",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-08-21T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800&q=80",
+  "imageAlt": "Mikrofon a sluchátka na stole vedle otevřené knihy",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-voice-cloning",
+    "tubevoice-podcast-to-video",
+    "tubevoice-audio-quality"
+  ]
+}

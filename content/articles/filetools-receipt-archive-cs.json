@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-receipt-archive-cs",
+  "lang": "cs",
+  "title": "Účtenky v šuplíku? Udělej si archiv za jedno odpoledne",
+  "description": "Fotky účtenek v galerii nikomu nepomůžou. Ukážeme jednoduchý systém, jak je převést na hledatelné PDF a mít v účetnictví klid po celý zbytek roku.",
+  "excerpt": "Nejde o to účtenky nafotit. Jde o to je za rok najít. Tady je systém, který zvládneš jednou a používáš pořád.",
+  "content": "Konec roku, účetní chce podklady a ty otevřeš galerii v telefonu: 340 fotek účtenek promíchaných s dovolenou. Znáš to.\n\nProblém není fotografování. Problém je, že fotka účtenky je slepá — nedá se v ní hledat, nedá se seřadit a za tři měsíce nevíš, co na ní bylo.\n\n## Krok 1: jedna složka, jeden formát pojmenování\n\nZalož složku pro každý měsíc a soubory pojmenovávej `RRRR-MM-DD_dodavatel_castka`. Zní to úředně, ale právě díky tomu najdeš cokoliv během vteřiny. `2026-08-14_shell_1240.jpg` ti řekne všechno bez otevírání.\n\nNafoť účtenku hned u pokladny. Za týden bude vybledlá — termopapír vydrží pár měsíců, pak je z něj prázdný lístek.\n\n## Krok 2: převeď fotky na PDF s textovou vrstvou\n\nTady se to láme. Na [FileTools.eu](https://filetools.eu) hodíš fotky přes JPG → PDF a přes OCR z nich uděláš dokument, ve kterém se dá hledat. Zadáš „Shell\" nebo IČO a systém ti účtenku najde.\n\nZpracování běží lokálně v prohlížeči, takže citlivé doklady nikam neputují. Žádná registrace, žádný limit, který by ti to znechutil.\n\n## Krok 3: měsíční slučování\n\nNa konci měsíce spoj všechny účtenky do jednoho PDF. Místo 40 souborů pošleš účetní jeden. Ta ti pošle méně dotazů a ty ušetříš půl hodiny telefonování.\n\nZálohu drž na dvou místech — cloud a disk. Finanční úřad může chtít doklady zpětně za pět let.\n\n## Kolik to reálně zabere\n\nPrvní nastavení asi dvě hodiny, pokud máš rok nazpět v chaosu. Potom pět minut měsíčně. To je celé.\n\nZačni tím, že projdeš poslední tři měsíce na [FileTools.eu](https://filetools.eu). Až uvidíš první hledatelné PDF, zbytek doděláš sám od sebe.",
+  "category": "tools",
+  "tags": [
+    "účtenky",
+    "PDF",
+    "OCR",
+    "účetnictví",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-21T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+  "imageAlt": "Stoh papírových účtenek vedle telefonu a notebooku",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-ocr",
+    "filetools-phone-scanner",
+    "filetools-jpg-to-pdf"
+  ]
+}

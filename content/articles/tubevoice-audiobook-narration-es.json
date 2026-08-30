@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-audiobook-narration-es",
+  "lang": "es",
+  "title": "Graba un audiolibro en un fin de semana con un narrador IA",
+  "description": "Estudio, actor de voz y tres semanas de posproducción ya no son el único camino. Así conviertes un manuscrito en un audiolibro escuchable en dos días.",
+  "excerpt": "La producción clásica cuesta miles y tarda semanas. Un narrador IA lo reduce a un fin de semana, si sabes dónde están las trampas.",
+  "content": "Tienes el manuscrito listo y sabes que la edición en audio vende. Entonces el estudio te pasa presupuesto: 2.500 euros y tres semanas. Ahí es donde el proyecto muere en una carpeta.\n\nNo tiene por qué. Un narrador IA de [TubeVoice](https://tubevoice.io) renderiza un libro de 300 páginas en unas horas, así que tu tiempo va a lo que de verdad decide la calidad: preparar el texto.\n\n## El texto para el oído no es el texto para el ojo\n\nAquí está el 80 % del resultado. Lee el manuscrito con una sola pregunta: ¿funciona en voz alta?\n\nElimina las notas al pie o conviértelas en frases. Cambia «ver figura 3» por una descripción. Desarrolla las abreviaturas: «p. ej.» y «etc.» suenan mal siempre. Parte las frases largas; quien escucha no puede volver una línea atrás.\n\nGuarda cada capítulo en su propio archivo. Si algo falla, regeneras tres minutos en vez de ocho horas.\n\n## Elige una voz y mantenla\n\nPrueba siempre con el pasaje más difícil del libro: un diálogo, una escena emocional, una definición técnica. Nunca con la página uno, que suena bien con cualquier voz.\n\nEn ficción funciona mejor una voz cálida y un ritmo pausado; en ensayo, una más rápida y sobria. Y una sola voz para todo el libro: cambiar de narrador entre capítulos parece un error aunque sea intencionado.\n\n## Los otros idiomas son la ganancia real\n\nAquí cambian los números. Con el texto ya preparado, publicar la misma obra en inglés, alemán o polaco cuesta una fracción del original. La clonación de voz mantiene el mismo sonido de marca en todas las ediciones.\n\nPara unir y convertir los archivos de capítulos terminados, [FileTools.eu](https://filetools.eu) se encarga de la parte aburrida.\n\nPrepara el texto, elige la voz y pasa el primer capítulo por [TubeVoice](https://tubevoice.io). El domingo sabrás si merece la pena.",
+  "category": "ai",
+  "tags": [
+    "audiolibro",
+    "voz IA",
+    "narración",
+    "autopublicación",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-08-21T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800&q=80",
+  "imageAlt": "Micrófono y auriculares sobre un escritorio junto a un libro abierto",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-voice-cloning",
+    "tubevoice-podcast-to-video",
+    "tubevoice-audio-quality"
+  ]
+}

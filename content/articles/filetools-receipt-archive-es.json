@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-receipt-archive-es",
+  "lang": "es",
+  "title": "Monta un archivo de tickets buscable en una tarde",
+  "description": "Las fotos de tickets perdidas en la galería no sirven de nada. Este sistema las convierte en PDF buscables para que la contabilidad deje de dar miedo.",
+  "excerpt": "Lo difícil no es fotografiar los tickets, sino encontrar uno un año después. Este sistema se monta en una tarde y se mantiene en cinco minutos al mes.",
+  "content": "Cierre de ejercicio, tu gestor pide los justificantes y abres la galería del móvil: 340 fotos de tickets mezcladas con las de las vacaciones. ¿Te suena?\n\nEl problema no es hacer las fotos. El problema es que una foto de un ticket es ciega: no se puede buscar, no se puede ordenar y tres meses después no recuerdas qué ponía.\n\n## Paso 1: una carpeta y una regla de nombres\n\nCrea una carpeta por mes y nombra los archivos `AAAA-MM-DD_proveedor_importe`. Parece burocrático y por eso mismo funciona: `2026-08-14_shell_46,20.jpg` lo dice todo sin abrir nada.\n\nHaz la foto en la caja, no por la noche. El papel térmico se borra en unos meses y te quedas con un papel en blanco.\n\n## Paso 2: convierte las fotos en PDF con capa de texto\n\nEste es el paso que lo cambia todo. En [FileTools.eu](https://filetools.eu) pasas las imágenes por JPG → PDF y después por OCR, y acabas con un documento en el que puedes buscar de verdad. Escribes «Shell» o un CIF y el ticket aparece.\n\nEl procesamiento ocurre en local, en el navegador, así que los documentos sensibles no salen de tu equipo. Sin registro y sin un límite de tamaño que arruine el flujo.\n\n## Paso 3: unifica una vez al mes\n\nA fin de mes, une todos los tickets en un solo PDF. Tu gestor recibe un archivo en lugar de cuarenta, te hace menos preguntas y te ahorras media hora de mensajes.\n\nGuarda dos copias: nube y disco local. Hacienda puede pedir justificantes de hasta cuatro o seis años atrás.\n\n## Lo que cuesta de verdad\n\nUnas dos horas la primera vez si tienes un año entero por ordenar. Después, cinco minutos al mes. Eso es todo.\n\nEmpieza por los últimos tres meses en [FileTools.eu](https://filetools.eu). En cuanto veas el primer PDF buscable, el resto lo terminas solo.",
+  "category": "tools",
+  "tags": [
+    "tickets",
+    "pdf",
+    "ocr",
+    "contabilidad",
+    "filetools"
+  ],
+  "publishedAt": "2026-08-21T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+  "imageAlt": "Montón de tickets de papel junto a un móvil y un portátil",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-ocr",
+    "filetools-phone-scanner",
+    "filetools-jpg-to-pdf"
+  ]
+}

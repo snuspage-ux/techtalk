@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-receipt-archive-en",
+  "lang": "en",
+  "title": "Build a Searchable Receipt Archive in One Afternoon",
+  "description": "Photos of receipts buried in your camera roll help nobody. Here is a simple system to turn them into searchable PDFs and stay calm at tax time.",
+  "excerpt": "The hard part isn't photographing receipts. It's finding one a year later. This system takes an afternoon to set up and five minutes a month to keep.",
+  "content": "It's the end of the tax year, your accountant wants documentation, and you open your camera roll to find 340 receipt photos mixed in with holiday pictures. Familiar?\n\nThe problem isn't taking the photos. It's that a photo of a receipt is blind — you can't search it, can't sort it, and three months later you have no idea what was on it.\n\n## Step 1: one folder, one naming pattern\n\nCreate a folder per month and name files `YYYY-MM-DD_vendor_amount`. It looks bureaucratic, which is exactly why it works: `2026-08-14_shell_46.20.jpg` tells you everything without opening anything.\n\nPhotograph the receipt at the counter, not later. Thermal paper fades within months and leaves you holding a blank slip.\n\n## Step 2: convert photos into PDFs with a text layer\n\nThis is the step that changes everything. On [FileTools.eu](https://filetools.eu) you run the images through JPG → PDF, then OCR, and end up with a document you can actually search. Type \"Shell\" or a tax ID and the receipt surfaces.\n\nProcessing happens locally in the browser, so sensitive paperwork never leaves your machine. No account, no size limit that ruins the workflow.\n\n## Step 3: merge once a month\n\nAt month end, merge every receipt into a single PDF. Your accountant gets one file instead of forty, sends you fewer questions, and you save half an hour of back-and-forth.\n\nKeep two backups — cloud and a local drive. Tax authorities can ask for records going back five to seven years.\n\n## What it actually costs you\n\nRoughly two hours the first time if you have a year of chaos to clean up. After that, five minutes a month. That's the whole commitment.\n\nStart with the last three months on [FileTools.eu](https://filetools.eu). Once you see the first searchable PDF, you'll finish the rest without being told.",
+  "category": "tools",
+  "tags": [
+    "receipts",
+    "pdf",
+    "ocr",
+    "bookkeeping",
+    "filetools"
+  ],
+  "publishedAt": "2026-08-21T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+  "imageAlt": "Stack of paper receipts beside a phone and a laptop",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-ocr",
+    "filetools-phone-scanner",
+    "filetools-jpg-to-pdf"
+  ]
+}

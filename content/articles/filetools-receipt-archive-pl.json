@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-receipt-archive-pl",
+  "lang": "pl",
+  "title": "Archiwum paragonów w jedno popołudnie — i koniec chaosu",
+  "description": "Zdjęcia paragonów w galerii nikomu nie pomagają. Pokazujemy prosty system, który zamienia je w przeszukiwalne PDF-y i uspokaja księgowość na cały rok.",
+  "excerpt": "Trudne nie jest fotografowanie paragonów. Trudne jest znalezienie jednego po roku. Ten system ustawiasz raz i działa sam.",
+  "content": "Koniec roku, księgowa prosi o dokumenty, otwierasz galerię w telefonie: 340 zdjęć paragonów wymieszanych z wakacjami. Znasz to.\n\nProblemem nie jest robienie zdjęć. Problemem jest to, że zdjęcie paragonu jest ślepe — nie przeszukasz go, nie posortujesz, a po trzech miesiącach nie wiesz, co na nim było.\n\n## Krok 1: jeden folder, jeden schemat nazw\n\nZałóż folder na każdy miesiąc i nazywaj pliki `RRRR-MM-DD_sprzedawca_kwota`. Wygląda urzędowo i właśnie dlatego działa: `2026-08-14_shell_198.jpg` mówi wszystko bez otwierania.\n\nZdjęcie rób przy kasie, nie wieczorem. Papier termiczny blaknie w kilka miesięcy i zostaje ci pusty świstek.\n\n## Krok 2: zamień zdjęcia na PDF z warstwą tekstową\n\nTo krok, który zmienia wszystko. Na [FileTools.eu](https://filetools.eu) przepuszczasz zdjęcia przez JPG → PDF, potem przez OCR — i masz dokument, w którym naprawdę da się szukać. Wpisujesz „Shell\" albo NIP i paragon się znajduje.\n\nPrzetwarzanie działa lokalnie w przeglądarce, więc wrażliwe dokumenty nie opuszczają twojego komputera. Bez rejestracji i bez limitu, który psuje cały pomysł.\n\n## Krok 3: łącz raz w miesiącu\n\nNa koniec miesiąca połącz wszystkie paragony w jeden PDF. Księgowa dostaje jeden plik zamiast czterdziestu, zadaje mniej pytań, a ty oszczędzasz pół godziny pisania.\n\nTrzymaj dwie kopie — chmura i dysk lokalny. Dokumenty księgowe trzeba przechowywać przez pięć lat.\n\n## Ile to realnie kosztuje\n\nPierwszy raz jakieś dwie godziny, jeśli masz do nadrobienia cały rok. Później pięć minut miesięcznie. Tyle.\n\nZacznij od ostatnich trzech miesięcy na [FileTools.eu](https://filetools.eu). Gdy zobaczysz pierwszy przeszukiwalny PDF, resztę dokończysz sam.",
+  "category": "tools",
+  "tags": [
+    "paragony",
+    "pdf",
+    "ocr",
+    "księgowość",
+    "filetools"
+  ],
+  "publishedAt": "2026-08-21T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+  "imageAlt": "Stos papierowych paragonów obok telefonu i laptopa",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-ocr",
+    "filetools-phone-scanner",
+    "filetools-jpg-to-pdf"
+  ]
+}

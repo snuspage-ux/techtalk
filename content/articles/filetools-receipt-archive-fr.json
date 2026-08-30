@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-receipt-archive-fr",
+  "lang": "fr",
+  "title": "Un archivage de reçus consultable en un après-midi",
+  "description": "Des photos de tickets perdues dans la galerie ne servent à rien. Voici un système simple pour les transformer en PDF consultables et gérer la compta sereinement.",
+  "excerpt": "Le difficile n'est pas de photographier les reçus, mais d'en retrouver un un an plus tard. Ce système se met en place en un après-midi.",
+  "content": "Fin d'exercice, le comptable réclame les justificatifs, tu ouvres ta galerie : 340 photos de tickets mélangées aux photos de vacances. Ça te parle ?\n\nLe problème n'est pas la photo. Le problème, c'est qu'une photo de ticket est aveugle : impossible à chercher, impossible à trier, et trois mois plus tard tu ne sais plus ce qu'il y avait dessus.\n\n## Étape 1 : un dossier, une règle de nommage\n\nCrée un dossier par mois et nomme les fichiers `AAAA-MM-JJ_commerçant_montant`. Ça fait administratif, et c'est exactement pour ça que ça marche : `2026-08-14_shell_46,20.jpg` dit tout sans rien ouvrir.\n\nPhotographie le ticket à la caisse, pas le soir. Le papier thermique s'efface en quelques mois et il ne reste qu'un bout de papier vierge.\n\n## Étape 2 : convertir les photos en PDF avec couche texte\n\nC'est l'étape qui change tout. Sur [FileTools.eu](https://filetools.eu), tu passes les images en JPG → PDF puis par l'OCR, et tu obtiens un document réellement consultable. Tu tapes « Shell » ou un numéro de TVA, le reçu remonte.\n\nLe traitement se fait localement dans le navigateur : tes justificatifs ne quittent pas ta machine. Pas de compte, pas de limite de taille qui casse le rythme.\n\n## Étape 3 : fusionner une fois par mois\n\nEn fin de mois, fusionne tous les reçus en un seul PDF. Le comptable reçoit un fichier au lieu de quarante, pose moins de questions, et tu gagnes une demi-heure d'allers-retours.\n\nGarde deux sauvegardes — cloud et disque local. L'administration peut demander des pièces sur six à dix ans selon les cas.\n\n## Ce que ça coûte vraiment\n\nEnviron deux heures la première fois si tu as une année à rattraper. Ensuite, cinq minutes par mois. C'est tout.\n\nCommence par les trois derniers mois sur [FileTools.eu](https://filetools.eu). Après le premier PDF consultable, tu finiras le reste sans qu'on te le demande.",
+  "category": "tools",
+  "tags": [
+    "reçus",
+    "pdf",
+    "ocr",
+    "comptabilité",
+    "filetools"
+  ],
+  "publishedAt": "2026-08-21T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+  "imageAlt": "Pile de tickets de caisse à côté d'un téléphone et d'un ordinateur portable",
+  "backlinks": [
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-ocr",
+    "filetools-phone-scanner",
+    "filetools-jpg-to-pdf"
+  ]
+}

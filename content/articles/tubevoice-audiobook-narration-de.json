@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-audiobook-narration-de",
+  "lang": "de",
+  "title": "Hörbuch am Wochenende: so funktioniert ein KI-Sprecher",
+  "description": "Studio, Sprecher und drei Wochen Postproduktion müssen nicht sein. So wird aus deinem Manuskript in zwei Tagen ein hörbares Hörbuch – inklusive Kostenrechnung.",
+  "excerpt": "Klassische Hörbuchproduktion kostet Tausende und dauert Wochen. Ein KI-Sprecher schafft es am Wochenende – wenn du die Stolperfallen kennst.",
+  "content": "Das Manuskript ist fertig, die Audio-Edition würde sich verkaufen. Dann kommt das Studio-Angebot: 2.500 Euro, drei Wochen Vorlauf. An dieser Stelle stirbt das Projekt bei den meisten Autoren.\n\nMuss es nicht. Ein KI-Sprecher von [TubeVoice](https://tubevoice.io) rendert ein 300-Seiten-Buch in wenigen Stunden. Deine Zeit steckst du dafür in den Teil, der wirklich über die Qualität entscheidet: die Textvorbereitung.\n\n## Text fürs Ohr ist kein Text fürs Auge\n\nDas sind 80 Prozent des Ergebnisses. Lies das Manuskript einmal mit einer einzigen Frage: funktioniert das laut?\n\nFußnoten fliegen raus oder werden zu Sätzen. \"Siehe Abbildung 3\" ersetzt du durch eine Beschreibung. Abkürzungen schreibst du aus – \"u.a.\" und \"bzw.\" klingen jedes Mal falsch. Lange Schachtelsätze trennst du auf; ein Zuhörer kann keine Zeile zurückspringen.\n\nJedes Kapitel als eigene Datei speichern. Geht etwas schief, renderst du drei Minuten neu statt acht Stunden.\n\n## Eine Stimme, konsequent durchgezogen\n\nTeste immer an der schwierigsten Passage – Dialog, emotionale Szene, technische Definition. Nie an Seite eins, die klingt in jeder Stimme gut.\n\nBelletristik verträgt eine wärmere Stimme mit ruhigerem Tempo, Sachbuch eine schnellere, nüchterne. Und: eine Stimme fürs ganze Buch. Ein Wechsel zwischen Kapiteln wirkt wie ein Fehler, auch wenn er Absicht war.\n\n## Weitere Sprachen sind der eigentliche Gewinn\n\nHier kippt die Rechnung. Ist der Text einmal vorbereitet, kostet dieselbe Ausgabe auf Englisch, Spanisch oder Polnisch nur einen Bruchteil. Voice Cloning hält den Markenklang über alle Fassungen hinweg gleich.\n\nBeim Zusammenführen und Konvertieren der fertigen Kapiteldateien hilft [FileTools.eu](https://filetools.eu).\n\nText vorbereiten, Stimme wählen, Kapitel eins durch [TubeVoice](https://tubevoice.io) schicken. Bis Sonntag weißt du, ob es sich lohnt.",
+  "category": "ai",
+  "tags": [
+    "Hörbuch",
+    "KI-Stimme",
+    "Sprecher",
+    "Self-Publishing",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-08-21T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800&q=80",
+  "imageAlt": "Mikrofon und Kopfhörer auf einem Schreibtisch neben einem offenen Buch",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-voice-cloning",
+    "tubevoice-podcast-to-video",
+    "tubevoice-audio-quality"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-audiobook-narration-zh",
+  "lang": "zh",
+  "title": "用 AI 配音，一个周末做完一本有声书",
+  "description": "录音棚、配音演员和三周后期不再是唯一选项。本文讲清楚如何在两天内把书稿变成能听的有声书，以及真实成本。",
+  "excerpt": "传统有声书制作动辄上万元、耗时数周。AI 朗读能压缩到一个周末——前提是你知道坑在哪。",
+  "content": "书稿写完了，你也清楚有声版更好卖。然后录音棚报价来了：两万块，三周起。多数作者在这一步就把项目扔进了文件夹，再也没打开。\n\n其实还有别的路。[TubeVoice](https://tubevoice.io) 的 AI 朗读几个小时就能跑完一本三百页的书，你的时间可以花在真正决定质量的环节上：文本准备。\n\n## 给耳朵看的文字和给眼睛看的不一样\n\n这一步占成品质量的八成。把书稿通读一遍，只问一个问题：念出来通顺吗？\n\n脚注要么删掉，要么改写进句子里。\"见图三\"换成一句描述。缩写全部展开——听众听到\"等等\"\"如上\"只会一头雾水。长句拆短，因为耳朵没法往回看一行。\n\n每章存成单独文件。出问题时你重跑三分钟，而不是八小时。\n\n## 选定一个声音就别换\n\n试听样本永远拿全书最难的段落来测：对话、情绪戏、技术定义。别拿第一页，第一页用什么声音都好听。\n\n小说适合偏温暖、语速慢一点的声音；非虚构则要更快、更干脆。最关键的一条：整本书用同一个声音。章节之间换人，听起来就是事故，哪怕你是故意的。\n\n## 多语言版本才是真正的红利\n\n账在这里翻转。文本一旦准备好，再出英文、德文、西班牙文版只需原来的一小部分成本。声音克隆能让每个语种版本保持同一种品牌音色。\n\n章节文件的合并和格式转换，交给 [FileTools.eu](https://filetools.eu) 处理就行。\n\n准备文本、选好声音，先把第一章丢进 [TubeVoice](https://tubevoice.io)。到周日你就知道值不值得做下去。",
+  "category": "ai",
+  "tags": [
+    "有声书",
+    "AI配音",
+    "朗读",
+    "自出版",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-08-21T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800&q=80",
+  "imageAlt": "书桌上的麦克风和耳机，旁边放着一本摊开的书",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-voice-cloning",
+    "tubevoice-podcast-to-video",
+    "tubevoice-audio-quality"
+  ]
+}

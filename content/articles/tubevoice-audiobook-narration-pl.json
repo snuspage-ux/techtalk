@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-audiobook-narration-pl",
+  "lang": "pl",
+  "title": "Audiobook w weekend? Z lektorem AI to realne",
+  "description": "Studio, lektor i trzy tygodnie postprodukcji to nie jedyna droga. Pokazujemy, jak zamienić rękopis w słuchalny audiobook w dwa dni i ile to naprawdę kosztuje.",
+  "excerpt": "Klasyczna produkcja audiobooka to tysiące złotych i kilka tygodni. Lektor AI skraca to do weekendu — jeśli wiesz, gdzie są pułapki.",
+  "content": "Masz gotowy rękopis i wiesz, że wersja audio się sprzedaje. Potem przychodzi wycena ze studia: 10 000 złotych i trzy tygodnie terminu. W tym momencie projekt zwykle ląduje w folderze na zawsze.\n\nNie musi. Lektor AI od [TubeVoice](https://tubevoice.io) renderuje 300-stronicową książkę w kilka godzin. Twój czas idzie tam, gdzie naprawdę decyduje o jakości: w przygotowanie tekstu.\n\n## Tekst do ucha to nie tekst do oka\n\nTo 80 procent efektu. Przeczytaj rękopis raz z jednym pytaniem: czy to działa na głos?\n\nWywal przypisy albo wpleć je w zdania. Zamień „patrz rysunek 3\" na opis. Rozwiń skróty — „np.\" i „itd.\" za każdym razem brzmią źle. Potnij długie zdania: słuchacz nie cofnie wzroku o linijkę.\n\nKażdy rozdział zapisz jako osobny plik. Kiedy coś się posypie, renderujesz trzy minuty zamiast ośmiu godzin.\n\n## Wybierz jeden głos i trzymaj się go\n\nTestuj zawsze na najtrudniejszym fragmencie — dialogu, scenie emocjonalnej, definicji technicznej. Nigdy na pierwszej stronie, ta brzmi dobrze w każdym głosie.\n\nW beletrystyce lepiej wypada cieplejszy głos i wolniejsze tempo, w literaturze faktu szybszy i rzeczowy. I jedna zasada: jeden lektor na całą książkę. Zmiana między rozdziałami wygląda jak błąd, nawet jeśli była zamierzona.\n\n## Kolejne języki to prawdziwy zysk\n\nTu rachunek się odwraca. Gdy tekst jest już przygotowany, wydanie tej samej książki po angielsku, niemiecku czy hiszpańsku kosztuje ułamek pierwotnej ceny. Klonowanie głosu utrzymuje to samo brzmienie marki w każdej wersji.\n\nPrzy łączeniu i konwersji gotowych plików rozdziałów przyda się [FileTools.eu](https://filetools.eu).\n\nPrzygotuj tekst, wybierz głos i puść pierwszy rozdział przez [TubeVoice](https://tubevoice.io). Do niedzieli będziesz wiedzieć, czy warto.",
+  "category": "ai",
+  "tags": [
+    "audiobook",
+    "głos AI",
+    "lektor",
+    "self-publishing",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-08-21T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800&q=80",
+  "imageAlt": "Mikrofon i słuchawki na biurku obok otwartej książki",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools.eu",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-voice-cloning",
+    "tubevoice-podcast-to-video",
+    "tubevoice-audio-quality"
+  ]
+}
