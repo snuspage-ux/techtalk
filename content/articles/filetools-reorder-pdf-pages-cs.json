@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-reorder-pdf-pages-cs",
+  "lang": "cs",
+  "title": "Přeházené stránky v PDF? Srovnáš je za třicet vteřin",
+  "description": "Naskenovaná smlouva vzhůru nohama a stránky v jiném pořadí. Jak je otočit, přesunout a smazat přímo v prohlížeči, bez instalace a nahrávání.",
+  "excerpt": "Skener zamíchal pořadí a půlku otočil na hlavu. Nemusíš skenovat znovu — stačí to poskládat.",
+  "content": "Klasika: naskenuješ dvacetistránkovou smlouvu, otevřeš PDF a půlka stránek je vzhůru nohama, dvě chybí uprostřed a příloha skončila na začátku. Poslat to takhle protistraně nejde.\n\n## Znovu skenovat nemusíš\n\nOtočení a přeuspořádání stránek není zásah do obsahu, je to jen změna pořadí a orientace. [FileTools](https://filetools.eu) ti PDF rozloží na náhledy stránek, které přetáhneš myší tam, kam patří. Otočení o 90 stupňů je jedno kliknutí, smazání prázdné stránky taky.\n\nPraktický postup: nejdřív smaž prázdné a duplicitní stránky, pak otoč ty na šířku, a až nakonec řeš pořadí. Když to uděláš obráceně, přeskládáš i stránky, které stejně vyhodíš.\n\n## Dokument neopustí tvůj počítač\n\nZpracování běží přímo v prohlížeči přes WebAssembly — soubor se nikam nenahrává. U smluv, faktur nebo lékařských zpráv to není detail, ale docela zásadní rozdíl oproti běžným online převodníkům. Zavřeš záložku a nezůstane nic.\n\n## Když je toho víc\n\nMáš čtyři skeny a potřebuješ z nich jeden dokument? Nejdřív je [na FileTools](https://filetools.eu) spoj, pak srovnej pořadí a nakonec zkomprimuj, aby prošly e-mailem. Tři kroky, jedna záložka, žádná registrace.\n\nPříště, až ti skener vrátí zamíchaný dokument, nezačínej od nuly. Přetáhni pár náhledů a máš to.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "stránky",
+    "dokumenty",
+    "nástroje v prohlížeči",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-24T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "Vytištěné stránky dokumentu rozložené na stole",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-split-pdf",
+    "filetools-merge-pdf",
+    "filetools-annotate-pdf"
+  ]
+}

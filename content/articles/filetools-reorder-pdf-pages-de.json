@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-reorder-pdf-pages-de",
+  "lang": "de",
+  "title": "Seiten im PDF durcheinander? In dreißig Sekunden sortiert",
+  "description": "Gescannte Verträge kommen kopfüber und falsch sortiert zurück. So drehst, sortierst und löschst du PDF-Seiten direkt im Browser – ohne Upload.",
+  "excerpt": "Der Scanner hat die Reihenfolge vertauscht und die Hälfte auf den Kopf gestellt. Neu scannen musst du deswegen nicht.",
+  "content": "Du scannst einen zwanzigseitigen Vertrag, öffnest das PDF – und die Hälfte steht kopf, zwei Seiten sind doppelt, und der Anhang liegt ganz vorn. So kannst du das der Gegenseite nicht schicken.\n\n## Neu scannen ist die falsche Lösung\n\nDrehen und Sortieren verändert den Inhalt nicht, sondern nur Reihenfolge und Ausrichtung. [FileTools](https://filetools.eu) zeigt dein PDF als Seitenvorschauen, die du mit der Maus an die richtige Stelle ziehst. 90 Grad drehen: ein Klick. Leere Seite löschen: ein Klick.\n\nDie sinnvolle Reihenfolge: erst Leerseiten und Dubletten löschen, dann die querliegenden Seiten drehen, zum Schluss die Sortierung. Andersherum sortierst du Seiten, die du ohnehin gleich entfernst.\n\n## Die Datei bleibt auf deinem Rechner\n\nAlles läuft per WebAssembly im Browser, nichts wird hochgeladen. Bei Verträgen, Rechnungen oder Arztberichten ist das kein nettes Extra, sondern der entscheidende Unterschied zu üblichen Online-Konvertern. Tab schließen – und es bleibt nichts zurück.\n\n## Wenn mehr zu tun ist\n\nVier einzelne Scans, die ein Dokument werden sollen? Auf [FileTools](https://filetools.eu) zusammenführen, Seiten sortieren, danach komprimieren, damit die Datei durch das Mail-Limit passt. Drei Schritte, ein Tab, kein Konto.\n\nWenn der Scanner dir das nächste Mal ein Durcheinander liefert: nicht neu anfangen, sondern ein paar Vorschauen verschieben.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "Seitenreihenfolge",
+    "Dokumente",
+    "Browser-Tools",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-24T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "Ausgedruckte Dokumentseiten auf einem Schreibtisch ausgebreitet",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-split-pdf",
+    "filetools-merge-pdf",
+    "filetools-annotate-pdf"
+  ]
+}

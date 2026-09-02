@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-reorder-pdf-pages-es",
+  "lang": "es",
+  "title": "¿Páginas del PDF desordenadas? Se arregla en treinta segundos",
+  "description": "Los escaneos vuelven del revés y en otro orden. Cómo girar, reordenar y borrar páginas de un PDF en el navegador, sin instalar nada y sin subir el archivo.",
+  "excerpt": "El escáner mezcló el orden y puso media docena de páginas boca abajo. No hace falta volver a escanear: solo reordenar.",
+  "content": "Escaneas un contrato de veinte páginas, abres el PDF y la mitad está boca abajo, dos páginas están repetidas y el anexo ha acabado al principio. Enviarlo así no es una opción.\n\n## Volver a escanear no es la solución\n\nGirar y reordenar no toca el contenido: solo cambia la secuencia y la orientación. [FileTools](https://filetools.eu) despliega tu PDF en miniaturas que arrastras a su sitio. Girar 90 grados es un clic. Borrar una página en blanco, otro.\n\nEl orden correcto de trabajo: primero elimina blancos y duplicados, después gira las páginas apaisadas y al final ajusta la secuencia. Al revés acabarás colocando páginas que ibas a borrar.\n\n## El archivo no sale de tu equipo\n\nTodo se procesa en el navegador con WebAssembly, así que nada se sube a un servidor. Con contratos, facturas o informes médicos eso no es un extra: es la diferencia real frente a un conversor online cualquiera. Cierras la pestaña y no queda rastro.\n\n## Cuando hay más trabajo\n\n¿Cuatro escaneos sueltos que deben ser un solo documento? Únelos en [FileTools](https://filetools.eu), ordena las páginas y comprime el resultado para que pase el límite del correo. Tres pasos, una pestaña, sin registro.\n\nLa próxima vez que el escáner te devuelva un lío, no empieces de cero. Arrastra unas cuantas miniaturas y listo.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "orden de páginas",
+    "documentos",
+    "herramientas navegador",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-24T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "Páginas impresas de un documento extendidas sobre un escritorio",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-split-pdf",
+    "filetools-merge-pdf",
+    "filetools-annotate-pdf"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-recipe-cooking-videos-cs",
+  "lang": "cs",
+  "title": "Kuchařská videa mluví všemi jazyky. Tvoje zatím ne",
+  "description": "Recepty jsou nejuniverzálnější obsah na YouTube, přesto většina kuchařských kanálů končí u jednoho trhu. Jak to změnit AI dabingem za odpoledne.",
+  "excerpt": "Jídlo nepotřebuje překlad. Tvůj komentář ano. A právě ten drží tvůj kanál v jedné zemi.",
+  "content": "Recepty jsou nejsledovanější kategorie na YouTube hned po hudbě. Důvod je prostý: jíst musí všichni a záběr na rozpálenou pánev funguje v Praze stejně jako v Limě. Přesto většina českých kuchařských kanálů nikdy nepřekročí hranice — ne kvůli jídlu, ale kvůli komentáři.\n\n## Titulky u vaření nefungují\n\nDivák u receptu nesedí a nekouká. Má ruce v těstě, u sporáku se něco pálí a na telefon se dívá jen koutkem oka. Pokud musí číst titulky, video vypne a jde na jiné. Proto mají u kuchařských videí namluvené verze výrazně lepší udržení diváka než ty s titulky — mluvené slovo prostě posloucháš, i když se díváš jinam.\n\n## Jedno natáčení, sedm trhů\n\nAI dabing dnes zvládne přenést tvůj hlas, tempo i intonaci do jiného jazyka. [TubeVoice](https://tubevoice.io) nadabuje hotové video do 50+ jazyků, takže z jednoho odpoledne v kuchyni máš verzi pro Německo, Španělsko i Polsko. Nemusíš znovu vařit, nastavovat světla ani hledat dabéra.\n\nPraktický tip: začni videi, která už ti fungují doma. Podívej se v YouTube Studiu na tři nejsledovanější recepty za poslední rok a nadabuj právě ty. Máš ověřený obsah, jen ho pouštíš do většího rybníku.\n\n## Kde jsou peníze\n\nCPM u food obsahu je v Německu nebo USA několikanásobně vyšší než v Česku. Nadabované video tak často vydělá víc než dvě nová česká videa dohromady — a přitom už je natočené. K tomu se přidá dosah: recept na svíčkovou je pro anglicky mluvící publikum exotika, ne samozřejmost.\n\nVyber jeden hit z archivu, nadabuj ho do angličtiny a němčiny a dej tomu měsíc. Analytika ti řekne zbytek.",
+  "category": "ai",
+  "tags": [
+    "kuchařské video",
+    "AI dabing",
+    "YouTube",
+    "recepty",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-08-24T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=800&q=80",
+  "imageAlt": "Ruce krájí zeleninu na prkénku, nad tím kamera na stativu",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "Kupsledujici",
+      "url": "https://kupsledujici.cz"
+    }
+  ],
+  "related": [
+    "tubevoice-content-repurpose",
+    "tubevoice-grow-multilingual",
+    "tubevoice-tutorial-channels"
+  ]
+}

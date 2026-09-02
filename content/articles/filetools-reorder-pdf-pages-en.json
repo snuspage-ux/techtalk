@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-reorder-pdf-pages-en",
+  "lang": "en",
+  "title": "PDF Pages in the Wrong Order? Fix It in Thirty Seconds",
+  "description": "Scanned contracts come back upside down and out of order. Here's how to rotate, reorder and delete PDF pages right in your browser — no install, no upload.",
+  "excerpt": "The scanner shuffled the order and flipped half the pages. You don't need to rescan — just rearrange.",
+  "content": "You scan a twenty-page contract, open the PDF, and half the pages are upside down, two are duplicated, and the appendix somehow ended up first. Sending that to the other side isn't an option.\n\n## Rescanning is the wrong fix\n\nRotating and reordering pages doesn't touch the content — it only changes sequence and orientation. [FileTools](https://filetools.eu) lays your PDF out as page thumbnails you drag into place. Rotating 90 degrees is one click. Deleting a blank page is one click.\n\nDo it in this order: delete blanks and duplicates first, then rotate the sideways pages, then fix the sequence. Go the other way around and you'll spend time arranging pages you're about to throw out.\n\n## The file never leaves your machine\n\nEverything runs in the browser through WebAssembly, so nothing gets uploaded. For contracts, invoices or medical records that isn't a nice-to-have — it's the whole difference between this and the average online converter. Close the tab and nothing is left behind.\n\n## When there's more to do\n\nGot four separate scans that need to be one document? Merge them on [FileTools](https://filetools.eu), fix the page order, then compress the result so it clears an email attachment limit. Three steps, one tab, no account.\n\nNext time the scanner hands you a jumbled file, don't start over. Drag a few thumbnails and you're done.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "page order",
+    "documents",
+    "browser tools",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-24T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "Printed document pages spread out across a desk",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-split-pdf",
+    "filetools-merge-pdf",
+    "filetools-annotate-pdf"
+  ]
+}

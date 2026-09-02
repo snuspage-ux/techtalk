@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-reorder-pdf-pages-pl",
+  "lang": "pl",
+  "title": "Strony w PDF pomieszane? Poprawisz to w pół minuty",
+  "description": "Skany wracają do góry nogami i w złej kolejności. Jak obrócić, przestawić i usunąć strony PDF prosto w przeglądarce — bez instalacji i bez wysyłania pliku.",
+  "excerpt": "Skaner pomieszał kolejność i obrócił połowę stron. Nie musisz skanować od nowa — wystarczy poukładać.",
+  "content": "Skanujesz dwudziestostronicową umowę, otwierasz PDF i połowa stron jest do góry nogami, dwie się dublują, a załącznik wylądował na początku. Tak tego drugiej stronie nie wyślesz.\n\n## Skanowanie od nowa to zła droga\n\nObracanie i przestawianie nie rusza treści — zmienia tylko kolejność i orientację. [FileTools](https://filetools.eu) rozkłada PDF na miniatury stron, które przeciągasz myszą we właściwe miejsce. Obrót o 90 stopni to jedno kliknięcie. Usunięcie pustej strony też.\n\nSensowna kolejność: najpierw skasuj puste i zdublowane strony, potem obróć te leżące poziomo, a dopiero na końcu ustaw kolejność. Odwrotnie stracisz czas na układanie stron, które i tak wylecą.\n\n## Plik nie opuszcza twojego komputera\n\nWszystko liczy się w przeglądarce przez WebAssembly, nic nie trafia na serwer. Przy umowach, fakturach czy dokumentacji medycznej to nie jest dodatek, tylko cała różnica wobec zwykłego konwertera online. Zamykasz kartę i nie zostaje ślad.\n\n## Gdy roboty jest więcej\n\nCztery osobne skany, z których ma powstać jeden dokument? Połącz je na [FileTools](https://filetools.eu), ustaw kolejność stron, a na koniec skompresuj plik, żeby zmieścił się w załączniku. Trzy kroki, jedna karta, żadnej rejestracji.\n\nNastępnym razem, gdy skaner odda ci bałagan, nie zaczynaj od zera. Przeciągnij kilka miniatur.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "kolejność stron",
+    "dokumenty",
+    "narzędzia w przeglądarce",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-24T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "Wydrukowane strony dokumentu rozłożone na biurku",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-split-pdf",
+    "filetools-merge-pdf",
+    "filetools-annotate-pdf"
+  ]
+}

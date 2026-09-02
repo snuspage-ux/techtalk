@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-reorder-pdf-pages-fr",
+  "lang": "fr",
+  "title": "Pages de PDF dans le désordre ? Trente secondes suffisent",
+  "description": "Les scans reviennent à l'envers et dans le désordre. Comment pivoter, réorganiser et supprimer des pages PDF dans le navigateur, sans rien envoyer.",
+  "excerpt": "Le scanner a mélangé l'ordre et retourné la moitié des pages. Inutile de tout rescanner : il suffit de réorganiser.",
+  "content": "Tu scannes un contrat de vingt pages, tu ouvres le PDF : la moitié est à l'envers, deux pages sont en double et l'annexe s'est retrouvée en tête. Impossible d'envoyer ça au client.\n\n## Rescanner n'est pas la solution\n\nPivoter et réordonner ne touche pas au contenu, seulement à l'ordre et à l'orientation. [FileTools](https://filetools.eu) affiche ton PDF sous forme de vignettes que tu déplaces à la souris. Une rotation de 90 degrés : un clic. Supprimer une page blanche : un clic.\n\nLe bon ordre des opérations : d'abord supprimer les pages blanches et les doublons, ensuite pivoter celles qui sont couchées, et seulement après régler la séquence. Dans l'autre sens, tu réorganises des pages que tu vas jeter.\n\n## Le fichier ne quitte pas ton ordinateur\n\nTout tourne dans le navigateur via WebAssembly, rien n'est envoyé sur un serveur. Pour des contrats, des factures ou des documents médicaux, ce n'est pas un détail : c'est toute la différence avec un convertisseur en ligne classique. Tu fermes l'onglet, il ne reste rien.\n\n## Quand il y a plus à faire\n\nQuatre scans séparés à réunir en un seul document ? Fusionne-les sur [FileTools](https://filetools.eu), remets les pages dans l'ordre, puis compresse le résultat pour passer la limite de pièce jointe. Trois étapes, un onglet, aucun compte.\n\nLa prochaine fois que le scanner te rend un fichier en vrac, ne recommence pas tout. Déplace quelques vignettes.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "ordre des pages",
+    "documents",
+    "outils navigateur",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-24T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "Pages imprimées d'un document étalées sur un bureau",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-split-pdf",
+    "filetools-merge-pdf",
+    "filetools-annotate-pdf"
+  ]
+}

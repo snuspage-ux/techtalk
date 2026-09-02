@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-reorder-pdf-pages-zh",
+  "lang": "zh",
+  "title": "PDF 页码乱了？三十秒就能理顺",
+  "description": "扫描件回来常常倒着、顺序还错乱。教你直接在浏览器里旋转、重排和删除 PDF 页面，不用装软件，也不用上传文件。",
+  "excerpt": "扫描仪把顺序打乱、还倒转了一半页面。不用重扫，把它们重新排一遍就行。",
+  "content": "扫完一份二十页的合同，打开 PDF 一看：一半页面是倒的，有两页重复，附件不知怎么跑到了最前面。这样发给对方显然不行。\n\n## 重新扫描是最差的选择\n\n旋转和重排并不改动内容，只改变顺序和方向。[FileTools](https://filetools.eu) 会把 PDF 展开成页面缩略图，用鼠标拖到正确位置即可。旋转 90 度一次点击，删掉空白页也是一次点击。\n\n顺序建议这样走：先删空白页和重复页，再旋转横放的页面，最后调整排序。反过来做，你会花时间去排那些马上要删掉的页。\n\n## 文件不会离开你的电脑\n\n全部处理通过 WebAssembly 在浏览器内完成，不会上传到服务器。对合同、发票和体检报告来说，这不是锦上添花，而是它和普通在线转换工具的本质区别。关掉标签页，什么也不会留下。\n\n## 事情更多的时候\n\n四份分开的扫描件要合成一个文档？先在 [FileTools](https://filetools.eu) 合并，再排好页序，最后压缩一下，好让它通过邮件附件的大小限制。三步、一个标签页、不用注册。\n\n下次扫描仪还给你一堆乱序页面时，别推倒重来，拖几张缩略图就好。",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "页面顺序",
+    "文档处理",
+    "浏览器工具",
+    "FileTools"
+  ],
+  "publishedAt": "2026-08-24T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "imageAlt": "打印好的文档纸张摊开在办公桌上",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-split-pdf",
+    "filetools-merge-pdf",
+    "filetools-annotate-pdf"
+  ]
+}
