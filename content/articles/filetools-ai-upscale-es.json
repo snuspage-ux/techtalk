@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-ai-upscale-es",
+  "lang": "es",
+  "title": "Ampliar fotos con IA: de imagen pequeña a grande sin desenfoque",
+  "description": "Las fotos pequeñas eran inutilizables o caras de arreglar. El escalado con IA cambia eso. Gratis, en el navegador y sin registrarse.",
+  "excerpt": "¿Ampliar una foto pequeña sin que se vea borrosa? La IA lo hace hoy en el navegador. Gratis, sin instalación y sin subir tus archivos a servidores ajenos.",
+  "content": "Las fotos pequeñas están en todas partes. Capturas de pantalla de 2015. Fotos de producto tomadas con un móvil viejo. Recortes de una foto grupal. Intenta imprimir cualquiera de ellas más grande que un sello y podrás contar los píxeles uno a uno.\n\nAntes tenías dos opciones. Volver a tomar la foto, si era posible. O comprar un programa caro y aprender qué es la interpolación. Las dos duelen.\n\n**Qué hace realmente el escalado con IA**\n\nLa IA no se limita a estirar la imagen. La mira, calcula cómo deberían ser los detalles que faltan y los dibuja. Los bordes ganan nitidez. El texto se vuelve legible. Las caras dejan de parecer acuarelas.\n\nEso cambia lo que puedes hacer con archivos viejos. Imprimir como póster una foto de 2 MP de 2009. Convertir una miniatura diminuta en imagen principal. Enviar a un cliente una foto de producto en baja resolución sin disculparte.\n\n**Los límites, con honestidad**\n\nLa IA no es magia. Añade detalles que nunca estuvieron en el archivo. A veces se equivoca. Una cara borrosa sigue siendo una suposición, y texturas finas como el pelo o el pelaje pueden quedar con aspecto de pintura.\n\nRegla práctica: si el original tiene 300 píxeles de información real, la IA no inventa 30 millones. Lo que sí hace es que una imagen pequeña y útil se vea limpia y nítida al doble o al cuádruple de tamaño. Eso cubre la mayoría de las necesidades reales.\n\n**El flujo más rápido**\n\n[FileTools](https://filetools.eu) ha añadido un escalador de IA que funciona directamente en el navegador. Sin cuenta, sin instalación, sin esperar colas en un servidor.\n\nAbre el sitio. Suelta la imagen. Elige la escala. Descarga. Normalmente menos de un minuto. Tu foto nunca sale de tu equipo, algo que importa cuando amplías trabajo de clientes o fotos privadas.\n\nEl mismo sitio hace el resto. Primero amplías y luego [comprimes el resultado](https://filetools.eu) o le quitas el fondo para un recorte de producto limpio.\n\n**Dónde ahorra dinero de verdad**\n\nLas suscripciones a bancos de imágenes son caras. Las repeticiones de sesiones, más. La mayoría de los equipos pequeños tiene un cajón de fotos viejas «no están mal» pero demasiado pequeñas para usarlas. El escalado con IA convierte ese cajón en contenido útil, gratis.\n\nLos creadores de vídeo tienen el mismo problema con grabaciones antiguas, y [TubeVoice](https://tubevoice.io) resuelve la parte del idioma: un clip de baja calidad doblado a más de 50 idiomas, listo para republicar.\n\n**Conclusión**\n\nPrueba antes de comprar. La mayoría de los ampliadores de pago cobran una suscripción mensual por lo que FileTools hace gratis en una pestaña. Sube tu peor foto pequeña, ampíiala 4x y juzga tú mismo. Esa es la única reseña que importa.",
+  "category": "tools",
+  "tags": [
+    "ampliar imagen con IA",
+    "escalado de imágenes",
+    "mejora de fotos",
+    "herramientas online",
+    "FileTools"
+  ],
+  "readingTime": 4,
+  "imageAlt": "Comparación en pantalla de una imagen original y su versión ampliada con IA",
+  "backlinks": [
+    {
+      "text": "FileTools – Conversor de archivos en línea gratuito",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice – Doblaje de vídeo con IA",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-image-resize-es",
+    "filetools-compress-image-quality-es",
+    "filetools-background-removal-es"
+  ],
+  "publishedAt": "2026-09-03",
+  "image": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=800&q=80"
+}

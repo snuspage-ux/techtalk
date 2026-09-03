@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-ai-upscale-fr",
+  "lang": "fr",
+  "title": "Agrandir une photo avec l'IA : du petit au grand, sans flou",
+  "description": "Les petites photos étaient inutilisables ou chères à sauver. L'upscaling par IA change la donne. Gratuit, dans le navigateur, sans compte.",
+  "excerpt": "Agrandir une petite photo sans qu'elle devienne floue ? L'IA sait le faire dans le navigateur. Gratuit, sans installation, sans envoyer vos fichiers sur un serveur.",
+  "content": "Les petites photos sont partout. Des captures d'écran de 2015. Des photos produit prises avec un vieux téléphone. Des recadrages d'une photo de groupe. Essayez d'en imprimer une plus grande qu'un timbre, et vous compterez les pixels un par un.\n\nAvant, deux options. Reprendre la photo, quand c'était possible. Ou acheter un logiciel coûteux et apprendre ce qu'est l'interpolation. Les deux font mal.\n\n**Ce que fait vraiment l'upscaling par IA**\n\nL'IA ne se contente pas d'étirer l'image. Elle la regarde, devine à quoi devraient ressembler les détails manquants, et les dessine. Les contours deviennent nets. Le texte devient lisible. Les visages arrêtent de ressembler à des aquarelles.\n\nÇa change ce que vous pouvez faire de vos vieux fichiers. Imprimer une photo de 2 MP datant de 2009 en poster. Transformer une vignette minuscule en image principale. Envoyer une photo produit en basse résolution à un client sans vous excuser.\n\n**Les limites, honnêtement**\n\nL'IA n'est pas magique. Elle ajoute des détails qui n'ont jamais existé dans le fichier. Parfois, elle se trompe. Un visage flou reste une supposition, et les textures fines comme les cheveux ou la fourrure peuvent sembler peintes.\n\nRègle de base : si l'original contient 300 pixels d'information réelle, l'IA n'en invente pas 30 millions. Ce qu'elle sait faire, c'est rendre une petite image propre et nette en double ou quadruple taille. Ça couvre l'essentiel des besoins réels.\n\n**Le workflow le plus rapide**\n\n[FileTools](https://filetools.eu) a ajouté un upscaler IA qui tourne directement dans le navigateur. Pas de compte, pas d'installation, pas de file d'attente sur un serveur.\n\nOuvrez le site. Déposez l'image. Choisissez l'échelle. Téléchargez. En général, moins d'une minute. Votre photo ne quitte jamais votre machine, ce qui compte quand vous agrandissez des fichiers clients ou des photos privées.\n\nLe même site fait le reste du travail. Agrandissez d'abord, puis [compressez le résultat](https://filetools.eu) ou supprimez l'arrière-plan pour un découpage produit propre.\n\n**Où ça fait vraiment économiser**\n\nLes abonnements aux banques d'images coûtent cher. Les reprises coûtent encore plus. La plupart des petites équipes ont un tas de vieilles photos « pas mal » mais trop petites pour servir. L'upscaling IA transforme ce tas en contenu utilisable, gratuitement.\n\nLes vidéastes ont le même problème avec leurs vieilles images, et [TubeVoice](https://tubevoice.io) règle le côté langue : un clip basse résolution doublé dans plus de 50 langues, prêt à republier.\n\n**En résumé**\n\nTestez avant d'acheter. La plupart des upscalers payants facturent un abonnement mensuel pour ce que FileTools fait gratuitement dans un onglet. Uploadez votre pire petite photo, agrandissez-la 4x, et jugez vous-même. C'est le seul avis qui compte.",
+  "category": "tools",
+  "tags": [
+    "upscaling IA",
+    "agrandir une image",
+    "amélioration photo",
+    "outils en ligne",
+    "FileTools"
+  ],
+  "readingTime": 4,
+  "imageAlt": "Comparaison à l'écran d'une image originale et de sa version agrandie par IA",
+  "backlinks": [
+    {
+      "text": "FileTools – Convertisseur de fichiers en ligne gratuit",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice – Doublage vidéo par IA",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-image-resize-fr",
+    "filetools-compress-image-quality-fr",
+    "filetools-background-removal-fr"
+  ],
+  "publishedAt": "2026-09-03",
+  "image": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=800&q=80"
+}

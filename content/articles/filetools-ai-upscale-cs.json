@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-ai-upscale-cs",
+  "lang": "cs",
+  "title": "AI zvětšení fotek: z malého obrázku ostrý velký bez rozmazání",
+  "description": "Malé fotky bývaly k ničemu nebo drahé na záchranu. AI zvětšení to mění. Zdarma, v prohlížeči, bez registrace.",
+  "excerpt": "Chcete zvětšit malou fotku, aby nebyla rozmazaná? AI to dnes zvládne v prohlížeči. Bez instalace, bez nahrávání na cizí server.",
+  "content": "Malých fotek je všude plno. Screenshoty z roku 2015. Produktovky ze starého mobilu. Výřez z fotek z celé rodiny. Zkuste některou vytisknout větší než poštovní známku a máte z ní bludiště z pixelů.\n\nDřív jste měli dvě možnosti. Nafotit to znovu, když to šlo. Nebo si koupit drahý program a naučit se, co je interpolace. Obě možnosti stály za to.\n\n**Co AI zvětšení vlastně dělá**\n\nAI obrázek jen tak nenatáhne. Podívá se na něj, odhadne, jak mají vypadat chybějící detaily, a dokreslí je. Hrany jsou ostřejší. Text jde přečíst. Obličeje přestanou vypadat jako akvarel.\n\nTím se mění, co se starými soubory dokážete. Vytisknete si dvoumegapixelovou fotku z roku 2009 jako plakát. Z maličkého náhledu uděláte hlavní obrázek. Produktovku v nízkém rozlišení pošlete klientovi bez omluv.\n\n**Poctivé limity**\n\nAI není kouzlo. Dokresluje detaily, které v souboru nikdy nebyly. Občas se sekne. Rozmazaný obličej zůstane odhadem a jemné textury, jako vlasy nebo srst, umí vypadat namalovaně.\n\nPravidlo: když má originál 300 pixelů skutečné informace, AI jich třicet milionů nevymyslí. Co zvládne, je udělat z malé použitelné fotky čistý a ostrý dvojnásobek nebo čtyřnásobek. To pokryje většinu reálných potřeb.\n\n**Nejrychlejší postup**\n\n[FileTools](https://filetools.eu) přidal AI upscaler, který běží přímo v prohlížeči. Bez účtu, bez instalace, bez čekání ve frontě na serveru.\n\nOtevřete web. Hodíte tam obrázek. Zvolíte měřítko. Stáhnete. Celé to obvykle trvá pod minutu. Fotka nikdy neopustí váš počítač, což se hodí, když zvětšujete práci pro klienty nebo soukromé fotky.\n\nNa stejném webu zvládnete i zbytek práce. Nejdřív zvětšit, pak [výsledek zkomprimovat](https://filetools.eu) nebo odstranit pozadí pro čistý produktový výřez.\n\n**Kde to šetří skutečné peníze**\n\nPředplatné stock fotografií je drahé. Přetáčení je horší. Většina malých týmů má šuplík starých fotek, které jsou „celkem dobré\", ale moc malé na použití. AI zvětšení ten šuplík zadarmo promění v použitelný obsah.\n\nVideo tvůrci mají stejný problém se starými záběry a [TubeVoice](https://tubevoice.io) řeší jazykovou část: nekvalitní klip nadabovaný do 50+ jazyků je připravený k opětovnému publikování.\n\n**Verdikt**\n\nZkuste to, než něco koupíte. Většina placených upscalerů chce měsíční předplatné za to, co FileTools udělá zadarmo v záložce prohlížeče. Nahrajte svou nejhorší malou fotku, zvětšete ji 4x a výsledek si ohodnoťte sami. To je jediná recenze, na které záleží.",
+  "category": "tools",
+  "tags": [
+    "AI zvětšení",
+    "zvětšení fotek",
+    "vylepšení fotografií",
+    "online nástroje",
+    "FileTools"
+  ],
+  "readingTime": 4,
+  "imageAlt": "Srovnání původního a AI zvětšeného obrázku na obrazovce",
+  "backlinks": [
+    {
+      "text": "FileTools – bezplatný online konvertor souborů",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice – AI dabing videí",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-image-resize-cs",
+    "filetools-compress-image-quality-cs",
+    "filetools-background-removal-cs"
+  ],
+  "publishedAt": "2026-09-03",
+  "image": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=800&q=80"
+}

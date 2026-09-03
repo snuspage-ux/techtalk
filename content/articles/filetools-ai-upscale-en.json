@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-ai-upscale-en",
+  "lang": "en",
+  "title": "AI Image Upscaling: Make Small Photos Big Without the Blur",
+  "description": "Small photos used to be useless or expensive to fix. AI upscaling changes that. Free, in your browser, no signup.",
+  "excerpt": "Want to enlarge a small photo without it turning blurry? AI upscaling does it in the browser today. No install, no upload to someone else's server.",
+  "content": "Small photos are everywhere. Screenshots from 2015. Product shots taken on an old phone. Cropped details from a group picture. Try to print any of them bigger than a postage stamp and you get pixels you could count.\n\nYou used to have two options. Re-shoot the photo, if that was even possible. Or buy an expensive desktop tool and learn how interpolation works. Both are a pain.\n\n**What AI upscaling actually does**\n\nAI upscalers do not just stretch the image. They look at the picture, guess what the missing detail should look like, and draw it in. Edges get sharper. Text becomes readable. Faces stop looking like watercolor paintings.\n\nThat changes what you can do with old files. Print that 2 MP photo from 2009 as a poster. Use a tiny thumbnail as a hero image. Send a low-res product shot to a client without apologizing for the quality.\n\n**The honest limits**\n\nAI is not magic. It adds detail that was never in the file. Sometimes it gets it wrong. A blurry face stays a guess, and fine textures like hair or fur can end up looking painted.\n\nRule of thumb: if the original holds 300 pixels of real information, the AI cannot invent 30 million. What it can do is make a small, usable image look clean and sharp at double or quadruple size. That covers most real needs.\n\n**The fastest workflow**\n\n[FileTools](https://filetools.eu) added an AI upscaler that runs right in your browser. No account, no install, no waiting in a server queue.\n\nOpen the site. Drop the image. Pick the scale. Download. Total time is usually under a minute. Your photo never leaves your machine, which matters when you are upscaling client work or private photos.\n\nThe same site handles the rest of the job. Upscale first, then [compress the result](https://filetools.eu) or remove the background for a clean product cutout.\n\n**Where this saves real money**\n\nStock photo subscriptions are expensive. Retakes are worse. Most small teams have a drawer full of old photos that are \"good enough\" but too small to use anywhere. AI upscaling turns that drawer into usable assets for free.\n\nVideo creators have the same problem with old footage, and [TubeVoice](https://tubevoice.io) solves the language side of it: a low-res clip dubbed into 50+ languages, ready to republish.\n\n**The bottom line**\n\nTry before you buy. Most paid upscalers charge a monthly fee for what FileTools does in a browser tab for free. Upload your worst small photo, upscale it 4x, and judge the result yourself. That is the only review that matters.",
+  "category": "tools",
+  "tags": [
+    "AI upscaling",
+    "image enlargement",
+    "photo enhancement",
+    "online tools",
+    "FileTools"
+  ],
+  "readingTime": 4,
+  "imageAlt": "Comparison of original and AI-upscaled images on a screen",
+  "backlinks": [
+    {
+      "text": "FileTools - Free Online File Converter",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice - AI Video Dubbing",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-image-resize-en",
+    "filetools-compress-image-quality-en",
+    "filetools-background-removal-en"
+  ],
+  "publishedAt": "2026-09-03",
+  "image": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=800&q=80"
+}
