@@ -1,0 +1,35 @@
+{
+  "slug": "roomflip-dining-room-fr",
+  "lang": "fr",
+  "title": "La salle à manger où les gens restent vraiment assis",
+  "description": "La table finit souvent en surface de dépôt. Trois corrections — hauteur du luminaire, recul derrière la chaise et une surface souple — en font une pièce où l'on s'attarde.",
+  "excerpt": "Une table, quatre chaises, et personne ne tient plus de vingt minutes. En général c'est la hauteur de la lampe et la distance au mur.",
+  "content": "Presque tous les appartements ont une table. Très peu ont une salle à manger où l'on a envie de rester. La différence ne tient presque jamais au prix des meubles, mais à trois détails réparables en un après-midi.\n\n## Le luminaire est trop haut\n\nL'erreur la plus fréquente : la suspension reste à la hauteur de la sortie de plafond, soit environ deux mètres du sol. La lumière se répand dans toute la pièce et la table cesse d'être un point de rassemblement.\n\nLa bonne hauteur, c'est **55 à 70 cm au-dessus du plateau**. Oui, l'ampoule arrive presque à hauteur des yeux — c'est justement l'objectif. Ça crée un îlot lumineux qui retient les gens. Température autour de 2700 K, pas 4000 K. La lumière froide, c'est pour la buanderie, pas pour le dîner.\n\n## 90 cm derrière la chaise\n\nDeuxième chose que personne ne mesure : l'espace entre le bord de la table et le mur ou le meuble le plus proche. Il faut **75 cm minimum, 90 cm idéalement**, pour reculer sa chaise et se lever sans se faufiler.\n\nSi les chiffres ne passent pas, la solution n'est pas une table plus petite mais une autre forme. Une table ronde de 110 cm installe quatre personnes là où un rectangle 140×80 ne fonctionne pas.\n\n## Ajoute une surface souple\n\nLes salles à manger sonnent vide parce que tout y est dur : carrelage, verre, bois. La réverbération fatigue avant qu'on comprenne pourquoi. Un tapis sous la table (60 cm plus large que le plateau de chaque côté), des rideaux en tissu, ou une banquette rembourrée à la place de deux chaises. Un seul des trois suffit pour rendre la conversation nettement plus agréable.\n\n## Teste-le d'abord en image\n\nDéplacer une table et recalculer les dégagements de tête est difficile. Charge une photo de la pièce sur [RoomFlip](https://roomflip.io) et génère des variantes : table ronde, banquette contre le mur, suspension abaissée. En une minute tu vois s'il te reste un passage.\n\nAu moment de rassembler les devis, [FileTools](https://filetools.eu) est pratique : fusionne devis et fiches techniques en un seul PDF et garde tout le projet dans un fichier.\n\n## En résumé\n\nDescendre la lampe, garder 90 cm derrière la chaise, ajouter une surface souple. Trois gestes, aucune rénovation — et les gens restent à table après le repas.",
+  "category": "creative",
+  "tags": [
+    "salle à manger",
+    "éclairage",
+    "aménagement",
+    "intérieur",
+    "RoomFlip"
+  ],
+  "publishedAt": "2026-08-25T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1617806118233-18e1de247200?w=800&q=80",
+  "imageAlt": "Table de salle à manger avec suspension au-dessus",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "roomflip-living-room-redesign",
+    "roomflip-lighting-design",
+    "roomflip-small-spaces"
+  ]
+}
