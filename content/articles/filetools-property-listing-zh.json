@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-property-listing-zh",
+  "lang": "zh",
+  "title": "房源照片太差，看房预约全泡汤",
+  "description": "买家几秒钟就划走。在浏览器里修好、缩小、加水印——再让AI展示这些房间能变成什么样。",
+  "excerpt": "第一张照片定生死。模糊的文件、传不上去的HEIC，都是无人问津的开端。",
+  "content": "买家几秒钟就能决定要不要这套房。照片太差，页面直接被划走，根本没人读描述。而且大部分房源照片的问题不在房间本身——在文件。\n\n## 问题出在文件上\n\n手机拍出来是HEIC，房产网站要JPG。照片8 MB，网站限制4 MB。这些跟房间好不好看一点关系都没有。[FileTools](https://filetools.eu)能在浏览器里直接转格式、缩到网站要求的尺寸、再压缩——不用注册，不用装软件。\n\n顺序别搞错：先转格式，再改尺寸，最后压缩。先转HEIC，因为直接缩放HEIC容易出问题。压缩放最后，因为改尺寸已经让文件变小了，再压一次会毁掉画质。\n\n## 一张照片，三种用途\n\n广角大图发网站。压缩版发到认真买家的WhatsApp群。带水印的版本防止别的中介把你的图搬去自己的房源。[FileTools](https://filetools.eu)一个标签页全搞定。\n\n## 卖的是潜力，不是现状\n\n空房间和老旧厨房只会招来砍价。把照片丢进[RoomFlip](https://roomflip.io)，让AI重新设计——现代沙发、新地板、更好的光线。几秒钟出效果图。把效果图和原图放一起，买家就不用猜这房间能变成什么样了。这就是\"约看房\"和\"直接划走\"的区别。\n\n## 批量处理，别一张张来\n\n二十张图一张张弄，一下午就没了。整个文件夹传上去，一次转换、一次缩放。文件不会离开你的电脑——别人未来家的照片，不该躺在陌生服务器上。\n\n别让烂文件毁掉看房预约。转格式、改尺寸、重新设计、上架。",
+  "category": "tools",
+  "tags": [
+    "房产",
+    "房源照片",
+    "HEIC",
+    "图片处理",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-04T13:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
+  "imageAlt": "带整洁花园的现代住宅外观，房源照片",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-heic-to-jpg",
+    "filetools-image-resize",
+    "filetools-watermark-images"
+  ]
+}

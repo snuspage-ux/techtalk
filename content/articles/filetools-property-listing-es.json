@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-property-listing-es",
+  "lang": "es",
+  "title": "Las malas fotos del anuncio te cuestan visitas",
+  "description": "Los compradores deciden en dos segundos. Corrige, redimensiona y protege las fotos de tu propiedad en el navegador — y deja que la IA enseñe lo que las habitaciones podrían llegar a ser.",
+  "excerpt": "Decide la primera foto. Archivos borrosos y HEIC subido al portal = anuncio que nadie abre.",
+  "content": "Los compradores deciden sobre un anuncio en segundos. Las fotos malas cierran la pestaña antes de que alguien lea la descripción. Y la mayoría de las fotos de propiedades no son malas por la habitación — son malas por el archivo.\n\n## El archivo es el problema\n\nTu móvil dispara en HEIC. El portal quiere JPG. La foto pesa 8 MB y el portal corta en 4. Nada de eso tiene que ver con cómo se ve la habitación. [FileTools](https://filetools.eu) convierte HEIC a JPG, redimensiona las fotos a los límites del portal y comprime el resultado — en el navegador, sin cuenta, sin instalar nada.\n\nRespeta el orden: convertir, redimensionar, comprimir. Primero convierte, porque redimensionar un HEIC invita a líos. Comprime al final, porque redimensionar ya aligeró el archivo y un segundo apretón destroza la calidad.\n\n## Una foto, tres trabajos\n\nEl plano general va al portal. Una copia comprimida va al grupo de WhatsApp con los compradores serios. Una versión con marca de agua evita que otros agentes reutilicen tus fotos en sus anuncios. [FileTools](https://filetools.eu) hace los tres en la misma pestaña.\n\n## Vende el potencial, no los problemas\n\nLas habitaciones vacías y las cocinas anticuadas atraen ofertas bajas. Pasa la foto por [RoomFlip](https://roomflip.io) y deja que la IA la rediseñe — sofá moderno, suelo nuevo, mejor luz. En segundos tienes un render realista. Ponlo junto al original y los compradores dejan de adivinar en qué podría convertirse la habitación. Esa es la diferencia entre una visita y un deslizamiento.\n\n## El lote, de una vez\n\nVeinte fotos una a una te queman la tarde. Sube toda la carpeta, convierte y redimensiona todo a la vez. Los archivos nunca salen de tu equipo — las fotos del futuro hogar de alguien no deberían acabar en un servidor cualquiera.\n\nDeja de perder visitas por archivos rotos. Convierte, redimensiona, rediseña, publica.",
+  "category": "tools",
+  "tags": [
+    "inmobiliaria",
+    "fotos de anuncios",
+    "HEIC",
+    "edición de fotos",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-04T13:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
+  "imageAlt": "Exterior de una casa moderna con jardín cuidado, foto de anuncio inmobiliario",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-heic-to-jpg",
+    "filetools-image-resize",
+    "filetools-watermark-images"
+  ]
+}

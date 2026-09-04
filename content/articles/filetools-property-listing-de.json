@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-property-listing-de",
+  "lang": "de",
+  "title": "Schlechte Immobilienfotos kosten dich Besichtigungen",
+  "description": "Interessenten entscheiden in Sekunden. Korrigiere, verkleinere und schütze deine Inseratsfotos direkt im Browser — und lass KI zeigen, was aus den Räumen werden könnte.",
+  "excerpt": "Das erste Foto entscheidet. Verpixelte Dateien und HEIC-Uploads killen Inserate lautlos.",
+  "content": "Käufer entscheiden in Sekunden über ein Inserat. Schlechte Fotos schließen den Tab, bevor jemand die Beschreibung liest. Und die meisten Immobilienfotos sind nicht wegen des Raums schlecht — sondern wegen der Datei.\n\n## Die Datei ist das Problem\n\nDein Handy fotografiert in HEIC. Das Portal will JPG. Das Foto hat 8 MB, das Portal kappt bei 4. Mit dem Aussehen des Raums hat das nichts zu tun. [FileTools](https://filetools.eu) wandelt HEIC in JPG um, skaliert Fotos auf die Portal-Limits und komprimiert das Ergebnis — direkt im Browser, ohne Konto, ohne Installation.\n\nHalte die Reihenfolge ein: konvertieren, skalieren, komprimieren. Erst konvertieren, denn das Skalieren von HEIC lädt zu Problemen ein. Komprimieren zuletzt, denn die Skalierung hat die Datei schon verkleinert — ein zweites Quetschen zerstört die Qualität.\n\n## Ein Foto, drei Aufgaben\n\nDie Weitwinkelaufnahme kommt ins Portal. Eine komprimierte Kopie geht an die WhatsApp-Gruppe mit ernsthaften Interessenten. Eine Version mit Wasserzeichen verhindert, dass andere Makler deine Bilder für ihre Inserate zweckentfremden. [FileTools](https://filetools.eu) erledigt alle drei in einem Tab.\n\n## Verkaufe das Potenzial, nicht die Probleme\n\nLeere Zimmer und veraltete Küchen locken niedrige Angebote an. Schiebe das Foto durch [RoomFlip](https://roomflip.io) und lass die KI es neu gestalten — modernes Sofa, neuer Boden, besseres Licht. In Sekunden hast du einen realistischen Render. Zeig ihn neben dem Original, dann hören Interessenten auf zu raten, was aus dem Raum werden könnte. Das ist der Unterschied zwischen Besichtigung und Weiterwischen.\n\n## Die Routinearbeit als Stapel\n\nZwanzig Fotos einzeln durchzuklicken verschwendet einen Nachmittag. Lade den ganzen Ordner hoch, konvertiere und skaliere alles auf einmal. Die Dateien verlassen nie deinen Rechner — Fotos vom künftigen Zuhause fremder Menschen haben auf einem x-beliebigen Server nichts verloren.\n\nHör auf, Besichtigungen an kaputte Dateien zu verlieren. Konvertieren, skalieren, umgestalten, inserieren.",
+  "category": "tools",
+  "tags": [
+    "Immobilien",
+    "Inseratsfotos",
+    "HEIC",
+    "Bildbearbeitung",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-04T13:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
+  "imageAlt": "Moderne Hausfassade mit gepflegtem Vorgarten, Immobilienfoto",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-heic-to-jpg",
+    "filetools-image-resize",
+    "filetools-watermark-images"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-property-listing-pl",
+  "lang": "pl",
+  "title": "Złe zdjęcia w ogłoszeniu kosztują cię oglądania",
+  "description": "Kupujący decydują w kilka sekund. Popraw, zmniejsz i oznacz wodą zdjęcia nieruchomości w przeglądarce — a potem pozwól AI pokazać, czym mogą stać się te pomieszczenia.",
+  "excerpt": "Liczy się pierwsze zdjęcie. Rozmazane pliki i HEIC wgrany na portal = ogłoszenie, którego nikt nie otwiera.",
+  "content": "Kupujący oceniają ogłoszenie w kilka sekund. Złe zdjęcia zamykają kartę, zanim ktokolwiek przeczyta opis. A większość zdjęć nieruchomości nie jest zła przez pokój — tylko przez plik.\n\n## Problem leży w pliku\n\nTelefon robi zdjęcia w HEIC. Portal chce JPG. Zdjęcie waży 8 MB, portal ucina przy 4. To nie ma nic wspólnego z tym, jak wygląda pokój. [FileTools](https://filetools.eu) zamienia HEIC na JPG, zmniejsza zdjęcia do limitów portalu i kompresuje wynik — prosto w przeglądarce, bez konta, bez instalacji.\n\nTrzymaj się kolejności: konwersja, zmniejszanie, kompresja. Najpierw konwertuj, bo zmniejszanie HEIC-a zaprasza do kłopotów. Kompresuj na końcu — zmniejszanie już odchudziło plik, a drugie ściskanie wykończy jakość.\n\n## Jedno zdjęcie, trzy zadania\n\nSzeroki kadr idzie na portal. Skompresowana kopia ląduje na WhatsAppie u poważnych kupców. Wersja ze znakiem wodnym powstrzymuje innych agentów przed podpinaniem twoich zdjęć do ich ofert. [FileTools](https://filetools.eu) załatwia wszystkie trzy w jednej karcie.\n\n## Sprzedawaj potencjał, nie problemy\n\nPuste pokoje i przestarzałe kuchnie ściągają niskie oferty. Przepuść zdjęcie przez [RoomFlip](https://roomflip.io) i pozwól AI je wystylizować — nowoczesna kanapa, nowa podłoga, lepsze światło. W kilka sekund masz realistyczny render. Pokaż go obok oryginału, a kupujący przestaną zgadywać, czym mógłby być ten pokój. To różnica między oglądaniem a przewinięciem.\n\n## Nudę odwal partiami\n\nDwadzieścia zdjęć pojedynczo to zaprzepaszczone popołudnie. Wgraj cały folder, skonwertuj i zmniejsz wszystko naraz. Pliki nigdy nie opuszczają twojego komputera — zdjęcia czyjegoś przyszłego domu nie mają prawa lądować na przypadkowym serwerze.\n\nPrzestań tracić oglądania przez zepsute pliki. Konwertuj, zmniejszaj, stylizuj, publikuj.",
+  "category": "tools",
+  "tags": [
+    "nieruchomości",
+    "zdjęcia ogłoszeń",
+    "HEIC",
+    "obróbka zdjęć",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-04T13:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
+  "imageAlt": "Elewacja nowoczesnego domu z zadbanym ogrodem, zdjęcie do ogłoszenia",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-heic-to-jpg",
+    "filetools-image-resize",
+    "filetools-watermark-images"
+  ]
+}

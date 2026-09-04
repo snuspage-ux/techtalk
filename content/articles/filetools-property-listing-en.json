@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-property-listing-en",
+  "lang": "en",
+  "title": "Bad Listing Photos Are Costing You Viewings",
+  "description": "Buyers scroll past bad photos in two seconds. Fix, resize and watermark your listing shots in a browser — then let AI show what the rooms could become.",
+  "excerpt": "The first photo decides. Blurry files and HEIC uploads are how listings die quietly.",
+  "content": "Buyers decide on a listing in seconds. Bad photos close the tab before anyone reads the description. And most real estate photos aren't bad because of the room — they're bad because of the file.\n\n## The file is the problem\n\nYour phone shoots HEIC. The portal wants JPG. The photo is 8 MB and the portal cuts it at 4. None of that has anything to do with how the room looks. [FileTools](https://filetools.eu) converts HEIC to JPG, resizes images to portal limits and compresses the result — right in the browser, no account, no install.\n\nDo it in this order: convert, resize, compress. Convert first, because resizing a HEIC invites weird results. Compress last, because resizing already shrank the file and a second squeeze kills quality.\n\n## One photo, three jobs\n\nThe wide shot goes on the portal. A compressed copy goes into the WhatsApp group with serious buyers. A watermarked version stops other agents from reusing your pictures on their listings. [FileTools](https://filetools.eu) does all three in one tab.\n\n## Sell the potential, not the problems\n\nEmpty rooms and dated kitchens invite lowball offers. Feed the photo into [RoomFlip](https://roomflip.io) and let the AI restyle it — modern sofa, new floor, better light. You get a realistic after-render in seconds. List it next to the original and buyers stop guessing what the room could become. That's the difference between a viewing and a skip.\n\n## Batch the boring part\n\nTwenty photos, one by one, wastes an afternoon. Upload the folder, convert and resize everything at once. Files never leave your machine — pictures of someone's future home don't belong on a random server.\n\nStop losing viewings to bad files. Convert, resize, restyle, list.",
+  "category": "tools",
+  "tags": [
+    "real estate",
+    "listing photos",
+    "HEIC",
+    "image workflow",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-04T13:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
+  "imageAlt": "Modern house exterior with a tidy front garden, real estate listing photo",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-heic-to-jpg",
+    "filetools-image-resize",
+    "filetools-watermark-images"
+  ]
+}

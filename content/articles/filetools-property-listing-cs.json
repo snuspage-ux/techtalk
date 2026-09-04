@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-property-listing-cs",
+  "lang": "cs",
+  "title": "Špatné fotky nemovitosti tě připravují o prohlídky",
+  "description": "Kupující se rozhodnou za pár sekund. Uprav, zmenši a označ fotky nemovitosti v prohlížeči — pak nech AI ukázat, čím by místnosti mohly být.",
+  "excerpt": "Rozhoduje první fotka. Rozmazané soubory a HEIC na portálu = inzerát, který nikdo neklikne.",
+  "content": "Kupující rozhodnou o nabídce během pár sekund. Špatné fotky zavřou záložku dřív, než kdokoli přečte popis. A většina fotek nemovitostí není špatná kvůli tomu, jak vypadá místnost — ale kvůli tomu, jak vypadá soubor.\n\n## Problém je soubor\n\nMobil fotí do HEIC. Portál chce JPG. Fotka má 8 MB a portál řeže na 4. S tím, jak místnost vypadá, to nemá nic společného. [FileTools](https://filetools.eu) převede HEIC na JPG, zmenší fotky na limity portálu a výsledek zkomprimuje — přímo v prohlížeči, bez účtu, bez instalace.\n\nDodrž pořadí: převeď, zmenši, zkomprimuj. Nejdřív převod, protože zmenšování HEIC si koleduje o problémy. Komprese až nakonec — zmenšování už soubor stáhlo a druhé mačkání kvalitu zbytečně zabije.\n\n## Jedna fotka, tři práce\n\nŠiroký záběr jde na portál. Zkomprimovaná kopie putuje do WhatsApp skupiny s vážnými zájemci. Verze s vodoznakem zabrání jiným makléřům, aby si tvoje fotky půjčovali do vlastních nabídek. [FileTools](https://filetools.eu) zvládne všechny tři v jednom okně.\n\n## Prodávej potenciál, ne problémy\n\nPrázdné pokoje a zastaralá kuchyně lákají na nízké nabídky. Hoď fotku do [RoomFlip](https://roomflip.io) a nech AI místnost přestylovat — moderní sedačka, nová podlaha, lepší světlo. Za pár sekund máš realistický render. Přidej ho k původní fotce a kupující přestanou hádat, čím by místnost mohla být. To je rozdíl mezi prohlídkou a přeskočením.\n\n## Dávku odbav najednou\n\nDvacet fotek po jedné je vyhozené odpoledne. Nahraj celou složku, převeď a zmenši všechno najednou. Soubory nikdy neopustí tvůj počítač — fotky budoucího domova někoho cizího nemají co dělat na náhodném serveru.\n\nPřestaň ztrácet prohlídky kvůli špatným souborům. Převeď, zmenši, přestyluj, inzeruj.",
+  "category": "tools",
+  "tags": [
+    "nemovitosti",
+    "fotky do inzerátu",
+    "HEIC",
+    "úprava fotek",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-04T13:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
+  "imageAlt": "Exteriér moderního domu s upravenou zahradou, fotka do realitní nabídky",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-heic-to-jpg",
+    "filetools-image-resize",
+    "filetools-watermark-images"
+  ]
+}
