@@ -1,0 +1,35 @@
+{
+  "slug": "gymhome-dumbbell-only-pl",
+  "lang": "pl",
+  "title": "Jedna para hantli wystarczy na cały trening",
+  "description": "Sześć ćwiczeń, jedna para hantli, 35 minut. Plan full body na dom albo prywatną siłownię plus sposoby na progres przy jednym ciężarze.",
+  "excerpt": "Nie potrzebujesz stojaka, wyciągu ani trzech sztang. Jedna para hantli obejmie całe ciało — jeśli wiesz, jak dokładać obciążenie bez dokładania kilogramów.",
+  "content": "Większość osób, które zaczynają ćwiczyć w domu, kupuje jedną parę hantli i po miesiącu stwierdza, że to za mało. Prawie nigdy problemem nie jest żelastwo.\n\n## Sześć ćwiczeń obejmuje wszystko\n\nPrzysiad z hantlami na barkach, martwy ciąg rumuński, wyciskanie nad głowę, wiosłowanie w opadzie, wykroki i pompki z dłońmi na hantlach. Trzy rundy, 8–12 powtórzeń, 60 sekund przerwy. To 35 minut i żaden mięsień nie zostaje bez pracy. Chcesz więcej? Dorzuć spacer farmera na 40 kroków.\n\n## Jak progresować przy jednym ciężarze\n\nProgresywne przeciążenie to nie tylko kilogramy. Spowolnij fazę opuszczania do trzech sekund. Dodaj sekundę pauzy na dole. Skróć przerwy z 90 do 45 sekund. Albo przejdź na warianty jednostronne — martwy ciąg rumuński na jednej nodze z jedną hantlą jest wyraźnie trudniejszy niż wersja obunóż z tym samym ciężarem. Dopiero gdy wyczerpiesz te opcje, naprawdę potrzebujesz cięższego sprzętu.\n\n## Kiedy hantle przestają wystarczać\n\nMniej więcej wtedy, gdy robisz 15 czystych przysiadów w najcięższym wariancie i następnego dnia nic nie czujesz. Nogi wyrastają z hantli pierwsze, góra wytrzymuje znacznie dłużej. Wtedy warto raz–dwa razy w tygodniu potrenować tam, gdzie są ciężkie sztangi i stojak.\n\nDokładnie po to są prywatne siłownie: [GymHome](https://gymhome.cz) rezerwujesz na 75 minut, przychodzisz sam albo we dwoje i korzystasz ze sprzętu, który w domu nigdy by się nie zmieścił. A jeśli urządzasz kącik treningowy, [RoomFlip](https://roomflip.io) na podstawie zdjęcia pokoju pokaże ci, co gdzie faktycznie się zmieści.",
+  "category": "tools",
+  "tags": [
+    "hantle",
+    "trening w domu",
+    "siła",
+    "full body",
+    "GymHome"
+  ],
+  "publishedAt": "2026-09-05T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800&q=80",
+  "imageAlt": "Para hantli leżąca na podłodze siłowni",
+  "backlinks": [
+    {
+      "text": "GymHome",
+      "url": "https://gymhome.cz"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "gymhome-small-space-setup",
+    "gymhome-strength-basics",
+    "gymhome-progressive-overload"
+  ]
+}

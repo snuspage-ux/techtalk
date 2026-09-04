@@ -1,0 +1,35 @@
+{
+  "slug": "gymhome-dumbbell-only-es",
+  "lang": "es",
+  "title": "Un solo par de mancuernas basta para todo el cuerpo",
+  "description": "Seis ejercicios, un par de mancuernas y 35 minutos. Plan full body para casa o gimnasio privado, más cómo progresar con un único peso.",
+  "excerpt": "No necesitas rack, poleas ni tres barras. Un par de mancuernas cubre todo el cuerpo — si sabes cómo añadir carga sin añadir kilos.",
+  "content": "Casi todo el que empieza a entrenar en casa compra un par de mancuernas y al mes decide que no le llegan. El problema casi nunca es el hierro.\n\n## Seis ejercicios lo cubren todo\n\nSentadilla con las mancuernas en los hombros, peso muerto rumano, press por encima de la cabeza, remo inclinado, zancadas y flexiones con las manos sobre las mancuernas. Tres rondas, 8–12 repeticiones, 60 segundos de descanso. Son 35 minutos y no queda músculo sin trabajo. ¿Quieres más? Añade un paseo del granjero de 40 pasos.\n\n## Cómo progresar con un solo peso\n\nLa sobrecarga progresiva no va solo de kilos. Frena la fase excéntrica hasta tres segundos. Añade una pausa de un segundo abajo. Recorta el descanso de 90 a 45 segundos. O pásate a versiones unilaterales: un peso muerto rumano a una pierna con una sola mancuerna es bastante más duro que la versión a dos piernas con el mismo peso. Solo cuando agotes todo esto necesitarás material más pesado.\n\n## Cuándo dejan de bastar\n\nMás o menos cuando haces 15 sentadillas limpias con tu variante más pesada y al día siguiente no sientes nada. Las piernas se quedan cortas primero; el tren superior aguanta mucho más. Ahí compensa entrenar una o dos veces por semana donde haya barras pesadas y un rack.\n\nPara eso están los gimnasios privados: [GymHome](https://gymhome.cz) se reserva en bloques de 75 minutos, vas solo o en pareja y usas equipo que en casa no cabría. Y si estás montando un rincón de entrenamiento, [RoomFlip](https://roomflip.io) te enseña, a partir de una foto de la habitación, dónde encaja cada cosa.",
+  "category": "tools",
+  "tags": [
+    "mancuernas",
+    "entrenar en casa",
+    "fuerza",
+    "full body",
+    "GymHome"
+  ],
+  "publishedAt": "2026-09-05T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800&q=80",
+  "imageAlt": "Un par de mancuernas apoyadas en el suelo de un gimnasio",
+  "backlinks": [
+    {
+      "text": "GymHome",
+      "url": "https://gymhome.cz"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "gymhome-small-space-setup",
+    "gymhome-strength-basics",
+    "gymhome-progressive-overload"
+  ]
+}
