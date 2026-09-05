@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-fitness-channels-fr",
+  "lang": "fr",
+  "title": "Chaîne fitness en 7 langues : doubler sans perdre le rythme",
+  "description": "Les vidéos d'entraînement sont idéales pour le doublage IA : peu de texte, beaucoup d'image. Comment traduire une chaîne fitness pour que comptes et consignes tombent sur le mouvement.",
+  "excerpt": "Une vidéo fitness, c'est 200 mots pour 20 minutes d'images. Le meilleur ratio de doublage sur YouTube — et la plupart des coachs ne l'exploitent jamais.",
+  "content": "Le fitness est l'un des rares genres où le spectateur regarde le corps, pas le visage. Un squat se ressemble à Prague comme à Madrid. La seule chose qui te sépare d'un public espagnol, allemand ou polonais, c'est la voix.\n\n## Pourquoi le fitness est fait pour le doublage\n\nUne séance moyenne dure 15 à 25 minutes et ne contient que quelques centaines de mots : consignes, comptes, corrections de posture. Pas de longs monologues, pas de jeux de mots qui meurent à la traduction. En parallèle, la recherche est ultra locale : « abdos à la maison » se cherche dans sa langue maternelle, et la concurrence en polonais ou en tchèque n'est qu'une fraction de celle en anglais.\n\n## Les pièges à éviter\n\nLe timing. « Trois, deux, un, on descend » doit tomber sur le mouvement à la milliseconde, sinon le spectateur le sent immédiatement. Avant de doubler, relis donc la transcription et raccourcis les phrases dont la traduction s'allonge — le français est environ 15 à 20 % plus long que l'anglais. Deuxième point : les noms d'exercices. Garde « Romanian deadlift » en anglais si c'est l'usage sur le marché cible, et ne le traduis pas mot à mot. Et laisse la respiration entre les répétitions sur la piste d'origine : elle sonne juste dans toutes les langues.\n\n## Comment lancer ça en une semaine\n\nPrends tes 10 vidéos les plus vues. Envoie-les sur [TubeVoice](https://tubevoice.io), qui clone ta voix et génère les pistes dans les nouvelles langues, synchro labiale comprise. Vérifie les comptes et les consignes, ajuste quelques phrases et publie-les comme pistes audio multilingues directement sur YouTube : une vidéo, sept publics, une seule page de stats.\n\nEt si tu filmes chez toi sans le bon matériel pour les plans, réserve une salle privée via [GymHome](https://gymhome.cz) pour 75 minutes : fond propre, haltères de qualité et personne pour entrer dans le cadre.",
+  "category": "tools",
+  "tags": [
+    "chaîne fitness",
+    "doublage IA",
+    "YouTube",
+    "contenu multilingue",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-09-06T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=80",
+  "imageAlt": "Un coach filme une séance avec haltères devant la caméra",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "GymHome",
+      "url": "https://gymhome.cz"
+    }
+  ],
+  "related": [
+    "tubevoice-tutorial-channels",
+    "tubevoice-shorts-dubbing",
+    "tubevoice-grow-multilingual"
+  ]
+}

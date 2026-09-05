@@ -1,0 +1,35 @@
+{
+  "slug": "roomflip-reading-nook-fr",
+  "lang": "fr",
+  "title": "Un coin lecture en 2 m² : à planifier en un après-midi",
+  "description": "Pas besoin de bibliothèque ni de pièce en plus. Un coin près de la fenêtre, la bonne lampe et un fauteuil suffisent. Guide pratique pour un coin lecture en petit appartement, budget compris.",
+  "excerpt": "Le coin qui accueille aujourd'hui l'étendoir peut devenir le meilleur endroit de l'appart d'ici dimanche. Il faut trois choses, et savoir où les mettre.",
+  "content": "Presque chaque appartement a un angle mort. À côté de la fenêtre, entre l'armoire et le mur, au bout du couloir. C'est exactement là qu'un coin lecture a sa place — et contrairement à une rénovation de cuisine, tu le fais en un après-midi pour moins de 200 €.\n\n## Les trois éléments indispensables\n\nUne assise, une lumière et une surface. Rien de plus. Choisis le fauteuil selon la profondeur d'assise (55–60 cm idéalement) pour pouvoir vraiment t'y enfoncer. Pour la lumière, un lampadaire en blanc chaud (2700 K) avec un abat-jour dirigé vers le livre, pas vers tes yeux. La surface peut être un simple bloc de bois ou une mini table d'appoint : elle n'a qu'à accueillir une tasse et un livre.\n\n## Où l'installer\n\nPrès de la fenêtre, mais de côté, pas en face. La lumière du jour tombe alors par-dessus ton épaule sur la page au lieu de te mettre en contre-jour. Pas de fenêtre ? Prends l'angle où personne ne passe — un endroit où l'on peut « se cacher » se lit tout autrement qu'un endroit au milieu du passage. Un tapis sous le fauteuil sépare visuellement le coin du reste de la pièce et adoucit le son en prime.\n\n## Le voir avant d'acheter\n\nL'erreur classique : acheter le fauteuil et découvrir qu'il est tourné vers le mur et que la lampe n'a nulle part où aller. Avant de commander quoi que ce soit, photographie l'angle avec ton téléphone et envoie l'image sur [RoomFlip](https://roomflip.io) — l'IA te montre en quelques secondes le coin avec tel fauteuil, tel tapis et tel éclairage. Tu testes trois versions, tu en gardes une, et ensuite seulement tu dépenses.\n\nEt si le plan révèle qu'il reste même de la place pour deux haltères, jette un œil à [GymHome](https://gymhome.cz) : parfois, mieux vaut s'entraîner ailleurs et garder le calme de la maison pour lire.",
+  "category": "tools",
+  "tags": [
+    "coin lecture",
+    "petit appartement",
+    "déco intérieure",
+    "éclairage",
+    "RoomFlip"
+  ],
+  "publishedAt": "2026-09-06T05:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=800&q=80",
+  "imageAlt": "Fauteuil avec un plaid et une lampe dans un coin près de la fenêtre",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "GymHome",
+      "url": "https://gymhome.cz"
+    }
+  ],
+  "related": [
+    "roomflip-small-spaces",
+    "roomflip-lighting-design",
+    "roomflip-renter-friendly"
+  ]
+}

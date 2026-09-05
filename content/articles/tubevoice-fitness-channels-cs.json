@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-fitness-channels-cs",
+  "lang": "cs",
+  "title": "Fitness kanál v 7 jazycích: jak dabovat tréninky bez ztráty tempa",
+  "description": "Tréninková videa jsou ideální na AI dabing — málo textu, hodně vizuálu. Jak přeložit fitness kanál do dalších jazyků, aby počítání a povely seděly na pohyb.",
+  "excerpt": "Fitness video má 200 slov a 20 minut záběrů. To je nejlepší poměr pro dabing, jaký na YouTube existuje — a většina trenérů ho nevyužívá.",
+  "content": "Fitness je jeden z mála žánrů, kde divák sleduje video, ne obličej. Squat vypadá stejně v Praze i v Madridu. Jediné, co ti brání oslovit španělské, německé nebo polské publikum, je hlas.\n\n## Proč je fitness na dabing ideální\n\nPrůměrný trénink má 15–25 minut a jen pár stovek slov: povely, počítání, korekce techniky. Žádné dlouhé monology, žádné slovní hříčky, které se ztratí v překladu. Zároveň je vyhledávání extrémně lokální — „trénink břicha doma\" hledají lidé ve své mateřštině a konkurence v polštině nebo češtině je zlomek té anglické.\n\n## Na co si dát pozor\n\nTempo. „Tři, dva, jedna, dolů\" musí sedět na pohyb na milisekundu, jinak to divák pozná okamžitě. Proto před dabingem projdi přepis a zkrať věty, kde překlad vyjde delší — němčina je zhruba o 20 % delší než angličtina. Druhá věc jsou názvy cviků: „Romanian deadlift\" nechávej v originále, když se tak používá i v cílovém jazyce, a nepřekládej ho doslova. A dýchání mezi opakováními nech v původní stopě — zní autenticky v každém jazyce.\n\n## Jak to rozjet za jeden týden\n\nVezmi svých 10 nejsledovanějších videí. Nahraj je do [TubeVoice](https://tubevoice.io), který vytvoří klon tvého hlasu a vygeneruje stopy v dalších jazycích včetně synchronizace se rty. Zkontroluj počítání a povely, uprav pár vět a publikuj jako vícejazyčné audio stopy přímo na YouTube — jedno video, sedm publik, jedna statistika.\n\nA jestli natáčíš doma a chybí ti pořádné vybavení na záběry, pronajmi si soukromou posilovnu přes [GymHome](https://gymhome.cz) na 75 minut — čisté pozadí, kvalitní činky a nikdo ti nechodí do záběru.",
+  "category": "tools",
+  "tags": [
+    "fitness kanál",
+    "AI dabing",
+    "YouTube",
+    "vícejazyčný obsah",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-09-06T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=80",
+  "imageAlt": "Trenér natáčí trénink s činkami před kamerou",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "GymHome",
+      "url": "https://gymhome.cz"
+    }
+  ],
+  "related": [
+    "tubevoice-tutorial-channels",
+    "tubevoice-shorts-dubbing",
+    "tubevoice-grow-multilingual"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "roomflip-reading-nook-cs",
+  "lang": "cs",
+  "title": "Čtecí kout do 2 m²: jak ho vymyslet za jedno odpoledne",
+  "description": "Nepotřebuješ knihovnu ani celý pokoj. Stačí roh u okna, správná lampa a jedno křeslo. Praktický návod na čtecí kout v malém bytě včetně rozpočtu.",
+  "excerpt": "Roh, který teď zabírá sušák na prádlo, může být za víkend nejlepší místo v bytě. Stačí tři věci a vědět, kam je dát.",
+  "content": "Skoro každý byt má jeden mrtvý roh. Vedle okna, mezi skříní a zdí, na konci chodby. Právě tam patří čtecí kout — a na rozdíl od rekonstrukce kuchyně ho zvládneš za odpoledne a pod 5 000 Kč.\n\n## Tři věci, bez kterých to nefunguje\n\nSedačka, světlo a odkládací plocha. Nic víc. Křeslo vybírej podle hloubky sedáku (ideálně 55–60 cm), ať se do něj dá zabořit. Světlo řeš stojací lampou s teplou barvou (2700 K) a stínítkem, které svítí dolů na knihu, ne do očí. A odkládací plocha může být obyčejný špalek dřeva nebo malý stolek — potřebuješ tam jen hrnek a knížku.\n\n## Kam ho postavit\n\nK oknu, ale bokem, ne čelem. Denní světlo tak padá přes rameno na stránku a ty nekoukáš do protisvětla. Pokud okno nemáš, dej kout do rohu, kde na tebe nikdo nechodí — místo, kde se dá „schovat\", čte se úplně jinak než místo uprostřed provozu. Koberec pod křeslem opticky oddělí kout od zbytku místnosti a zároveň ztlumí zvuk.\n\n## Jak si to představit předem\n\nNejvětší chyba je koupit křeslo a pak zjistit, že se otáčí do zdi a lampa nemá kam. Než něco objednáš, vyfoť roh telefonem a nahraj ho do [RoomFlip](https://roomflip.io) — AI ti za pár sekund ukáže, jak bude kout vypadat s konkrétním křeslem, kobercem i osvětlením. Vyzkoušíš tři varianty, vybereš jednu a teprve potom utrácíš.\n\nA jestli ti při plánování vyjde, že v bytě je místo i na pár činek, mrkni na [GymHome](https://gymhome.cz) — někdy je lepší cvičit jinde a doma si nechat klid na čtení.",
+  "category": "tools",
+  "tags": [
+    "čtecí kout",
+    "malý byt",
+    "interiér",
+    "osvětlení",
+    "RoomFlip"
+  ],
+  "publishedAt": "2026-09-06T05:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=800&q=80",
+  "imageAlt": "Křeslo s dekou a lampou v rohu u okna",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "GymHome",
+      "url": "https://gymhome.cz"
+    }
+  ],
+  "related": [
+    "roomflip-small-spaces",
+    "roomflip-lighting-design",
+    "roomflip-renter-friendly"
+  ]
+}

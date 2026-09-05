@@ -1,0 +1,35 @@
+{
+  "slug": "roomflip-reading-nook-pl",
+  "lang": "pl",
+  "title": "Kącik do czytania na 2 m²: zaplanuj go w jedno popołudnie",
+  "description": "Nie potrzebujesz biblioteki ani osobnego pokoju. Wystarczy kąt przy oknie, dobra lampa i jeden fotel. Praktyczny poradnik na kącik do czytania w małym mieszkaniu, z budżetem.",
+  "excerpt": "Kąt, w którym dziś stoi suszarka na pranie, do niedzieli może być najlepszym miejscem w mieszkaniu. Potrzebujesz trzech rzeczy i wiedzy, gdzie je postawić.",
+  "content": "Prawie każde mieszkanie ma jeden martwy kąt. Obok okna, między szafą a ścianą, na końcu korytarza. Właśnie tam pasuje kącik do czytania — i w przeciwieństwie do remontu kuchni zrobisz go w jedno popołudnie za mniej niż 800 zł.\n\n## Trzy rzeczy, bez których to nie działa\n\nSiedzisko, światło i blat. Nic więcej. Fotel wybieraj po głębokości siedziska (idealnie 55–60 cm), żeby dało się w nim naprawdę zapaść. Światło załatwia lampa stojąca w ciepłej barwie (2700 K) z kloszem skierowanym w dół na książkę, a nie w oczy. Blatem może być klocek drewna albo mały stolik — ma pomieścić tylko kubek i książkę.\n\n## Gdzie go ustawić\n\nPrzy oknie, ale bokiem, nie na wprost. Światło dzienne pada wtedy przez ramię na stronę, a ty nie siedzisz pod światło. Nie masz okna? Wybierz kąt, przez który nikt nie przechodzi — miejsce, w którym można się „schować\", czyta się zupełnie inaczej niż to w środku ruchu. Dywan pod fotelem optycznie oddzieli kącik od reszty pokoju i przy okazji wytłumi dźwięk.\n\n## Jak to zobaczyć przed zakupem\n\nKlasyczny błąd: kupić fotel i odkryć, że stoi tyłem do pokoju, a lampa nie ma gdzie się zmieścić. Zanim cokolwiek zamówisz, sfotografuj kąt telefonem i wrzuć zdjęcie do [RoomFlip](https://roomflip.io) — AI w kilka sekund pokaże ci, jak kącik wygląda z konkretnym fotelem, dywanem i oświetleniem. Sprawdzasz trzy warianty, wybierasz jeden i dopiero wtedy wydajesz pieniądze.\n\nA jeśli przy planowaniu okaże się, że zostaje miejsce nawet na parę hantli, zajrzyj na [GymHome](https://gymhome.cz) — czasem lepiej trenować gdzie indziej, a dom zostawić na spokojne czytanie.",
+  "category": "tools",
+  "tags": [
+    "kącik do czytania",
+    "małe mieszkanie",
+    "aranżacja wnętrz",
+    "oświetlenie",
+    "RoomFlip"
+  ],
+  "publishedAt": "2026-09-06T05:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=800&q=80",
+  "imageAlt": "Fotel z kocem i lampą w kącie przy oknie",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "GymHome",
+      "url": "https://gymhome.cz"
+    }
+  ],
+  "related": [
+    "roomflip-small-spaces",
+    "roomflip-lighting-design",
+    "roomflip-renter-friendly"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "roomflip-reading-nook-es",
+  "lang": "es",
+  "title": "Un rincón de lectura en 2 m²: planéalo en una tarde",
+  "description": "No necesitas una biblioteca ni una habitación extra. Basta un rincón junto a la ventana, la lámpara adecuada y un sillón. Guía práctica para un rincón de lectura en un piso pequeño, con presupuesto.",
+  "excerpt": "El rincón donde ahora está el tendedero puede ser el mejor sitio de la casa el domingo. Hacen falta tres cosas y saber dónde ponerlas.",
+  "content": "Casi todos los pisos tienen un rincón muerto. Junto a la ventana, entre el armario y la pared, al final del pasillo. Justo ahí va un rincón de lectura — y a diferencia de reformar la cocina, lo montas en una tarde por menos de 200 €.\n\n## Las tres cosas sin las que no funciona\n\nAsiento, luz y una superficie. Nada más. Elige el sillón por la profundidad del asiento (55–60 cm es lo ideal) para poder hundirte de verdad. La luz la resuelves con una lámpara de pie en blanco cálido (2700 K) y una pantalla que apunte al libro, no a tus ojos. La superficie puede ser un taco de madera o una mesita auxiliar mínima: solo tiene que aguantar una taza y un libro.\n\n## Dónde colocarlo\n\nJunto a la ventana, pero de lado, no de frente. Así la luz natural cae por encima de tu hombro sobre la página en vez de dejarte a contraluz. ¿Sin ventana? Elige el rincón por donde nadie pasa: un sitio donde puedes «esconderte» se lee de forma muy distinta a uno en medio del tránsito. Una alfombra bajo el sillón separa visualmente el rincón del resto de la habitación y, de paso, amortigua el sonido.\n\n## Cómo verlo antes de comprar\n\nEl error clásico: comprar el sillón y descubrir que mira a la pared y que la lámpara no cabe. Antes de pedir nada, haz una foto del rincón con el móvil y súbela a [RoomFlip](https://roomflip.io): la IA te muestra en segundos cómo queda con un sillón, una alfombra y una iluminación concretos. Pruebas tres versiones, eliges una y solo entonces gastas.\n\nY si al planificar descubres que hasta sobra sitio para un par de mancuernas, echa un vistazo a [GymHome](https://gymhome.cz): a veces es mejor entrenar fuera y reservar la casa para la calma de leer.",
+  "category": "tools",
+  "tags": [
+    "rincón de lectura",
+    "piso pequeño",
+    "interiorismo",
+    "iluminación",
+    "RoomFlip"
+  ],
+  "publishedAt": "2026-09-06T05:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=800&q=80",
+  "imageAlt": "Sillón con manta y lámpara en un rincón junto a la ventana",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "GymHome",
+      "url": "https://gymhome.cz"
+    }
+  ],
+  "related": [
+    "roomflip-small-spaces",
+    "roomflip-lighting-design",
+    "roomflip-renter-friendly"
+  ]
+}

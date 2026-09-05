@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-fitness-channels-en",
+  "lang": "en",
+  "title": "A Fitness Channel in 7 Languages: Dub Workouts Without Losing the Beat",
+  "description": "Workout videos are perfect for AI dubbing — little text, lots of visuals. How to take a fitness channel into new languages so the counts and cues still land on the movement.",
+  "excerpt": "A fitness video has 200 words and 20 minutes of footage. That's the best dubbing ratio on YouTube — and most trainers never use it.",
+  "content": "Fitness is one of the few genres where the viewer watches the body, not the face. A squat looks the same in Prague and Madrid. The only thing stopping you from reaching a Spanish, German or Polish audience is the voice.\n\n## Why fitness is made for dubbing\n\nAn average workout runs 15–25 minutes and carries only a few hundred words: cues, counts, form corrections. No long monologues, no puns that die in translation. At the same time, search is extremely local — people look up \"ab workout at home\" in their mother tongue, and competition in Polish or Czech is a fraction of what it is in English.\n\n## What to watch out for\n\nTiming. \"Three, two, one, down\" has to hit the movement to the millisecond, or the viewer feels it instantly. So before dubbing, go through the transcript and shorten sentences where the translation runs longer — German comes out roughly 20% longer than English. Second: exercise names. Keep \"Romanian deadlift\" in English if that's what the target market uses, and don't translate it literally. And leave the breathing between reps in the original track — it sounds authentic in every language.\n\n## How to launch it in a week\n\nTake your 10 most-watched videos. Upload them to [TubeVoice](https://tubevoice.io), which clones your voice and generates tracks in the new languages with lip sync included. Check the counts and cues, tweak a few sentences, and publish them as multi-language audio tracks right on YouTube — one video, seven audiences, one set of analytics.\n\nAnd if you film at home and lack proper gear for the shots, book a private gym through [GymHome](https://gymhome.cz) for 75 minutes — clean background, quality dumbbells and nobody walking into frame.",
+  "category": "tools",
+  "tags": [
+    "fitness channel",
+    "AI dubbing",
+    "YouTube",
+    "multilingual content",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-09-06T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=80",
+  "imageAlt": "A trainer filming a dumbbell workout in front of a camera",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "GymHome",
+      "url": "https://gymhome.cz"
+    }
+  ],
+  "related": [
+    "tubevoice-tutorial-channels",
+    "tubevoice-shorts-dubbing",
+    "tubevoice-grow-multilingual"
+  ]
+}

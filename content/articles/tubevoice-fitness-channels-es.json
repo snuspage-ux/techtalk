@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-fitness-channels-es",
+  "lang": "es",
+  "title": "Canal de fitness en 7 idiomas: dobla sin perder el ritmo",
+  "description": "Los vídeos de entrenamiento son ideales para el doblaje con IA: poco texto, mucha imagen. Cómo llevar un canal de fitness a otros idiomas sin que cuentas e indicaciones pierdan el ritmo.",
+  "excerpt": "Un vídeo de fitness tiene 200 palabras y 20 minutos de imagen. Es la mejor proporción para doblar que existe en YouTube, y la mayoría de entrenadores nunca la aprovecha.",
+  "content": "El fitness es uno de los pocos géneros en los que el espectador mira el cuerpo, no la cara. Una sentadilla se ve igual en Praga que en Madrid. Lo único que te separa de un público alemán, polaco o francés es la voz.\n\n## Por qué el fitness está hecho para el doblaje\n\nUn entrenamiento medio dura entre 15 y 25 minutos y apenas tiene unos cientos de palabras: indicaciones, cuentas, correcciones de técnica. Sin monólogos largos ni juegos de palabras que mueren en la traducción. Al mismo tiempo, la búsqueda es muy local: la gente busca «abdominales en casa» en su lengua materna, y la competencia en polaco o checo es una fracción de la que hay en inglés.\n\n## En qué fijarte\n\nEl tiempo. «Tres, dos, uno, abajo» tiene que caer sobre el movimiento al milisegundo o el espectador lo nota al instante. Por eso, antes de doblar, revisa la transcripción y acorta las frases donde la traducción se alargue: el alemán sale un 20 % más largo que el inglés. Segundo: los nombres de los ejercicios. Deja «Romanian deadlift» en inglés si así se usa en el mercado de destino y no lo traduzcas literalmente. Y la respiración entre repeticiones déjala en la pista original: suena auténtica en cualquier idioma.\n\n## Cómo lanzarlo en una semana\n\nCoge tus 10 vídeos más vistos. Súbelos a [TubeVoice](https://tubevoice.io), que clona tu voz y genera las pistas en los nuevos idiomas con sincronización labial incluida. Revisa cuentas e indicaciones, retoca un par de frases y publícalas como pistas de audio multilingües directamente en YouTube: un vídeo, siete públicos, una sola analítica.\n\nY si grabas en casa y te falta equipo decente para los planos, reserva un gimnasio privado a través de [GymHome](https://gymhome.cz) durante 75 minutos: fondo limpio, buenas mancuernas y nadie cruzando el encuadre.",
+  "category": "tools",
+  "tags": [
+    "canal de fitness",
+    "doblaje IA",
+    "YouTube",
+    "contenido multilingüe",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-09-06T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=80",
+  "imageAlt": "Un entrenador graba una sesión con mancuernas frente a la cámara",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "GymHome",
+      "url": "https://gymhome.cz"
+    }
+  ],
+  "related": [
+    "tubevoice-tutorial-channels",
+    "tubevoice-shorts-dubbing",
+    "tubevoice-grow-multilingual"
+  ]
+}

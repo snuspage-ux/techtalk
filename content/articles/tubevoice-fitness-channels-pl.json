@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-fitness-channels-pl",
+  "lang": "pl",
+  "title": "Kanał fitness w 7 językach: dubbing bez gubienia tempa",
+  "description": "Filmy treningowe idealnie nadają się do dubbingu AI — mało tekstu, dużo obrazu. Jak przenieść kanał fitness na inne języki, żeby odliczanie i komendy nadal trafiały w ruch.",
+  "excerpt": "Film fitness to 200 słów i 20 minut nagrania. To najlepsza proporcja do dubbingu na YouTube — a większość trenerów nigdy z niej nie korzysta.",
+  "content": "Fitness to jeden z niewielu gatunków, w których widz patrzy na ciało, nie na twarz. Przysiad wygląda tak samo w Pradze i w Madrycie. Jedyne, co dzieli cię od hiszpańskiej, niemieckiej czy francuskiej publiczności, to głos.\n\n## Dlaczego fitness jest stworzony do dubbingu\n\nPrzeciętny trening trwa 15–25 minut i zawiera ledwie kilkaset słów: komendy, odliczanie, poprawki techniki. Żadnych długich monologów, żadnych gier słownych, które giną w tłumaczeniu. Jednocześnie wyszukiwanie jest bardzo lokalne — „trening brzucha w domu\" ludzie wpisują w ojczystym języku, a konkurencja po polsku czy czesku to ułamek tej angielskiej.\n\n## Na co uważać\n\nTiming. „Trzy, dwa, jeden, w dół\" musi trafić w ruch co do milisekundy, inaczej widz wyczuje to od razu. Dlatego przed dubbingiem przejrzyj transkrypcję i skróć zdania, których tłumaczenie wychodzi dłuższe — niemiecki jest około 20% dłuższy od angielskiego. Druga sprawa: nazwy ćwiczeń. Zostaw „Romanian deadlift\" po angielsku, jeśli tak mówi się na rynku docelowym, i nie tłumacz dosłownie. A oddech między powtórzeniami zostaw w oryginalnej ścieżce — brzmi autentycznie w każdym języku.\n\n## Jak wystartować w tydzień\n\nWeź swoje 10 najczęściej oglądanych filmów. Wrzuć je do [TubeVoice](https://tubevoice.io), który sklonuje twój głos i wygeneruje ścieżki w nowych językach razem z synchronizacją ruchu ust. Sprawdź odliczanie i komendy, popraw kilka zdań i opublikuj jako wielojęzyczne ścieżki audio bezpośrednio na YouTube — jeden film, siedem publiczności, jedne statystyki.\n\nA jeśli nagrywasz w domu i brakuje ci porządnego sprzętu do ujęć, zarezerwuj prywatną siłownię przez [GymHome](https://gymhome.cz) na 75 minut — czyste tło, dobre hantle i nikt nie wchodzi w kadr.",
+  "category": "tools",
+  "tags": [
+    "kanał fitness",
+    "dubbing AI",
+    "YouTube",
+    "treści wielojęzyczne",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-09-06T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=80",
+  "imageAlt": "Trener nagrywa trening z hantlami przed kamerą",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "GymHome",
+      "url": "https://gymhome.cz"
+    }
+  ],
+  "related": [
+    "tubevoice-tutorial-channels",
+    "tubevoice-shorts-dubbing",
+    "tubevoice-grow-multilingual"
+  ]
+}
