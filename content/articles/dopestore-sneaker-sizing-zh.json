@@ -1,0 +1,35 @@
+{
+  "slug": "dopestore-sneaker-sizing-zh",
+  "lang": "zh",
+  "title": "球鞋尺码指南：为什么 Nike 合脚而 adidas 不合",
+  "description": "每个品牌的尺码标准都不一样。实用指南：如何正确量脚、Nike／adidas／New Balance 的差异，以及如何网购不退货。",
+  "excerpt": "Nike 穿 42、adidas 穿 42.5、New Balance 穿 41.5？这不是你的问题。这里教你把尺码理清楚。",
+  "content": "你按「自己的」尺码下单，鞋到了，要么顶大脚趾，要么脚在里面晃。这不是运气差：根本没有统一标准，每个品牌的鞋楦都是自己定的。好消息是——搞清楚差异后，即使网购也能一次买对。\n\n## 量脚，不是量鞋\n\n站在一张纸上，描出脚的轮廓，量脚跟到最长脚趾的长度。晚上量（脚在一天里会长 3–5 毫米），两只脚都量——大多数人有一只脚更大。再加 8–10 毫米余量。这个毫米数才是你真正的尺码；EU 和 US 码只是换算，每个品牌换算方式都略有不同。\n\n## 主要品牌的差异\n\nNike 的鞋楦偏窄、略短——Dunk 和 Air Force 1 通常大半码更合适，Air Max 90 和 Vomero 按正常码买即可。adidas 大多正码（Samba、Gazelle），但 Yeezy 350 偏小半码。New Balance 最宽也最包容，990 或 2002R 按正常码买。Asics 和 Salomon 版型偏瘦，大半码不会错。Converse Chuck Taylor 出了名地偏大——直接小一整码。\n\n## 网购时这样做\n\n一定要看厂商标注的毫米长度，不要只看 EU 码。读那个具体型号的评价——「正码」或「偏小」这类描述比任何尺码表都有用。如果你卡在两个尺码之间：窄鞋往上选，宽鞋往下选。\n\n尺码选对是穿球鞋舒服的一半，另一半是选款。在 [DOPESTORE](https://dopestore.cz)，每个型号都标注了是正码还是偏小；用 [FileTools](https://filetools.eu) 把购物收据压缩合并成一个 PDF，一年后要售后也只需一分钟。",
+  "category": "creative",
+  "tags": [
+    "球鞋",
+    "尺码",
+    "街头潮流",
+    "网购",
+    "DOPESTORE"
+  ],
+  "publishedAt": "2026-09-07T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80",
+  "imageAlt": "浅色背景上红色球鞋的特写",
+  "backlinks": [
+    {
+      "text": "DOPESTORE",
+      "url": "https://dopestore.cz"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "dopestore-sneaker-care",
+    "dopestore-sneaker-drops",
+    "dopestore-streetwear-starter"
+  ]
+}

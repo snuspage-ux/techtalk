@@ -1,0 +1,35 @@
+{
+  "slug": "kupsledujici-instagram-captions-cs",
+  "lang": "cs",
+  "title": "Popisky na Instagram, které lidi fakt dočtou (a dají like)",
+  "description": "Většina popisků končí po prvním řádku. Naučíš se strukturu hook–hodnota–výzva, správnou délku a 3 chyby, které ti zabíjejí dosah.",
+  "excerpt": "Fotka zastaví palec, popisek rozhodne, jestli přijde like, komentář nebo uložení. Tady je vzorec, který funguje.",
+  "content": "Máš skvělou fotku, dáš pod ni „Krásný den ☀️\" a divíš se, že se nic neděje. Instagram ukáže jen první řádek popisku — a pokud ten nikoho nezastaví, zbytek nikdo neotevře. Přitom právě popisek rozhoduje o komentářích a uloženích, což jsou signály, které algoritmus váží nejvíc.\n\n## První řádek je titulek\n\nMáš zhruba 125 znaků, než se objeví „více\". Do nich patří jedna věc: důvod kliknout. Funguje otázka („Proč ti nikdo nekomentuje?\"), nedopovězený příběh („Tohle jsem zkoušel 30 dní a…\") nebo konkrétní číslo („3 chyby, které vidím u 90 % účtů\"). Co nefunguje: pozdrav, emoji navíc a hashtagy hned na začátku.\n\n## Struktura hook → hodnota → výzva\n\nPo hooku dej 2–4 krátké odstavce s něčím užitečným — tip, postup, pointa příběhu. Piš tak, jak mluvíš, věty do 15 slov, mezi odstavci prázdný řádek. A na konci vždy jedna výzva, ne tři: „Napiš do komentářů, kterou z těch chyb děláš ty\" přinese víc než „Lajkuj, sdílej, ulož a sleduj\". Otázka, na kterou se dá odpovědět jedním slovem, má nejvyšší míru odpovědí.\n\n## Délka a hashtagy\n\nKrátký popisek (do 150 znaků) funguje u vizuálních příspěvků, dlouhý (1000+) u edukativních — ty se nejvíc ukládají. Hashtagy dej až na konec, 3–5 relevantních místo 30 obecných. A napiš popisek dřív než vybereš fotku: často zjistíš, že k tomu, co chceš říct, se hodí jiný obrázek.\n\nDobrý popisek zdvojnásobí engagement, ale nový účet potřebuje i první vlnu interakcí, aby ho algoritmus vůbec začal ukazovat. Na [KupSledujici](https://kupsledujici.cz) dokoupíš lajky a sledující, které ten start nakopnou — a když děláš i video, [TubeVoice](https://tubevoice.io) ho nadabuje do dalších jazyků, takže tvůj popisek osloví i publikum mimo Česko.",
+  "category": "social",
+  "tags": [
+    "instagram",
+    "popisky",
+    "copywriting",
+    "engagement",
+    "KupSledujici"
+  ],
+  "publishedAt": "2026-09-07T05:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1516251193007-45ef944ab0c6?w=800&q=80",
+  "imageAlt": "Telefon s otevřeným Instagramem na stole vedle kávy",
+  "backlinks": [
+    {
+      "text": "KupSledujici",
+      "url": "https://kupsledujici.cz"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "kupsledujici-reels-hooks",
+    "kupsledujici-hashtag-strategy",
+    "kupsledujici-engagement"
+  ]
+}

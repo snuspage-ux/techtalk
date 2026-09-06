@@ -1,0 +1,35 @@
+{
+  "slug": "dopestore-sneaker-sizing-cs",
+  "lang": "cs",
+  "title": "Velikosti tenisek: proč ti Nike sedí a adidas ne",
+  "description": "Každá značka měří jinak. Praktický průvodce, jak si změřit nohu, jak se liší Nike, adidas a New Balance a jak nakoupit online bez vracení.",
+  "excerpt": "Máš 42 v Nike, 42,5 v adidas a 41,5 v New Balance? Není to tvoje chyba. Tady je, jak v tom mít systém.",
+  "content": "Objednáš tenisky ve „své\" velikosti, přijdou, a buď tě tlačí na palci, nebo v nich plaveš. Není to náhoda: neexistuje žádná společná norma, každá značka si kopyto dělá po svém. Dobrá zpráva — když víš, jak se liší, trefíš se napoprvé i online.\n\n## Změř si nohu, ne boty\n\nPostav se na papír, obkresli nohu a změř délku od paty po nejdelší prst. Měř večer (noha je přes den o 3–5 mm delší) a obě nohy — většina lidí má jednu větší. K výsledku přidej 8–10 mm rezervu. Tohle číslo v milimetrech je tvůj skutečný údaj; EU a US velikosti jsou jen přepočet, který každá značka provádí trochu jinak.\n\n## Jak se liší hlavní značky\n\nNike vyrábí užší a o něco kratší kopyto — u modelů jako Dunk nebo Air Force 1 často pomáhá půl čísla nahoru, u Air Max 90 a Vomero drž svoji velikost. adidas sedí většinou přesně (Samba, Gazelle), ale Yeezy 350 běžely malé o půl čísla. New Balance je nejširší a nejpohodlnější, 990 nebo 2002R ber ve své velikosti. Asics a Salomon mají štíhlý střih, půl čísla nahoru neuškodí. A Converse Chuck Taylor jsou legendárně velké — jdi o celé číslo dolů.\n\n## Kupuješ online? Dělej tohle\n\nVždycky se dívej na milimetry uvedené výrobcem, ne jen na EU číslo. Přečti si recenze konkrétního modelu — fráze „true to size\" nebo „runs small\" ti řeknou víc než tabulka. A pokud stojíš mezi dvěma velikostmi, u úzkých bot jdi nahoru, u širokých dolů.\n\nSprávná velikost je půlka spokojenosti s teniskami, druhá půlka je výběr. Na [DOPESTORE](https://dopestore.cz) máš u každého modelu poznámku, jestli sedí přesně nebo běží malý — a účtenky z nákupů si zmenši a slož do jednoho PDF přes [FileTools](https://filetools.eu), aby reklamace za rok byla otázka minuty.",
+  "category": "creative",
+  "tags": [
+    "tenisky",
+    "velikosti",
+    "sneakers",
+    "nákup online",
+    "DOPESTORE"
+  ],
+  "publishedAt": "2026-09-07T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80",
+  "imageAlt": "Detail červených tenisek na světlém pozadí",
+  "backlinks": [
+    {
+      "text": "DOPESTORE",
+      "url": "https://dopestore.cz"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "dopestore-sneaker-care",
+    "dopestore-sneaker-drops",
+    "dopestore-streetwear-starter"
+  ]
+}

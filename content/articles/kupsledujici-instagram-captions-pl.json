@@ -1,0 +1,35 @@
+{
+  "slug": "kupsledujici-instagram-captions-pl",
+  "lang": "pl",
+  "title": "Opisy na Instagramie, które ludzie naprawdę czytają (i lajkują)",
+  "description": "Większość opisów umiera po pierwszej linijce. Poznaj strukturę hak–wartość–wezwanie, właściwą długość i 3 błędy, które po cichu zabijają twoje zasięgi.",
+  "excerpt": "Zdjęcie zatrzymuje kciuk, opis decyduje, czy będzie like, komentarz czy zapis. Oto wzór, który działa.",
+  "content": "Wrzucasz świetne zdjęcie, piszesz pod nim „Miłego dnia ☀️\" i dziwisz się, że nic się nie dzieje. Instagram pokazuje tylko pierwszą linijkę opisu — jeśli ona nikogo nie zatrzyma, reszty nikt nie rozwinie. A to właśnie opis generuje komentarze i zapisy, czyli sygnały, które algorytm waży najmocniej.\n\n## Pierwsza linijka to nagłówek\n\nMasz około 125 znaków, zanim pojawi się „więcej\". Zmieść w nich jedną rzecz: powód, żeby kliknąć. Działają pytania („Dlaczego nikt nie komentuje twoich postów?\"), niedokończone historie („Testowałem to 30 dni i…\") i konkretne liczby („3 błędy, które widzę u 90% kont\"). Nie działają: powitania, nadmiar emoji i hashtagi na samym początku.\n\n## Hak → wartość → wezwanie\n\nPo haku daj 2–4 krótkie akapity z czymś użytecznym — wskazówka, proces, puenta historii. Pisz tak, jak mówisz, zdania do 15 słów, pusta linia między akapitami. Na końcu jedno wezwanie, nie trzy: „Napisz w komentarzu, który z tych błędów popełniasz\" przynosi więcej niż „lajkuj, udostępnij, zapisz i obserwuj\". Pytanie, na które da się odpowiedzieć jednym słowem, ma najwyższy wskaźnik odpowiedzi.\n\n## Długość i hashtagi\n\nKrótki opis (do 150 znaków) pasuje do postów wizualnych, długi (1000+) do edukacyjnych — te są najczęściej zapisywane. Hashtagi daj na sam koniec, 3–5 trafnych zamiast 30 ogólnych. I napisz opis, zanim wybierzesz zdjęcie — często okaże się, że do tego, co chcesz powiedzieć, pasuje inny obraz.\n\nDobry opis potrafi podwoić zaangażowanie, ale nowe konto potrzebuje też pierwszej fali interakcji, żeby algorytm w ogóle zaczął je pokazywać. Na [KupSledujici](https://kupsledujici.cz) dokupisz lajki i obserwujących, które dają ten pierwszy impuls — a jeśli robisz też wideo, [TubeVoice](https://tubevoice.io) zdubbinguje je na inne języki, żeby twój opis dotarł do odbiorców poza Polską.",
+  "category": "social",
+  "tags": [
+    "instagram",
+    "opisy",
+    "copywriting",
+    "zaangażowanie",
+    "KupSledujici"
+  ],
+  "publishedAt": "2026-09-07T05:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1516251193007-45ef944ab0c6?w=800&q=80",
+  "imageAlt": "Telefon z otwartym Instagramem na biurku obok kawy",
+  "backlinks": [
+    {
+      "text": "KupSledujici",
+      "url": "https://kupsledujici.cz"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "kupsledujici-reels-hooks",
+    "kupsledujici-hashtag-strategy",
+    "kupsledujici-engagement"
+  ]
+}
