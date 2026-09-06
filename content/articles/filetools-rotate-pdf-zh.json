@@ -1,0 +1,36 @@
+{
+  "slug": "filetools-rotate-pdf-zh",
+  "title": "PDF 页面歪了？几秒钟就能转正",
+  "description": "扫描件又歪了？在浏览器里旋转单页或整个文档，不用装软件、不用上传，更不用重新扫描。",
+  "excerpt": "扫描仪又把文档弄歪了：第三页横着，最后一页倒着。旋转页面只要十秒，何必重新扫描。",
+  "content": "扫描仪又把文档弄歪了。第三页转了 90 度，最后一页上下颠倒。手机拍的合同？也是歪的。重新扫描是慢办法，旋转 PDF 才是快办法。\n\n## 旋转不碰内容\n\n旋转页面只改变方向。文字还是文字，签名还是签名。不会重新渲染，也不会压缩，画质和原来一模一样。[FileTools](https://filetools.eu) 把每一页显示成缩略图，任意一页一键就能转：左转 90 度、右转 90 度，上下颠倒就转满 180 度。\n\n## 单页还是整份文档\n\n多数时候只需要修一两页。点缩略图，旋转，完事。但如果整份手机扫描件都是歪的，一页页转就是浪费时间。先把全部页面一起转正，再处理个别漏网的。\n\n## 歪 PDF 都是从哪来的\n\n- 手机扫描：App 存的是照片，不是文档的方向\n- 多功能打印机：自动进纸把纸送歪了\n- 别人发来的文件：客户发歪 PDF 的次数比你想象的多\n- 电子书和幻灯片导出：导出前就已经转了方向\n\n## 整理的顺序\n\n一次搞定：先转正横着的页面，删掉空白页，最后排顺序。在 [FileTools](https://filetools.eu) 上操作，文件全程不离开浏览器，处理都在本地完成，合同和证件不会传到别人的服务器。要是文件太大发不了邮件，就在同一个标签页里顺手压缩一下。\n\n就这么多。不用装软件，不用注册，不用重新扫描。如果你的\"扫描件\"其实是房间照片、想重新设计，[RoomFlip](https://roomflip.io) 可以接手。但先把照片转正再说。",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "旋转pdf",
+    "页面方向",
+    "扫描文档",
+    "FileTools"
+  ],
+  "imageAlt": "笔记本电脑上打开的 PDF 页面",
+  "publishedAt": "2026-09-06T07:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "related": [
+    "filetools-reorder-pdf-pages",
+    "filetools-merge-pdf",
+    "filetools-phone-scanner",
+    "filetools-pdf-compression"
+  ],
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "lang": "zh"
+}

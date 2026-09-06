@@ -1,0 +1,36 @@
+{
+  "slug": "filetools-rotate-pdf-pl",
+  "title": "Przekręcone strony PDF? Obrócisz je w kilka sekund",
+  "description": "Skan wyszedł przekręcony? Obróć jedną stronę albo cały dokument w przeglądarce. Bez instalacji, bez wysyłania plików, bez skanowania od nowa.",
+  "excerpt": "Skaner znów odwrócił dokument: strona trzecia jest bokiem, ostatnia do góry nogami. Obrócenie zajmuje dziesięć sekund, nie całe nowe skanowanie.",
+  "content": "Skaner znów odwrócił ci dokument. Strona trzecia jest bokiem. Ostatnia wisi do góry nogami. Zdjęcie umowy z telefonu? Też bokiem. Skanowanie od nowa to wolna droga. Obrócenie PDF-a to szybka.\n\n## Obrót nie rusza treści\n\nObrócenie strony zmienia tylko jej orientację. Tekst zostaje tekstem. Podpisy zostają podpisami. Nic nie jest przetwarzane ani kompresowane od nowa, więc jakość zostaje dokładnie taka sama. [FileTools](https://filetools.eu) pokazuje każdą stronę jako miniaturę, a dowolną z nich obrócisz jednym kliknięciem: 90 stopni w lewo, w prawo albo całe 180, gdy wisi do góry nogami.\n\n## Jedna strona czy cały dokument\n\nZwykle wystarczy poprawić jedną albo dwie strony. Klikasz miniaturę, obracasz, gotowe. Ale kiedy cały skan z telefonu wychodzi przekręcony, obracanie strony po stronie to strata czasu. Najpierw obróć wszystko naraz, potem popraw pojedyncze strony.\n\n## Skąd się biorą przekręcone PDF-y\n\n- Skany z telefonu: aplikacja zapisuje zdjęcie, nie orientację dokumentu\n- Drukarki wielofunkcyjne: podajnik łapie kartkę bokiem\n- Otrzymane pliki: klienci wysyłają przekręcone PDF-y częściej, niż myślisz\n- E-booki i eksporty prezentacji obrócone jeszcze przed eksportem\n\n## Kolejność porządków\n\nZrób wszystko za jednym razem: obróć strony bokiem, usuń puste, potem popraw kolejność. Na [FileTools](https://filetools.eu) plik nigdy nie opuszcza przeglądarki: przetwarzanie działa lokalnie, więc umowy i dowody nie lądują na obcych serwerach. Jeśli wynik jest za ciężki na maila, skompresuj go od razu w tej samej karcie.\n\nI tyle. Bez oprogramowania, bez konta, bez skanowania od nowa. A jeśli twoje \"skany\" to tak naprawdę zdjęcia pokoi do przeprojektowania, [RoomFlip](https://roomflip.io) je od ciebie przejmie. Najpierw je wyprostuj.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "obracanie pdf",
+    "orientacja stron",
+    "skany dokumentów",
+    "FileTools"
+  ],
+  "imageAlt": "Laptop z otwartymi stronami PDF",
+  "publishedAt": "2026-09-06T07:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "related": [
+    "filetools-reorder-pdf-pages",
+    "filetools-merge-pdf",
+    "filetools-phone-scanner",
+    "filetools-pdf-compression"
+  ],
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "lang": "pl"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "filetools-rotate-pdf-es",
+  "title": "¿Páginas del PDF giradas? Gíralas en segundos",
+  "description": "¿El escáner te devolvió el documento girado? Gira una página o todo el archivo en el navegador. Sin instalar, sin subir nada, sin volver a escanear.",
+  "excerpt": "El escáner volvió a fallar: la página tres está girada y la última, al revés. Girar la página tarda diez segundos, no un escaneo nuevo.",
+  "content": "El escáner volvió a devolverte el documento torcido. La página tres está girada 90 grados. La última, al revés. ¿La foto del contrato con el móvil? Girada también. Volver a escanear es la solución lenta. Girar el PDF es la rápida.\n\n## Girar no toca el contenido\n\nGirar una página solo cambia su orientación. El texto sigue siendo texto. Las firmas siguen siendo firmas. Nada se regenera ni se comprime, así que la calidad queda exactamente donde estaba. [FileTools](https://filetools.eu) muestra cada página como miniatura y giras cualquiera con un clic: 90 grados a la izquierda, a la derecha, o 180 enteros si está al revés.\n\n## Una página o el documento entero\n\nCasi siempre basta con corregir una o dos páginas. Toca la miniatura, gira, listo. Pero cuando el escaneo completo del móvil sale girado, girar página por página es perder el tiempo. Gira todo a la vez y luego arregla las páginas sueltas.\n\n## De dónde salen los PDF girados\n\n- Escaneos del móvil: la app guarda la foto, no la orientación del documento\n- Impresoras multifunción: el alimentador coge el papel de lado\n- Archivos recibidos: los clientes mandan PDF girados más a menudo de lo que crees\n- Libros electrónicos y exportaciones de diapositivas giradas antes de exportar\n\n## El orden de la limpieza\n\nHazlo de una pasada: gira las páginas torcidas, borra las vacías y luego arregla el orden. Al hacerlo en [FileTools](https://filetools.eu), el archivo nunca sale de tu navegador: el proceso es local, así que contratos y documentos de identidad no aterrizan en servidores de terceros. Si el resultado pesa demasiado para un correo, comprímelo después, en la misma pestaña.\n\nEso es todo. Sin software, sin cuenta, sin volver a escanear. Y si tus \"escaneos\" son en realidad fotos de habitaciones que quieres rediseñar, [RoomFlip](https://roomflip.io) se encarga de ellas. Cuando las endereces, claro.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "girar pdf",
+    "orientación de páginas",
+    "documentos escaneados",
+    "FileTools"
+  ],
+  "imageAlt": "Portátil con páginas PDF abiertas",
+  "publishedAt": "2026-09-06T07:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "related": [
+    "filetools-reorder-pdf-pages",
+    "filetools-merge-pdf",
+    "filetools-phone-scanner",
+    "filetools-pdf-compression"
+  ],
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "lang": "es"
+}

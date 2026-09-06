@@ -1,0 +1,36 @@
+{
+  "slug": "filetools-rotate-pdf-de",
+  "title": "PDF-Seiten stehen seitlich? In Sekunden gedreht",
+  "description": "Scan kommt verdreht zurück? Drehe einzelne Seiten oder das ganze Dokument direkt im Browser: ohne Installation, ohne Upload, ohne neuen Scan.",
+  "excerpt": "Der Scanner hat das Dokument wieder schief erfasst: Seite drei steht seitlich, die letzte hängt kopfüber. Drehen dauert zehn Sekunden, kein neuer Scan nötig.",
+  "content": "Der Scanner hat das Dokument mal wieder schief erfasst. Seite drei steht seitlich. Die letzte hängt kopfüber. Das Handyfoto vom Vertrag? Auch seitlich. Neu scannen ist die langsame Lösung. Das PDF drehen die schnelle.\n\n## Drehen verändert den Inhalt nicht\n\nEine Seite zu drehen ändert nur ihre Ausrichtung. Text bleibt Text. Unterschriften bleiben Unterschriften. Nichts wird neu gerendert oder komprimiert, die Qualität bleibt exakt, wo sie war. [FileTools](https://filetools.eu) zeigt jede Seite als Vorschau, eine davon drehst du mit einem Klick: 90 Grad nach links, nach rechts oder ganze 180, wenn sie kopfüber hängt.\n\n## Einzelne Seite oder ganzes Dokument\n\nMeist reicht es, ein oder zwei Seiten zu fixen. Vorschau anklicken, drehen, fertig. Wenn aber der ganze Handy-Scan verdreht rauskommt, ist Seite für Seite Zeitverschwendung. Erst alles auf einmal drehen, dann die Reste einzeln.\n\n## Wo verdrehte PDFs herkommen\n\n- Handy-Scans: Die App speichert das Foto, nicht die Ausrichtung des Dokuments\n- Multifunktionsdrucker: Der Einzug erfasst das Papier seitlich\n- Zugeschickte Dateien: Kunden schicken verdrehte PDFs öfter, als man denkt\n- E-Books und Exporte aus Präsentationen, die schon vor dem Export gedreht wurden\n\n## Die Reihenfolge beim Aufräumen\n\nAlles in einem Durchgang: seitliche Seiten drehen, leere Seiten löschen, dann die Reihenfolge fixen. Läuft bei [FileTools](https://filetools.eu) direkt im Browser: Die Datei wird lokal verarbeitet und verlässt dein Gerät nicht. Verträge und Ausweise landen so auf keinem fremden Server. Ist das Ergebnis zu groß für eine E-Mail, komprimierst du es gleich im selben Tab.\n\nDas war's. Keine Software, kein Konto, kein neuer Scan. Und wenn deine \"Scans\" eigentlich Raumfotos für ein neues Design sind, nimmt sie dir [RoomFlip](https://roomflip.io) ab. Vorher aber drehen.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "pdf drehen",
+    "Seitenausrichtung",
+    "gescannte Dokumente",
+    "FileTools"
+  ],
+  "imageAlt": "Laptop mit geöffneten PDF-Seiten",
+  "publishedAt": "2026-09-06T07:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "related": [
+    "filetools-reorder-pdf-pages",
+    "filetools-merge-pdf",
+    "filetools-phone-scanner",
+    "filetools-pdf-compression"
+  ],
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "lang": "de"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "filetools-rotate-pdf-en",
+  "title": "Sideways PDF Pages? Rotate Them in Seconds",
+  "description": "Scanned document came out rotated? Turn single pages or the whole file in your browser. No install, no upload, no rescanning.",
+  "excerpt": "The scanner messed up your document again: page three is sideways, the last one upside down. Rotating takes ten seconds, not a fresh scan.",
+  "content": "The scanner gave you a sideways mess again. Page three is rotated 90 degrees. The last one is upside down. Your phone photo of a contract? Also sideways. Rescanning is the slow fix. Rotating the PDF is the fast one.\n\n## Rotation doesn't touch your content\n\nRotating a page only changes its orientation. Text stays text. Signatures stay signatures. Nothing gets re-rendered or compressed, so quality stays exactly where it was. [FileTools](https://filetools.eu) shows every page as a thumbnail and turns any of them with one click: 90 degrees left, 90 degrees right, or a full 180 for upside-down pages.\n\n## One page or the whole document\n\nMost files only need one or two pages fixed. Click the thumbnail, rotate, done. But when your whole phone scan came out rotated, fixing page by page is a waste of time. Rotate everything at once, then handle the odd stragglers.\n\n## Where rotated PDFs come from\n\n- Phone scans: the app saves the photo, not the document's orientation\n- Multifunction printers: the auto-feeder grabs the paper sideways\n- Files you receive: clients send rotated PDFs more often than you'd think\n- Ebooks and slide exports that were already rotated before export\n\n## The clean-up order\n\nDo it in one pass: rotate the sideways pages, delete blanks, then fix the sequence. Run it on [FileTools](https://filetools.eu) and the file never leaves your browser: processing is local, so contracts and IDs don't land on some random server. If the result is too big for an email, compress it afterwards in the same tab.\n\nThat's the whole job. No software, no account, no rescan. And if your \"scans\" are actually room photos you want redesigned, [RoomFlip](https://roomflip.io) will take those off your hands. Once you rotate them, that is.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "rotate pdf",
+    "page orientation",
+    "scanned documents",
+    "FileTools"
+  ],
+  "imageAlt": "Laptop showing PDF pages on screen",
+  "publishedAt": "2026-09-06T07:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "related": [
+    "filetools-reorder-pdf-pages",
+    "filetools-merge-pdf",
+    "filetools-phone-scanner",
+    "filetools-pdf-compression"
+  ],
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "lang": "en"
+}

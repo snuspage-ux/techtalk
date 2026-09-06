@@ -1,0 +1,36 @@
+{
+  "slug": "filetools-rotate-pdf-fr",
+  "title": "Des pages PDF de travers ? Tournez-les en quelques secondes",
+  "description": "Un scan qui ressort de travers ? Tournez une page ou tout le document dans le navigateur. Sans installation, sans envoi, sans scanner deux fois.",
+  "excerpt": "Le scanner a encore déformé votre document : la page trois est de travers, la dernière à l'envers. Tourner une page prend dix secondes, pas un nouveau scan.",
+  "content": "Le scanner a encore raté votre document. La page trois est de travers. La dernière est à l'envers. Votre photo de contrat prise au téléphone ? De travers aussi. Rescanner, c'est la solution lente. Tourner le PDF, c'est la solution rapide.\n\n## Tourner ne touche pas au contenu\n\nTourner une page ne change que son orientation. Le texte reste du texte. Les signatures restent des signatures. Rien n'est régénéré ni compressé, la qualité reste exactement la même. [FileTools](https://filetools.eu) affiche chaque page en miniature et vous en tournez une d'un clic : 90 degrés à gauche, à droite, ou 180 complets pour les pages à l'envers.\n\n## Une page ou tout le document\n\nLa plupart du temps, une ou deux pages suffisent. Cliquez sur la miniature, tournez, terminé. Mais quand tout le scan du téléphone ressort de travers, tourner page par page est une perte de temps. Tournez tout d'abord, puis corrigez les pages isolées.\n\n## D'où viennent les PDF de travers\n\n- Scans téléphone : l'application enregistre la photo, pas l'orientation du document\n- Imprimantes multifonctions : le chargeur attrape la feuille de côté\n- Fichiers reçus : les clients envoient des PDF de travers plus souvent qu'on ne croit\n- E-books et exports de diapositives, tournés avant l'export\n\n## L'ordre de nettoyage\n\nFaites tout en une passe : tournez les pages de travers, supprimez les pages vides, puis corrigez l'ordre. Sur [FileTools](https://filetools.eu), le fichier ne quitte jamais votre navigateur : le traitement est local, les contrats et pièces d'identité n'atterrissent donc sur aucun serveur tiers. Si le résultat est trop lourd pour un e-mail, compressez-le juste après, dans le même onglet.\n\nC'est tout. Pas de logiciel, pas de compte, pas de nouveau scan. Et si vos \"scans\" sont en réalité des photos de pièces à redessiner, [RoomFlip](https://roomflip.io) s'en occupe. Une fois la photo remise à l'endroit.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "pivoter un pdf",
+    "orientation des pages",
+    "documents scannés",
+    "FileTools"
+  ],
+  "imageAlt": "Ordinateur portable avec des pages PDF ouvertes",
+  "publishedAt": "2026-09-06T07:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "related": [
+    "filetools-reorder-pdf-pages",
+    "filetools-merge-pdf",
+    "filetools-phone-scanner",
+    "filetools-pdf-compression"
+  ],
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "lang": "fr"
+}

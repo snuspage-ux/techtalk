@@ -1,0 +1,36 @@
+{
+  "slug": "filetools-rotate-pdf-cs",
+  "title": "Naskenované PDF našíř? Stránky otočíš za pár vteřin",
+  "description": "Sken vyšel otočený? Otoč jednu stránku nebo celý dokument přímo v prohlížeči. Bez instalace, bez nahrávání, bez nového skenování.",
+  "excerpt": "Skenovačka ti zase obrátila dokument: třetí strana je našíř a poslední vzhůru nohama. Otočení trvá deset vteřin, ne celé nové skenování.",
+  "content": "Skenovačka ti to zase otočila. Třetí strana je našíř. Poslední je vzhůru nohama. Focená smlouva z mobilu? Taky našíř. Nové skenování je pomalá cesta. Otočení PDF je ta rychlá.\n\n## Otáčení nesahá na obsah\n\nOtočení stránky mění jen její orientaci. Text zůstává textem. Podpisy zůstávají podpisy. Nic se nepřekresluje ani nekomprimuje, takže kvalita zůstane přesně tam, kde byla. [FileTools](https://filetools.eu) ukáže každou stránku jako náhled a kteroukoli otočíš jedním kliknutím: o 90 stupňů doleva, doprava, nebo o celých 180, když visí vzhůru nohama.\n\n## Jedna stránka, nebo celý dokument\n\nVětšinou stačí opravit jednu nebo dvě stránky. Klikneš na náhled, otočíš, hotovo. Ale když vyšel otočený celý sken z mobilu, otáčet stránku po stránce je ztráta času. Otoč všechno najednou a pak dořeš ty zbylé.\n\n## Odkud se otočená PDF berou\n\n- Skeny z mobilu: aplikace uloží fotku, ne orientaci dokumentu\n- Multifunkční tiskárny: podavač chytí papír našíř\n- Přijaté soubory: klienti posílají otočená PDF častěji, než bys čekal\n- Exporty eknih a prezentací otočené ještě před exportem\n\n## Pořadí úklidu\n\nUdělej to v jednom průchodu: otoč strany našíř, smaž prázdné, pak srovnej pořadí. Spustíš to na [FileTools](https://filetools.eu) a soubor nikdy neopustí prohlížeč: zpracování běží lokálně, takže smlouvy a občanky nepřistanou na cizím serveru. Když je výsledek moc velký na e-mail, rovnou ho v téže záložce zkomprimuj.\n\nTo je celá práce. Žádný software, žádný účet, žádné nové skenování. A když tvoje \"skeny\" jsou vlastně fotky místností k předělání, [RoomFlip](https://roomflip.io) si je vezme. Nejdřív je ale otoč.",
+  "category": "tools",
+  "tags": [
+    "pdf",
+    "otočení pdf",
+    "orientace stránek",
+    "skenované dokumenty",
+    "FileTools"
+  ],
+  "imageAlt": "Notebook s otevřenými stránkami PDF",
+  "publishedAt": "2026-09-06T07:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
+  "related": [
+    "filetools-reorder-pdf-pages",
+    "filetools-merge-pdf",
+    "filetools-phone-scanner",
+    "filetools-pdf-compression"
+  ],
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "lang": "cs"
+}
