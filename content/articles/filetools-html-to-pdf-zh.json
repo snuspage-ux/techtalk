@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-html-to-pdf-zh",
+  "lang": "zh",
+  "title": "把网页存成干净的 PDF：别再折腾打印窗口了",
+  "description": "浏览器的打印窗口做出来的 PDF 又乱又丑。FileTools 能把保存好的网页在几秒内转成干净、好读的 PDF。不用注册，不用上传。",
+  "excerpt": "打印窗口是为纸张设计的。其他用途，有更好的办法。",
+  "content": "你看到一篇好文章。可能是菜谱、教程，或者订房确认单。你想留着它。于是按下 Ctrl+P，把网页存成 PDF。结果得到一份十四页的文档，满是广告和导航菜单，页脚还写着\"第 3 页，共 14 页\"。\n\n浏览器的打印窗口是有史以来最糟糕的 PDF 工具。它是为纸张设计的。没人想要纸。你想要的是那篇文章。干净、好读、存在某个地方。\n\n## 为什么要存 PDF\n\n网页会死。作者停更、网站关闭、内容被删。今天还能打开的文章，明天可能就没了。PDF 是你自己的副本。它留在你的硬盘上，留在你的存档里，离线也能读。飞机上、没有信号的乡下、十年之后，都在。\n\n## FileTools 的做法\n\n[FileTools](https://filetools.eu) 几秒钟就能把保存好的网页转成整洁的 PDF。先在浏览器里保存页面。按 Ctrl+S（Mac 上是 Cmd+S），格式选\"网页，仅 HTML\"。然后把文件拖进 [FileTools](https://filetools.eu)，选 PDF，完事。\n\n不用注册，没有水印，也没有\"升级才能导出\"的弹窗。转换在浏览器本地完成，文件永远不会离开你的电脑。大多数在线转换工具会把文档传到自己的服务器上碰运气。FileTools 不会。\n\n## 干净的输入，干净的输出\n\n网页转 PDF 最大的问题是乱。转换之前先处理：\n\n- 打开浏览器的阅读模式，保存那个视图\n- 截图只适合短内容\n- 长文章保存完整 HTML，一次转换完\n\n输入干净，输出才干净。存什么，得什么。\n\n## 大家真正在存什么\n\n实际场景很快就攒起来了：\n\n- 订房确认和电子票，趁它们还没从邮箱里消失\n- 想离线读的长教程和说明书\n- 产品页面，趁它还没改版或下架\n- 要发给别人的合同草稿和报价单\n\n在网上干活的人都会攒参考资料。设计师存灵感图。[RoomFlip](https://roomflip.io) 每天都能看到，用户上传从网页上存下来的照片和灵感板。链接会失效。文件不会。\n\n## 最后\n\n你不需要打印机、PDF 插件，也不用装浏览器扩展。保存页面，用 [FileTools](https://filetools.eu) 转换，继续干活。整个过程十秒钟。它就应该只花十秒钟。",
+  "category": "tools",
+  "tags": [
+    "html",
+    "pdf",
+    "网页转pdf",
+    "filetools",
+    "转换"
+  ],
+  "publishedAt": "2026-09-07",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=800&q=80",
+  "imageAlt": "屏幕上的 HTML 代码，准备保存为 PDF",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

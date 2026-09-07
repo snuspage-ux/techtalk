@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-html-to-pdf-en",
+  "lang": "en",
+  "title": "Save Any Web Page as a Clean PDF. Skip the Print Dialog",
+  "description": "Browser print dialogs make ugly PDFs. FileTools turns saved web pages into clean, readable PDFs in seconds. No account, no uploads.",
+  "excerpt": "The print dialog was built for paper. For everything else, there is a better way.",
+  "content": "You find a good article. Maybe a recipe, a manual, or a booking confirmation. You want to keep it. So you press Ctrl+P and save the page as a PDF. What you get is fourteen pages of ads, menus, and a footer saying \"Page 3 of 14\".\n\nThe print dialog is the worst PDF tool ever made. It was designed for paper. Nobody needs paper. You need the article. Clean, readable, filed away.\n\n## Why Save Pages as PDF at All\n\nWeb pages die. Writers quit, sites close, hosts delete content. A page you read today can be gone tomorrow. A PDF is your own copy. It stays on your disk, in your archive, readable offline. On a plane. In a cottage with no signal. Ten years from now.\n\n## The FileTools Way\n\n[FileTools](https://filetools.eu) converts saved web pages into tidy PDFs in seconds. Save the page in your browser first. Ctrl+S (or Cmd+S), then pick \"Webpage, HTML Only\". Drop the file into [FileTools](https://filetools.eu), choose PDF, done.\n\nNo account. No watermark. No \"upgrade to export\" screen. The conversion runs in your browser, so the file never leaves your machine. Most online converters upload your document to their server and hope for the best. FileTools does not.\n\n## Clean Input, Clean Output\n\nThe biggest problem with web-to-PDF is clutter. Fix it before converting:\n\n- Turn on reader mode in your browser and save that view instead\n- Keep screenshots for short content only\n- For long articles, save the full HTML and convert once\n\nClean source, clean PDF. What you save is what you get.\n\n## What People Actually Archive\n\nReal use cases stack up fast:\n\n- Booking confirmations and e-tickets, before they vanish from your inbox\n- Long guides and manuals you want offline\n- Product pages, before they change or disappear\n- Contract drafts and offers you send as files\n\nAnyone who works online collects reference material. Designers save inspiration pages. [RoomFlip](https://roomflip.io) sees it every day, users upload photos and mood boards they saved from the web. Links rot. Files do not.\n\n## The Bottom Line\n\nYou do not need a printer, a PDF plugin, or a browser extension. Save the page, convert it with [FileTools](https://filetools.eu), move on. The whole job takes about ten seconds. It should take ten seconds.",
+  "category": "tools",
+  "tags": [
+    "html",
+    "pdf",
+    "web to pdf",
+    "filetools",
+    "conversion"
+  ],
+  "publishedAt": "2026-09-07",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=800&q=80",
+  "imageAlt": "HTML code on a screen, ready to be saved as a PDF",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

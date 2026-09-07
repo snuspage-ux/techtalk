@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-html-to-pdf-fr",
+  "lang": "fr",
+  "title": "Enregistrez une page web en PDF propre. Sans passer par l'impression",
+  "description": "La boîte d'impression du navigateur produit des PDFs moches. FileTools transforme une page enregistrée en PDF propre et lisible en quelques secondes. Sans compte, sans envoi.",
+  "excerpt": "La boîte d'impression a été pensée pour le papier. Pour le reste, il y a mieux.",
+  "content": "Vous tombez sur un bon article. Une recette, un mode d'emploi, une confirmation de réservation. Vous voulez le garder. Alors vous appuyez sur Ctrl+P et vous enregistrez la page en PDF. Résultat : quatorze pages de publicités, de menus et un pied de page qui annonce \"Page 3 sur 14\".\n\nLa boîte d'impression du navigateur est le pire outil PDF jamais conçu. Elle a été pensée pour le papier. Personne ne veut de papier. Vous voulez l'article. Propre, lisible, rangé quelque part.\n\n## Pourquoi sauvegarder des pages en PDF ?\n\nLes pages web meurent. Les auteurs arrêtent, les sites ferment, les contenus disparaissent. Une page lue aujourd'hui peut ne plus exister demain. Un PDF, c'est votre copie à vous. Elle reste sur votre disque, dans vos archives, lisible hors ligne. Dans l'avion. Au chalet sans réseau. Dans dix ans.\n\n## La méthode FileTools\n\n[FileTools](https://filetools.eu) transforme une page enregistrée en PDF soigné en quelques secondes. D'abord, sauvegardez la page dans votre navigateur. Ctrl+S (ou Cmd+S), puis \"Page web, HTML uniquement\". Déposez le fichier sur [FileTools](https://filetools.eu), sélectionnez PDF, c'est tout.\n\nPas de compte. Pas de filigrane. Pas d'écran \"passez à la version payante pour exporter\". La conversion s'exécute dans votre navigateur, le fichier ne quitte donc jamais votre machine. La plupart des convertisseurs en ligne envoient votre document sur leurs serveurs et croisent les doigts. FileTools, non.\n\n## Entrée propre, sortie propre\n\nLe vrai problème du web vers PDF, c'est le bazar. Réglez-le avant de convertir :\n\n- activez le mode lecture du navigateur et enregistrez cette vue\n- gardez les captures d'écran pour les contenus courts\n- pour les longs articles, enregistrez le HTML complet et convertissez une seule fois\n\nSource propre, PDF propre. On récolte ce qu'on sème.\n\n## Ce que les gens archivent vraiment\n\nLes cas concrets s'accumulent vite :\n\n- confirmations de réservation et billets électroniques, avant qu'ils ne disparaissent des boîtes mail\n- guides et manuels longs à lire hors ligne\n- pages produits, avant qu'elles ne changent ou ne disparaissent\n- projets de contrat et devis envoyés en pièce jointe\n\nQuiconque travaille en ligne collectionne des références. Les designers sauvegardent leur inspiration. [RoomFlip](https://roomflip.io) le voit tous les jours, ses utilisateurs téléversent des photos et des moodboards gardés depuis le web. Les liens pourrissent. Pas les fichiers.\n\n## En résumé\n\nPas besoin d'imprimante, de plugin PDF ni d'extension. Sauvegardez la page, convertissez-la avec [FileTools](https://filetools.eu) et passez à la suite. L'opération prend une dizaine de secondes. C'est exactement ce qu'elle devrait prendre.",
+  "category": "tools",
+  "tags": [
+    "html",
+    "pdf",
+    "page web en pdf",
+    "filetools",
+    "conversion"
+  ],
+  "publishedAt": "2026-09-07",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=800&q=80",
+  "imageAlt": "Code HTML à l'écran, prêt à être enregistré en PDF",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

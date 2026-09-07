@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-html-to-pdf-cs",
+  "lang": "cs",
+  "title": "Uložte si webovou stránku jako čisté PDF. Tiskový dialog vynechte",
+  "description": "Tiskový dialog v prohlížeči dělá ošklivá PDF. FileTools převede uloženou stránku na čisté, čitelné PDF během pár vteřin. Bez účtu, bez uploadu.",
+  "excerpt": "Tiskový dialog je dělaný na papír. Na všechno ostatní existuje lepší cesta.",
+  "content": "Našli jste dobrý článek. Třeba recept, návod nebo potvrzení rezervace. Chcete si ho nechat. Tak zmáčknete Ctrl+P a uložíte stránku jako PDF. Výsledek? Čtrnáct stránek reklam, menu a patička se vzkazem \"strana 3 ze 14\".\n\nTiskový dialog je nejhorší PDF nástroj, jaký kdy vznikl. Je navržený pro papír. Papír nechce nikdo. Vy chcete ten článek. Čistý, čitelný a někde uložený.\n\n## Proč si vůbec ukládat stránky jako PDF\n\nWebové stránky umírají. Autoři skončí, weby se zavřou, obsah se smaže. Stránka, kterou čtete dnes, může být zítra pryč. PDF je vaše vlastní kopie. Zůstane na vašem disku, ve vašem archivu, čitelná offline. V letadle. Na chalupě bez signálu. Za deset let.\n\n## Jak na to s FileTools\n\n[FileTools](https://filetools.eu) převede uloženou stránku na úhledné PDF během pár vteřin. Nejdřív si stránku uložte v prohlížeči. Ctrl+S (nebo Cmd+S), pak zvolte \"Webová stránka, pouze HTML\". Soubor nahrajte do [FileTools](https://filetools.eu), vyberte PDF a je hotovo.\n\nŽádný účet. Žádný vodoznak. Žádná hláška \"přejděte na premium pro export\". Konverze běží přímo ve vašem prohlížeči, takže soubor nikdy neopustí váš počítač. Většina online konvertorů nahraje dokument na svůj server a doufá v nejlepší. FileTools ne.\n\n## Čistý vstup, čistý výstup\n\nNejvětší problém převodu webu na PDF je nepořádek. Vyřešte ho před konverzí:\n\n- zapněte v prohlížeči režim čtení a uložte až tenhle pohled\n- screenshoty nechte na krátký obsah\n- delší články uložte jako celé HTML a konvertujte jednou\n\nZ čistého zdroje je čisté PDF. Co si uložíte, to dostanete.\n\n## Co si lidi reálně archivují\n\nPoužití se nabírají rychle:\n\n- potvrzení rezervací a e-ticket, než zmizí z e-mailu\n- dlouhé návody a manuály na offline čtení\n- produktové stránky, než se změní nebo zmizí\n- návrhy smluv a nabídky, které posíláte jako soubory\n\nKaždý, kdo pracuje online, sbírá referenční materiál. Designéři si ukládají inspiraci. [RoomFlip](https://roomflip.io) to vidí denně, uživatelé nahrávají fotky a moodboardy uložené z webu. Odkazy hnijí. Soubory ne.\n\n## Závěr\n\nNepotřebujete tiskárnu, PDF plugin ani rozšíření do prohlížeče. Uložte stránku, převeďte ji ve [FileTools](https://filetools.eu) a jděte dál. Celá práce zabere asi deset vteřin. Přesně tolik by zabrat měla.",
+  "category": "tools",
+  "tags": [
+    "html",
+    "pdf",
+    "web na pdf",
+    "filetools",
+    "konverze"
+  ],
+  "publishedAt": "2026-09-07",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=800&q=80",
+  "imageAlt": "HTML kód na obrazovce, připravený k uložení jako PDF",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

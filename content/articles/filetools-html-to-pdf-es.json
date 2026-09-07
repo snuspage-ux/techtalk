@@ -1,0 +1,31 @@
+{
+  "slug": "filetools-html-to-pdf-es",
+  "lang": "es",
+  "title": "Guarda cualquier página web como PDF limpio. Olvídate del diálogo de impresión",
+  "description": "El diálogo de impresión del navegador genera PDFs feos. FileTools convierte una página guardada en un PDF limpio y legible en segundos. Sin cuenta, sin subidas.",
+  "excerpt": "El diálogo de impresión está hecho para papel. Para todo lo demás hay algo mejor.",
+  "content": "Encuentras un buen artículo. Una receta, un manual, la confirmación de una reserva. Quieres quedártelo. Así que pulsas Ctrl+P y guardas la página como PDF. Lo que sale es un documento de catorce páginas lleno de anuncios, menús y un pie que dice \"página 3 de 14\".\n\nEl diálogo de impresión del navegador es la peor herramienta PDF que se ha inventado. Está pensado para papel. Nadie quiere papel. Tú quieres el artículo. Limpio, legible y guardado en algún sitio.\n\n## ¿Por qué guardar páginas como PDF?\n\nLas páginas web mueren. Los autores lo dejan, los sitios cierran, los contenidos se borran. Una página que lees hoy puede no estar mañana. Un PDF es tu propia copia. Se queda en tu disco, en tu archivo, legible sin conexión. En el avión. En una casa rural sin cobertura. Dentro de diez años.\n\n## El método FileTools\n\n[FileTools](https://filetools.eu) convierte una página guardada en un PDF ordenado en cuestión de segundos. Primero guarda la página en tu navegador. Ctrl+S (o Cmd+S), luego \"Página web, solo HTML\". Arrastra el archivo a [FileTools](https://filetools.eu), selecciona PDF y listo.\n\nSin cuenta. Sin marca de agua. Sin pantalla de \"actualiza para exportar\". La conversión se ejecuta en tu navegador, así que el archivo nunca sale de tu equipo. La mayoría de convertidores online suben tu documento a su servidor y rezan. FileTools no.\n\n## Entra limpio, sale limpio\n\nEl mayor problema de pasar de web a PDF es el desorden. Resuélvelo antes de convertir:\n\n- activa el modo lectura del navegador y guarda esa vista\n- usa capturas de pantalla solo para contenido corto\n- en artículos largos, guarda el HTML completo y convierte una sola vez\n\nFuente limpia, PDF limpio. Lo que guardas es lo que recibes.\n\n## Lo que la gente archiva de verdad\n\nLos casos reales se amontonan rápido:\n\n- confirmaciones de reserva y billetes electrónicos, antes de que desaparezcan del correo\n- guías y manuales largos para leer sin conexión\n- páginas de producto, antes de que cambien o desaparezcan\n- borradores de contratos y ofertas que envías como archivo\n\nTodo el que trabaja en línea colecciona material de referencia. Los diseñadores guardan inspiración. [RoomFlip](https://roomflip.io) lo ve cada día, sus usuarios suben fotos y moodboards que guardaron de la web. Los enlaces se pudren. Los archivos no.\n\n## En resumen\n\nNo necesitas impresora, ni plugin de PDF, ni extensión. Guarda la página, conviértela con [FileTools](https://filetools.eu) y sigue con tu vida. Todo el proceso dura unos diez segundos. Y debería durar eso.",
+  "category": "tools",
+  "tags": [
+    "html",
+    "pdf",
+    "web a pdf",
+    "filetools",
+    "conversión"
+  ],
+  "publishedAt": "2026-09-07",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=800&q=80",
+  "imageAlt": "Código HTML en pantalla, listo para guardarse como PDF",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}
