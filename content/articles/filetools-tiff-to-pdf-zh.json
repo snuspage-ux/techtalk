@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-tiff-to-pdf-zh",
+  "lang": "zh",
+  "title": "TIFF 文件还停留在上世纪 90 年代？转成 PDF 吧",
+  "description": "银行、扫描仪和传真机至今仍会生成 TIFF 文件。本文教你如何把它们变成干净的 PDF——免费、在浏览器里完成、无需上传服务器。",
+  "excerpt": "TIFF 是扫描仪时代的遗物。做存档可以，其他场合纯属添堵。转一次，忘掉它。",
+  "content": "直说吧：你的扫描仪存出来的是 TIFF 文件。办公室的传真机也是，银行数字化旧合同时同样是。然后有人找你要\"那份文件\"，你只能盯着一个 40 MB、半个世界都打不开的文件发呆。\n\n## TIFF 是干什么的\n\nTIFF 诞生于 80 年代，只有一个任务：无损保存扫描图像。这一点它做得很好。每一页都是一张未压缩（或轻度压缩）的图像，所以文件巨大，而且几乎没什么程序能好好预览。它从来就不是为分享设计的。\n\n## 现代替代品\n\nPDF 接管是有理由的。它支持多页文档，任何设备都能打开，压缩效果好，打印效果到处一致。别人要\"文件\"时，要的基本都是 PDF。\n\n## 在浏览器里转换\n\n[FileTools](https://filetools.eu) 几秒钟就能把 TIFF 转成 PDF。拖入文件，选 PDF，完成。多页 TIFF 会保留原有页码顺序。转换在你自己的浏览器里本地完成，文件从不上传服务器——扫描件是合同或身份证时尤其省心。\n\n如果 TIFF 是文字扫描件，把结果丢给 [FileTools 的 OCR](https://filetools.eu)，就能得到一个可搜索的 PDF。陈年纸质档案几分钟内就变得可检索。\n\n## 什么时候保留 TIFF\n\nTIFF 不是坏东西。印刷厂和印前流程仍然依赖它，为了存档做高分辨率扫描也是合理选择。但别把它发给别人。给这个世界一份 PDF 副本，原件想留就留。\n\n模式很简单：扫描、转换、以 PDF 归档。问问任何一家设计工作室——[RoomFlip](https://roomflip.io) 收到过客户用各种格式发来的户型图和灵感照片，而 PDF 是唯一永远好用的格式。你的纸质文件也照做就行。\n\n## 结论\n\nTIFF 是另一个时代的格式。转成 PDF，继续生活。",
+  "category": "tools",
+  "tags": [
+    "TIFF",
+    "PDF",
+    "文件转换",
+    "扫描仪",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-09",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&q=80",
+  "imageAlt": "文件扫描仪和一叠纸质文件",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-ocr",
+    "filetools-phone-scanner",
+    "filetools-pdf-compression"
+  ]
+}

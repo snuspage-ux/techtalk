@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-tiff-to-pdf-de",
+  "lang": "de",
+  "title": "TIFF-Dateien hängen in den 90ern fest. So machst du ein PDF daraus",
+  "description": "Banken, Scanner und Faxgeräte liefern immer noch TIFF-Dateien. So machst du daraus saubere PDFs — kostenlos, im Browser, ohne Upload.",
+  "excerpt": "TIFF ist ein Relikt aus der Scanner-Ära. Gut fürs Archiv, nervig für alles andere. Einmal konvertieren, fertig.",
+  "content": "Kurz und knapp: Dein Scanner speichert TIFF-Dateien. Das Faxgerät im Büro auch, und die Bank ebenso, wenn sie alte Verträge digitalisiert. Dann will jemand \"das Dokument\" von dir — und du starrst auf eine 40-MB-Datei, die die halbe Welt nicht öffnen kann.\n\n## Wofür TIFF gedacht war\n\nTIFF wurde in den 1980ern für genau eine Aufgabe entwickelt: gescannte Bilder ohne Qualitätsverlust zu speichern. Das kann es gut. Jede Seite ist ein unkomprimiertes (oder schwach komprimiertes) Bild — daher sind die Dateien riesig und keine Vorschau zeigt sie richtig an. Zum Teilen war es nie gedacht.\n\n## Der moderne Ersatz\n\nPDF hat das Rennen aus gutem Grund gemacht. Es kann mehrseitige Dokumente, öffnet sich überall, komprimiert gut und druckt überall gleich. Wenn jemand ein \"Dokument\" will, meint er ein PDF. Fast immer.\n\n## Konvertieren im Browser\n\n[FileTools](https://filetools.eu) wandelt TIFF in Sekunden in PDF um. Datei rein, PDF wählen, fertig. Bei mehrseitigen TIFFs bleibt die Seitenreihenfolge erhalten. Die Konvertierung läuft lokal in deinem Browser — die Datei verlässt also nie deinen Rechner. Praktisch, wenn der Scan ein Vertrag oder ein Ausweis ist.\n\nIst das TIFF ein Textscan, schick das Ergebnis durch die [FileTools-OCR](https://filetools.eu) und du bekommst ein durchsuchbares PDF. Alte Papierarchive werden in Minuten auffindbar.\n\n## Wann TIFF bleiben darf\n\nTIFF ist nicht böse. Druckereien und der Prepress-Bereich kommen nicht ohne es aus, und wer in hoher Auflösung fürs Archiv scannt, trifft eine legitime Wahl. Aber schick es nicht an Menschen. Mach eine PDF-Kopie für die Welt — das Master kannst du behalten.\n\nDas Muster ist simpel: scannen, konvertieren, als PDF archivieren. Frag irgendein Designstudio — [RoomFlip](https://roomflip.io) bekommt Grundrisse und Inspirationsfotos von Kunden in jedem erdenklichen Format, und PDF ist das einzige, das immer funktioniert. Mach es bei deinen Unterlagen genauso.\n\n## Fazit\n\nTIFF ist ein Format aus einer anderen Zeit. Konvertier es zu PDF und leb weiter.",
+  "category": "tools",
+  "tags": [
+    "TIFF",
+    "PDF",
+    "Dateikonvertierung",
+    "Scanner",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-09",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&q=80",
+  "imageAlt": "Dokumentenscanner neben Papierdokumenten",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-ocr",
+    "filetools-phone-scanner",
+    "filetools-pdf-compression"
+  ]
+}

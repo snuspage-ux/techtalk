@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-tiff-to-pdf-en",
+  "lang": "en",
+  "title": "TIFF Files Are Stuck in the 1990s. Convert Them to PDF",
+  "description": "Banks, scanners and fax machines still produce TIFF files. Here is how to turn them into clean, shareable PDFs — free, in your browser, no upload.",
+  "excerpt": "TIFF is a relic from the scanner era. Fine for archives, painful for everything else. Convert once, and forget it.",
+  "content": "Straight to the point: your scanner saves TIFF files. So does the fax machine at the office, and so does the bank when it digitizes old contracts. Then someone asks you to send \"the document\", and you stare at a 40 MB file that half the world cannot open.\n\n## What TIFF Was For\n\nTIFF was designed in the 1980s for one job: storing scanned images without losing quality. It does that well. Every page is an uncompressed (or lightly compressed) image, which is why files are huge and why nothing previews them properly. It was never meant for sharing.\n\n## The Modern Replacement\n\nPDF took over for a reason. It holds multi-page documents, opens on any device, compresses well, and prints the same everywhere. When someone asks for a document, they mean a PDF. Almost always.\n\n## Convert in Your Browser\n\n[FileTools](https://filetools.eu) converts TIFF to PDF in seconds. Drop the file in, pick PDF, done. Multi-page TIFFs keep their page order. The conversion runs locally in your browser, so the file never touches a server — handy when the scan is a contract or an ID.\n\nIf the TIFF is a text scan, run the result through [FileTools OCR](https://filetools.eu) and you get a searchable PDF. Old paper archives become findable in minutes.\n\n## When to Keep TIFF\n\nTIFF is not evil. Print shops and prepress still rely on it, and scanning at high resolution for archival is a legitimate choice. Just do not send it to people. Make a PDF copy for the world, keep the master if you must.\n\nThe pattern is simple: scan, convert, archive as PDF. Ask any design studio — [RoomFlip](https://roomflip.io) gets client floor plans and inspiration photos in every format imaginable, and PDF is the one that always works. Do the same with your paperwork.\n\n## Bottom Line\n\nTIFF is a format from another era. Convert it to PDF and move on.",
+  "category": "tools",
+  "tags": [
+    "TIFF",
+    "PDF",
+    "file conversion",
+    "scanner",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-09",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&q=80",
+  "imageAlt": "Document scanner next to a stack of paper documents",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-ocr",
+    "filetools-phone-scanner",
+    "filetools-pdf-compression"
+  ]
+}

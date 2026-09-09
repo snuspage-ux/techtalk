@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-tiff-to-pdf-cs",
+  "lang": "cs",
+  "title": "Soubory TIFF uvízly v 90. letech. Převeďte je do PDF",
+  "description": "Banky, skenery i faxy stále produkují TIFF. Poradíme, jak z nich udělat čistá PDF — zdarma, v prohlížeči, bez nahrávání na server.",
+  "excerpt": "TIFF je přežitek ze skenerové éry. Pro archivy fajn, pro všechno ostatní otrava. Převeďte jednou a zapomeňte na něj.",
+  "content": "Jdeme rovnou k věci: váš skener ukládá soubory TIFF. Stejně tak kancelářský fax a stejně tak banka, když digitalizuje staré smlouvy. Pak po vás někdo chce \"ten dokument\" a vy zíráte na 40 MB soubor, který polovina světa neumí otevřít.\n\n## K čemu TIFF sloužil\n\nTIFF vznikl v 80. letech pro jedinou práci: ukládat naskenované obrázky bez ztráty kvality. To umí dobře. Každá stránka je nekomprimovaný (nebo mírně komprimovaný) obrázek, proto jsou soubory obří a nic si je pořádně nezobrazí. Pro sdílení nikdy nebyl.\n\n## Moderní náhrada\n\nPDF převzalo štafetu z dobrého důvodu. Zvládne vícestránkové dokumenty, otevře se na čemkoliv, dobře se komprimuje a všude tiskne stejně. Když někdo chce \"dokument\", myslí tím PDF. Téměř vždy.\n\n## Převod v prohlížeči\n\n[FileTools](https://filetools.eu) převede TIFF na PDF během pár sekund. Hodíte soubor dovnitř, zvolíte PDF a je hotovo. Vícestránkové TIFFy si zachovají pořadí stránek. Převod běží lokálně ve vašem prohlížeči, takže soubor nikdy neopustí váš počítač — což se hodí, když je sken smlouva nebo občanka.\n\nKdyž je TIFF skenem textu, prožeňte ho [OCR ve FileTools](https://filetools.eu) a dostanete prohledávatelné PDF. Staré papírové archivy najdete za pár minut.\n\n## Kdy si TIFF nechat\n\nTIFF není zlo. Tiskárny a předtisková příprava se bez něj neobejdou, a když skenujete ve vysokém rozlišení kvůli archivu, je to legitimní volba. Jen ho lidem neposílejte. Pro svět vytvořte kopii v PDF, master si klidně nechte.\n\nVzor je jednoduchý: sken, převod, archiv ve formátu PDF. Zeptejte se jakéhokoliv designového studia — [RoomFlip](https://roomflip.io) dostává půdorysy a inspirační fotky od klientů v každém myslitelném formátu, a PDF je jediné, které funguje vždycky. Udělejte to samé se svými papíry.\n\n## Verdikt\n\nTIFF je formát z jiné éry. Převeďte ho do PDF a žijte dál.",
+  "category": "tools",
+  "tags": [
+    "TIFF",
+    "PDF",
+    "konverze souborů",
+    "skener",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-09",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&q=80",
+  "imageAlt": "Dokumentový skener vedle papírových dokumentů",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-ocr",
+    "filetools-phone-scanner",
+    "filetools-pdf-compression"
+  ]
+}
