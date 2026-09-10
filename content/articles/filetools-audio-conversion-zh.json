@@ -1,0 +1,34 @@
+{
+  "slug": "filetools-audio-conversion-zh",
+  "lang": "zh",
+  "title": "M4A、WAV、MP3：音频格式怎么选，怎么转",
+  "description": "手机录出来是 M4A，剪辑软件要 WAV，发邮件只能用 MP3。一篇讲清楚音频格式怎么选，以及如何在浏览器里直接完成转换。",
+  "excerpt": "大部分音频问题不是麦克风的锅，而是在错误的环节选了错误的格式。",
+  "content": "用手机录了一段采访，拿到的是 M4A。剪辑软件不认。你导成 WAV，一小时的音频突然变成 600 MB。太熟悉了。\n\n## 什么场景用什么格式\n\nWAV 是无压缩的。录音和剪辑阶段用它，追求零损失。代价是每分钟约 10 MB。\n\nMP3 是通用格式。发邮件、放网页、做演示都合适。192 kbps 下你听不出差别，体积只剩十分之一。\n\nM4A（AAC）是 iPhone 和大多数录音笔的默认输出。同样体积下音质优于 MP3，但一些老软件仍然打不开。\n\nFLAC 和 WAV 一样无损，占用空间大约只有一半，适合存音乐档案。\n\n## 一条简单规则\n\n要剪辑就用 WAV，要发给别人就用 MP3，要长期存档就用 FLAC。判断到此为止。\n\n## 不装软件也能转\n\n不需要任何程序。把文件拖进 [FileTools](https://filetools.eu)，选好目标格式和码率，下载结果就行。全部在浏览器里完成，录音不会离开你的电脑——做采访和客户素材时，这一点很关键。\n\n批量也可以：一次拖进三十个文件，统一转成同一种格式。\n\n如果这段音频最终要做成多语言视频，[TubeVoice](https://tubevoice.io) 可以在此基础上生成配音和字幕。",
+  "category": "tools",
+  "tags": [
+    "音频",
+    "文件转换",
+    "MP3",
+    "WAV",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-11T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800&q=80",
+  "imageAlt": "耳机和显示音频波形的笔记本电脑",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-batch-convert",
+    "filetools-compress-files-online"
+  ]
+}

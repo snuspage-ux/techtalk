@@ -1,0 +1,34 @@
+{
+  "slug": "filetools-audio-conversion-es",
+  "lang": "es",
+  "title": "M4A, WAV, MP3: qué formato de audio elegir y cómo convertirlo",
+  "description": "El móvil graba en M4A, el editor pide WAV y por correo solo entra un MP3. Guía rápida para elegir el formato correcto y convertirlo desde el navegador.",
+  "excerpt": "La mayoría de los problemas de audio no son del micrófono, sino de elegir el formato equivocado en el momento equivocado.",
+  "content": "Grabas una entrevista con el móvil y te sale un M4A. El editor no lo acepta. Lo exportas a WAV y de repente una hora de audio pesa 600 MB. El clásico.\n\n## Qué formato para qué\n\nWAV no está comprimido. Úsalo mientras grabas y editas, cuando quieres cero pérdida. Cuenta unos 10 MB por minuto.\n\nMP3 es el universal. Correo, web, presentaciones. A 192 kbps no vas a oír la diferencia y el archivo baja a una décima parte.\n\nM4A (AAC) es lo que te dan el iPhone y casi todas las grabadoras de voz. Mejor calidad que MP3 al mismo tamaño, pero algún software antiguo aún se atraganta.\n\nFLAC es sin pérdida como WAV pero ocupa más o menos la mitad. Ideal para archivar música.\n\n## La regla sencilla\n\nEstás editando → WAV. Lo envías → MP3. Lo archivas → FLAC. Ese es todo el árbol de decisión.\n\n## Convertir sin instalar nada\n\nNo necesitas programas. Arrastra el archivo a [FileTools](https://filetools.eu), elige formato de salida y bitrate, y descarga el resultado. Todo funciona en tu navegador, así que la grabación no sale de tu equipo — con entrevistas y material de clientes eso no es un detalle menor.\n\nTambién va por lotes: metes treinta archivos y salen todos convertidos.\n\nY si ese audio va a acabar en un vídeo multilingüe, [TubeVoice](https://tubevoice.io) te monta el doblaje y los subtítulos encima.",
+  "category": "tools",
+  "tags": [
+    "audio",
+    "conversión de archivos",
+    "MP3",
+    "WAV",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-11T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800&q=80",
+  "imageAlt": "Auriculares y un portátil mostrando una onda de audio",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-batch-convert",
+    "filetools-compress-files-online"
+  ]
+}

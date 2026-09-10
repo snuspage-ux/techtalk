@@ -1,0 +1,34 @@
+{
+  "slug": "filetools-audio-conversion-fr",
+  "lang": "fr",
+  "title": "M4A, WAV, MP3 : quel format audio choisir et comment convertir",
+  "description": "Ton téléphone enregistre en M4A, ton logiciel veut du WAV et le mail n'accepte que du MP3. Guide rapide pour choisir le bon format et convertir en ligne.",
+  "excerpt": "La plupart des problèmes audio ne viennent pas du micro, mais d'un mauvais format choisi au mauvais moment.",
+  "content": "Tu enregistres une interview sur ton téléphone : tu obtiens un M4A. Ton logiciel de montage le refuse. Tu exportes en WAV et d'un coup une heure d'audio pèse 600 Mo. Le classique.\n\n## Quel format pour quoi\n\nLe WAV n'est pas compressé. Utilise-le pendant l'enregistrement et le montage, quand tu veux zéro perte. Compte environ 10 Mo par minute.\n\nLe MP3 est le format universel. Mail, web, présentation. À 192 kbps tu n'entends pas la différence et le fichier tombe au dixième.\n\nLe M4A (AAC) est ce que te donnent l'iPhone et la plupart des dictaphones. Meilleure qualité que le MP3 à taille égale, mais certains vieux logiciels bloquent dessus.\n\nLe FLAC est sans perte comme le WAV mais prend à peu près moitié moins de place. Parfait pour archiver de la musique.\n\n## La règle simple\n\nTu montes → WAV. Tu envoies → MP3. Tu archives → FLAC. Voilà tout l'arbre de décision.\n\n## Convertir sans rien installer\n\nAucun logiciel nécessaire. Glisse le fichier dans [FileTools](https://filetools.eu), choisis le format de sortie et le débit, télécharge le résultat. Tout tourne dans ton navigateur, donc l'enregistrement ne quitte jamais ta machine — pour des interviews ou des fichiers clients, ce n'est pas un détail.\n\nLe traitement par lot marche aussi : trente fichiers d'un coup, tous convertis.\n\nEt si cet audio doit devenir une vidéo multilingue, [TubeVoice](https://tubevoice.io) te génère le doublage et les sous-titres.",
+  "category": "tools",
+  "tags": [
+    "audio",
+    "conversion de fichiers",
+    "MP3",
+    "WAV",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-11T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800&q=80",
+  "imageAlt": "Casque et ordinateur portable affichant une forme d'onde audio",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-batch-convert",
+    "filetools-compress-files-online"
+  ]
+}

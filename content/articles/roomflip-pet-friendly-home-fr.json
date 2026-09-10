@@ -1,0 +1,34 @@
+{
+  "slug": "roomflip-pet-friendly-home-fr",
+  "lang": "fr",
+  "title": "Vivre avec un chien ou un chat sans sacrifier la déco",
+  "description": "Comment aménager un intérieur qui résiste aux griffes, aux poils et à la boue tout en restant beau. Tissus, sols et couleurs qui tiennent la route.",
+  "excerpt": "Tu n'as pas à choisir entre un bel appartement et un chien heureux. Il suffit de choisir les bons matériaux dès le départ.",
+  "content": "Un canapé en bouclette et un chat : c'est une combinaison que tu testes exactement une fois. Ensuite tu comptes les boucles arrachées. Bonne nouvelle : un intérieur avec animaux peut être très beau. Tu décides simplement autrement.\n\n## Les matières qui tiennent\n\nPour le tissu d'ameublement, vise un tissage serré : microfibre, toile outdoor ou vrai cuir. Les griffes glissent parce qu'il n'y a rien à accrocher. La bouclette, la chenille, le lin et tout ce qui a une boucle visible, tu oublies.\n\nAu sol, le vinyle ou le carrelage battent le bois tendre. Un chêne dureté 3 encaisse bien plus qu'un pin. Et pour les tapis, prends des dalles de moquette : quand une est fichue, tu remplaces une dalle, pas tout le tapis.\n\n## Anticipe les poils et les odeurs\n\nChoisis la couleur en fonction de l'animal, pas l'inverse. Canapé noir plus chien blanc, c'est une bataille quotidienne. Un gris moyen, chiné ou à motifs cache environ 80 % de ce que tu aspirerais autrement chaque jour.\n\nLe lavable en machine, c'est la règle d'or. Housses amovibles, plaids lavables, tapis de couloir à 40 °C. Ce qui ne se lave pas sent au bout d'un an.\n\n## Teste avant d'acheter\n\nL'erreur qui coûte cher, c'est le canapé que tu détestes un mois plus tard. Photographie la pièce et envoie-la dans [RoomFlip](https://roomflip.io) : l'IA te montre le rendu avec un tissu plus foncé, un autre tapis ou des meubles déplacés. Cinq versions en dix minutes, et ensuite tu commandes.\n\nEt pour envoyer tes photos à une agence ou une annonce, [FileTools](https://filetools.eu) les compresse sans perte visible, directement dans le navigateur.",
+  "category": "tools",
+  "tags": [
+    "décoration",
+    "animaux",
+    "matériaux",
+    "maison",
+    "RoomFlip"
+  ],
+  "publishedAt": "2026-09-11T05:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+  "imageAlt": "Salon avec canapé, tapis et un chien allongé près de la fenêtre",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "roomflip-renter-friendly",
+    "roomflip-living-room-redesign"
+  ]
+}

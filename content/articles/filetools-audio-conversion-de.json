@@ -1,0 +1,34 @@
+{
+  "slug": "filetools-audio-conversion-de",
+  "lang": "de",
+  "title": "M4A, WAV, MP3: Welches Audioformat wann — und wie umwandeln",
+  "description": "Das Handy nimmt M4A auf, der Editor will WAV, per Mail geht nur MP3. Kurze Anleitung, welches Format du brauchst und wie du es im Browser umwandelst.",
+  "excerpt": "Die meisten Audioprobleme liegen nicht am Mikrofon, sondern am falschen Format zum falschen Zeitpunkt.",
+  "content": "Du nimmst ein Interview mit dem Handy auf und bekommst eine M4A. Der Editor verweigert sie. Du exportierst nach WAV — und plötzlich hat eine Stunde Audio 600 MB. Kennt man.\n\n## Welches Format wofür\n\nWAV ist unkomprimiert. Nimm es beim Aufnehmen und Schneiden, wenn du null Verlust willst. Rechne mit rund 10 MB pro Minute.\n\nMP3 ist der Allrounder. Mail, Web, Präsentation. Bei 192 kbps hörst du keinen Unterschied und die Datei schrumpft auf ein Zehntel.\n\nM4A (AAC) liefert dir das iPhone und die meisten Diktiergeräte. Bessere Qualität als MP3 bei gleicher Größe, aber ältere Software streikt gelegentlich.\n\nFLAC ist verlustfrei wie WAV, braucht aber etwa die Hälfte des Platzes. Ideal fürs Musikarchiv.\n\n## Die einfache Regel\n\nDu bearbeitest Audio → WAV. Du verschickst es → MP3. Du archivierst → FLAC. Mehr Entscheidung brauchst du nicht.\n\n## Umwandeln ohne Installation\n\nDafür brauchst du keine Software. Zieh die Datei in [FileTools](https://filetools.eu), wähle Zielformat und Bitrate, lade das Ergebnis herunter. Alles läuft im Browser, die Aufnahme verlässt deinen Rechner also nie — bei Interviews und Kundenmaterial ist das kein Detail.\n\nAuch stapelweise: dreißig Dateien auf einmal rein, alle im selben Format wieder raus.\n\nUnd wenn aus dem Audio ein mehrsprachiges Video werden soll, baut [TubeVoice](https://tubevoice.io) dir Synchronisation und Untertitel dazu.",
+  "category": "tools",
+  "tags": [
+    "Audio",
+    "Dateikonvertierung",
+    "MP3",
+    "WAV",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-11T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800&q=80",
+  "imageAlt": "Kopfhörer und Laptop mit einer Audiospur auf dem Bildschirm",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-batch-convert",
+    "filetools-compress-files-online"
+  ]
+}

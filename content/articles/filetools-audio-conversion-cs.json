@@ -1,0 +1,34 @@
+{
+  "slug": "filetools-audio-conversion-cs",
+  "lang": "cs",
+  "title": "M4A, WAV, MP3: kdy který formát a jak je převádět",
+  "description": "Nahrávka z telefonu je M4A, editor chce WAV, do mailu se vejde jen MP3. Návod, který formát zvolit a jak převod udělat rychle a v prohlížeči.",
+  "excerpt": "Většina problémů se zvukem není o kvalitě mikrofonu, ale o špatně zvoleném formátu. Tohle je pět minut, které ti ušetří hodiny.",
+  "content": "Nahraješ rozhovor na telefon, dostaneš M4A. Editor ho nevezme. Přehodíš to do WAV a najednou má jedna hodina zvuku 600 MB. Klasika.\n\n## Který formát kdy\n\nWAV je nekomprimovaný. Používej ho při nahrávání a střihu, kde chceš nulovou ztrátu. Počítej ale s ~10 MB na minutu.\n\nMP3 je univerzální. Do mailu, na web, do prezentace. Při 192 kbps rozdíl neuslyšíš a soubor spadne na desetinu.\n\nM4A (AAC) je to, co ti dá iPhone a většina hlasových záznamníků. Kvalitou lepší než MP3 při stejné velikosti, ale starší software si s ním občas neporadí.\n\nFLAC je bezeztrátový jako WAV, jen zabere zhruba polovinu. Ideální na archiv hudby.\n\n## Jednoduché pravidlo\n\nPracuješ se zvukem → WAV. Posíláš ho někomu → MP3. Archivuješ → FLAC. Nic dalšího řešit nemusíš.\n\n## Jak převádět bez instalace\n\nNemusíš instalovat žádný program. Přetáhni soubor do [FileTools](https://filetools.eu), vyber cílový formát a bitrate a stáhni výsledek. Vše běží ve tvém prohlížeči, takže nahrávka nikam neodchází — u rozhovorů a klientských materiálů to není detail.\n\nZvládne to i dávkově: hodíš tam třicet souborů najednou a vrátí ti je ve stejném formátu.\n\nA jestli z toho zvuku chceš udělat video pro víc jazyků, [TubeVoice](https://tubevoice.io) ti k němu vyrobí dabing i titulky.",
+  "category": "tools",
+  "tags": [
+    "audio",
+    "konverze souborů",
+    "MP3",
+    "WAV",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-11T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800&q=80",
+  "imageAlt": "Sluchátka a notebook se zvukovou stopou na obrazovce",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-batch-convert",
+    "filetools-compress-files-online"
+  ]
+}

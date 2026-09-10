@@ -1,0 +1,34 @@
+{
+  "slug": "filetools-audio-conversion-en",
+  "lang": "en",
+  "title": "M4A, WAV, MP3: Which Audio Format and How to Convert",
+  "description": "Your phone records M4A, your editor wants WAV, and email only takes MP3. A quick guide to picking the right audio format and converting it in the browser.",
+  "excerpt": "Most audio problems aren't about the microphone. They're about picking the wrong format at the wrong moment.",
+  "content": "You record an interview on your phone and get an M4A. Your editor refuses it. You export to WAV and suddenly one hour of audio is 600 MB. Classic.\n\n## Which format, when\n\nWAV is uncompressed. Use it while recording and editing, where you want zero loss. Budget around 10 MB per minute.\n\nMP3 is the universal one. Email, web, slide decks. At 192 kbps you won't hear the difference and the file drops to a tenth of the size.\n\nM4A (AAC) is what an iPhone and most voice recorders hand you. Better quality than MP3 at the same size, but older software still chokes on it.\n\nFLAC is lossless like WAV but takes roughly half the space. Perfect for archiving music.\n\n## The simple rule\n\nEditing audio → WAV. Sending it to someone → MP3. Archiving → FLAC. That's the whole decision tree.\n\n## Converting without installing anything\n\nYou don't need software for this. Drag the file into [FileTools](https://filetools.eu), pick the target format and bitrate, download the result. Everything runs in your browser, so the recording never leaves your machine — which matters for interviews and client material.\n\nBatches work too: drop in thirty files at once and get them all back in the same format.\n\nAnd if that audio is heading for a multilingual video, [TubeVoice](https://tubevoice.io) can build the dubbing and subtitles on top of it.",
+  "category": "tools",
+  "tags": [
+    "audio",
+    "file conversion",
+    "MP3",
+    "WAV",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-11T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800&q=80",
+  "imageAlt": "Headphones and a laptop showing an audio waveform",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-batch-convert",
+    "filetools-compress-files-online"
+  ]
+}

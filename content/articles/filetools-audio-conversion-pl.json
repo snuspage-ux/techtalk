@@ -1,0 +1,34 @@
+{
+  "slug": "filetools-audio-conversion-pl",
+  "lang": "pl",
+  "title": "M4A, WAV, MP3: który format audio wybrać i jak konwertować",
+  "description": "Telefon nagrywa M4A, edytor chce WAV, a mailem przejdzie tylko MP3. Krótki poradnik, jak dobrać format dźwięku i przekonwertować go w przeglądarce.",
+  "excerpt": "Większość problemów z dźwiękiem nie wynika z mikrofonu, tylko ze złego formatu wybranego w złym momencie.",
+  "content": "Nagrywasz wywiad telefonem i dostajesz M4A. Edytor go nie przyjmuje. Eksportujesz do WAV i nagle godzina dźwięku waży 600 MB. Klasyka.\n\n## Który format i kiedy\n\nWAV jest nieskompresowany. Używaj go przy nagrywaniu i montażu, gdy chcesz zero strat. Licz się z około 10 MB na minutę.\n\nMP3 to format uniwersalny. Mail, strona, prezentacja. Przy 192 kbps różnicy nie usłyszysz, a plik spada do jednej dziesiątej.\n\nM4A (AAC) dostajesz z iPhone'a i większości dyktafonów. Lepsza jakość niż MP3 przy tym samym rozmiarze, ale starsze programy potrafią się na nim wyłożyć.\n\nFLAC jest bezstratny jak WAV, a zajmuje mniej więcej połowę miejsca. Idealny do archiwum muzyki.\n\n## Prosta zasada\n\nMontujesz → WAV. Wysyłasz → MP3. Archiwizujesz → FLAC. Tyle wystarczy zapamiętać.\n\n## Konwersja bez instalowania czegokolwiek\n\nNie potrzebujesz żadnego programu. Przeciągnij plik do [FileTools](https://filetools.eu), wybierz format docelowy i bitrate, pobierz wynik. Wszystko działa w przeglądarce, więc nagranie nigdzie nie wychodzi — przy wywiadach i materiałach klienta to nie jest drobiazg.\n\nWsadowo też zadziała: wrzucasz trzydzieści plików naraz i odbierasz je w jednym formacie.\n\nA jeśli ten dźwięk ma trafić do wielojęzycznego wideo, [TubeVoice](https://tubevoice.io) dorobi do niego dubbing i napisy.",
+  "category": "tools",
+  "tags": [
+    "audio",
+    "konwersja plików",
+    "MP3",
+    "WAV",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-11T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800&q=80",
+  "imageAlt": "Słuchawki i laptop z falą dźwiękową na ekranie",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-batch-convert",
+    "filetools-compress-files-online"
+  ]
+}
