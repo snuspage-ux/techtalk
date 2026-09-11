@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-mov-to-mp4-zh",
+  "lang": "zh",
+  "title": "MOV 文件是个陷阱，转成 MP4 吧",
+  "description": "iPhone 和 Mac 录出来的是 MOV，Android 和 Windows 经常打不开。在浏览器里转成 MP4 —— 免费、不上传、不用注册。",
+  "excerpt": "MOV 在苹果设备上没问题，别的地方全看运气。转一次就解决了。",
+  "content": "你的 iPhone 拍出来是 MOV，Mac 的录屏也是。然后你把片段发给用安卓的朋友、放进演示文稿、或者上传到网站 —— 结果卡住、放不出来，或者直接报错。\n\n## MOV 到底是什么\n\nMOV 是苹果的 QuickTime 容器，1991 年就有了。它把视频、音频和元数据打包成一个文件。在苹果设备上秒开。到了别处，支持就很勉强 —— 没装解码器的 Windows、部分安卓机、一半的网页播放器、几乎所有的上传表单。\n\n问题不在容器，往往在里面的编码。iPhone 拍的可能是 HEVC 或 ProRes，而老软件恰恰栽在这些编码上。\n\n## 为什么 MP4 赢\n\nMP4 是通用容器。同源、开放标准，哪儿都能放：手机、浏览器、电视、剪辑软件，以及所有社交平台。MP4 里装 H.264，是现存最稳的组合。想要一个肯定能用的文件，就是它。\n\n## 不用上传就能转\n\n[FileTools](https://filetools.eu) 直接在浏览器里把 MOV 转成 MP4。拖进文件，选 MP4，下载。不用账号、没有水印，转换在本地跑 —— 你的素材从不离开电脑。遇到私密片段时这点很关键。\n\n有好几个片段？[FileTools](https://filetools.eu) 能一次处理多个，比一个个来省事。\n\n## 什么时候留着 MOV\n\n剪辑师会留着 MOV。ProRes 这类中间格式就住在里面，调色和剪辑更合适。交付时转格式，母版留着剪辑用。规则就这么简单。\n\n只要工作流里混着不同设备，逻辑都一样 —— [RoomFlip](https://roomflip.io) 接受任何手机和浏览器传来的房间照片，因为客户从来不检查格式。别做任何假设，统一转成最保险的格式。\n\n## 结论\n\n在家用 MOV 没问题。文件一旦要往外传，就做成 MP4。",
+  "category": "tools",
+  "tags": [
+    "MOV",
+    "MP4",
+    "视频转换",
+    "iPhone",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-11",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=800&q=80",
+  "imageAlt": "电脑屏幕上的视频剪辑时间线",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-video-compression",
+    "filetools-audio-conversion",
+    "filetools-batch-convert"
+  ]
+}

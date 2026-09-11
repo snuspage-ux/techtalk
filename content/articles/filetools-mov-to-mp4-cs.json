@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-mov-to-mp4-cs",
+  "lang": "cs",
+  "title": "MOV je past. Převeďte ho na MP4",
+  "description": "iPhone a Mac natáčí MOV. Android a Windows s tím mají problém. Převeďte video na MP4 v prohlížeči — zdarma, bez nahrávání.",
+  "excerpt": "MOV hraje na Applu. Jinde je to loterie. Jeden převod to spraví.",
+  "content": "Váš iPhone natáčí MOV. Stejně tak nahrávání obrazovky na Macu. Pak klip pošlete kamarádovi s Androidem, vložíte ho do prezentace nebo nahrajete na web — a on se zasekne, nechce se přehrát nebo vyhodí chybu.\n\n## Co MOV vlastně je\n\nMOV je kontejner QuickTime od Applu, vznikl v roce 1991. Balí video, zvuk a metadata do jednoho souboru. Na zařízeních Apple hraje okamžitě. Kdekoli jinde je podpora vratká — Windows bez doinstalovaných kodeků, leckteré Androidy, polovina webových přehrávačů, většina nahrávacích formulářů.\n\nProblém není kontejner. Často je to kodek uvnitř. Záznam z iPhonu bývá HEVC nebo ProRes, a právě na těchhle starší software padá.\n\n## Proč vyhrává MP4\n\nMP4 je univerzální kontejner. Stejný původ, otevřený standard, hraje všude: telefony, prohlížeče, televize, editory i každá sociální síť. H.264 v MP4 je nejbezpečnější kombinace, jaká existuje. Chcete-li soubor, který prostě funguje, je to tenhle.\n\n## Převod bez nahrávání\n\n[FileTools](https://filetools.eu) převede MOV na MP4 přímo v prohlížeči. Hodíte soubor dovnitř, zvolíte MP4, stáhnete. Bez registrace, bez vodoznaku, a převod běží lokálně — vaše video nikdy neopustí počítač. To se hodí u soukromých klipů.\n\nMáte klipů víc? [FileTools](https://filetools.eu) zvládne několik najednou, což je lepší než je dělat po jednom.\n\n## Kdy si MOV nechat\n\nStřihači MOV zachovávají. ProRes a další mezikódeky v něm žijí a hodí se pro barvy a střih. Převeďte pro předání, master si nechte pro editaci. Jednoduché pravidlo.\n\nStejná logika platí pro každý workflow, kde se míchají zařízení — [RoomFlip](https://roomflip.io) přijímá fotky pokojů z každého telefonu a prohlížeče, protože klienti formáty vůbec neřeší. Nepředpokládejte nic, převeďte na bezpečný default.\n\n## Verdikt\n\nDoma je MOV v pohodě. Jakmile soubor cestuje, udělejte MP4.",
+  "category": "tools",
+  "tags": [
+    "MOV",
+    "MP4",
+    "konverze videa",
+    "iPhone",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-11",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=800&q=80",
+  "imageAlt": "Časová osa pro střih videa na obrazovce počítače",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-video-compression",
+    "filetools-audio-conversion",
+    "filetools-batch-convert"
+  ]
+}

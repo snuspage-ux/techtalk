@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-mov-to-mp4-fr",
+  "lang": "fr",
+  "title": "Les fichiers MOV sont un piège. Convertissez en MP4",
+  "description": "L'iPhone et le Mac filment en MOV. Android et Windows détestent ça. Convertissez en MP4 dans le navigateur — gratuit, sans envoi.",
+  "excerpt": "Le MOV passe sur Apple. Partout ailleurs, c'est la loterie. Une conversion suffit.",
+  "content": "Votre iPhone filme en MOV. L'enregistreur d'écran du Mac aussi. Puis vous envoyez le clip à un ami sur Android, vous le glissez dans une présentation ou vous le mettez en ligne — et il bloque, refuse de se lire ou affiche une erreur.\n\n## Ce qu'est vraiment le MOV\n\nMOV est le conteneur QuickTime d'Apple, né en 1991. Il réunit vidéo, son et métadonnées dans un seul fichier. Sur les appareils Apple, il se lit instantanément. Partout ailleurs, le support est fragile — Windows sans codecs, certains Android, la moitié des lecteurs web, la plupart des formulaires d'envoi.\n\nLe problème n'est pas le conteneur. C'est souvent le codec à l'intérieur. Les vidéos d'iPhone peuvent être en HEVC ou ProRes, et c'est exactement ce qui fait trébucher les vieux logiciels.\n\n## Pourquoi le MP4 gagne\n\nLe MP4 est le conteneur universel. Même origine, standard ouvert, il se lit partout : téléphones, navigateurs, télés, logiciels de montage et toutes les plateformes sociales. Le H.264 dans du MP4 est la combinaison la plus sûre qui existe. Vous voulez un fichier qui marche, c'est celui-là.\n\n## Convertir sans rien envoyer\n\n[FileTools](https://filetools.eu) transforme le MOV en MP4 directement dans le navigateur. Vous déposez le fichier, choisissez MP4, téléchargez. Pas de compte, pas de filigrane, et la conversion tourne en local — vos images ne quittent jamais votre machine. Utile quand le clip est privé.\n\nPlusieurs clips ? [FileTools](https://filetools.eu) en gère plusieurs d'un coup, c'est mieux qu'un par un.\n\n## Quand garder le MOV\n\nLes monteurs gardent le MOV. Le ProRes et les formats intermédiaires y vivent, et ils sont meilleurs pour l'étalonnage et le montage. Convertissez pour livrer, gardez le master pour travailler. Règle simple.\n\nLa même logique vaut pour tout flux qui mélange les appareils — [RoomFlip](https://roomflip.io) accepte des photos de pièces depuis n'importe quel téléphone ou navigateur, parce que les clients ne vérifient jamais leurs formats. Ne supposez rien, convertissez vers le standard sûr.\n\n## En résumé\n\nÀ la maison, le MOV va bien. Dès qu'un fichier voyage, faites du MP4.",
+  "category": "tools",
+  "tags": [
+    "MOV",
+    "MP4",
+    "conversion vidéo",
+    "iPhone",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-11",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=800&q=80",
+  "imageAlt": "Timeline de montage vidéo sur un écran d'ordinateur",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "filetools-video-compression",
+    "filetools-audio-conversion",
+    "filetools-batch-convert"
+  ]
+}
