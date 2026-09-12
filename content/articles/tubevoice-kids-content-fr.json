@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-kids-content-fr",
+  "lang": "fr",
+  "title": "Le contenu pour enfants n'a pas de frontières — le doublage l'ouvre",
+  "description": "Les enfants ne lisent pas les sous-titres. Pour une chaîne jeunesse ou familiale, le doublage est la seule vraie voie vers un public mondial.",
+  "excerpt": "Un enfant de cinq ans ne lira pas tes sous-titres. Soit il te comprend, soit il passe à autre chose. Ici, le doublage n'est pas optionnel.",
+  "content": "Le contenu pour enfants a un énorme avantage sur YouTube : il est universel. Une histoire animée, une course de petites voitures, une chanson sur les animaux — ça marche à Paris comme à Manille ou à Mexico. Et un énorme problème : le public visé ne sait pas encore lire.\n\n## Les sous-titres ne marchent pas avec les enfants\n\nPour un adulte, les sous-titres sont un compromis. Pour un enfant de trois ans, c'est un mur. Un enfant qui ne comprend pas l'audio quitte la vidéo en quinze secondes — et YouTube l'enregistre immédiatement. C'est pour ça que les chaînes jeunesse monolingues tournent en rond sur un seul marché alors que leur contenu plairait à la planète entière.\n\n## Un épisode, sept langues\n\nLe doublage IA transmet aujourd'hui les mots, mais aussi le rythme et l'intonation du narrateur. [TubeVoice](https://tubevoice.io) double un épisode dans plus de 50 langues pour une fraction du coût d'un studio : une seule production devient une version pour les enfants espagnols, polonais et chinois.\n\nEn pratique : prends tes trois vidéos les plus vues de l'année, double-les en anglais et en espagnol, et donne à chaque langue sa propre chaîne. Au bout d'un mois, tes statistiques diront quel marché répond.\n\n## Quelques règles en plus\n\nLe contenu jeunesse est plus encadré : YouTube Kids, COPPA, publicités limitées. Le doublage n'y change rien, mais chaque marché a ses propres normes sur ce qui convient à un enfant. Relis tes titres et descriptions pour qu'ils ne sonnent pas automatiques.\n\nCommence par une langue et une vidéo. Si la durée de visionnage tient au-dessus de l'originale, tu as ta réponse.",
+  "category": "ai",
+  "tags": [
+    "contenu jeunesse",
+    "doublage IA",
+    "YouTube Kids",
+    "localisation",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-09-13T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=800&q=80",
+  "imageAlt": "Enfant regardant une vidéo sur une tablette dans sa chambre",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "KupSledujici",
+      "url": "https://kupsledujici.cz"
+    }
+  ],
+  "related": [
+    "tubevoice-education-global",
+    "tubevoice-localization-strategy",
+    "tubevoice-grow-multilingual"
+  ]
+}

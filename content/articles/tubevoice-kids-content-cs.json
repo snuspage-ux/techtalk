@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-kids-content-cs",
+  "lang": "cs",
+  "title": "Dětský obsah nezná hranice. Dabing je klíč ke globálnímu kanálu",
+  "description": "Děti nečtou titulky. Proto je dabing u dětského a rodinného obsahu jediná cesta, jak s jedním videem oslovit publikum po celém světě bez nového natáčení.",
+  "excerpt": "Pětiletý divák titulky nepřečte. Buď mu rozumí, nebo odejde. U dětského obsahu je dabing povinný, ne volitelný.",
+  "content": "Dětský obsah má na YouTube jednu obrovskou výhodu: je univerzální. Animovaná pohádka, hra s auty nebo písnička o zvířátkách funguje v Praze stejně jako v Mexico City. A jednu obrovskou nevýhodu: cílové publikum neumí číst.\n\n## Titulky u dětí prostě nefungují\n\nU dospělého diváka jsou titulky kompromis. U tříletého jsou zeď. Dítě, které nerozumí zvuku, video do patnácti vteřin přepne — a YouTube si to okamžitě poznamená. Proto se dětské kanály s jedním jazykem točí pořád dokola ve stejném trhu, i když by jejich obsah bavil celou planetu.\n\n## Jeden díl, sedm jazyků\n\nAI dabing dnes zvládne přenést nejen slova, ale i tempo a intonaci vypravěče. [TubeVoice](https://tubevoice.io) nadabuje epizodu do 50+ jazyků za zlomek ceny studia, takže z jednoho natočeného dílu máš verzi pro španělské, polské i čínské děti.\n\nPraktický postup: vezmi tři nejsledovanější videa za poslední rok, nadabuj je do angličtiny a španělštiny a vytvoř pro ně samostatné jazykové kanály. Po měsíci uvidíš v analytice, který trh reaguje, a tam přidáš zbytek.\n\n## Pozor na pár věcí navíc\n\nDětský obsah má přísnější pravidla — YouTube Kids, COPPA, omezené reklamy. Dabing na tom nic nemění, ale počítej s tím, že v každém trhu platí trochu jiné normy pro to, co je pro děti vhodné. Projdi si popisky a názvy, ať neznějí strojově.\n\nZačni jedním jazykem a jedním videem. Když se watch time drží nad domácí verzí, máš odpověď.",
+  "category": "ai",
+  "tags": [
+    "dětský obsah",
+    "AI dabing",
+    "YouTube Kids",
+    "lokalizace",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-09-13T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=800&q=80",
+  "imageAlt": "Dítě sleduje video na tabletu v dětském pokoji",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "KupSledujici",
+      "url": "https://kupsledujici.cz"
+    }
+  ],
+  "related": [
+    "tubevoice-education-global",
+    "tubevoice-localization-strategy",
+    "tubevoice-grow-multilingual"
+  ]
+}

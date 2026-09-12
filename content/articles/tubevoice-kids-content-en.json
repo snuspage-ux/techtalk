@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-kids-content-en",
+  "lang": "en",
+  "title": "Kids' Content Has No Borders — Dubbing Is What Unlocks It",
+  "description": "Children don't read subtitles. For kids and family channels, dubbing is the only realistic way to turn one episode into a worldwide audience.",
+  "excerpt": "A five-year-old won't read subtitles. They either understand you or they swipe away. For kids' content, dubbing isn't optional.",
+  "content": "Kids' content has one enormous advantage on YouTube: it's universal. An animated story, a toy car race, a song about animals — it works the same in Prague, Manila and Mexico City. And one enormous problem: the target audience can't read yet.\n\n## Subtitles don't work on children\n\nFor an adult viewer, subtitles are a compromise. For a three-year-old, they're a wall. A child who doesn't understand the audio taps away within fifteen seconds — and YouTube notices immediately. That's why single-language kids' channels keep circling the same market even though their content would entertain the whole planet.\n\n## One episode, seven languages\n\nAI dubbing now carries over not just words but pacing and the narrator's intonation. [TubeVoice](https://tubevoice.io) dubs an episode into 50+ languages for a fraction of studio cost, so one produced episode becomes a version for Spanish, Polish and Chinese kids.\n\nPractical move: take your three most-watched videos from the past year, dub them into English and Spanish, and give each language its own channel. After a month your analytics will tell you which market is responding — then add the rest.\n\n## A few extra rules to watch\n\nKids' content carries stricter rules: YouTube Kids, COPPA, limited ads. Dubbing doesn't change that, but expect each market to have slightly different norms for what counts as age-appropriate. Review your titles and descriptions so they don't read like machine output.\n\nStart with one language and one video. If watch time holds above the original, you have your answer.",
+  "category": "ai",
+  "tags": [
+    "kids content",
+    "AI dubbing",
+    "YouTube Kids",
+    "localization",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-09-13T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=800&q=80",
+  "imageAlt": "Child watching a video on a tablet in a bedroom",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "KupSledujici",
+      "url": "https://kupsledujici.cz"
+    }
+  ],
+  "related": [
+    "tubevoice-education-global",
+    "tubevoice-localization-strategy",
+    "tubevoice-grow-multilingual"
+  ]
+}
