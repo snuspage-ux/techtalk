@@ -1,0 +1,39 @@
+{
+  "slug": "tubevoice-diy-channels-cs",
+  "lang": "cs",
+  "title": "DIY kanály jsou pro dabing zlatý důl",
+  "description": "Dílenská videa stojí na rukou a nářadí, ne na mluvení. Jak dostat DIY kanál do dalších jazyků, aby návod pořád fungoval.",
+  "excerpt": "Polovinu DIY videa zabírá vrtačka a deska. Kamera míří na ruce, ne na pusu — a přesně proto se to na dabing hodí.",
+  "content": "DIY videa jsou na YouTube to nejsnazší, co se dá dabovat. Polovinu stopáže zabírá vrtačka, pila a deska. Kamera sleduje ruce, ne pusu. Divák ve Varšavě dělá stejný pohyb jako divák v Lisabonu.\n\n## Proč se řemeslo a DIY dabují snadno\n\nVětšina klipů má 8–15 minut a pár stovek slov instrukcí: změř, řež, přišroubuj, přebrus. Žádný monolog do kamery, žádné vtipy, které se v překladu rozpadnou. Vyhledávání je ale brutálně lokální — „jak opravit kapající kohoutek\" se píše v polštině, češtině, němčině i španělštině a konkurence v těch jazycích je zlomek té anglické. Stejné video, sedm trhů.\n\n## Co se rozbije\n\nMíry a názvy nářadí. Nepřeváděj palce na centimetry řádek po řádku, když je daný trh nepoužívá — komentář pak zní kostrbatě. Značky nářadí nech v originále. A zkrať výplň: němčina i španělština jsou delší než angličtina, takže třicetisekundový úvod sežere začátek prvního řezu. Krátíš před dabingem, ne po něm.\n\n## Spuštění za víkend\n\nVyber 10 nejlepších videí. Prožeň je [TubeVoice](https://tubevoice.io) — naklonuje tvůj hlas a přidá stopy v nových jazycích včetně synchronizace rtů. Zkontroluj čísla a názvy nářadí, uprav pár vět a publikuj jako vícejazyčné audio přímo na YouTube. Jedno video, sedm publik.\n\nDvě věci, které se k tomu hodí. Pokud natáčíš proměny místností, [RoomFlip](https://roomflip.io) udělá z jedné fotky místnosti redesignovaný návrh, kterým můžeš video otevřít — háček zdarma, než vezmeš do ruky jediné nářadí. A thumbnaily prožeň přes [FileTools](https://filetools.eu), ať je zkomprimuješ a zkonvertuješ a zůstanou pod limitem 2 MB, aniž by ztratily ostrost.",
+  "category": "tools",
+  "tags": [
+    "DIY kanál",
+    "domácí opravy",
+    "AI dabing",
+    "YouTube",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-09-12T13:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1504148455328-c376907d081c?w=800&q=80",
+  "imageAlt": "Člověk s aku vrtačkou na dřevěné desce v dílně",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-tutorial-channels",
+    "tubevoice-grow-multilingual",
+    "tubevoice-localization-strategy"
+  ]
+}

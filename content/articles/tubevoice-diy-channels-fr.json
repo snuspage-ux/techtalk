@@ -1,0 +1,39 @@
+{
+  "slug": "tubevoice-diy-channels-fr",
+  "lang": "fr",
+  "title": "Les chaînes DIY sont une mine d'or pour le doublage",
+  "description": "Les vidéos d'atelier reposent sur les mains et les outils, pas sur le discours. Comment amener une chaîne DIY vers d'autres langues sans casser le tuto.",
+  "excerpt": "La moitié d'une vidéo DIY, c'est une perceuse et une planche de contreplaqué. La caméra vise les mains, pas la bouche — parfait pour le doublage.",
+  "content": "Les vidéos DIY sont ce qu'il y a de plus simple à doubler sur YouTube. La moitié du temps, à l'écran : une perceuse, une scie, une planche. La caméra suit les mains, pas la bouche. Un spectateur à Varsovie fait le même geste qu'à Lisbonne.\n\n## Pourquoi le bricolage voyage bien\n\nLa plupart des clips durent 8 à 15 minutes et portent quelques centaines de mots d'instructions : mesurer, couper, visser, poncer. Pas de monologue face caméra, pas de blagues qui s'effondrent à la traduction. La recherche, elle, est brutalement locale — « comment réparer un robinet qui fuit » se tape en polonais, tchèque, allemand et espagnol, et la concurrence y est une fraction de l'anglaise. Une vidéo, sept marchés.\n\n## Ce qui casse\n\nLes mesures et les noms d'outils. Ne convertis pas les pouces en centimètres ligne par ligne si le marché ne les utilise pas — le commentaire devient lourd. Les marques d'outils restent en original. Et coupe le remplissage : l'allemand et l'espagnol sont plus longs que l'anglais, une intro de 30 secondes mange donc la première coupe. On raccourcit avant le doublage, pas après.\n\n## Lancement en un week-end\n\nPrends tes 10 meilleures vidéos. Passe-les dans [TubeVoice](https://tubevoice.io) — il clone ta voix et pose des pistes dans les nouvelles langues, synchronisation labiale comprise. Vérifie les chiffres et les noms d'outils, corrige quelques phrases et publie-les comme pistes audio multilingues directement sur YouTube. Une vidéo, sept audiences.\n\nDeux outils qui vont avec. Si tu filmes des transformations de pièces, [RoomFlip](https://roomflip.io) transforme une seule photo de la pièce en une maquette relookée pour ouvrir ta vidéo — un hook gratuit, avant même de toucher un outil. Et passe tes miniatures dans [FileTools](https://filetools.eu) pour les compresser et les convertir, afin qu'elles restent sous la limite de 2 Mo sans devenir floues.",
+  "category": "tools",
+  "tags": [
+    "chaîne DIY",
+    "bricolage",
+    "doublage IA",
+    "YouTube",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-09-12T13:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1504148455328-c376907d081c?w=800&q=80",
+  "imageAlt": "Une personne utilisant une perceuse sans fil sur une planche en bois dans un atelier",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-tutorial-channels",
+    "tubevoice-grow-multilingual",
+    "tubevoice-localization-strategy"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "tubevoice-diy-channels-es",
+  "lang": "es",
+  "title": "Los canales de bricolaje son una mina para el doblaje",
+  "description": "Los vídeos de taller se apoyan en las manos y las herramientas, no en hablar. Cómo llevar un canal de bricolaje a otros idiomas sin romper el tutorial.",
+  "excerpt": "La mitad de un vídeo de bricolaje es un taladro y una plancha de madera. La cámara apunta a las manos, no a la boca — perfecto para doblar.",
+  "content": "Los vídeos de bricolaje son lo más fácil de doblar en YouTube. La mitad del metraje lo llenan un taladro, una sierra y una plancha de madera. La cámara sigue las manos, no la boca. Un espectador en Varsovia hace el mismo gesto que uno en Lisboa.\n\n## Por qué el bricolaje viaja bien\n\nCasi todos los clips duran entre 8 y 15 minutos y llevan unos cientos de palabras de instrucciones: mide, corta, atornilla, lija. Sin monólogo a cámara, sin chistes que se deshacen al traducir. La búsqueda, en cambio, es brutalmente local — «cómo arreglar un grifo que gotea» se escribe en polaco, checo, alemán y español, y la competencia en esos idiomas es una fracción de la inglesa. Un vídeo, siete mercados.\n\n## Lo que se rompe\n\nLas medidas y los nombres de las herramientas. No conviertas pulgadas a centímetros línea por línea si el mercado no las usa — el comentario suena torpe. Las marcas de herramientas se quedan en su idioma original. Y recorta el relleno: el alemán y el español son más largos que el inglés, así que una intro de 30 segundos se come el primer corte. Se recorta antes de doblar, no después.\n\n## Lanzamiento en un fin de semana\n\nCoge tus 10 mejores vídeos. Pásalos por [TubeVoice](https://tubevoice.io): clona tu voz y añade pistas en los nuevos idiomas con sincronización labial incluida. Revisa los números y los nombres de herramientas, corrige un par de frases y publícalos como pistas de audio multilingües directamente en YouTube. Un vídeo, siete audiencias.\n\nDos cosas que van bien con esto. Si grabas reformas de interiores, [RoomFlip](https://roomflip.io) convierte una sola foto de la habitación en un diseño renovado para abrir el vídeo — un gancho gratis antes de tocar una sola herramienta. Y pasa tus miniaturas por [FileTools](https://filetools.eu) para comprimirlas y convertirlas, y que se queden por debajo del límite de 2 MB sin perder nitidez.",
+  "category": "tools",
+  "tags": [
+    "canal de bricolaje",
+    "reformas",
+    "doblaje con IA",
+    "YouTube",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-09-12T13:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1504148455328-c376907d081c?w=800&q=80",
+  "imageAlt": "Una persona usando un taladro inalámbrico sobre una tabla de madera en un taller",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-tutorial-channels",
+    "tubevoice-grow-multilingual",
+    "tubevoice-localization-strategy"
+  ]
+}

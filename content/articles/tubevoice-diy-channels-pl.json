@@ -1,0 +1,39 @@
+{
+  "slug": "tubevoice-diy-channels-pl",
+  "lang": "pl",
+  "title": "Kanały DIY to dla dubbingu kopalnia złota",
+  "description": "Filmy z warsztatu stoją na rękach i narzędziach, nie na gadaniu. Jak przenieść kanał DIY na inne języki, żeby poradnik dalej działał.",
+  "excerpt": "Połowę filmu DIY zajmuje wiertarka i deska. Kamera patrzy na ręce, nie na usta — i właśnie dlatego nadaje się do dubbingu.",
+  "content": "Filmy DIY to najłatwiejsza rzecz do zdubbingowania na YouTube. Połowę metrażu wypełnia wiertarka, piła i deska. Kamera śledzi ręce, nie usta. Widz w Warszawie wykonuje ten sam ruch co widz w Lizbonie.\n\n## Dlaczego rzemiosło i DIY dobrze się dubuje\n\nWiększość klipów trwa 8–15 minut i ma kilkaset słów instrukcji: zmierz, wytnij, przykręć, wyszlifuj. Żadnego monologu do kamery, żadnych żartów, które rozsypują się w tłumaczeniu. Za to wyszukiwanie jest brutalnie lokalne — „jak naprawić cieknący kran\" wpisuje się po polsku, czesku, niemiecku i hiszpańsku, a konkurencja w tych językach to ułamek angielskiej. Jeden film, siedem rynków.\n\n## Co się psuje\n\nMiara i nazwy narzędzi. Nie przeliczaj cali na centymetry linijka po linijce, jeśli dany rynek ich nie używa — komentarz brzmi wtedy koślawo. Marki narzędzi zostaw w oryginale. I skróć wypełniacze: niemiecki i hiszpański są dłuższe niż angielski, więc 30-sekundowy wstęp zje początek pierwszego cięcia. Skracasz przed dubbingiem, nie po nim.\n\n## Start w weekend\n\nWeź swoje 10 najlepszych filmów. Przepuść je przez [TubeVoice](https://tubevoice.io) — klonuje twój głos i dokłada ścieżki w nowych językach razem z synchronizacją warg. Sprawdź liczby i nazwy narzędzi, popraw parę zdań i opublikuj jako wielojęzyczne ścieżki audio prosto na YouTube. Jeden film, siedem grup odbiorców.\n\nDwie rzeczy, które się z tym łączą. Jeśli kręcisz metamorfozy wnętrz, [RoomFlip](https://roomflip.io) zamienia jedno zdjęcie pokoju w nowy projekt, którym możesz otworzyć film — darmowy hook, zanim sięgniesz po jakiekolwiek narzędzie. A miniatury przepuść przez [FileTools](https://filetools.eu), żeby je skompresować i przekonwertować, by zostały poniżej limitu 2 MB i nie straciły ostrości.",
+  "category": "tools",
+  "tags": [
+    "kanał DIY",
+    "remonty",
+    "dubbing AI",
+    "YouTube",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-09-12T13:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1504148455328-c376907d081c?w=800&q=80",
+  "imageAlt": "Osoba używająca wiertarki akumulatorowej na drewnianej desce w warsztacie",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-tutorial-channels",
+    "tubevoice-grow-multilingual",
+    "tubevoice-localization-strategy"
+  ]
+}

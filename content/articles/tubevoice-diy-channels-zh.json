@@ -1,0 +1,39 @@
+{
+  "slug": "tubevoice-diy-channels-zh",
+  "lang": "zh",
+  "title": "DIY 频道是配音的金矿",
+  "description": "工坊类视频靠的是双手和工具，而不是说话。如何把 DIY 频道带进新语言，同时让教程依然成立。",
+  "excerpt": "一半的 DIY 视频画面是电钻和木板。镜头对着双手，不是嘴巴——这正是它适合配音的原因。",
+  "content": "DIY 视频是 YouTube 上最容易配音的一类。一半时长里出镜的是电钻、锯子和一块木板。镜头盯着双手，不是嘴巴。华沙的观众和里斯本的观众做的是同一个动作。\n\n## 为什么手工和 DIY 特别适合配音\n\n大多数视频长 8 到 15 分钟，台词只有几百个词：量、锯、拧、磨。没有对着镜头的长篇独白，也没有一翻译就垮掉的笑话。但搜索是彻底本地化的——“水龙头漏水怎么修”会被人用波兰语、捷克语、德语、西班牙语输入，而这些语言里的竞争只有英语的零头。一个视频，七个市场。\n\n## 容易出问题的地方\n\n尺寸和工具名称。如果目标市场不用英寸，就别一行行换算成厘米，解说会立刻变得别扭。工具品牌名保留原文。还有，砍掉废话：德语和西班牙语比英语长，30 秒的开场白会吃掉第一个剪切点。要在配音前精简，不是配音后。\n\n## 一个周末上线\n\n挑出播放量最高的 10 个视频。放进 [TubeVoice](https://tubevoice.io)——它会克隆你的声音，生成新语言的音轨，连口型同步都带上。核对数字和工具名称，改几句，然后作为多语言音轨直接发布到 YouTube。一个视频，七个受众。\n\n还有两件事能配着用。如果你拍的是房间改造，[RoomFlip](https://roomflip.io) 能把一张房间照片变成重新设计的方案图，拿来当视频开场——免费的钩子，动手之前就能用。封面图则过一遍 [FileTools](https://filetools.eu)，压缩和转格式，让它们待在 2 MB 限制内又不糊。",
+  "category": "tools",
+  "tags": [
+    "DIY 频道",
+    "家居维修",
+    "AI 配音",
+    "YouTube",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-09-12T13:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1504148455328-c376907d081c?w=800&q=80",
+  "imageAlt": "一个人在工坊里用电钻在木板上作业",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-tutorial-channels",
+    "tubevoice-grow-multilingual",
+    "tubevoice-localization-strategy"
+  ]
+}

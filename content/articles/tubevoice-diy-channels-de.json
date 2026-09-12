@@ -1,0 +1,39 @@
+{
+  "slug": "tubevoice-diy-channels-de",
+  "lang": "de",
+  "title": "DIY-Kanäle sind eine Dubbing-Goldgrube",
+  "description": "Werkstattvideos leben von Händen und Werkzeug, nicht vom Reden. Wie du einen DIY-Kanal in neue Sprachen bringst, ohne dass die Anleitung kaputtgeht.",
+  "excerpt": "Die Hälfte eines DIY-Videos ist Bohrmaschine und Sperrholzplatte. Die Kamera zeigt die Hände, nicht den Mund — perfekt zum Dubbing.",
+  "content": "DIY-Videos sind das Einfachste, was man auf YouTube dubben kann. Die halbe Laufzeit füllen Bohrer, Säge und eine Platte Sperrholz. Die Kamera folgt den Händen, nicht dem Mund. Ein Zuschauer in Warschau macht dieselbe Bewegung wie einer in Lissabon.\n\n## Warum Handwerk und DIY so gut reisen\n\nDie meisten Clips laufen 8–15 Minuten und tragen ein paar hundert Wörter Anleitung: messen, sägen, schrauben, schleifen. Kein Monolog in die Kamera, keine Witze, die in der Übersetzung zerfallen. Die Suche dagegen ist gnadenlos lokal — „wie repariere ich einen tropfenden Wasserhahn\" wird auf Polnisch, Tschechisch, Deutsch und Spanisch getippt, und die Konkurrenz dort ist ein Bruchteil der englischen. Ein Video, sieben Märkte.\n\n## Was kaputtgeht\n\nMaße und Werkzeugnamen. Rechne Zoll nicht Zeile für Zeile in Zentimeter um, wenn der Zielmarkt sie nicht nutzt — das klingt sofort holprig. Markennamen von Werkzeug bleiben im Original. Und kürze die Füllsätze: Deutsch und Spanisch laufen länger als Englisch, eine 30-Sekunden-Begrüßung frisst also den ersten Schnitt. Kürzen vor dem Dubbing, nicht danach.\n\n## Start an einem Wochenende\n\nNimm deine 10 besten Videos. Schick sie durch [TubeVoice](https://tubevoice.io) — es klont deine Stimme und legt Spuren in den neuen Sprachen inklusive Lippensynchronisation an. Prüf die Zahlen und Werkzeugnamen, korrigiere ein paar Sätze und veröffentliche sie als mehrsprachige Audiospuren direkt auf YouTube. Ein Video, sieben Zielgruppen.\n\nZwei Dinge passen dazu. Wenn du Raum-Makeovers drehst, macht [RoomFlip](https://roomflip.io) aus einem einzigen Foto des Raums einen neu gestalteten Entwurf, mit dem du das Video eröffnen kannst — ein Hook umsonst, bevor du ein Werkzeug anfasst. Und lauf deine Thumbnails durch [FileTools](https://filetools.eu), um sie zu komprimieren und umzuwandeln, damit sie unter der 2-MB-Grenze von YouTube bleiben und trotzdem scharf sind.",
+  "category": "tools",
+  "tags": [
+    "DIY-Kanal",
+    "Heimwerken",
+    "KI-Dubbing",
+    "YouTube",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-09-12T13:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1504148455328-c376907d081c?w=800&q=80",
+  "imageAlt": "Eine Person mit Akkuschrauber an einem Holzbrett in einer Werkstatt",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-tutorial-channels",
+    "tubevoice-grow-multilingual",
+    "tubevoice-localization-strategy"
+  ]
+}

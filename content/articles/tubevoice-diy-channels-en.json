@@ -1,0 +1,39 @@
+{
+  "slug": "tubevoice-diy-channels-en",
+  "lang": "en",
+  "title": "DIY Channels Are a Dubbing Goldmine",
+  "description": "Workshop videos run on hands and tools, not talking. How to take a DIY channel into new languages so the tutorial still works.",
+  "excerpt": "Half of a DIY video is a drill and a sheet of plywood. The camera points at the hands, not the mouth — which makes it perfect for dubbing.",
+  "content": "DIY videos are the easiest thing on YouTube to dub. Half the runtime is a drill, a saw and a sheet of plywood. The camera follows the hands, not the mouth. A viewer in Warsaw makes the same move as one in Lisbon.\n\n## Why craft and DIY travel well\n\nMost clips run 8–15 minutes and carry a few hundred words of instruction: measure, cut, screw, sand. No monologue into the camera, no jokes that fall apart in translation. Search, on the other hand, is brutally local — \"how to fix a leaky tap\" gets typed in Polish, Czech, German and Spanish, and the competition in those languages is a fraction of the English one. One video, seven markets.\n\n## What breaks\n\nMeasurements and tool names. Don't convert inches to centimetres line by line if the market doesn't use them — the narration turns clunky. Keep tool brands in the original. And cut the filler: German and Spanish run longer than English, so a 30-second intro eats into the first cut. Trim before you dub, not after.\n\n## Launch in a weekend\n\nTake your 10 best-performing videos. Run them through [TubeVoice](https://tubevoice.io) — it clones your voice and drops in tracks for the new languages with lip sync included. Check the numbers and tool names, fix a couple of sentences, publish as multi-language audio right on YouTube. One video, seven audiences.\n\nTwo things pair with this. If you shoot room makeovers, [RoomFlip](https://roomflip.io) turns a single photo of the space into a redesigned mockup you can open the video with — a free hook before you pick up a single tool. And run your thumbnails through [FileTools](https://filetools.eu) to compress and convert them so they stay under YouTube's 2 MB limit without going soft.",
+  "category": "tools",
+  "tags": [
+    "DIY channel",
+    "home repair",
+    "AI dubbing",
+    "YouTube",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-09-12T13:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1504148455328-c376907d081c?w=800&q=80",
+  "imageAlt": "A person using a cordless drill on a wooden board in a workshop",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-tutorial-channels",
+    "tubevoice-grow-multilingual",
+    "tubevoice-localization-strategy"
+  ]
+}
