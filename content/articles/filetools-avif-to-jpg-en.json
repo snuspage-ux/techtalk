@@ -1,0 +1,36 @@
+{
+  "slug": "filetools-avif-to-jpg-en",
+  "lang": "en",
+  "title": "AVIF is smaller than JPG. That's exactly why nothing opens it.",
+  "description": "AVIF saves up to 50% space over JPG. Older apps choke on it. Convert AVIF to JPG fast with FileTools — nothing leaves your device.",
+  "excerpt": "AVIF looks great on paper. Then you try to open it in Photoshop 2019.",
+  "content": "AVIF is the best image format almost nobody supports.\n\nIt came out of the AV1 video codec. Same compression tricks. A photo that's 800 KB as JPG can be 350 KB as AVIF. No visible difference.\n\nGreat. Except your client's Word 2019 won't render it. Your old Photoshop won't open it. Half the CMS platforms reject it on upload.\n\n## Where AVIF breaks\n\n- Windows photo viewer before Windows 11: nothing.\n- Photoshop before 2023: nothing.\n- Most email clients: nothing.\n- Old Android gallery apps: nothing.\n\nSo you download modern images, and half your tools shrug.\n\n## [FileTools](https://filetools.eu) converts without the drama\n\nDrop your AVIF files on [FileTools](https://filetools.eu). Get JPG back. The conversion runs in your browser — the file never goes to a server.\n\nNo sign-up. No watermark on the output. No \"upgrade to convert more than three files.\"\n\nYou can batch a whole folder. Download it as ZIP. Done.\n\n## When to keep AVIF\n\nIf you post to a modern site and control the stack, keep AVIF. It's better. Smaller files, faster pages.\n\nConvert to JPG when the destination is old, strict, or unknown. That's most of the real world.\n\n## The bigger pattern\n\nEvery format war ends the same way. The new one wins on the web, the old one survives everywhere else. You need a converter that doesn't leak your files.\n\nThat's [FileTools](https://filetools.eu).\n\nThe same idea drives [TubeVoice](https://tubevoice.io) for video — making content work in languages it was never built for. And [RoomFlip](https://roomflip.io) turns one room photo into a full redesign, no install.\n\nFormats keep changing. Good tools just handle it.",
+  "category": "tools",
+  "tags": [
+    "avif",
+    "jpg",
+    "image-conversion",
+    "file-formats",
+    "filetools",
+    "privacy"
+  ],
+  "publishedAt": "2026-09-13",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&q=80",
+  "imageAlt": "Modern image formats shown on a computer screen",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

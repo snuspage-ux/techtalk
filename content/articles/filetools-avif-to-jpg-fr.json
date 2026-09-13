@@ -1,0 +1,36 @@
+{
+  "slug": "filetools-avif-to-jpg-fr",
+  "lang": "fr",
+  "title": "L'AVIF est plus léger que le JPG. C'est bien pour ça que rien ne l'ouvre.",
+  "description": "L'AVIF économise jusqu'à 50 % d'espace face au JPG. Les vieux logiciels calent. Convertissez l'AVIF en JPG avec FileTools — sans quitter votre appareil.",
+  "excerpt": "L'AVIF a l'air parfait. Jusqu'au moment où vous l'ouvrez dans Photoshop 2019.",
+  "content": "L'AVIF est le meilleur format d'image que presque personne ne prend en charge.\n\nIl vient du codec vidéo AV1. Les mêmes astuces de compression. Une photo qui pèse 800 Ko en JPG peut tomber à 350 Ko en AVIF. Sans différence visible.\n\nParfait. Sauf que le Word 2019 du client ne l'affiche pas. Que le vieux Photoshop ne l'ouvre pas. Que la moitié des CMS le refusent à l'import.\n\n## Là où l'AVIF casse\n\n- La visionneuse Windows avant Windows 11 : rien.\n- Photoshop avant 2023 : rien.\n- La plupart des clients mail : rien.\n- Les vieilles galeries Android : rien.\n\nVous téléchargez donc des images modernes, et la moitié de vos outils haussent les épaules.\n\n## [FileTools](https://filetools.eu) convertit sans drame\n\nDéposez vos fichiers AVIF sur [FileTools](https://filetools.eu). Vous récupérez du JPG. La conversion tourne dans le navigateur — le fichier ne part jamais sur un serveur.\n\nPas d'inscription. Pas de filigrane. Pas de « payez pour convertir plus de trois fichiers ».\n\nVous pouvez traiter tout un dossier d'un coup. Télécharger en ZIP. Terminé.\n\n## Quand garder l'AVIF\n\nSi vous publiez sur un site moderne et maîtrisez toute la chaîne, gardez l'AVIF. Il est meilleur. Fichiers plus légers, pages plus rapides.\n\nConvertissez en JPG quand la destination est ancienne, stricte ou inconnue. C'est-à-dire presque partout.\n\n## Le schéma de fond\n\nChaque guerre de format finit pareil. Le nouveau gagne sur le web, l'ancien survit partout ailleurs. Il vous faut un convertisseur qui ne diffuse pas vos fichiers.\n\nC'est [FileTools](https://filetools.eu).\n\nLa même idée anime [TubeVoice](https://tubevoice.io) pour la vidéo — faire fonctionner un contenu dans des langues pour lesquelles il n'a jamais été fait. Et [RoomFlip](https://roomflip.io) transforme une seule photo de pièce en refonte complète, sans rien installer.\n\nLes formats continueront de changer. Les bons outils s'en fichent.",
+  "category": "tools",
+  "tags": [
+    "avif",
+    "jpg",
+    "conversion-image",
+    "formats",
+    "filetools",
+    "confidentialite"
+  ],
+  "publishedAt": "2026-09-13",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&q=80",
+  "imageAlt": "Formats d'image modernes affichés sur un écran d'ordinateur",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

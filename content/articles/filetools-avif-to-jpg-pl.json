@@ -1,0 +1,36 @@
+{
+  "slug": "filetools-avif-to-jpg-pl",
+  "lang": "pl",
+  "title": "AVIF jest mniejszy niż JPG. Właśnie dlatego nic go nie otwiera.",
+  "description": "AVIF oszczędza do połowy miejsca względem JPG. Stare programy się na nim wykładają. Konwertuj AVIF na JPG przez FileTools — pliki zostają u ciebie.",
+  "excerpt": "AVIF brzmi świetnie. Do momentu, gdy próbujesz otworzyć go w Photoshopie z 2019 roku.",
+  "content": "AVIF to najlepszy format obrazu, którego prawie nikt nie obsługuje.\n\nPowstał z kodeka wideo AV1. Te same sztuczki kompresji. Zdjęcie, które jako JPG waży 800 KB, jako AVIF może mieć 350 KB. Bez widocznej różnicy.\n\nŚwietnie. Tylko że Word 2019 u klienta go nie wyświetli. Stary Photoshop go nie otworzy. Połowa CMS-ów odrzuci go przy wgrywaniu.\n\n## Gdzie AVIF się wykłada\n\n- Przeglądarka zdjęć w Windows przed Windows 11: nic.\n- Photoshop przed 2023: nic.\n- Większość klientów pocztowych: nic.\n- Stare galerie na Androidzie: nic.\n\nŚciągasz więc nowoczesne obrazy, a połowa twoich narzędzi rozkłada ręce.\n\n## [FileTools](https://filetools.eu) konwertuje bez dramatu\n\nPrzeciągnij pliki AVIF na [FileTools](https://filetools.eu). Dostajesz z powrotem JPG. Konwersja działa w przeglądarce — plik nigdy nie opuszcza twojego urządzenia.\n\nBez rejestracji. Bez znaku wodnego. Bez \"zapłać, żeby przekonwertować więcej niż trzy pliki\".\n\nMożesz przerobić cały folder naraz. Pobrać jako ZIP. Gotowe.\n\n## Kiedy zostawić AVIF\n\nJeśli publikujesz na nowoczesnej stronie i masz kontrolę nad całym stackiem, zostaw AVIF. Jest lepszy. Mniejsze pliki, szybsze strony.\n\nNa JPG konwertuj, gdy cel jest stary, surowy albo nieznany. Czyli prawie zawsze.\n\n## Większy wzorzec\n\nKażda wojna formatów kończy się tak samo. Nowy wygrywa w sieci, stary przeżywa wszędzie indziej. Potrzebujesz konwertera, który nie rozdaje twoich plików.\n\nTym jest [FileTools](https://filetools.eu).\n\nTen sam pomysł napędza [TubeVoice](https://tubevoice.io) w wideo — treść działa w językach, dla których nigdy jej nie tworzono. A [RoomFlip](https://roomflip.io) zamienia jedno zdjęcie pokoju w pełny redesign, bez instalowania czegokolwiek.\n\nFormaty będą się zmieniać dalej. Dobre narzędzia po prostu to ogarniają.",
+  "category": "tools",
+  "tags": [
+    "avif",
+    "jpg",
+    "konwersja-obrazow",
+    "formaty",
+    "filetools",
+    "prywatnosc"
+  ],
+  "publishedAt": "2026-09-13",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&q=80",
+  "imageAlt": "Nowoczesne formaty obrazów na ekranie komputera",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "filetools-avif-to-jpg-cs",
+  "lang": "cs",
+  "title": "AVIF je menší než JPG. Právě proto ho nic neotevře.",
+  "description": "AVIF ušetří až polovinu místa oproti JPG. Starší programy ho ale nenačtou. Převeďte AVIF na JPG přes FileTools — soubory zůstanou u vás.",
+  "excerpt": "AVIF vypadá skvěle na papíře. Pak ho zkusíte otevřít ve Photoshopu z roku 2019.",
+  "content": "AVIF je nejlepší formát, který skoro nikdo nepodporuje.\n\nVznikl z video kodeku AV1. Stejné kompresní triky. Fotka, co má jako JPG 800 KB, může mít jako AVIF 350 KB. Bez viditelného rozdílu.\n\nSuper. Jenže Word 2019 od klienta ho nezobrazí. Starý Photoshop ho neotevře. Polovina redakčních systémů ho odmítne při nahrání.\n\n## Kde AVIF selhává\n\n- Prohlížeč fotek ve Windows před Windows 11: nic.\n- Photoshop před rokem 2023: nic.\n- Většina e-mailových klientů: nic.\n- Staré galerie na Androidu: nic.\n\nTakže stahujete moderní obrázky a polovina vašich nástrojů krčí rameny.\n\n## [FileTools](https://filetools.eu) převede bez dramat\n\nPřetáhněte AVIF soubory na [FileTools](https://filetools.eu). Dostanete zpátky JPG. Konverze běží v prohlížeči — soubor nikdy neopustí vaše zařízení.\n\nŽádná registrace. Žádný vodoznak na výstupu. Žádné \"zaplať, abys převedl víc než tři soubory\".\n\nMůžete převést celou složku naráz. Stáhnout jako ZIP. Hotovo.\n\n## Kdy si AVIF nechat\n\nPokud publikujete na moderní web a máte pod kontrolou celý stack, nechte si AVIF. Je lepší. Menší soubory, rychlejší stránky.\n\nNa JPG převádějte, když je cíl starý, striktní nebo neznámý. Což je většina reálného světa.\n\n## Větší vzorec\n\nKaždá válka formátů skončí stejně. Nový vyhraje na webu, starý přežije všude jinde. Potřebujete převodník, který neuniká vaše soubory.\n\nTo je [FileTools](https://filetools.eu).\n\nStejný princip žene [TubeVoice](https://tubevoice.io) u videa — zpřístupňuje obsah v jazycích, pro které nikdy nebyl stavěný. A [RoomFlip](https://roomflip.io) udělá z jedné fotky místnosti kompletní redesign bez instalace čehokoliv.\n\nFormáty se budou měnit pořád. Dobré nástroje to prostě zvládají.",
+  "category": "tools",
+  "tags": [
+    "avif",
+    "jpg",
+    "konverze-obrazku",
+    "formaty",
+    "filetools",
+    "soukromi"
+  ],
+  "publishedAt": "2026-09-13",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&q=80",
+  "imageAlt": "Moderní obrazové formáty na obrazovce počítače",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": []
+}
