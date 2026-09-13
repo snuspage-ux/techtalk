@@ -1,0 +1,54 @@
+{
+  "slug": "roomflip-guest-room-zh",
+  "lang": "zh",
+  "title": "客房改造:让人真正睡得着的一间房",
+  "description": "大多数客房只是带床的储藏间。给它一个用途,先解决床和灯光,买之前用 AI 试一遍效果。",
+  "excerpt": "客房就是储藏间。客人得先挪开三个箱子才能躺下,那就不叫客房。",
+  "content": "客房是家具的坟墓。坏掉的台灯、从没拆过的箱子、动感单车。亲戚一来你就慌了。这不叫待客。这叫带床垫的储藏间。\n\n真正的客房,半小时就能准备好。床上有毯子,插座空着,床头有杯水。其余都是装饰。\n\n**床就是全部工作**\n\n没人记得你的壁纸。人只记得没睡好。床垫要是比你车还旧,它比任何颜色都重要,枕头也一样。把这两样弄好,房间已经及格了。\n\n**只给它一个用途**\n\n一间房又是客房、又是办公室、又是健身房,哪样都做不好。先当客房。有桌子?清空。有动感单车?搬走。睡在那里的人配得上一间房,不是你的杂物。\n\n**买之前先看见**\n\n拍张照,传到 [RoomFlip](https://roomflip.io),描述你想要的氛围:\"安静的客房、中性墙面、亚麻床品、暖色台灯、小书桌\"。几秒钟就能拿到照片级效果图。先免费试三种风格,再考虑为地毯花钱。\n\n配色纠结?从房源或杂志找几张参考图,用 [FileTools](https://filetools.eu) 裁干净,当作你的需求说明。\n\n**光和暗**\n\n客人疲惫地来,早早地走。给他们一盏不用起身就够得着的床头灯,和真正能遮光的窗帘。一盏刺眼的顶灯加薄窗帘,最快把好房间变成汽车旅馆。\n\n**小东西**\n\n门后一个挂钩。放行李箱的位置。一面镜子。一个空抽屉。都不贵。而正是这些让人说谢谢时是真心的。\n\n弄好床,给房间一个任务,买之前先 [在 RoomFlip 里规划](https://roomflip.io)。下一位客人会注意到。而且还会再来。",
+  "category": "creative",
+  "tags": [
+    "客房",
+    "客房布置",
+    "AI室内设计",
+    "roomflip",
+    "家居",
+    "室内设计",
+    "卧室"
+  ],
+  "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+  "imageAlt": "安静中性的客房,亚麻床品和暖色床头灯",
+  "readingTime": 4,
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    {
+      "slug": "roomflip-bedroom-redesign-zh",
+      "lang": "zh",
+      "title": "你的卧室，但更好：30秒AI重新设计"
+    },
+    {
+      "slug": "roomflip-small-spaces-zh",
+      "lang": "zh",
+      "title": "小空间，大改造：AI室内设计打造紧凑房间"
+    },
+    {
+      "slug": "roomflip-lighting-design-zh",
+      "lang": "zh",
+      "title": "AI如何改变室内照明设计"
+    },
+    {
+      "slug": "roomflip-home-office-zh",
+      "lang": "zh",
+      "title": "你的家庭办公室很丑。30秒搞定它。"
+    }
+  ],
+  "publishedAt": "2026-09-13"
+}
