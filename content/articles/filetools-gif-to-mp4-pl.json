@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-gif-to-mp4-pl",
+  "lang": "pl",
+  "title": "GIF waży 20× więcej niż to samo wideo. Przekonwertuj go",
+  "description": "Dziesięciosekundowy GIF spokojnie ma 8 MB. Ten sam klip w MP4 schodzi pod 400 kB i wygląda lepiej. Dlaczego tak jest i jak to zmienić w przeglądarce.",
+  "excerpt": "GIF to format z 1987 roku, który wciąż mylimy z wideo. Rachunek płaci twój czas ładowania.",
+  "content": "Znajdujesz idealny GIF, wrzucasz go na stronę albo do prezentacji — i plik ma 8 MB. Za dziesięć sekund ruchu. To nie pech, to format.\n\n## GIF nigdy nie był wideo\n\nGIF powstał w 1987 roku, do ikonek i prostych animacji. Ma limit 256 kolorów na klatkę i w ogóle nie kompresuje między klatkami. Każda klatka zapisuje się niemal w całości. Kodeki wideo robią odwrotnie: zapisują pierwszą klatkę, a potem tylko to, co się zmieniło.\n\nDlatego ten sam dziesięciosekundowy klip to 8 MB jako GIF i około 350 kB jako MP4 z H.264. A MP4 ma pełną głębię kolorów, więc gradienty przestają wyglądać jak mapa poziomicowa.\n\n## Gdzie to naprawdę boli\n\nNa mobile. Jeden GIF na karcie produktu potrafi dodać dwie sekundy do ładowania, a Google wlicza to wprost w Core Web Vitals. W mailu większość klientów zamraża go na pierwszej klatce. W prezentacji rozdmuchuje .pptx ponad limit załącznika.\n\nPlatformy rozwiązały to już u siebie: Twitter, Discord i Slack przerabiają wysłane GIF-y na MP4 pod spodem. Ty tylko podajesz im niepotrzebnie ciężkie źródło.\n\n## Konwersja bez wysyłania\n\n[FileTools](https://filetools.eu) zamienia GIF na MP4 wprost w przeglądarce. Przeciągasz plik, wybierasz MP4, pobierasz. Bez konta i bez wysyłania czegokolwiek na obcy serwer — konwersja działa na twoim komputerze.\n\nNa stronie dodaj `autoplay muted loop playsinline` do tagu `<video>` i zachowa się dokładnie jak GIF, tylko dwadzieścia razy lżej.\n\n## Kiedy zostawić GIF\n\nJeśli animacja musi wejść do maila albo do systemu, który nie renderuje `<video>`, GIF pozostaje jedyną drogą. Wtedy chociaż ogranicz paletę i zostań pod trzema sekundami.\n\nRobisz wideo na kilka rynków? [TubeVoice](https://tubevoice.io) dubbinguje je na dziesiątki języków — i oczywiście pracuje na MP4.\n\nWeź trzy najcięższe GIF-y ze swojej strony i przekonwertuj. Zobaczysz to w metrykach tego samego dnia.",
+  "category": "tools",
+  "tags": [
+    "GIF",
+    "MP4",
+    "kompresja wideo",
+    "wydajność strony",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-14T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+  "imageAlt": "Programista patrzący na statystyki transferu na monitorze",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-mov-to-mp4",
+    "filetools-video-compression",
+    "filetools-batch-convert"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "gymhome-kettlebell-basics-fr",
+  "lang": "fr",
+  "title": "Une kettlebell, trois exercices. C'est déjà une salle",
+  "description": "Une kettlebell remplace la moitié d'une salle, mais presque tout le monde la soulève mal. Quel poids, quels trois mouvements, et le détail qui décide.",
+  "excerpt": "Une kettlebell n'est pas un haltère mal dessiné. Elle travaille avec l'élan, et ça change tout le mouvement.",
+  "content": "La kettlebell est le meilleur rapport qualité-prix de l'entraînement à domicile. Une cloche, un demi-mètre carré au sol, et tu couvres force, cardio et mobilité d'un coup. Le problème : presque tout le monde fait les mêmes trois erreurs la première semaine.\n\n## Une kettlebell n'est pas un haltère\n\nLe centre de masse est en dehors de la poignée, donc la cloche tire à chaque répétition. Ton corps doit gérer l'élan, pas seulement lever une charge. C'est précisément pour ça que le swing travaille la chaîne postérieure autrement que le soulevé de terre : ce n'est pas la trajectoire, c'est le freinage.\n\nLe bénéfice concret : tu apprends à contrôler une charge déjà en mouvement. Ça se transfère au vélo, au foot, et au fait de ramasser un enfant au sol.\n\n## Les trois mouvements\n\n1. **Swing** — pieds largeur d'épaules, cloche entre eux, charnière de hanche, pas un squat. La puissance vient des hanches, les bras ne sont qu'une corde. 5 × 15.\n2. **Goblet squat** — cloche contre la poitrine, descente complète, coudes entre les genoux. Le moyen le plus rapide d'apprendre un squat droit, parce que la charge devant te redresse toute seule.\n3. **Turkish get-up** — lent, technique, tu vas le détester et il te faut. 3 × 3 par côté. Il apprend au tronc et à l'épaule à travailler ensemble.\n\n## Quel poids acheter\n\nHomme non entraîné : 12 ou 16 kg. Femme non entraînée : 8 ou 12 kg. Ça paraît lourd, mais un swing avec une cloche trop légère ne sert à rien — il n'y a rien à freiner. Prends une taille au-dessus plutôt qu'en dessous.\n\n## Le détail qui décide de tout\n\nCharnière de hanche, pas squat. Si tes genoux avancent pendant le swing et que la cloche monte parce que tes bras la soulèvent, tu fais un autre exercice, avec un vrai risque lombaire. Hanches en arrière, tibias verticaux, dos neutre.\n\nDans le doute, quelques séances avec quelqu'un qui te regarde valent plus que n'importe quelle vidéo. Une salle privée réservée à l'heure comme [GymHome](https://gymhome.cz) est parfaite pour ça : miroir, espace, personne qui attend ton rack.\n\nTu filmes tes propres analyses technique ? [TubeVoice](https://tubevoice.io) les double dans d'autres langues, pour que le contenu marche aussi hors de ton marché.\n\nAchète une cloche, apprends bien le swing, et tu n'auras besoin de rien d'autre pendant trois mois.",
+  "category": "tools",
+  "tags": [
+    "kettlebell",
+    "entraînement à domicile",
+    "force",
+    "technique",
+    "GymHome"
+  ],
+  "publishedAt": "2026-09-14T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&q=80",
+  "imageAlt": "Une kettlebell posée au sol dans une salle à domicile",
+  "backlinks": [
+    {
+      "text": "GymHome",
+      "url": "https://gymhome.cz"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "gymhome-strength-basics",
+    "gymhome-dumbbell-only",
+    "gymhome-small-space-setup"
+  ]
+}

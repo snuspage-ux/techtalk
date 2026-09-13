@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-gif-to-mp4-zh",
+  "lang": "zh",
+  "title": "同一段动画，GIF 比视频重 20 倍",
+  "description": "十秒的 GIF 动辄 8 MB，同一段转成 MP4 不到 400 kB，画质还更好。原因在哪里，以及怎么在浏览器里直接转换。",
+  "excerpt": "GIF 是 1987 年的格式，我们却一直把它当视频用。代价是你的加载速度。",
+  "content": "你找到一个完美的 GIF，放到网页或幻灯片里，结果文件有 8 MB——就为了十秒的动画。这不是运气问题，是格式问题。\n\n## GIF 从来就不是视频\n\nGIF 诞生于 1987 年，为图标和简单动画而设计。它每帧最多 256 色，而且帧与帧之间完全不做压缩，每一帧都近乎完整地存一遍。视频编码器的做法正好相反：先写第一帧，之后只记录变化的部分。\n\n所以同样十秒的片段，GIF 是 8 MB，H.264 的 MP4 大约 350 kB。而且 MP4 保留完整色深，渐变不会再像等高线地图。\n\n## 真正的代价在哪里\n\n在手机上。产品页上一个 GIF 就能让加载慢两秒，而 Google 会把这直接算进 Core Web Vitals。在邮件里，大多数客户端只会显示第一帧。在幻灯片里，它能把 .pptx 撑到超过附件上限。\n\n平台早就自己解决了这件事：Twitter、Discord、Slack 在后台都会把上传的 GIF 转成 MP4。你只是白白给了它们一个过重的源文件。\n\n## 不用上传就能转换\n\n[FileTools](https://filetools.eu) 直接在浏览器里把 GIF 转成 MP4。拖进文件，选 MP4，下载。不用注册，也不会发到别人的服务器——转换在你自己的电脑上完成。\n\n放到网页时，给 `<video>` 加上 `autoplay muted loop playsinline`，表现和 GIF 一模一样，但只有二十分之一的体积。\n\n## 什么时候还该用 GIF\n\n如果动画必须放进邮件，或者放进一个渲染不了 `<video>` 的系统，GIF 仍是唯一选择。那就至少压缩调色板，并把时长控制在三秒以内。\n\n在为多个市场做视频？[TubeVoice](https://tubevoice.io) 能把它配音成几十种语言——当然，它用的是 MP4。\n\n先挑出站上最重的三个 GIF 转掉，当天就能在指标里看到变化。",
+  "category": "tools",
+  "tags": [
+    "GIF",
+    "MP4",
+    "视频压缩",
+    "网页性能",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-14T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+  "imageAlt": "开发者在显示器上查看传输数据",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-mov-to-mp4",
+    "filetools-video-compression",
+    "filetools-batch-convert"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-gif-to-mp4-cs",
+  "lang": "cs",
+  "title": "GIF váží 20× víc než video. Převeďte ho na MP4",
+  "description": "Desetisekundový GIF má klidně 8 MB. Stejný klip v MP4 se vejde pod 400 kB a vypadá lépe. Proč to tak je a jak převod udělat přímo v prohlížeči.",
+  "excerpt": "GIF je formát z roku 1987, který si pořád pleteme s videem. Účet za to platí vaše stránka.",
+  "content": "Našli jste perfektní GIF, hodíte ho na web nebo do prezentace — a soubor má 8 MB. Deset sekund obrazu. To není smůla, to je formát.\n\n## GIF nikdy nebyl video\n\nGIF vznikl v roce 1987 pro ikonky a jednoduché animace. Umí maximálně 256 barev na snímek a mezi snímky nekomprimuje vůbec. Každý snímek se ukládá téměř celý znovu. Video kodeky dělají opak — zapíšou první snímek a pak jen to, co se změnilo.\n\nProto ten samý desetisekundový klip vypadá takhle: GIF 8 MB, MP4 s H.264 kolem 350 kB. A MP4 má plnou barevnou hloubku, takže gradienty nevypadají jako mapa vrstev.\n\n## Kde se to nejvíc projeví\n\nNa mobilu. GIF na produktové stránce dokáže sám zdržet načtení o dvě sekundy a Google to počítá do Core Web Vitals. V e-mailu ho většina klientů zmrzačí na první snímek. A v prezentaci nafoukne .pptx tak, že neprojde přes přílohu.\n\nSociální sítě to už vyřešily za vás — Twitter, Discord i Slack GIF interně převádí na MP4. Vy jim jen posíláte zbytečně velký zdroj.\n\n## Převod bez nahrávání\n\n[FileTools](https://filetools.eu) převede GIF na MP4 přímo v prohlížeči. Přetáhnete soubor, zvolíte MP4, stáhnete. Žádná registrace, žádný upload na cizí server — konverze běží u vás v počítači.\n\nPro web pak přidejte `autoplay muted loop playsinline` na `<video>` tag a chová se to jako GIF, jen dvacetkrát lehčeji.\n\n## Kdy GIF nechat být\n\nPokud musíte vložit animaci do e-mailu nebo do systému, který `<video>` neumí, GIF zůstává jediná cesta. Tam aspoň omezte paletu a délku na tři sekundy.\n\nDěláte video obsah pro víc trhů? [TubeVoice](https://tubevoice.io) ho nadabuje do desítek jazyků — a to už s MP4 pracuje samozřejmě.\n\nVezměte tři nejtěžší GIFy na svém webu a převeďte je. Uvidíte to v metrikách hned.",
+  "category": "tools",
+  "tags": [
+    "GIF",
+    "MP4",
+    "komprese videa",
+    "web performance",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-14T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+  "imageAlt": "Vývojář sledující přenosová data na monitoru",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-mov-to-mp4",
+    "filetools-video-compression",
+    "filetools-batch-convert"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-gif-to-mp4-en",
+  "lang": "en",
+  "title": "A GIF Weighs 20× More Than the Same Video. Fix It",
+  "description": "A ten-second GIF can hit 8 MB. The same clip as MP4 lands under 400 kB and looks better. Why that happens and how to convert it in your browser.",
+  "excerpt": "GIF is a 1987 format we keep mistaking for video. Your page load pays the bill.",
+  "content": "You find the perfect GIF, drop it on your page or into a deck, and the file is 8 MB. For ten seconds of motion. That's not bad luck — that's the format.\n\n## GIF was never video\n\nGIF shipped in 1987 for icons and simple animations. It caps out at 256 colours per frame and does no compression between frames at all. Every frame is stored almost in full. Video codecs do the opposite: write the first frame, then only what changed.\n\nSo the same ten-second clip comes out as 8 MB of GIF or roughly 350 kB of H.264 MP4. And the MP4 has full colour depth, so gradients stop looking like a contour map.\n\n## Where it actually hurts\n\nMobile. A single GIF on a product page can add two seconds to load time, and Google folds that straight into Core Web Vitals. In email most clients freeze it to the first frame anyway. In a deck it bloats the .pptx past the attachment limit.\n\nSocial platforms already solved this for themselves — Twitter, Discord and Slack all transcode uploaded GIFs to MP4 behind the scenes. You're just handing them a needlessly heavy source.\n\n## Converting without uploading\n\n[FileTools](https://filetools.eu) turns a GIF into MP4 right in the browser. Drag the file in, pick MP4, download. No account, nothing sent to someone else's server — the conversion runs on your machine.\n\nFor the web, add `autoplay muted loop playsinline` to the `<video>` tag and it behaves exactly like a GIF, at a twentieth of the weight.\n\n## When to keep the GIF\n\nIf you need animation inside an email or a system that can't render `<video>`, GIF is still the only path. There, at least trim the palette and keep it under three seconds.\n\nMaking video for several markets? [TubeVoice](https://tubevoice.io) dubs it into dozens of languages — and it obviously expects MP4, not GIF.\n\nTake the three heaviest GIFs on your site and convert them. You'll see it in the metrics the same day.",
+  "category": "tools",
+  "tags": [
+    "GIF",
+    "MP4",
+    "video compression",
+    "web performance",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-14T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+  "imageAlt": "Developer watching transfer stats on a monitor",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-mov-to-mp4",
+    "filetools-video-compression",
+    "filetools-batch-convert"
+  ]
+}
