@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-true-crime-channels-en",
+  "lang": "en",
+  "title": "True Crime Channels Are Sitting on an Audience They Can't Reach",
+  "description": "True crime is one of YouTube's biggest genres, but language locks it to a single market. Here is why dubbing pays off here more than anywhere.",
+  "excerpt": "A true crime viewer will sit through a full hour. But only in their own language. Dubbing opens markets with almost no competition.",
+  "content": "True crime is one of the few genres on YouTube where viewers stay for a full hour. No scrolling, no skipping. If the story grabs them, they stay.\n\nThat is also what language punishes hardest. A well-made case video in English can pull 200k views while the same story in Czech or Portuguese has almost no competition. The viewers exist. You just never reach them.\n\n## Dubbing used to be the problem\n\nTrue crime runs on narration. A flat robotic voice kills a story faster than a bad thumbnail. That is why most channels skipped dubbing entirely - the tools sounded like a satnav reading a court transcript.\n\nThat changed. Modern AI dubbing keeps the pacing, the pauses and the tone of the original narrator. [TubeVoice](https://tubevoice.io) dubs a whole episode into 50+ languages and holds the same voice across the video, so the tension survives the translation.\n\n## Where the money actually is\n\nEnglish true crime is saturated. Anyone with a microphone is doing it. Spanish, Polish, German and Portuguese audiences have far fewer good channels telling the same cases. Dubbing one video into four languages gives you four shots at an underserved market from a single script.\n\nPractical move: take your three best cases, run them through [TubeVoice](https://tubevoice.io) and watch the retention graph. If viewers in Poland stay as long as viewers in the US, you have a second channel. To get a new language channel moving in its first weeks, [KupSledujici](https://kupsledujici.cz) helps with early views and engagement in the CZ/SK region.\n\n## Don't overdo the uploads\n\nMore languages does not mean more content. A careless translation of a sensitive case reads as sloppy, and true crime audiences notice. Write like a human, review every translated title and description, and let each market's norms guide what you post.\n\nStart with one case in one new language. The data will tell you the rest.",
+  "category": "ai",
+  "tags": [
+    "true crime",
+    "AI dubbing",
+    "YouTube niche",
+    "localization",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-09-14",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800&q=80",
+  "imageAlt": "Studio microphone in a dimly lit podcast room",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "KupSledujici",
+      "url": "https://kupsledujici.cz"
+    }
+  ],
+  "related": [
+    "tubevoice-documentary-dubbing",
+    "tubevoice-localization-strategy",
+    "tubevoice-news-media"
+  ]
+}

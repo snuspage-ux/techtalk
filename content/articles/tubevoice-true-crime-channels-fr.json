@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-true-crime-channels-fr",
+  "lang": "fr",
+  "title": "Les chaînes true crime ont un public qu'elles n'atteignent pas",
+  "description": "Le true crime est l'un des plus gros genres de YouTube, mais la langue l'enferme dans un seul marché. Voilà pourquoi le doublage y rapporte plus qu'ailleurs.",
+  "excerpt": "Un spectateur de true crime reste une heure. Mais seulement dans sa langue. Le doublage ouvre des marchés presque sans concurrence.",
+  "content": "Le true crime est l'un des rares genres sur YouTube où le spectateur reste une heure entière. Pas de scroll, pas de saut. Si l'histoire l'accroche, il ne bouge pas.\n\nC'est aussi ce que la langue punit le plus durement. Une affaire bien racontée en anglais fait 200 000 vues, alors que la même histoire en tchèque ou en portugais n'a presque aucune concurrence. Les spectateurs existent. Tu ne les atteins juste jamais.\n\n## Le doublage était le problème\n\nLe true crime vit de la voix off. Une voix robotique et plate tue une histoire plus vite qu'une mauvaise miniature. C'est pourquoi la plupart des chaînes évitaient le doublage - les outils sonnaient comme un GPS qui lit un procès-verbal.\n\nÇa a changé. Le doublage IA moderne garde le rythme, les pauses et le ton du narrateur d'origine. [TubeVoice](https://tubevoice.io) double un épisode entier en 50+ langues et garde la même voix sur toute la vidéo, donc la tension survit à la traduction.\n\n## Où est vraiment l'argent\n\nLe true crime anglais est saturé. Tous ceux qui ont un micro s'y mettent. Les publics espagnol, polonais, allemand et portugais ont beaucoup moins de bonnes chaînes sur les mêmes affaires. Doubler une vidéo en quatre langues te donne quatre chances sur un marché mal servi, à partir d'un seul script.\n\nConcrètement : prends tes trois meilleures affaires, passe-les dans [TubeVoice](https://tubevoice.io) et regarde la courbe de rétention. Si les spectateurs en Pologne restent aussi longtemps qu'aux États-Unis, tu as une deuxième chaîne. Pour lancer une nouvelle chaîne linguistique les premières semaines, [KupSledujici](https://kupsledujici.cz) aide avec les premières vues sur la zone CZ/SK.\n\n## Ne surcharge pas les publications\n\nPlus de langues ne veut pas dire plus de contenu. Une traduction bâclée d'une affaire sensible passe pour de la négligence, et le public true crime le remarque. Écris comme un humain, relis chaque titre et chaque description traduits, et laisse les normes de chaque marché guider ce que tu publies.\n\nCommence par une affaire dans une nouvelle langue. Les données feront le reste.",
+  "category": "ai",
+  "tags": [
+    "true crime",
+    "doublage IA",
+    "niche YouTube",
+    "localisation",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-09-14",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800&q=80",
+  "imageAlt": "Micro de studio dans une pièce de podcast faiblement éclairée",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "KupSledujici",
+      "url": "https://kupsledujici.cz"
+    }
+  ],
+  "related": [
+    "tubevoice-documentary-dubbing",
+    "tubevoice-localization-strategy",
+    "tubevoice-news-media"
+  ]
+}

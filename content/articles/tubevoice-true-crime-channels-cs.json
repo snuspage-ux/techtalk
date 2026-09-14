@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-true-crime-channels-cs",
+  "lang": "cs",
+  "title": "True crime kanály mají publikum, na které nedosáhnou",
+  "description": "True crime je jeden z největších žánrů na YouTube, ale jazyk ho drží v jednom trhu. Tady je, proč se dabing vyplatí právě tady.",
+  "excerpt": "Divák true crime vydrží celou hodinu. Ale jen ve svém jazyce. Dabing otevírá trhy, kde skoro žádná konkurence není.",
+  "content": "True crime je jeden z mála žánrů na YouTube, kde divák vydrží celou hodinu. Neodscrolluje, nepřeskočí. Když ho příběh chytne, zůstane.\n\nPrávě proto ho ale jazyk sráží nejvíc. Dobře udělané video o případu v angličtině udělá 200 tisíc zhlédnutí, zatímco stejný příběh v češtině nebo portugalštině skoro nikdo netočí. Diváci existují. Ty se k nim jen nedostaneš.\n\n## Dabing býval problém\n\nTrue crime stojí na vyprávění. Plochý robotický hlas zabije příběh rychleji než špatný thumbnail. Proto většina kanálů dabing vůbec neřešila - nástroje zněly jako navigace předčítající soudní protokol.\n\nTo se změnilo. Moderní AI dabing udrží tempo, pauzy i tón původního vypravěče. [TubeVoice](https://tubevoice.io) nadabuje celou epizodu do 50+ jazyků a udrží stejný hlas v celém videu, takže napětí přežije i překlad.\n\n## Kde jsou peníze\n\nAnglický true crime je přesycený. Dělá ho každý, kdo má mikrofon. Španělské, polské, německé a portugalské publikum ale má mnohem méně dobrých kanálů na stejné příběhy. Dabing jednoho videa do čtyř jazyků ti dá čtyři pokusy o nedosloužený trh z jednoho scénáře.\n\nPraktický postup: vezmi tři nejúspěšnější případy, prožeň je přes [TubeVoice](https://tubevoice.io) a sleduj křivku retence. Když diváci v Polsku zůstanou stejně dlouho jako v USA, máš druhý kanál. Pro rozjezd nového jazyka v prvních týdnech se hodí i [KupSledujici](https://kupsledujici.cz) na první zhlédnutí a engagement v CZ/SK.\n\n## Nepřehánět počet uploadů\n\nVíc jazyků neznamená víc obsahu. Odfláknutý překlad citlivého případu působí ledabyle a diváci true crime si toho všimnou. Piš lidsky, projdi každý přeložený titulek a popisek a nech se vést normami daného trhu.\n\nZačni jedním případem v jednom novém jazyce. Zbytek ti řeknou data.",
+  "category": "ai",
+  "tags": [
+    "true crime",
+    "AI dabing",
+    "YouTube žánr",
+    "lokalizace",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-09-14",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800&q=80",
+  "imageAlt": "Studiový mikrofon v šeru podcastového studia",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "KupSledujici",
+      "url": "https://kupsledujici.cz"
+    }
+  ],
+  "related": [
+    "tubevoice-documentary-dubbing",
+    "tubevoice-localization-strategy",
+    "tubevoice-news-media"
+  ]
+}
