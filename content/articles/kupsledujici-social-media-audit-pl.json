@@ -1,0 +1,39 @@
+{
+  "slug": "kupsledujici-social-media-audit-pl",
+  "lang": "pl",
+  "title": "Audyt social media w 30 minut: co naprawdę masz zepsute",
+  "description": "Większość kont nie ma problemu z contentem. Ma problem z liczbami, na które nikt nie patrzy. Szybki 30-minutowy audyt pokaże, gdzie tracisz wzrost.",
+  "excerpt": "Przestań zgadywać. Najpierw mierz.",
+  "content": "Większość ludzi publikuje miesiącami, nie sprawdzając ani razu, czy to działa. Czują się zajęci. Zakładają, że jest dobrze. Potem dziwią się, że nic się nie rusza.\n\nTrzydzieści minut szczerego pomiaru bije kolejny miesiąc zgadywania. Oto audyt.\n\n## 1. Patrz na wskaźnik zaangażowania, nie na liczbę obserwujących\n\nLiczba obserwujących to próżność. Wskaźnik zaangażowania to prawda. Weź ostatnie 10 postów. Dodaj lajki, komentarze, zapisania, udostępnienia. Podziel przez obserwujących. Pomnóż przez 100.\n\nPoniżej 1 %: twój content jest niewidzialny.\n1-3 %: średnia.\nPowyżej 5 %: coś działa. Rób tego więcej.\n\nKonto z 900 obserwującymi przy 6 % bije konto z 20 000 obserwujących przy 0,4 % za każdym razem. Marki to wiedzą. Algorytm to wie.\n\n## 2. Znajdź martwe posty\n\nSortuj po zasięgu, nie po lajkach. Trzy najniższe posty powiedzą ci więcej niż trzy najwyższe. Zły format? Zły czas? Zły temat? Zwykle to jedno z tych.\n\nJeśli post miał dobry zasięg, ale zero zapisań i komentarzy, haczyk zadziałał, a puenta nie. To problem tekstu, nie zasięgu. Nisze wizualne pokazują to szybko — na feedzie projektowym jak [RoomFlip](https://roomflip.io) post żyje albo umiera przez zapisania.\n\n## 3. Sprawdź, skąd naprawdę przychodzi ruch\n\nOtwórz statystyki. Sprawdź, czy ludzie znajdują cię przez wyszukiwanie, hashtagi czy feed. Jeśli 90 % idzie z feedu, nie masz wykrywalności. Stare posty przestają działać, gdy tylko przestajesz publikować. To kruche.\n\n## 4. Porównaj się z trzema kontami w swojej niszy\n\nNie z gigantami. Z trzema kontami o krok przed tobą. Jaki format powtarzają? Czego nigdy nie robią? Nie kopiujesz. Szukasz wzorców.\n\n## 5. Uzupełnij luki uczciwie\n\nTu jest część, którą wszyscy pomijają. Tani sposób na naprawę zimnego startu to podbicie liczb, które sygnalizują wiarygodność — obserwujących i wczesnego zaangażowania. Czeska i słowacka publiczność decyduje w sekundach. Najpierw czyta salę, potem twój opis.\n\nDo tego służy [KupSledujici](https://kupsledujici.cz). Prawdziwe zaangażowanie CZ/SK, nie martwe boty. Przepchnij profil przez etap „kto to w ogóle jest\" i pozwól reszcie zrobić content.\n\nTa sama logika działa przy wideo. Kanał, który wygląda na pusty, się pomija. [TubeVoice](https://tubevoice.io) pomaga twórcom dotrzeć do ponad 50 języków, żeby dobre wideo nie utknęło na jednym rynku.\n\n## 6. Zapisz trzy poprawki, nie trzydzieści\n\nAudyt, który kończy się listą 30 zadań, to nieudany audyt. Wybierz trzy. Zwykle: napraw haczyk, czas publikacji, bio. Powtórz audyt po 30 dniach.\n\n## Niewygodna część\n\nWiększość kont nie ma problemu z contentem. Ma problem z liczbami, na które nikt nie patrzy. Trzydzieści minut pomiaru powie ci więcej niż kolejny miesiąc publikowania.\n\nNajpierw liczby. Potem content. Ta kolejność nie podlega negocjacji.",
+  "category": "tools",
+  "tags": [
+    "audyt social media",
+    "wskaźnik zaangażowania",
+    "smm",
+    "czechy",
+    "słowacja"
+  ],
+  "publishedAt": "2026-09-15",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
+  "imageAlt": "Panel analityczny z wykresami zaangażowania na ekranie laptopa",
+  "backlinks": [
+    {
+      "text": "KupSledujici.cz",
+      "url": "https://kupsledujici.cz"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "kupsledujici-engagement-pl",
+    "kupsledujici-social-media-analytics-pl",
+    "kupsledujici-instagram-growth-pl"
+  ]
+}

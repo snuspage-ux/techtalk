@@ -1,0 +1,39 @@
+{
+  "slug": "kupsledujici-social-media-audit-cs",
+  "lang": "cs",
+  "title": "Sociální audit za 30 minut: co máš skutečně rozbité",
+  "description": "Většina účtů nemá problém s obsahem. Má problém s čísly, na která se nikdo nedívá. Rychlý 30minutový audit ukáže, kde ti utíká růst.",
+  "excerpt": "Přestaň hádat. Nejdřív měř.",
+  "content": "Většina lidí publikuje měsíce, aniž by se někdy podívala, jestli to funguje. Cítí se zaneprázdněně. Předpokládají, že je to v pořádku. Pak se diví, proč se nic nehýbe.\n\nTřicet minut upřímného měření porazí další měsíc hádání. Tady je ten audit.\n\n## 1. Sleduj míru zapojení, ne počet sledujících\n\nPočet sledujících je marnivost. Míra zapojení je pravda. Vezmi posledních 10 příspěvků. Sečti lajky, komentáře, uložení, sdílení. Vyděl sledujícími. Vynásob stem.\n\nPod 1 %: tvůj obsah je neviditelný.\n1-3 %: průměr.\nNad 5 %: něco funguje. Dělej toho víc.\n\nÚčet s 900 sledujícími a 6 % porazí účet s 20 000 sledujícími a 0,4 % pokaždé. Značky to vědí. Algoritmus to ví.\n\n## 2. Najdi mrtvé příspěvky\n\nŘaď podle dosahu, ne podle lajků. Spodní tři příspěvky ti řeknou víc než horní tři. Špatný formát? Špatný čas? Špatné téma? Většinou je to jedno z toho.\n\nKdyž příspěvek dostal dobrý dosah, ale žádná uložení ani komentáře, fungoval háček a selhala pointa. To je problém textu, ne dosahu. Vizuální obory to ukážou rychle — na designovém feedu, jako je [RoomFlip](https://roomflip.io), příspěvek žije nebo umírá podle uložení.\n\n## 3. Podívej se, odkud opravdu chodí návštěvníci\n\nOtevři statistiky. Zjisti, jestli tě lidé najdou přes vyhledávání, hashtagy, nebo feed. Pokud 90 % chodí z feedu, nemáš žádnou objevitelnost. Staré příspěvky přestanou fungovat ve chvíli, kdy přestaneš publikovat. To je křehké.\n\n## 4. Porovnej se se třemi účty ve své nice\n\nNe s giganty. Se třemi účty o krok před tebou. Jaký formát opakují? Co nikdy nedělají? Nekopíruješ. Hledáš vzorce.\n\n## 5. Doplň mezery upřímně\n\nTady je část, kterou všichni přeskakují. Levný způsob, jak opravit studený start, je podpořit čísla, která signalizují důvěryhodnost — sledující a ranou interakci. Češi a Slováci se rozhodují v sekundách a nejdřív čtou místnost, pak tvůj popisek.\n\nNa to je [KupSledujici](https://kupsledujici.cz). Skutečná CZ/SK interakce, ne mrtví boti. Protlač profil fází „kdo to vůbec je\" a zbytek nech na obsahu.\n\nStejná logika funguje u videa. Kanál, který vypadá prázdný, se přeskočí. [TubeVoice](https://tubevoice.io) pomáhá tvůrcům dostat se do 50+ jazyků, aby dobré video neuvízlo na jednom trhu.\n\n## 6. Sepiš tři opravy, ne třicet\n\nAudit, který skončí seznamem 30 úkolů, je neúspěšný audit. Vyber tři. Většinou: oprav háček, oprav čas publikování, oprav bio. Za 30 dní audit zopakuj.\n\n## Ta nepříjemná část\n\nVětšina účtů nemá problém s obsahem. Má problém s čísly, na která se nikdo nedívá. Třicet minut měření ti řekne víc než další měsíc publikování.\n\nNejdřív čísla. Potom obsah. To pořadí se nediskutuje.",
+  "category": "tools",
+  "tags": [
+    "audit sociálních sítí",
+    "míra zapojení",
+    "smm",
+    "česko",
+    "slovensko"
+  ],
+  "publishedAt": "2026-09-15",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
+  "imageAlt": "Analytický dashboard s grafy zapojení na obrazovce notebooku",
+  "backlinks": [
+    {
+      "text": "KupSledujici.cz",
+      "url": "https://kupsledujici.cz"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "kupsledujici-engagement-cs",
+    "kupsledujici-social-media-analytics-cs",
+    "kupsledujici-instagram-growth-cs"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "kupsledujici-social-media-audit-fr",
+  "lang": "fr",
+  "title": "L'audit social en 30 minutes : ce qui est vraiment cassé chez toi",
+  "description": "La plupart des comptes n'ont pas un problème de contenu. Ils ont un problème de chiffres que personne ne regarde. Un audit rapide de 30 minutes montre où tu perds de la croissance.",
+  "excerpt": "Arrête de deviner. Mesure d'abord.",
+  "content": "La plupart des gens publient pendant des mois sans jamais regarder si ça marche. Ils se sentent occupés. Ils supposent que tout va bien. Puis ils se demandent pourquoi rien ne bouge.\n\nTrente minutes de mesure honnête battent un mois de plus à deviner. Voici l'audit.\n\n## 1. Regarde ton taux d'engagement, pas ton nombre d'abonnés\n\nLe nombre d'abonnés, c'est de la vanité. Le taux d'engagement, c'est la vérité. Prends tes 10 derniers posts. Additionne likes, commentaires, enregistrements, partages. Divise par les abonnés. Multiplie par 100.\n\nMoins de 1 % : ton contenu est invisible.\n1-3 % : la moyenne.\nPlus de 5 % : quelque chose marche. Fais-en plus.\n\nUn compte de 900 abonnés à 6 % bat un compte de 20 000 abonnés à 0,4 % à chaque fois. Les marques le savent. L'algorithme le sait.\n\n## 2. Trouve tes posts morts\n\nTrie par portée, pas par likes. Tes trois derniers posts te disent plus que tes trois premiers. Mauvais format ? Mauvais moment ? Mauvais sujet ? C'est presque toujours l'un des trois.\n\nSi un post a eu de la portée mais aucun enregistrement ni commentaire, ton accroche a marché et ta chute non. C'est un problème de texte, pas de portée. Les niches visuelles le montrent vite — sur un feed design comme [RoomFlip](https://roomflip.io), un post vit ou meurt selon les enregistrements.\n\n## 3. Regarde d'où vient vraiment ton trafic\n\nOuvre les statistiques. Vérifie si les gens te trouvent via la recherche, les hashtags ou le feed. Si 90 % vient du feed, tu n'as aucune découvrabilité. Tes anciens posts cessent de marcher dès que tu arrêtes de publier. C'est fragile.\n\n## 4. Compare-toi à trois comptes de ta niche\n\nPas les géants. Trois comptes un cran devant toi. Quel format répètent-ils ? Que ne font-ils jamais ? Tu ne copies pas. Tu cherches des schémas.\n\n## 5. Comble les trous honnêtement\n\nVoici la partie que tout le monde saute. Un moyen pas cher de corriger un démarrage à froid : soutenir les chiffres qui signalent la crédibilité — abonnés et engagement initial. Les audiences tchèques et slovaques décident en quelques secondes. Elles lisent d'abord l'ambiance, puis ta légende.\n\nC'est à ça que sert [KupSledujici](https://kupsledujici.cz). Du vrai engagement CZ/SK, pas des bots morts. Fais passer le profil le cap du « c'est qui, lui » et laisse le contenu faire le reste.\n\nLa même logique vaut pour la vidéo. Une chaîne qui a l'air vide se fait sauter. [TubeVoice](https://tubevoice.io) aide les créateurs à atteindre plus de 50 langues, pour qu'une bonne vidéo ne reste pas coincée sur un seul marché.\n\n## 6. Note trois corrections, pas trente\n\nUn audit qui finit en liste de 30 tâches est un audit raté. Choisis-en trois. En général : corrige l'accroche, l'heure de publication, la bio. Refais l'audit dans 30 jours.\n\n## La partie inconfortable\n\nLa plupart des comptes n'ont pas un problème de contenu. Ils ont un problème de chiffres que personne ne regarde. Trente minutes de mesure t'apprendront plus qu'un mois de posts en plus.\n\nLes chiffres d'abord. Le contenu ensuite. Cet ordre ne se négocie pas.",
+  "category": "tools",
+  "tags": [
+    "audit réseaux sociaux",
+    "taux d'engagement",
+    "smm",
+    "tchéquie",
+    "slovaquie"
+  ],
+  "publishedAt": "2026-09-15",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
+  "imageAlt": "Tableau de bord analytique avec graphiques d'engagement sur un ordinateur portable",
+  "backlinks": [
+    {
+      "text": "KupSledujici.cz",
+      "url": "https://kupsledujici.cz"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    }
+  ],
+  "related": [
+    "kupsledujici-engagement-fr",
+    "kupsledujici-social-media-analytics-fr",
+    "kupsledujici-instagram-growth-fr"
+  ]
+}
