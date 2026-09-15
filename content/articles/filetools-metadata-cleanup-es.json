@@ -1,0 +1,34 @@
+{
+  "slug": "filetools-metadata-cleanup-es",
+  "lang": "es",
+  "title": "Tus fotos filtran más de lo que crees: borra los metadatos",
+  "description": "Cada foto lleva coordenadas GPS, modelo de móvil y hora exacta. Así se limpian los metadatos de imágenes y PDF en segundos.",
+  "excerpt": "Una foto hecha en casa con GPS en el EXIF es tu dirección entregada a un desconocido.",
+  "content": "Fotografías un sofá, lo publicas en un portal de segunda mano y esperas ofertas. También acabas de publicar las coordenadas GPS de tu salón con un margen de pocos metros.\n\nLos metadatos EXIF llevan coordenadas, fecha y hora, modelo del móvil y a veces el número de serie. En un PDF son el nombre del autor, el del ordenador y todo el historial de revisiones.\n\n## Cuándo duele de verdad\n\nAnuncios de segunda mano. Fotos de un alquiler. Capturas pegadas en un ticket público. Un CV enviado a diez empresas. En todos los casos el archivo llega a desconocidos y lleva más de lo que querías enviar.\n\nEl fallo clásico en PDF es el nombre de la plantilla: «propuesta_cliente_ABC_v3.docx» dentro de los metadatos de un documento que acabas de mandar a otro cliente.\n\n## Cómo borrarlos\n\nAbre [FileTools](https://filetools.eu), sube el archivo y ejecuta la limpieza de metadatos. El procesado ocurre localmente en el navegador, así que el contenido no sale de tu equipo. Te descargas una copia sin EXIF, sin autor y sin historial.\n\nAdmite JPEG, PNG, HEIC y PDF. El modo por lotes se come una carpeta entera: la única forma sensata de limpiar treinta fotos de un anuncio.\n\n## Qué conviene conservar\n\nNo siempre quieres borrarlo todo. Los fotógrafos suelen mantener los datos de exposición y el copyright y eliminan solo la ubicación. Decide qué sale.\n\n## Conclusión\n\nLimpiar metadatos cuesta diez segundos y evita un problema que casi todo el mundo descubre demasiado tarde. Conviértelo en el último paso antes de compartir cualquier cosa: [FileTools](https://filetools.eu) lo hace en lote, y así dejas listos también los fotogramas para [TubeVoice](https://tubevoice.io).",
+  "category": "tools",
+  "tags": [
+    "filetools",
+    "privacidad",
+    "exif",
+    "metadatos",
+    "seguridad"
+  ],
+  "publishedAt": "2026-09-16T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800&q=80",
+  "imageAlt": "Cámara y portátil sobre un escritorio con un gestor de archivos",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-privacy-local-conversion",
+    "filetools-watermark-images"
+  ]
+}

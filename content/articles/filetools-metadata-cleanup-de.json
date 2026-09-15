@@ -1,0 +1,34 @@
+{
+  "slug": "filetools-metadata-cleanup-de",
+  "lang": "de",
+  "title": "Deine Fotos verraten mehr als gedacht — Metadaten löschen",
+  "description": "Jedes Foto trägt GPS-Koordinaten, Handymodell und Zeitstempel. So entfernst du Metadaten aus Bildern und PDFs in Sekunden.",
+  "excerpt": "Ein Foto von zu Hause mit GPS im EXIF ist deine Adresse, verschickt an Fremde.",
+  "content": "Du fotografierst ein Sofa, stellst es auf einen Kleinanzeigenmarkt und wartest auf Angebote. Gleichzeitig hast du gerade die GPS-Koordinaten deines Wohnzimmers veröffentlicht — auf wenige Meter genau.\n\nEXIF-Metadaten enthalten Koordinaten, Datum und Uhrzeit, Gerätemodell, manchmal eine Seriennummer. Bei PDFs sind es Autorenname, Rechnername und die komplette Revisionshistorie.\n\n## Wann es wirklich weh tut\n\nKleinanzeigen. Wohnungsfotos. Screenshots in einem öffentlichen Ticket. Ein Lebenslauf an zehn Firmen. Überall wandert die Datei zu Fremden — und bringt mehr mit, als du senden wolltest.\n\nDer Klassiker bei PDFs ist der Vorlagen-Dateiname: „angebot_kunde_ABC_v3.docx\" in den Metadaten eines Dokuments, das gerade an einen anderen Kunden ging.\n\n## So entfernst du sie\n\nÖffne [FileTools](https://filetools.eu), lade die Datei hoch, starte die Metadaten-Bereinigung. Die Verarbeitung läuft lokal im Browser, der Inhalt verlässt dein Gerät also nicht. Heraus kommt eine Kopie ohne EXIF, ohne Autor, ohne Verlauf.\n\nUnterstützt werden JPEG, PNG, HEIC und PDF. Der Stapelmodus nimmt einen ganzen Ordner auf einmal — die einzige vernünftige Methode für dreißig Anzeigenfotos.\n\n## Was du behalten solltest\n\nNicht immer soll alles weg. Fotografen behalten meist Belichtungsdaten und Copyright-Felder und löschen nur den Ort. Entscheide bewusst, was rausgeht — pauschal alles zu löschen ist nicht immer richtig.\n\n## Fazit\n\nMetadaten zu bereinigen dauert zehn Sekunden und verhindert ein Problem, das die meisten viel zu spät bemerken. Mach es zum letzten Schritt vor jedem Teilen — [FileTools](https://filetools.eu) schafft das auch im Stapel, und für Standbilder in [TubeVoice](https://tubevoice.io) ist es gleich mit erledigt.",
+  "category": "tools",
+  "tags": [
+    "filetools",
+    "datenschutz",
+    "exif",
+    "metadaten",
+    "sicherheit"
+  ],
+  "publishedAt": "2026-09-16T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800&q=80",
+  "imageAlt": "Kamera und Laptop auf einem Schreibtisch mit geöffnetem Dateimanager",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-privacy-local-conversion",
+    "filetools-watermark-images"
+  ]
+}

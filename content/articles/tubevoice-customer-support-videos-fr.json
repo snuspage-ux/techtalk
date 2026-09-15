@@ -1,0 +1,34 @@
+{
+  "slug": "tubevoice-customer-support-videos-fr",
+  "lang": "fr",
+  "title": "Un support en 8 langues ? Doublez les vidéos",
+  "description": "Comment doubler vos tutoriels de support client dans des dizaines de langues et réduire le volume de tickets, sans retourner une seule capture.",
+  "excerpt": "Un tutoriel. Huit langues. Un tiers de tickets en moins.",
+  "content": "Ton centre d'aide compte vingt tutoriels vidéo. Tous en français. Et la moitié de tes clients écrivent depuis la Pologne, l'Allemagne et l'Espagne.\n\nRésultat : des tickets qu'une vidéo réglerait en deux minutes occupent ton support pendant vingt.\n\n## Pourquoi les sous-titres ne suffisent pas\n\nSur un tutoriel, les sous-titres échouent. L'utilisateur regarde un enregistrement d'écran qui montre exactement où cliquer — et doit en même temps lire du texte en bas. Ses yeux ne peuvent pas être aux deux endroits. Il rate une étape, met la vidéo en pause, et envoie le ticket quand même.\n\nLe doublage supprime le conflit. Les yeux suivent l'interface, les oreilles reçoivent l'instruction. Exactement comme dans sa langue maternelle.\n\n## Le faire en un après-midi\n\nEnvoie la vidéo existante sur [TubeVoice](https://tubevoice.io), choisis les langues cibles, laisse tourner. L'outil clone la voix depuis l'audio d'origine : toutes les versions sonnent pareil, au lieu d'un narrateur synthétique différent par marché.\n\nVingt vidéos × huit langues = 160 versions. Impossible à la main. Là, c'est un après-midi et un export.\n\n## Ce qu'il faut mesurer\n\nSuis le taux de déviation : la part de visiteurs qui consultent l'article avec vidéo et ouvrent quand même un ticket. Après le déploiement des versions localisées, il chute en général de 20 à 35 % sur les marchés non francophones.\n\nDeuxième indicateur : le délai médian de résolution. Quand le client se débrouille seul, ton équipe ne traite que les vrais problèmes.\n\n## En résumé\n\nLes vidéos de support sont les employés les moins chers que tu auras jamais : disponibles en continu, jamais sur la masse salariale. Donne-leur les langues de tes clients. Commence sur [TubeVoice](https://tubevoice.io), et allège miniatures et pièces jointes avec [FileTools](https://filetools.eu).",
+  "category": "ai",
+  "tags": [
+    "tubevoice",
+    "support-client",
+    "localisation",
+    "doublage-ia",
+    "video"
+  ],
+  "publishedAt": "2026-09-16T05:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?w=800&q=80",
+  "imageAlt": "Agent du support client au bureau avec un casque",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-corporate-training",
+    "tubevoice-tutorial-channels"
+  ]
+}

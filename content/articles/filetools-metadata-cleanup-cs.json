@@ -1,0 +1,34 @@
+{
+  "slug": "filetools-metadata-cleanup-cs",
+  "lang": "cs",
+  "title": "Tvoje fotky prozrazují víc, než čekáš. Smaž metadata",
+  "description": "Každá fotka nese GPS souřadnice, model telefonu a čas pořízení. Jak metadata z obrázků a PDF smazat během pár vteřin.",
+  "excerpt": "Fotka z domova s GPS v EXIFu je adresa poslaná cizímu člověku.",
+  "content": "Vyfotíš gauč, dáš ho na bazar a čekáš nabídky. Zároveň jsi právě zveřejnil GPS souřadnice svého obýváku s přesností na pár metrů.\n\nEXIF metadata nesou souřadnice, datum a čas, model telefonu, někdy i sériové číslo. U PDF je to jméno autora, název počítače a plná historie revizí.\n\n## Kdy to opravdu vadí\n\nInzeráty na bazaru, fotky pronájmu, screenshoty do veřejného ticketu, CV posílané do deseti firem. Všude tam soubor putuje k cizím lidem — a nese s sebou víc, než jsi chtěl poslat.\n\nU PDF je nejčastější průšvih jméno šablony: „nabidka_klient_ABC_v3.docx\" v metadatech nového klienta nepotěší.\n\n## Jak to smazat\n\nOtevři [FileTools](https://filetools.eu), nahraj soubor a pusť čištění metadat. Zpracování běží lokálně v prohlížeči, takže obsah nikam neodchází. Výsledek stáhneš bez EXIFu, bez autora, bez historie.\n\nFunguje to na JPEG, PNG, HEIC i PDF. Dávkově zvládneš celou složku najednou, což je jediný rozumný způsob, jak očistit třicet fotek z inzerátu.\n\n## Co si nechat\n\nNe vždy chceš smazat všechno. Fotografové si obvykle nechávají informace o expozici a copyright a mažou jen polohu. Vyber si, co jde ven — plošné vymazání není vždycky správná odpověď.\n\n## Závěr\n\nČištění metadat zabere deset vteřin a řeší problém, který si většina lidí uvědomí až pozdě. Udělej z toho poslední krok před každým sdílením — na [FileTools](https://filetools.eu) to jde i hromadně, a fotky pro video obsah v [TubeVoice](https://tubevoice.io) si takhle taky rovnou uklidíš.",
+  "category": "tools",
+  "tags": [
+    "filetools",
+    "soukromí",
+    "exif",
+    "metadata",
+    "bezpečnost"
+  ],
+  "publishedAt": "2026-09-16T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800&q=80",
+  "imageAlt": "Fotoaparát a notebook na stole s otevřeným správcem souborů",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-privacy-local-conversion",
+    "filetools-watermark-images"
+  ]
+}

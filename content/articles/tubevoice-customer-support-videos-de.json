@@ -1,0 +1,34 @@
+{
+  "slug": "tubevoice-customer-support-videos-de",
+  "lang": "de",
+  "title": "Support in 8 Sprachen? Synchronisiere die Videos",
+  "description": "So vertonst du Support-Tutorials in Dutzende Sprachen und senkst das Ticketaufkommen — ohne eine einzige Aufnahme zu wiederholen.",
+  "excerpt": "Ein Tutorial. Acht Sprachen. Ein Drittel weniger Tickets.",
+  "content": "Dein Help Center hat zwanzig Tutorial-Videos. Alle auf Deutsch. Und die Hälfte deiner Kunden schreibt aus Polen, Frankreich und Spanien.\n\nDas Ergebnis: Tickets, die ein Video in zwei Minuten lösen würde, kosten deinen Support zwanzig.\n\n## Warum Untertitel nicht reichen\n\nBei Tutorials scheitern Untertitel. Der Nutzer schaut auf eine Bildschirmaufnahme, die zeigt, wo er klicken soll — und soll gleichzeitig Text am unteren Rand lesen. Für die Augen gibt es keine Lösung. Er verpasst einen Schritt, stoppt das Video und schreibt trotzdem das Ticket.\n\nSynchronisation löst den Konflikt auf. Augen folgen der Oberfläche, Ohren nehmen die Anweisung auf. Genau so funktioniert es in der Muttersprache.\n\n## In einem Nachmittag umgesetzt\n\nLade das bestehende Video zu [TubeVoice](https://tubevoice.io) hoch, wähle die Zielsprachen, lass es laufen. Die Stimme wird aus dem Originalton geklont — jede Sprachversion klingt dadurch konsistent, statt in jedem Markt nach einem anderen Roboter.\n\nZwanzig Videos × acht Sprachen = 160 Versionen. Von Hand unmöglich. So ist es ein Nachmittag und ein Export.\n\n## Was du messen solltest\n\nBeobachte die Deflection Rate: Wie viele Besucher eines Artikels mit Video eröffnen trotzdem ein Ticket? Nach dem Ausrollen lokalisierter Versionen sinkt sie in nicht-deutschsprachigen Märkten typischerweise um 20–35 %.\n\nZweite Kennzahl: mediane Bearbeitungsdauer. Wenn Kunden sich selbst helfen, bearbeitet dein Team nur noch echte Probleme.\n\n## Fazit\n\nSupport-Videos sind die günstigsten Mitarbeiter, die du je haben wirst — rund um die Uhr da, nie auf der Gehaltsliste. Gib ihnen die Sprachen deiner Kunden. Los geht's bei [TubeVoice](https://tubevoice.io); Thumbnails und Anhänge hältst du mit [FileTools](https://filetools.eu) schlank.",
+  "category": "ai",
+  "tags": [
+    "tubevoice",
+    "kundensupport",
+    "lokalisierung",
+    "ki-synchronisation",
+    "video"
+  ],
+  "publishedAt": "2026-09-16T05:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?w=800&q=80",
+  "imageAlt": "Support-Mitarbeiterin mit Headset am Schreibtisch",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-corporate-training",
+    "tubevoice-tutorial-channels"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "tubevoice-customer-support-videos-cs",
+  "lang": "cs",
+  "title": "Podpora v 8 jazycích? Nadabuj videa, ne helpdesk",
+  "description": "Jak nadabovat návodová videa pro zákaznickou podporu do desítek jazyků a srazit počet ticketů, aniž bys natáčel znovu.",
+  "excerpt": "Jedno návodové video. Osm jazyků. O třetinu méně ticketů.",
+  "content": "Máš v help centru dvacet návodových videí. Všechna v češtině. A polovina zákazníků ti píše z Polska, Německa a Rumunska.\n\nVýsledek? Tickety, které by video vyřešilo za dvě minuty, řeší tvůj support ručně za dvacet.\n\n## Proč titulky nestačí\n\nTitulky u návodu nefungují. Uživatel se dívá na obrazovku, kde mu ukazuješ, kam kliknout — a zároveň má číst text dole. Nemá kam dávat oči. Buď mine krok, nebo video zastaví a ticket napíše stejně.\n\nDabing tenhle problém odstraní. Oči sledují rozhraní, uši poslouchají instrukci. Přesně jak to funguje v mateřštině.\n\n## Jak to udělat za odpoledne\n\nNahraj existující video do [TubeVoice](https://tubevoice.io), vyber cílové jazyky a nech to běžet. Nástroj naklonuje hlas z původního audia, takže všechny jazykové verze zní konzistentně — žádná náhodná robotická znělka v každé zemi.\n\nDvacet videí × osm jazyků = 160 verzí. Ručně nerealizovatelné. Takhle je to jedno odpoledne a jeden export.\n\n## Co měřit\n\nSleduj deflection rate: kolik procent návštěvníků článku s videem napíše ticket. Po nasazení lokalizovaných verzí ho firmy typicky vidí spadnout o 20–35 % u neanglických trhů.\n\nDruhá metrika: průměrná doba do vyřešení. Když zákazník pochopí návod sám, tvůj tým řeší jen skutečné problémy.\n\n## Závěr\n\nSupport videa jsou nejlevnější lidi v týmu — pracují non-stop a neberou plat. Dej jim jazyky, kterými tvoji zákazníci mluví. Začni na [TubeVoice](https://tubevoice.io) a náhledy či přílohy si sraz na rozumnou velikost přes [FileTools](https://filetools.eu).",
+  "category": "ai",
+  "tags": [
+    "tubevoice",
+    "zákaznická-podpora",
+    "lokalizace",
+    "ai-dabing",
+    "video"
+  ],
+  "publishedAt": "2026-09-16T05:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?w=800&q=80",
+  "imageAlt": "Zákaznická podpora u počítače se sluchátky",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-corporate-training",
+    "tubevoice-tutorial-channels"
+  ]
+}

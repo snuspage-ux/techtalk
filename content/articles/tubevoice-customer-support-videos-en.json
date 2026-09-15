@@ -1,0 +1,34 @@
+{
+  "slug": "tubevoice-customer-support-videos-en",
+  "lang": "en",
+  "title": "Support in 8 Languages? Dub the Videos, Not the Helpdesk",
+  "description": "How to dub your customer support tutorials into dozens of languages and cut ticket volume — without re-recording a single screen capture.",
+  "excerpt": "One tutorial video. Eight languages. A third fewer tickets.",
+  "content": "Your help center has twenty tutorial videos. All in English. And half your customers write in from Poland, Germany, and Brazil.\n\nThe result: tickets that a video would solve in two minutes get handled manually in twenty.\n\n## Why subtitles don't cut it\n\nSubtitles fail on tutorials. The viewer is watching a screen recording that shows exactly where to click — and simultaneously reading text at the bottom. There's nowhere to put their eyes. They miss a step, pause the video, and file the ticket anyway.\n\nDubbing removes the conflict. Eyes follow the interface, ears take the instruction. Exactly how it works in a native language.\n\n## How to ship it in an afternoon\n\nUpload the existing video to [TubeVoice](https://tubevoice.io), pick your target languages, let it run. It clones the voice from the original audio, so every language version sounds consistent — no random synthetic narrator per market.\n\nTwenty videos × eight languages = 160 versions. Impossible by hand. This way it's one afternoon and one export.\n\n## What to measure\n\nTrack deflection rate: the share of people who view the article-with-video and still open a ticket. After shipping localized versions, teams typically watch it drop 20–35% in non-English markets.\n\nSecond metric: median time to resolution. When the customer self-serves the walkthrough, your team only touches the real problems.\n\n## Bottom line\n\nSupport videos are the cheapest headcount you'll ever have — always on, never paid. Give them the languages your customers actually speak. Start at [TubeVoice](https://tubevoice.io), and keep the thumbnails and attachments light with [FileTools](https://filetools.eu).",
+  "category": "ai",
+  "tags": [
+    "tubevoice",
+    "customer-support",
+    "localization",
+    "ai-dubbing",
+    "video"
+  ],
+  "publishedAt": "2026-09-16T05:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?w=800&q=80",
+  "imageAlt": "Customer support agent at a desk wearing a headset",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-corporate-training",
+    "tubevoice-tutorial-channels"
+  ]
+}

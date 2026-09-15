@@ -1,0 +1,34 @@
+{
+  "slug": "tubevoice-customer-support-videos-es",
+  "lang": "es",
+  "title": "¿Soporte en 8 idiomas? Dobla los vídeos, no el equipo",
+  "description": "Cómo doblar tus tutoriales de soporte a decenas de idiomas y reducir los tickets sin volver a grabar ni una sola captura.",
+  "excerpt": "Un tutorial. Ocho idiomas. Un tercio menos de tickets.",
+  "content": "Tu centro de ayuda tiene veinte vídeos tutoriales. Todos en español. Y la mitad de tus clientes escriben desde Polonia, Alemania y Brasil.\n\nResultado: tickets que un vídeo resolvería en dos minutos ocupan a tu equipo veinte.\n\n## Por qué los subtítulos no bastan\n\nEn un tutorial, los subtítulos fallan. El usuario mira una grabación de pantalla que le enseña exactamente dónde pulsar — y a la vez tiene que leer texto abajo. No hay dónde poner los ojos. Se salta un paso, pausa el vídeo y escribe el ticket igualmente.\n\nEl doblaje elimina ese conflicto. Los ojos siguen la interfaz, los oídos reciben la instrucción. Igual que funciona en su idioma materno.\n\n## Hacerlo en una tarde\n\nSube el vídeo existente a [TubeVoice](https://tubevoice.io), elige los idiomas y déjalo correr. La herramienta clona la voz del audio original, así que todas las versiones suenan iguales en vez de tener un narrador sintético distinto por mercado.\n\nVeinte vídeos × ocho idiomas = 160 versiones. A mano es inviable. Así es una tarde y una exportación.\n\n## Qué medir\n\nVigila la tasa de desvío: qué porcentaje de quienes ven el artículo con vídeo abre igualmente un ticket. Tras publicar las versiones localizadas, suele caer entre un 20 % y un 35 % en mercados que no hablan tu idioma.\n\nSegunda métrica: tiempo mediano de resolución. Si el cliente se resuelve solo el paso a paso, tu equipo solo toca los problemas de verdad.\n\n## Conclusión\n\nLos vídeos de soporte son la plantilla más barata que tendrás: siempre activos, nunca en nómina. Dales los idiomas que hablan tus clientes. Empieza en [TubeVoice](https://tubevoice.io) y mantén miniaturas y adjuntos ligeros con [FileTools](https://filetools.eu).",
+  "category": "ai",
+  "tags": [
+    "tubevoice",
+    "atencion-al-cliente",
+    "localizacion",
+    "doblaje-ia",
+    "video"
+  ],
+  "publishedAt": "2026-09-16T05:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?w=800&q=80",
+  "imageAlt": "Agente de soporte con auriculares frente al ordenador",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "tubevoice-corporate-training",
+    "tubevoice-tutorial-channels"
+  ]
+}

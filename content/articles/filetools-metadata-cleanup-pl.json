@@ -1,0 +1,34 @@
+{
+  "slug": "filetools-metadata-cleanup-pl",
+  "lang": "pl",
+  "title": "Twoje zdjęcia zdradzają za dużo — wyczyść metadane",
+  "description": "Każde zdjęcie niesie współrzędne GPS, model telefonu i znacznik czasu. Jak w kilka sekund usunąć metadane z obrazów i PDF-ów.",
+  "excerpt": "Zdjęcie zrobione w domu z GPS w EXIF-ie to twój adres wręczony obcej osobie.",
+  "content": "Robisz zdjęcie kanapy, wystawiasz ją na portalu ogłoszeniowym i czekasz na oferty. Właśnie opublikowałeś też współrzędne GPS swojego salonu z dokładnością do kilku metrów.\n\nMetadane EXIF zawierają współrzędne, datę i godzinę, model telefonu, czasem numer seryjny. W PDF-ie to nazwisko autora, nazwa komputera i pełna historia zmian.\n\n## Kiedy naprawdę boli\n\nOgłoszenia. Zdjęcia wynajmu. Zrzuty ekranu wrzucone do publicznego zgłoszenia. CV wysłane do dziesięciu firm. Za każdym razem plik trafia do obcych ludzi — i niesie więcej, niż chciałeś wysłać.\n\nKlasyk przy PDF-ach to nazwa szablonu: „oferta_klient_ABC_v3.docx\" w metadanych dokumentu wysłanego właśnie do innego klienta.\n\n## Jak to usunąć\n\nWejdź na [FileTools](https://filetools.eu), wgraj plik i uruchom czyszczenie metadanych. Przetwarzanie działa lokalnie w przeglądarce, więc treść nie opuszcza twojego komputera. Pobierasz kopię bez EXIF-u, bez autora i bez historii.\n\nObsługiwane są JPEG, PNG, HEIC i PDF. Tryb wsadowy bierze cały folder naraz — jedyny rozsądny sposób na trzydzieści zdjęć do ogłoszenia.\n\n## Co warto zostawić\n\nNie zawsze chcesz usunąć wszystko. Fotografowie zwykle zachowują dane o ekspozycji i pola copyright, a kasują tylko lokalizację. Sam zdecyduj, co wychodzi na zewnątrz.\n\n## Podsumowanie\n\nCzyszczenie metadanych zajmuje dziesięć sekund i rozwiązuje problem, który większość osób zauważa o wiele za późno. Zrób z tego ostatni krok przed każdym udostępnieniem — [FileTools](https://filetools.eu) ogarnia to wsadowo, a przy okazji przygotujesz kadry do materiałów w [TubeVoice](https://tubevoice.io).",
+  "category": "tools",
+  "tags": [
+    "filetools",
+    "prywatnosc",
+    "exif",
+    "metadane",
+    "bezpieczenstwo"
+  ],
+  "publishedAt": "2026-09-16T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800&q=80",
+  "imageAlt": "Aparat i laptop na biurku z otwartym menedżerem plików",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-privacy-local-conversion",
+    "filetools-watermark-images"
+  ]
+}

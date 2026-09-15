@@ -1,0 +1,34 @@
+{
+  "slug": "filetools-metadata-cleanup-fr",
+  "lang": "fr",
+  "title": "Vos photos en disent trop — effacez les métadonnées",
+  "description": "Chaque photo transporte des coordonnées GPS, le modèle du téléphone et un horodatage. Voici comment nettoyer images et PDF en quelques secondes.",
+  "excerpt": "Une photo prise chez vous avec le GPS dans l'EXIF, c'est votre adresse donnée à un inconnu.",
+  "content": "Vous photographiez un canapé, vous le mettez en vente, vous attendez les offres. Vous venez aussi de publier les coordonnées GPS de votre salon, à quelques mètres près.\n\nLes métadonnées EXIF contiennent les coordonnées, la date et l'heure, le modèle de téléphone, parfois un numéro de série. Dans un PDF, ce sont le nom de l'auteur, celui de la machine et tout l'historique des révisions.\n\n## Quand ça pose vraiment problème\n\nAnnonces en ligne. Photos de location. Captures d'écran déposées dans un ticket public. Un CV envoyé à dix entreprises. À chaque fois le fichier part chez des inconnus — avec plus que ce que vous vouliez transmettre.\n\nLe classique côté PDF, c'est le nom du gabarit : « devis_client_ABC_v3.docx » logé dans les métadonnées d'un document destiné à un autre client.\n\n## Comment les effacer\n\nOuvrez [FileTools](https://filetools.eu), envoyez le fichier, lancez le nettoyage des métadonnées. Le traitement se fait localement dans le navigateur : le contenu ne quitte pas votre machine. Vous récupérez une copie sans EXIF, sans auteur, sans historique.\n\nJPEG, PNG, HEIC et PDF sont pris en charge. Le mode par lot avale un dossier entier — la seule façon raisonnable de nettoyer trente photos d'annonce.\n\n## Ce qu'il faut garder\n\nTout supprimer n'est pas toujours souhaitable. Les photographes conservent en général les données d'exposition et le copyright, et ne retirent que la localisation. Choisissez ce qui sort.\n\n## En résumé\n\nNettoyer les métadonnées prend dix secondes et évite un problème que la plupart des gens découvrent trop tard. Faites-en la dernière étape avant chaque partage — [FileTools](https://filetools.eu) le fait en lot, et c'est aussi une bonne préparation des visuels pour [TubeVoice](https://tubevoice.io).",
+  "category": "tools",
+  "tags": [
+    "filetools",
+    "vie-privee",
+    "exif",
+    "metadonnees",
+    "securite"
+  ],
+  "publishedAt": "2026-09-16T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800&q=80",
+  "imageAlt": "Appareil photo et ordinateur portable sur un bureau",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-privacy-local-conversion",
+    "filetools-watermark-images"
+  ]
+}

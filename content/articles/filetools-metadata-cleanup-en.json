@@ -1,0 +1,34 @@
+{
+  "slug": "filetools-metadata-cleanup-en",
+  "lang": "en",
+  "title": "Your Photos Leak More Than You Think — Strip the Metadata",
+  "description": "Every photo carries GPS coordinates, phone model and a timestamp. Here's how to wipe metadata from images and PDFs in seconds.",
+  "excerpt": "A photo taken at home with GPS in the EXIF is your address, handed to a stranger.",
+  "content": "You photograph a couch, post it on a marketplace, and wait for offers. You've also just published the GPS coordinates of your living room, accurate to a few metres.\n\nEXIF metadata carries coordinates, date and time, phone model, sometimes a serial number. In PDFs it's the author name, the machine name, and the full revision history.\n\n## When it actually bites\n\nMarketplace listings. Rental photos. Screenshots dropped into a public ticket. A CV sent to ten companies. In every case the file travels to strangers — carrying more than you meant to send.\n\nWith PDFs the classic failure is the template filename: \"proposal_client_ABC_v3.docx\" sitting in the metadata of a document you just sent to a different client.\n\n## How to strip it\n\nOpen [FileTools](https://filetools.eu), upload the file, run the metadata cleaner. Processing happens locally in your browser, so the content never leaves your machine. You download a copy with no EXIF, no author, no revision trail.\n\nIt handles JPEG, PNG, HEIC and PDF. Batch mode takes a whole folder at once, which is the only sane way to clean thirty listing photos.\n\n## What to keep\n\nYou don't always want everything gone. Photographers usually keep exposure data and copyright fields and drop only the location. Pick what leaves — a blanket wipe isn't always the right answer.\n\n## Bottom line\n\nCleaning metadata takes ten seconds and prevents a problem most people notice far too late. Make it the last step before anything gets shared — [FileTools](https://filetools.eu) does it in bulk, and it's a tidy way to prep stills for video work in [TubeVoice](https://tubevoice.io) too.",
+  "category": "tools",
+  "tags": [
+    "filetools",
+    "privacy",
+    "exif",
+    "metadata",
+    "security"
+  ],
+  "publishedAt": "2026-09-16T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800&q=80",
+  "imageAlt": "Camera and laptop on a desk with a file manager open",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-privacy-local-conversion",
+    "filetools-watermark-images"
+  ]
+}
