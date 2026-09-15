@@ -1,0 +1,39 @@
+{
+  "slug": "filetools-pdf-to-powerpoint",
+  "lang": "cs",
+  "title": "PDF zpět do PowerPointu — zdarma a soukromě",
+  "description": "Zasekli jste se u PDF a potřebujete upravit slajdy? filetools.eu převede PDF do PPTX v prohlížeči, lokálně, bez registrace.",
+  "excerpt": "PDF je slepá ulička — dokud ho nevrátíte zpět do editovatelné prezentace. Zdarma a soukromě v prohlížeči.",
+  "content": "PDF, které neupravíte, je slepá ulička. Někdo vám pošle prezentaci v PDF. A vy potřebujete měnit slajdy. Hodně štěstí.\n\n## Proč PDF na úpravy nestačí\n\nPDF má vypadat všude stejně. Přesně o to jde. Zamkne text, obrázky i rozložení do ploché stránky. Skvělé na sdílení, hrozné na editaci. Neposunete odrážku, nevyměníte obrázek, neopravíte překlep bez zdrojového souboru.\n\nKdyž máte štěstí, zdroj ještě existuje. Většinou ne. Prezentace přišla od klienta, z webináře, z konference — a PPTX je pryč.\n\n## Jak vrátit PDF do prezentace\n\n[FileTools](https://filetools.eu) převede PDF do PowerPointu přímo v prohlížeči. Přetáhnete soubor, vyberete PPTX, stáhnete. Bez registrace, bez emailu, bez nahrávání na cizí server. Vše běží lokálně na vašem počítači.\n\nVýsledek závisí na zdroji. PDF vyexportované z PowerPointu se většinou převede čistě — text je editovatelný, obrázky drží na místě. Naskenované PDF nebo časopisové rozložení bude chtít doladit. Formát prostě funguje takhle.\n\n## Lokálně je líp\n\nVětšina online konvertorů nahrává váš soubor na svoje servery. Vaše smlouva, váš pitch deck, vaše interní čísla pak leží na cizím disku. [FileTools](https://filetools.eu) dělá převod v prohlížeči. Z počítače nic neodejde.\n\n## Co po převodu zkontrolovat\n\n- Textové boxy na správném místě\n- Obrázky a grafy tam, kde mají být\n- Fonty — chybějící nahradit\n- Pořadí slajdů\n- Odsazení odrážek\n\nU čistého zdroje počítejte s pěti minutami úklidu. U rozbitého víc. Pořád rychlejší než stavět od nuly.\n\n## Další nástroje, které se hodí\n\nPřevod souborů je jen dílek skládačky. Pokud děláte s videem, [TubeVoice](https://tubevoice.io) nadabuje YouTube obsah do 50+ jazyků. Pro návrhy interiérů [RoomFlip](https://roomflip.io) promění fotku místnosti v nový design. A když spravujete sociální sítě pro CZ/SK klienty, [KupSledujici](https://kupsledujici.cz) se postará o engagement.\n\n## Závěr\n\nPDF nemá být slepá ulička. [FileTools](https://filetools.eu) z něj udělá editovatelnou prezentaci během vteřin — zdarma, soukromě a bez instalace.",
+  "category": "tools",
+  "tags": [
+    "pdf do powerpointu",
+    "pdf do pptx",
+    "konvertor prezentací",
+    "filetools",
+    "online převod"
+  ],
+  "publishedAt": "2026-09-15",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&q=80",
+  "imageAlt": "Prezentace zobrazená na obrazovce notebooku připravená k úpravám",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "KupSledujici",
+      "url": "https://kupsledujici.cz"
+    }
+  ],
+  "related": []
+}

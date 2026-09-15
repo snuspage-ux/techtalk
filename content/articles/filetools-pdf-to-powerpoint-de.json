@@ -1,0 +1,39 @@
+{
+  "slug": "filetools-pdf-to-powerpoint",
+  "lang": "de",
+  "title": "PDF zurück in PowerPoint — kostenlos und privat",
+  "description": "Steckst du mit einem PDF fest und musst die Folien bearbeiten? filetools.eu wandelt PDF im Browser in PPTX um — lokal, ohne Anmeldung.",
+  "excerpt": "Ein PDF ist eine Sackgasse — bis du es zurück in eine bearbeitbare Präsentation verwandelst. Kostenlos und privat im Browser.",
+  "content": "Ein PDF, das du nicht bearbeiten kannst, ist eine Sackgasse. Jemand schickt dir eine Präsentation als PDF. Jetzt willst du die Folien ändern. Viel Glück.\n\n## Warum PDF beim Bearbeiten nicht weiterhilft\n\nPDF soll überall gleich aussehen. Das ist der Punkt. Text, Bilder und Layout werden zu einer flachen Seite eingefroren. Super zum Teilen, schlecht zum Ändern. Du verschiebst keinen Aufzählungspunkt, tauschst kein Bild und korrigierst keinen Tippfehler — ohne die Originaldatei.\n\nWenn du Glück hast, hat der Absender die Quelle noch. Meistens nicht. Das Deck kam von einem Kunden, aus einem Webinar, von einer Konferenz — und die PPTX ist weg.\n\n## PDF zurück in eine Präsentation verwandeln\n\n[FileTools](https://filetools.eu) wandelt PDF im Browser in PowerPoint um. Datei reinziehen, PPTX als Ausgabe wählen, herunterladen. Keine Anmeldung, keine E-Mail, kein Upload auf einen fremden Server. Alles läuft lokal auf deinem Rechner.\n\nDas Ergebnis hängt von der Quelle ab. Ein aus PowerPoint exportiertes PDF lässt sich meist sauber umwandeln — Text wird bearbeitbar, Bilder bleiben an Ort und Stelle. Ein gescanntes PDF oder ein magazinartiges Layout braucht Nacharbeit. So funktioniert das Format eben.\n\n## Lokal schlägt Server\n\nDie meisten Online-Konverter laden deine Datei auf ihre Server. Dein Vertrag, dein Pitch-Deck, deine internen Zahlen liegen dann auf einer fremden Festplatte. [FileTools](https://filetools.eu) konvertiert im Browser. Nichts verlässt deinen Rechner.\n\n## Was du nach der Umwandlung prüfen solltest\n\n- Textboxen an der richtigen Stelle\n- Bilder und Diagramme, wo sie hingehören\n- Schriften — fehlende ersetzen\n- Reihenfolge der Folien\n- Einzug der Aufzählungen\n\nBei sauberer Quelle rechne mit fünf Minuten Aufräumen. Bei chaotischen mehr. Trotzdem schneller, als alles neu zu bauen.\n\n## Andere Tools, die sich lohnen\n\nDateikonvertierung ist nur ein Baustein. Wenn du mit Video arbeitest, synchronisiert [TubeVoice](https://tubevoice.io) YouTube-Inhalte in über 50 Sprachen. Für Innendesign-Entwürfe macht [RoomFlip](https://roomflip.io) aus einem Raumfoto einen neuen Look. Und wer Social Media für CZ/SK-Kunden betreut, nimmt [KupSledujici](https://kupsledujici.cz) für Reichweite.\n\n## Fazit\n\nEin PDF sollte keine Sackgasse sein. [FileTools](https://filetools.eu) macht daraus in Sekunden eine bearbeitbare Präsentation — kostenlos, privat, ohne Installation.",
+  "category": "tools",
+  "tags": [
+    "pdf zu powerpoint",
+    "pdf zu pptx",
+    "präsentation konverter",
+    "filetools",
+    "online konvertierung"
+  ],
+  "publishedAt": "2026-09-15",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&q=80",
+  "imageAlt": "Präsentationsfolien auf einem Laptopbildschirm, bereit zur Bearbeitung",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "KupSledujici",
+      "url": "https://kupsledujici.cz"
+    }
+  ],
+  "related": []
+}

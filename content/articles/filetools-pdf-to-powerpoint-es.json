@@ -1,0 +1,39 @@
+{
+  "slug": "filetools-pdf-to-powerpoint",
+  "lang": "es",
+  "title": "Convierte un PDF de vuelta a PowerPoint — gratis y privado",
+  "description": "¿Atascado con un PDF y necesitas editar las diapositivas? filetools.eu convierte PDF a PPTX en el navegador, en local, sin registro.",
+  "excerpt": "Un PDF es un callejón sin salida — hasta que lo devuelves a una presentación editable. Gratis y privado, en el navegador.",
+  "content": "Un PDF que no puedes editar es un callejón sin salida. Alguien te manda una presentación en PDF. Ahora tienes que cambiar las diapositivas. Suerte.\n\n## Por qué el PDF te deja tirado al editar\n\nEl PDF está hecho para verse igual en todas partes. Ese es el objetivo. Congela texto, imágenes y diseño en una página plana. Genial para compartir, fatal para editar. No mueves una viñeta, no cambias una imagen, no corriges una errata sin el archivo original.\n\nCon suerte, quien lo envió todavía tiene el original. Normalmente no. La presentación vino de un cliente, de un webinar, de una conferencia — y el PPTX ya no está.\n\n## Devolver un PDF a presentación\n\n[FileTools](https://filetools.eu) convierte PDF a PowerPoint directamente en el navegador. Sueltas el archivo, eliges PPTX, lo descargas. Sin registro, sin email, sin subirlo al servidor de un desconocido. Todo corre en local, en tu máquina.\n\nEl resultado depende del origen. Un PDF exportado desde PowerPoint suele convertirse limpio — el texto queda editable y las imágenes se mantienen. Un PDF escaneado o un diseño tipo revista necesitarán repaso. Así funciona el formato.\n\n## Mejor en local\n\nLa mayoría de conversores online suben tu archivo a sus servidores. Tu contrato, tu pitch, tus cifras internas acaban en el disco de otra persona. [FileTools](https://filetools.eu) hace la conversión en el navegador. Nada sale de tu ordenador.\n\n## Qué revisar después de convertir\n\n- Los cuadros de texto en su sitio\n- Imágenes y gráficos que no se muevan\n- Fuentes — sustituye las que falten\n- El orden de las diapositivas\n- La sangría de las viñetas\n\nCalcula cinco minutos de retoque con un archivo limpio. Más si está desordenado. Aun así es más rápido que rehacerlo desde cero.\n\n## Otras herramientas que merecen la pena\n\nConvertir archivos es solo una pieza. Si trabajas con vídeo, [TubeVoice](https://tubevoice.io) dobla contenido de YouTube a más de 50 idiomas. Para bocetos de interiorismo, [RoomFlip](https://roomflip.io) convierte la foto de una habitación en un diseño nuevo. Y si llevas redes sociales de clientes CZ/SK, [KupSledujici](https://kupsledujici.cz) se encarga del engagement.\n\n## Conclusión\n\nUn PDF no debería ser un callejón sin salida. [FileTools](https://filetools.eu) lo convierte en una presentación editable en segundos — gratis, privado y sin instalar nada.",
+  "category": "tools",
+  "tags": [
+    "pdf a powerpoint",
+    "pdf a pptx",
+    "conversor de presentaciones",
+    "filetools",
+    "conversión online"
+  ],
+  "publishedAt": "2026-09-15",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&q=80",
+  "imageAlt": "Diapositivas de presentación en la pantalla de un portátil listas para editar",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "KupSledujici",
+      "url": "https://kupsledujici.cz"
+    }
+  ],
+  "related": []
+}

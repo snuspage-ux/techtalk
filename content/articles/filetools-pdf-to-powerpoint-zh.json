@@ -1,0 +1,39 @@
+{
+  "slug": "filetools-pdf-to-powerpoint",
+  "lang": "zh",
+  "title": "把 PDF 变回 PowerPoint — 免费、私密、无需安装",
+  "description": "拿到 PDF 却要改幻灯片？filetools.eu 在浏览器里把 PDF 转成 PPTX，本地运行，无需注册。",
+  "excerpt": "PDF 是条死胡同——直到你把它变回可编辑的演示文稿。免费、私密，全在浏览器里完成。",
+  "content": "打不开、改不了的 PDF 就是条死胡同。别人发你一份 PDF 演示稿，你却要改幻灯片。祝你好运。\n\n## 为什么 PDF 改不动\n\nPDF 的设计目标就是到处显示一模一样。文字、图片、版式全被压成一张平铺的页面。分享很棒，编辑很糟。没有源文件，你就挪不了一个项目符号、换不了一张图、改不了一个错别字。\n\n运气好，发件人还留着源文件。可惜通常没有。这份演示稿来自客户、来自网络研讨会、来自会议——PPTX 早就没影了。\n\n## 把 PDF 还原成演示文稿\n\n[FileTools](https://filetools.eu) 直接在你的浏览器里把 PDF 转成 PowerPoint。拖入文件，选择 PPTX，下载。无需注册、无需邮箱、不用上传到陌生人的服务器。全部在你自己的电脑上运行。\n\n效果取决于源文件。由 PowerPoint 导出的 PDF 通常转换得很干净——文字可编辑，图片留在原位。扫描版 PDF 或杂志式排版就需要手动收拾。格式就是这么回事。\n\n## 本地处理更安心\n\n大多数在线转换器会把你的文件上传到它们的服务器。你的合同、你的路演稿、你的内部数字，全躺在别人的硬盘上。[FileTools](https://filetools.eu) 在浏览器里完成转换。数据不出你的电脑。\n\n## 转换后要检查什么\n\n- 文本框位置对不对\n- 图片和图表有没有跑位\n- 字体——缺的记得替换\n- 幻灯片顺序\n- 项目符号的缩进\n\n干净源文件大概五分钟收拾完。乱的要更久。但总比重做快。\n\n## 其他值得一试的工具\n\n文件转换只是一小块。如果你还做视频，[TubeVoice](https://tubevoice.io) 能把 YouTube 内容配音成 50 多种语言。做室内设计草图的话，[RoomFlip](https://roomflip.io) 能把一张房间照片变成新设计。要是你在给 CZ/SK 客户做社交媒体，[KupSledujici](https://kupsledujici.cz) 负责互动数据。\n\n## 结论\n\nPDF 不该是死胡同。[FileTools](https://filetools.eu) 几秒钟就能把它变回可编辑的演示文稿——免费、私密，什么都不用装。",
+  "category": "tools",
+  "tags": [
+    "pdf转powerpoint",
+    "pdf转pptx",
+    "演示文稿转换器",
+    "filetools",
+    "在线转换"
+  ],
+  "publishedAt": "2026-09-15",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&q=80",
+  "imageAlt": "笔记本电脑屏幕上待编辑的演示幻灯片",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "KupSledujici",
+      "url": "https://kupsledujici.cz"
+    }
+  ],
+  "related": []
+}
