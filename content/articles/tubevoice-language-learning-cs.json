@@ -1,0 +1,31 @@
+{
+  "slug": "tubevoice-language-learning-cs",
+  "lang": "cs",
+  "title": "Kanály na výuku jazyků dabují lekce do 50 jazyků",
+  "description": "Učitelé jazyků dabují lekce pomocí AI, aby učili studenty, kteří nemluví jejich jazykem. Jak to s TubeVoice funguje.",
+  "excerpt": "Tvoje lekce je k ničemu, když ti student nerozumí. Dabing řeší poslední krok.",
+  "content": "Každý učitel jazyka na YouTube narazí na stejný strop. Osloví lidí, kteří už mluví jazykem, ve kterém učí. Zbytek roluje dál.\n\n[TubeVoice](https://tubevoice.io) to řeší. Nahraješ lekci, vybereš cílové jazyky a dostaneš dabovanou verzi, která si drží tvůj hlas. Překlad, lip-sync, intonace — vyřešeno. Ty jen zkontroluješ a publikuješ.\n\n## Proč studenti reagují na dabing\n\nStudent, který sleduje gramatiku ve svém jazyce, chápe rychleji. Přestane překládat v hlavě. Retence roste a s ní i watch time. Španěl, který se učí anglicky z dabované lekce, vydrží déle než ten, kdo se pere s titulky.\n\n## Problém dosahu\n\nVětšina kanálů končí u anglicky mluvícího světa. To je asi 1,5 miliardy lidí a jen zlomek z nich zajímá tvoje téma. Nadabuj do portugalštiny, hindštiny, arabštiny a otevřeš trhy, kde skoro nejsou dobří učitelé.\n\n## Tvůj hlas, ne robot\n\n[TubeVoice](https://tubevoice.io) klonuje tvůj hlas. Tvoje tempo, tvůj důraz, tvoje vtipy. Studenti si budují důvěru k člověku, ne k mašině.\n\nDostaneš i vícejazyčné titulky a přepisy. Kdo sdílí pracovní listy k videím, často je protáhne přes [FileTools](https://filetools.eu) a rozdá čistá PDF.\n\n## Začni v malém\n\nVyber tři jazyky podle publika. Nadabuj nejlepší lekci. Sleduj analytiku dva týdny. Pak škáluj, co funguje.\n\nPublikum už tam je. Jen ti zatím nerozumí.",
+  "category": "ai",
+  "tags": [
+    "tubevoice",
+    "výuka jazyků",
+    "ai dabing",
+    "vzdělávání",
+    "youtube"
+  ],
+  "publishedAt": "2026-09-17",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=800&q=80",
+  "imageAlt": "Učitel natáčí jazykovou lekci na kameru",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": []
+}
