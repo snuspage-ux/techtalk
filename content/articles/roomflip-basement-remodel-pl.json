@@ -1,0 +1,39 @@
+{
+  "slug": "roomflip-basement-remodel-pl",
+  "lang": "pl",
+  "title": "Remont piwnicy: z najzimniejszego pomieszczenia w ulubione",
+  "description": "Piwnicę już masz, tylko z niej nie korzystasz. Wilgoć, wysokość, światło i podłoga — cztery rzeczy, które decydują, czy ktoś zechce tam schodzić.",
+  "excerpt": "Piwnica to nie złe pomieszczenie. To pomieszczenie, którego nikt nigdy nie zaprojektował.",
+  "content": "## Najpierw wilgoć, potem gust\n\nŻadna farba nie naprawi wilgotnej piwnicy. Zanim zaczniesz wybierać kanapę, zostaw tam na tydzień higrometr. Powyżej 60 procent kupujesz osuszacz, nie dywan.\n\nSprawdź rynny, spadek terenu wokół domu i spoiny przy cokole. Dziewięć na dziesięć mokrych piwnic ma przyczynę na zewnątrz, nie w środku.\n\n## Niski sufit to nie wyrok\n\nWiększość piwnic ma około 220 cm i właśnie na tym ludzie się poddają. A wystarczy kilka ruchów:\n\n- Żadnych opraw wpuszczanych w sufit. Kinkiety i lampy podłogowe ciągną wzrok w bok, nie w dół.\n- Niskie meble. Sofa z niskim oparciem daje ci wizualnie 20 cm.\n- Jasny sufit, ciemniejsza podłoga. Stara sztuczka, wciąż działa.\n- Nie zabudowuj rur, jeśli to kosztuje wysokość. Pomaluj je na kolor sufitu, a znikną.\n\n## Światło, którego nie ma\n\nPiwnica ma jedno małe okno albo żadnego. Rozwiązaniem nie jest jedna mocna świetlówka, tylko trzy, cztery źródła na różnych wysokościach. Trzymaj się 2700 K, inaczej wyjdzie garaż.\n\n## Podłoga robi klimat\n\nNa betonie kładziesz izolację przeciwwilgociową, a na to winyl albo wykładzinę w płytkach. Deska pływająca w piwnicy to loteria.\n\n## Zanim ruszysz\n\nZrób zdjęcie piwnicy taką, jaka jest, i poproś [RoomFlip](https://roomflip.io) o trzy warianty: bawialnia, kino domowe, biuro. Zobaczysz, co ma sens, zanim zamówisz materiał.\n\nZdjęcia zmniejszysz w [FileTools](https://filetools.eu), a film z remontu zdubbingujesz w [TubeVoice](https://tubevoice.io).",
+  "category": "creative",
+  "tags": [
+    "piwnica",
+    "remont",
+    "adaptacja",
+    "wnętrza",
+    "projekt ai"
+  ],
+  "publishedAt": "2026-09-19T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
+  "imageAlt": "Wyremontowana piwnica z częścią wypoczynkową i miękkim światłem",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "roomflip-garage-conversion",
+    "roomflip-attic-conversion",
+    "roomflip-home-cinema"
+  ]
+}

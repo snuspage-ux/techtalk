@@ -1,0 +1,39 @@
+{
+  "slug": "kupsledujici-podcast-promotion-pl",
+  "lang": "pl",
+  "title": "Promocja podcastu: jak ludzie znajdą cię szybciej niż algorytm",
+  "description": "Podcast bez promocji to pamiętnik. Konkretne kroki: jak pociąć odcinki na klipy, rozpędzić zasięg i zdobyć pierwszych stałych słuchaczy.",
+  "excerpt": "Nagrałeś dziesięć odcinków, a słucha mama. Problemem nie jest treść, tylko dystrybucja.",
+  "content": "## W aplikacjach podcastowych nikt cię nie odkryje\n\nSpotify ani Apple nie dadzą ci zasięgu. Nie ma tam feedu, który podsuwa twój program obcym ludziom. Odkrywanie dzieje się gdzie indziej: w Reels, na TikToku, na YouTube.\n\nZasada pierwsza: nagrywasz raz, publikujesz pięć razy.\n\n## Z jednego odcinka zrób dziesięć rzeczy\n\nGodzina rozmowy zawiera co najmniej pięć momentów, które bronią się same. Znajdź je zaraz po nagraniu, póki pamiętasz, gdzie padło to dobre zdanie.\n\n- Pionowy klip 30–60 sekund z wypalonymi napisami. Bez nich nikt nie dotrwa do końca.\n- Jeden cytat jako statyczny post.\n- Krótki tekst na LinkedIn albo Threads z prawdziwą puentą odcinka.\n- Cały odcinek na YouTube — wyszukiwarka pracuje tam miesiącami.\n\n## Pierwsze 48 godzin decyduje\n\nKlip, który nie ruszy w dwa dni, nie ruszy nigdy. Dlatego nowy odcinek zasługuje na kopniak już pierwszego dnia. Panel taki jak **[KupSledujici.cz](https://kupsledujici.cz)** dostarcza wczesne wyświetlenia i polubienia, żeby algorytm miał co czytać.\n\nNie kupujesz słuchaczy. Kupujesz uczciwy test na szerszej publiczności.\n\n## Liczby, które mają sens\n\nSprawdzaj, ilu ludzi przechodzi z klipu do odcinka i ilu dociąga za dziesiątą minutę. Reszta to próżność.\n\n## Podsumowanie\n\nNagraj, potnij, opublikuj, podbij, zmierz. [KupSledujici.cz](https://kupsledujici.cz) załatwia pierwszy kilometr. Chcesz odcinki po angielsku? Zdubbinguj je w [TubeVoice](https://tubevoice.io). Musisz przekonwertować albo zmniejszyć plik audio? [FileTools](https://filetools.eu) zrobi to za darmo.",
+  "category": "tools",
+  "tags": [
+    "podcast",
+    "promocja",
+    "social media",
+    "panel smm",
+    "wzrost"
+  ],
+  "publishedAt": "2026-09-19T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800&q=80",
+  "imageAlt": "Mikrofon i słuchawki w domowym studiu podcastowym",
+  "backlinks": [
+    {
+      "text": "KupSledujici.cz",
+      "url": "https://kupsledujici.cz"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "kupsledujici-youtube-marketing",
+    "kupsledujici-content-repurposing",
+    "kupsledujici-social-monetization"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "kupsledujici-podcast-promotion-cs",
+  "lang": "cs",
+  "title": "Propagace podcastu: jak ho lidi najdou dřív než algoritmus",
+  "description": "Podcast bez propagace je deník. Projdi si konkrétní kroky, jak z epizod vytáhnout klipy, nastartovat dosah a získat první stálé posluchače.",
+  "excerpt": "Nahrál jsi deset epizod a poslouchá je máma. Problém není obsah, ale distribuce.",
+  "content": "## Podcast se sám nenajde\n\nSpotify ani Apple ti dosah nedají. Nemají feed, který by tě tlačil novým lidem. Objevování podcastu se odehrává jinde: na Reels, na TikToku, na YouTube.\n\nTakže první pravidlo: podcast nahráváš jednou, ale publikuješ ho pětkrát.\n\n## Z jedné epizody udělej deset kusů\n\nHodinová epizoda obsahuje minimálně pět momentů, které fungují samostatně. Najdi je hned po nahrávání, dokud si pamatuješ, kde padla ta dobrá věta.\n\n- Vertikální klip 30–60 s s titulky. Bez titulků to nikdo nedokoukne.\n- Jeden citát jako statický post.\n- Krátký text na LinkedIn nebo Threads s pointou epizody.\n- Celá epizoda na YouTube — vyhledávání tam žije dál.\n\n## Prvních 48 hodin rozhoduje\n\nKlip, který za dva dny nechytne, už nechytne nikdy. Proto dává smysl dát nové epizodě startovní tlak. Panel jako **[KupSledujici.cz](https://kupsledujici.cz)** pošle rané zhlédnutí a lajky, aby algoritmus měl co číst.\n\nNekupuješ posluchače. Kupuješ si test na širším publiku.\n\n## Čísla, která sleduj\n\nSleduj, kolik lidí z klipu proklikne na epizodu, a kolik jich dokoulí přes desátou minutu. Zbytek je marnivost.\n\n## Závěr\n\nNahraj, rozstříhej, publikuj, boostni, změř. [KupSledujici.cz](https://kupsledujici.cz) zvládne první míli. Chceš epizody i v angličtině? Nadabuj je přes [TubeVoice](https://tubevoice.io). Potřebuješ převést audio nebo zmenšit soubor? [FileTools](https://filetools.eu) to udělá zdarma.",
+  "category": "tools",
+  "tags": [
+    "podcast",
+    "propagace",
+    "social media",
+    "smm panel",
+    "růst"
+  ],
+  "publishedAt": "2026-09-19T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800&q=80",
+  "imageAlt": "Mikrofon a sluchátka v domácím podcastovém studiu",
+  "backlinks": [
+    {
+      "text": "KupSledujici.cz",
+      "url": "https://kupsledujici.cz"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    }
+  ],
+  "related": [
+    "kupsledujici-youtube-marketing",
+    "kupsledujici-content-repurposing",
+    "kupsledujici-social-monetization"
+  ]
+}

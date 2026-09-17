@@ -1,0 +1,39 @@
+{
+  "slug": "roomflip-basement-remodel-zh",
+  "lang": "zh",
+  "title": "地下室改造：把最冷的房间变成最受欢迎的房间",
+  "description": "地下室你早就有了，只是没在用。潮湿、层高、光线和地面，这四件事决定有没有人愿意下去。",
+  "excerpt": "地下室不是糟糕的房间，只是从来没有人设计过它。",
+  "content": "## 先解决潮湿，再谈品味\n\n再好的油漆也救不了一个潮湿的地下室。挑沙发之前，先在下面放一周湿度计。湿度超过百分之六十，你该买的是除湿机，不是地毯。\n\n检查落水管、房屋周围地面的坡度，还有墙脚的接缝。十个潮湿的地下室里有九个，问题出在外面而不是里面。\n\n## 层高低不是死刑\n\n多数地下室只有两米二左右，人们往往就在这里放弃。其实几招就够了：\n\n- 别用嵌入式筒灯。壁灯和落地灯把视线拉向两侧，而不是压向地面。\n- 家具要矮。低背沙发视觉上能给你二十厘米。\n- 天花板浅色，地面深一点。老办法，依然管用。\n- 如果包管道会牺牲层高，就别包。刷成天花板的颜色，它们自然消失。\n\n## 缺失的那束光\n\n地下室只有一扇小窗，或者一扇都没有。答案不是一根强光灯管，而是三到四个不同高度的光源。色温保持在 2700K 左右，否则就像车库。\n\n## 地面决定体感\n\n混凝土上先铺防潮层，再上乙烯基地板或方块地毯。地下室铺实木地板是在赌运气。\n\n## 动工之前\n\n把地下室原样拍下来，让 [RoomFlip](https://roomflip.io) 生成三个版本：游戏房、家庭影院、书房。在下单买材料之前，你就知道哪个方案立得住。\n\n照片用 [FileTools](https://filetools.eu) 压缩，装修视频用 [TubeVoice](https://tubevoice.io) 配上外语配音。",
+  "category": "creative",
+  "tags": [
+    "地下室",
+    "改造",
+    "装修",
+    "室内设计",
+    "AI设计"
+  ],
+  "publishedAt": "2026-09-19T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
+  "imageAlt": "改造后的地下室，有休闲区和柔和照明",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "roomflip-garage-conversion",
+    "roomflip-attic-conversion",
+    "roomflip-home-cinema"
+  ]
+}

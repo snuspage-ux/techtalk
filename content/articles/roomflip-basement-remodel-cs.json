@@ -1,0 +1,39 @@
+{
+  "slug": "roomflip-basement-remodel-cs",
+  "lang": "cs",
+  "title": "Přestavba sklepa: z nejchladnější místnosti nejoblíbenější",
+  "description": "Sklep máš zadarmo, jen ho neumíš použít. Vlhkost, strop, světlo a podlaha — čtyři věci, které rozhodnou, jestli tam někdo bude chtít být.",
+  "excerpt": "Sklep není špatná místnost. Je to místnost, kterou nikdo nikdy nenavrhl.",
+  "content": "## Nejdřív vlhkost, pak vkus\n\nŽádná barva neopraví vlhký sklep. Než začneš řešit gauč, nech tam týden vlhkoměr. Nad 60 % vlhkosti kupuj odvlhčovač, ne koberec.\n\nZkontroluj svody, spád terénu kolem domu a spáry v soklu. Devět z deseti mokrých sklepů má příčinu venku, ne uvnitř.\n\n## Nízký strop není konec\n\nSklepy mají strop kolem 220 cm a lidé kvůli tomu rezignují. Přitom stačí pár triků:\n\n- Žádná stropní svítidla dolů. Nástěnná světla a lampy tlačí pohled do stran.\n- Nízký nábytek. Pohovka s nízkým opěradlem ti opticky přidá 20 cm.\n- Světlý strop, tmavší podlaha. Klasika, která funguje.\n- Vedení a trubky nezakrývej sádrokartonem, když ti to sebere výšku. Natři je stejnou barvou jako strop a zmizí.\n\n## Světlo, které tam není\n\nSklep má jedno malé okno, nebo žádné. Řešení není jedna silná zářivka, ale tři až čtyři zdroje v různých výškách. Teplota kolem 2700 K, jinak to bude působit jako garáž.\n\n## Podlaha rozhodne o pocitu\n\nNa beton patří podložka proti vlhkosti a pak vinyl nebo koberec v čtvercích. Plovoucí dřevo ve sklepě je sázka do loterie.\n\n## Než do toho půjdeš\n\nVyfoť sklep tak, jak je, a nech si v [RoomFlip](https://roomflip.io) vygenerovat tři varianty — herna, domácí kino, pracovna. Uvidíš, co dává smysl, dřív než objednáš materiál.\n\nFotky pak zmenšíš v [FileTools](https://filetools.eu) a video z rekonstrukce nadaboval do angličtiny [TubeVoice](https://tubevoice.io).",
+  "category": "creative",
+  "tags": [
+    "sklep",
+    "suterén",
+    "rekonstrukce",
+    "interiér",
+    "ai design"
+  ],
+  "publishedAt": "2026-09-19T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
+  "imageAlt": "Zrekonstruovaný suterén s obývacím koutem a měkkým osvětlením",
+  "backlinks": [
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "roomflip-garage-conversion",
+    "roomflip-attic-conversion",
+    "roomflip-home-cinema"
+  ]
+}
