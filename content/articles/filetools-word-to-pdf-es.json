@@ -1,0 +1,55 @@
+{
+  "slug": "filetools-word-to-pdf-es",
+  "lang": "es",
+  "title": "Word a PDF: convierte .docx sin romper el diseño",
+  "description": "Un documento de Word se ve distinto en cada dispositivo. Convierte Word a PDF online con FileTools - formato fijo, sin registro.",
+  "excerpt": "Tu .docx se abre con fuentes rotas en el portátil del cliente. El PDF lo arregla en segundos.",
+  "content": "Los documentos de Word se rompen. No siempre, pero bastante a menudo. Una fuente que no tienes, una tabla descolocada dos columnas, un encabezado que salta a la página 3 en cuanto el cliente lo abre en LibreOffice.\n\nLa solución es aburrida y efectiva: manda PDF.\n\n## Por qué convertir Word a PDF\n\n**El diseño se congela.** Fuentes, espaciados, saltos de página - tal cual lo hiciste. Sin avisos de modo compatibilidad.\n\n**Cualquiera puede abrirlo.** El PDF se ve igual en Windows, macOS, Android e iPhone. No hace falta Word.\n\n**Difícil de editar por error.** El destinatario lee y comenta sin desmontar tu documento.\n\n## En 30 segundos\n\n[FileTools](https://filetools.eu) convierte Word en el navegador. Sin instalación, sin cuenta.\n\n1. Abre el [conversor de Word a PDF](https://filetools.eu)\n2. Suelta tu archivo .doc o .docx\n3. Pulsa convertir\n4. Descarga el PDF\n\nEse es todo el flujo. Funciona en un portátil, un móvil o un ordenador prestado.\n\n## Cuándo no vale la pena el Word de escritorio\n\n- Estás en el móvil y la app te niega la mitad de las opciones de exportar.\n- Tienes que convertir cinco contratos, no uno.\n- Estás en un equipo sin Word - un PC de hotel, el Mac de un amigo.\n- Solo quieres quitártelo de encima, no montar un proyecto.\n\nUna pestaña del navegador es más rápida que abrir una suite ofimática de 2 GB para un solo export.\n\n## Privacidad\n\nLos archivos se borran tras la conversión. Nada se queda en una carpeta en la nube. Para contratos, facturas o CV, eso importa más que los dos segundos que ahorras en otro sitio.\n\n## Casos reales\n\n**Candidatos.** Un CV en PDF significa que el reclutador ve tu diseño, no un desastre reformateado.\n\n**Freelancers.** Facturas, contratos, propuestas - todo sale en PDF. El cliente no puede cambiar el precio.\n\n**Estudiantes.** Ensayos y trabajos. Casi todos los portales aceptan PDF y lo prefieren.\n\n**Legal y administración.** Formularios firmados, cartas, documentos oficiales. El PDF es el estándar por algo.\n\n## Consejos\n\n- Revisa el tamaño de página (A4 vs Carta), sobre todo en documentos que cruzan fronteras.\n- Comprueba las fuentes raras con una página de prueba.\n- ¿Necesitas lo contrario? [FileTools](https://filetools.eu) también hace [PDF a Word](https://filetools.eu/pdf) y [unir PDF](https://filetools.eu/pdf).\n\n## Otras herramientas que merecen la pena\n\nLa conversión de archivos es solo una pieza. [TubeVoice](https://tubevoice.io) dobla vídeos de YouTube a más de 50 idiomas. [RoomFlip](https://roomflip.io) convierte la foto de una habitación en un interior rediseñado. [KupSledujici](https://kupsledujici.cz) gestiona el engagement de cuentas sociales CZ/SK.\n\n## En resumen\n\nDeja de cuidar archivos .docx. Envía un PDF.",
+  "category": "tools",
+  "tags": [
+    "word a pdf",
+    "docx",
+    "conversión de documentos",
+    "filetools",
+    "conversión online"
+  ],
+  "publishedAt": "2026-09-18",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&q=80",
+  "imageAlt": "Documento de Word abierto en un portátil junto a un PDF final en pantalla",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "KupSledujici",
+      "url": "https://kupsledujici.cz"
+    }
+  ],
+  "related": [
+    {
+      "slug": "filetools-pdf-to-word-conversion-es",
+      "lang": "es",
+      "title": "PDF a Word: deja de pagar por convertir"
+    },
+    {
+      "slug": "filetools-merge-pdfs-es",
+      "lang": "es",
+      "title": "Unir PDF sin instalar nada"
+    },
+    {
+      "slug": "filetools-jpg-to-pdf-es",
+      "lang": "es",
+      "title": "Convertir JPG a PDF online sin software"
+    }
+  ]
+}

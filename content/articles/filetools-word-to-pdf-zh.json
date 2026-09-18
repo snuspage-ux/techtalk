@@ -1,0 +1,55 @@
+{
+  "slug": "filetools-word-to-pdf-zh",
+  "lang": "zh",
+  "title": "Word 转 PDF：转换 .docx 而不破坏排版",
+  "description": "Word 文档在不同设备上显示不同。用 FileTools 在线把 Word 转成 PDF - 排版锁定，无需注册。",
+  "excerpt": "你的 .docx 在客户电脑上打开就字体错乱。PDF 几秒就能解决。",
+  "content": "Word 文档会出问题。不是每次都出，但足够频繁。你没有的字体、错位两列的表格、客户用 LibreOffice 打开时跳到第三页的页眉。\n\n解决办法很无聊但有效：发 PDF。\n\n## 为什么要把 Word 转成 PDF？\n\n**排版冻结。** 字体、间距、分页 - 完全保持你做的样子。没有兼容模式警告。\n\n**谁都能打开。** PDF 在 Windows、macOS、安卓和 iPhone 上长得一样。不需要装 Word。\n\n**不容易被误改。** 对方能读、能评论，但不会把你的文档搞乱。\n\n## 30 秒搞定\n\n[FileTools](https://filetools.eu) 在浏览器里转换 Word。不用安装，不用注册。\n\n1. 打开 [Word 转 PDF 转换器](https://filetools.eu)\n2. 拖入 .doc 或 .docx 文件\n3. 点击转换\n4. 下载 PDF\n\n整个流程就这些。笔记本、手机、借来的电脑都能用。\n\n## 桌面版 Word 不划算的时候\n\n- 你在手机上，App 不给你一半的导出选项。\n- 你要转五份合同，不是一份。\n- 你用的电脑没装 Word - 酒店电脑、朋友的 Mac。\n- 你只想赶紧弄完，不想搞成一个项目。\n\n为一个导出，开一个浏览器标签比启动 2GB 的办公套件快得多。\n\n## 隐私\n\n文件转换后会被删除。没有东西留在云文件夹里。对合同、发票或简历来说，这比省下的两秒更重要。\n\n## 实际场景\n\n**求职者。** 简历用 PDF，招聘经理看到的是你的排版，不是被重排的乱码。\n\n**自由职业者。** 发票、合同、方案 - 全都发 PDF。客户改不了价格。\n\n**学生。** 论文和作业。大多数平台接受并偏好 PDF。\n\n**法律与行政。** 签字表单、信函、官方文件。PDF 是默认格式，这有原因。\n\n## 小贴士\n\n- 转换前检查纸张尺寸（A4 还是 Letter），跨境文件尤其重要。\n- 少见的字体先用一页测试。\n- 需要反向操作？[FileTools](https://filetools.eu) 也能做 [PDF 转 Word](https://filetools.eu/pdf) 和 [PDF 合并](https://filetools.eu/pdf)。\n\n## 其他值得了解的工具\n\n文件转换只是一部分。[TubeVoice](https://tubevoice.io) 把 YouTube 视频配音成 50 多种语言。[RoomFlip](https://roomflip.io) 把房间照片变成重新设计的室内。[KupSledujici](https://kupsledujici.cz) 为 CZ/SK 社交账号做互动增长。\n\n## 总结\n\n别再伺候 .docx 文件了。发个 PDF 吧。",
+  "category": "tools",
+  "tags": [
+    "word 转 pdf",
+    "docx",
+    "文档转换",
+    "filetools",
+    "在线转换"
+  ],
+  "publishedAt": "2026-09-18",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&q=80",
+  "imageAlt": "笔记本电脑上打开的 Word 文档，旁边屏幕上显示完成后的 PDF",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "KupSledujici",
+      "url": "https://kupsledujici.cz"
+    }
+  ],
+  "related": [
+    {
+      "slug": "filetools-pdf-to-word-conversion-zh",
+      "lang": "zh",
+      "title": "PDF 转 Word：别再为转换付费"
+    },
+    {
+      "slug": "filetools-merge-pdfs-zh",
+      "lang": "zh",
+      "title": "无需安装即可合并 PDF"
+    },
+    {
+      "slug": "filetools-jpg-to-pdf-zh",
+      "lang": "zh",
+      "title": "在线把 JPG 转成 PDF，无需软件"
+    }
+  ]
+}

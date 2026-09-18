@@ -1,0 +1,55 @@
+{
+  "slug": "filetools-word-to-pdf-fr",
+  "lang": "fr",
+  "title": "Word en PDF : convertir .docx sans casser la mise en page",
+  "description": "Un document Word s'affiche différemment sur chaque appareil. Convertis Word en PDF en ligne avec FileTools - mise en page figée, sans inscription.",
+  "excerpt": "Ton .docx s'ouvre avec des polices cassées chez le client. Le PDF règle ça en quelques secondes.",
+  "content": "Les documents Word se cassent. Pas toujours, mais assez souvent. Une police que tu n'as pas, un tableau décalé de deux colonnes, un en-tête qui saute en page 3 dès que le client l'ouvre dans LibreOffice.\n\nLa solution est ennuyeuse et efficace : envoie du PDF.\n\n## Pourquoi convertir Word en PDF ?\n\n**La mise en page se fige.** Polices, espacements, sauts de page - exactement comme tu les as faits. Aucun avertissement de compatibilité.\n\n**Tout le monde peut l'ouvrir.** Le PDF s'affiche pareil sur Windows, macOS, Android et iPhone. Pas besoin de Word.\n\n**Difficile à modifier par erreur.** Le destinataire lit et commente sans dérégler ton document.\n\n## En 30 secondes\n\n[FileTools](https://filetools.eu) convertit Word dans le navigateur. Pas d'installation, pas de compte.\n\n1. Ouvre le [convertisseur Word en PDF](https://filetools.eu)\n2. Dépose ton fichier .doc ou .docx\n3. Clique sur convertir\n4. Télécharge le PDF\n\nC'est tout le processus. Ça marche sur un portable, un téléphone ou un ordi emprunté.\n\n## Quand Word sur le bureau ne vaut pas le coup\n\n- Tu es sur téléphone et l'appli refuse la moitié des options d'export.\n- Tu dois convertir cinq contrats, pas un.\n- Tu es sur une machine sans Word - un PC d'hôtel, le Mac d'un ami.\n- Tu veux juste t'en débarrasser, pas en faire un projet.\n\nUn onglet de navigateur, c'est plus rapide que lancer une suite bureautique de 2 Go pour un seul export.\n\n## Confidentialité\n\nLes fichiers sont supprimés après conversion. Rien ne traîne dans un dossier cloud. Pour des contrats, des factures ou des CV, ça compte plus que les deux secondes gagnées ailleurs.\n\n## Cas concrets\n\n**Candidats.** Un CV en PDF, c'est le recruteur qui voit ta mise en page, pas un bloc reformaté.\n\n**Freelances.** Factures, contrats, devis - tout part en PDF. Le client ne peut pas changer le prix.\n\n**Étudiants.** Dissertations et devoirs. La plupart des portails acceptent le PDF et le préfèrent.\n\n**Juridique et admin.** Formulaires signés, lettres, documents officiels. Le PDF est la norme, pour une bonne raison.\n\n## Astuces\n\n- Vérifie le format de page (A4 vs Letter), surtout pour les documents qui traversent une frontière.\n- Teste les polices inhabituelles avec une page d'essai.\n- Besoin de l'inverse ? [FileTools](https://filetools.eu) fait aussi [PDF vers Word](https://filetools.eu/pdf) et [la fusion de PDF](https://filetools.eu/pdf).\n\n## D'autres outils utiles\n\nLa conversion de fichiers n'est qu'une pièce. [TubeVoice](https://tubevoice.io) double les vidéos YouTube en 50+ langues. [RoomFlip](https://roomflip.io) transforme la photo d'une pièce en intérieur redessiné. [KupSledujici](https://kupsledujici.cz) gère l'engagement des comptes sociaux CZ/SK.\n\n## En résumé\n\nArrête de surveiller tes .docx. Envoie un PDF.",
+  "category": "tools",
+  "tags": [
+    "word en pdf",
+    "docx",
+    "conversion de documents",
+    "filetools",
+    "conversion en ligne"
+  ],
+  "publishedAt": "2026-09-18",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&q=80",
+  "imageAlt": "Document Word ouvert sur un ordinateur portable à côté d'un PDF finalisé à l'écran",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "KupSledujici",
+      "url": "https://kupsledujici.cz"
+    }
+  ],
+  "related": [
+    {
+      "slug": "filetools-pdf-to-word-conversion-fr",
+      "lang": "fr",
+      "title": "PDF vers Word : arrête de payer pour convertir"
+    },
+    {
+      "slug": "filetools-merge-pdfs-fr",
+      "lang": "fr",
+      "title": "Fusionner des PDF sans rien installer"
+    },
+    {
+      "slug": "filetools-jpg-to-pdf-fr",
+      "lang": "fr",
+      "title": "Convertir JPG en PDF en ligne sans logiciel"
+    }
+  ]
+}

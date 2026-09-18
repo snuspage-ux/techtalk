@@ -1,0 +1,55 @@
+{
+  "slug": "filetools-word-to-pdf-cs",
+  "lang": "cs",
+  "title": "Word do PDF: převeď .docx, aniž by se rozsypal layout",
+  "description": "Word dokument vypadá na každém zařízení jinak. Převeď Word do PDF online ve FileTools - formátování zůstane, bez registrace.",
+  "excerpt": "Tvůj .docx se u klienta otevře s rozbitými fonty. PDF tenhle problém vyřeší za pár sekund.",
+  "content": "Dokumenty z Wordu se rozsypou. Ne vždy, ale dost často. Font, který nemáš, tabulka posunutá o dva sloupce, hlavička, co přeskočí na třetí stránku, jakmile to klient otevře v LibreOffice.\n\nŘešení je nudné a funkční: posílej PDF.\n\n## Proč převádět Word na PDF?\n\n**Layout zamrzne.** Fonty, mezery, zlomy stránek - přesně jak jsi to udělal. Žádné hlášky o režimu kompatibility.\n\n**Otevře to každý.** PDF vypadá stejně na Windows, macOS, Androidu i iPhonu. Word není potřeba.\n\n**Neupraví to omylem.** Protistrana čte a komentuje, ale nerozhodí ti dokument.\n\n## Za 30 sekund\n\n[FileTools](https://filetools.eu) převede Word v prohlížeči. Bez instalace, bez účtu.\n\n1. Otevři [převodník Word do PDF](https://filetools.eu)\n2. Přetáhni .doc nebo .docx\n3. Klikni na převod\n4. Stáhni PDF\n\nTo je celý postup. Funguje na notebooku, mobilu i na cizím počítači.\n\n## Kdy se desktopový Word nevyplatí\n\n- Jsi na mobilu a aplikace ti polovinu exportu nedovolí.\n- Potřebuješ převést pět smluv, ne jednu.\n- Sedíš u počítače bez Wordu - hotel, cizí Mac.\n- Chceš to mít z hlavy, ne z toho dělat projekt.\n\nKarta v prohlížeči je rychlejší než spouštět dvougigový balík kvůli jednomu exportu.\n\n## Soukromí\n\nSoubory se po převodu smažou. Nic nezůstává v cloudu. U smluv, faktur nebo životopisů to je důležitější než ušetřené dvě sekundy jinde.\n\n## Reálné použití\n\n**Hledači práce.** Životopis jako PDF znamená, že personalista vidí tvůj layout, ne přeformátovaný chaos.\n\n**Freelanceři.** Faktury, smlouvy, nabídky - všechno letí jako PDF. Klient nepřepíše cenu.\n\n**Studenti.** Eseje a úkoly. Většina portálů PDF bere a preferuje.\n\n**Právo a administrativa.** Podepsané formuláře, dopisy, úřední dokumenty. PDF je default z dobrého důvodu.\n\n## Tipy\n\n- Zkontroluj velikost stránky (A4 vs Letter), hlavně u dokumentů za hranice.\n- Neobvyklé fonty si ověř na jedné testovací stránce.\n- Potřebuješ opak? [FileTools](https://filetools.eu) umí i [PDF do Wordu](https://filetools.eu/pdf) a [spojování PDF](https://filetools.eu/pdf).\n\n## Další nástroje, které se hodí\n\nKonverze souborů je jen díl. [TubeVoice](https://tubevoice.io) dabuje YouTube videa do 50+ jazyků. [RoomFlip](https://roomflip.io) promění fotku pokoje v nový interiér. [KupSledujici](https://kupsledujici.cz) řeší engagement pro CZ/SK účty na sítích.\n\n## Závěrem\n\nPřestaň hlídat .docx soubory. Pošli PDF.",
+  "category": "tools",
+  "tags": [
+    "word do pdf",
+    "docx",
+    "konverze dokumentů",
+    "filetools",
+    "online konverze"
+  ],
+  "publishedAt": "2026-09-18",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&q=80",
+  "imageAlt": "Word dokument otevřený na notebooku vedle hotového PDF na obrazovce",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "RoomFlip",
+      "url": "https://roomflip.io"
+    },
+    {
+      "text": "KupSledujici",
+      "url": "https://kupsledujici.cz"
+    }
+  ],
+  "related": [
+    {
+      "slug": "filetools-pdf-to-word-conversion-cs",
+      "lang": "cs",
+      "title": "PDF do Wordu: Přestaň platit za konverze"
+    },
+    {
+      "slug": "filetools-merge-pdfs-cs",
+      "lang": "cs",
+      "title": "Sloučení PDF bez instalace čehokoli"
+    },
+    {
+      "slug": "filetools-jpg-to-pdf-cs",
+      "lang": "cs",
+      "title": "Jak převést JPG na PDF online bez softwaru"
+    }
+  ]
+}
