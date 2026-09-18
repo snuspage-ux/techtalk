@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-automotive-channels-cs",
+  "lang": "cs",
+  "title": "Autokanál v pěti jazycích: dabing zvládne i řev motoru",
+  "description": "Recenze aut mají globální publikum, jenže komentář je česky. Jak AI dabing otevře autokanálu trhy v Německu, Polsku i Latinské Americe bez nového natáčení.",
+  "excerpt": "Záběry z okruhu rozumí každý. Komentáři už ne. Dabing je nejlevnější způsob, jak z autokanálu udělat mezinárodní značku.",
+  "content": "Auta jsou jeden z mála žánrů, kde je obraz univerzální. Detail na kotoučovou brzdu, průjezd zatáčkou, decibely u výfuku — to funguje v Brně i v São Paulu. Co nefunguje, je komentář: devadesát procent hodnoty tvé recenze je v tom, co říkáš, a to je zamčené v jednom jazyce.\n\n## Titulky u autoobsahu selhávají\n\nDivák sleduje jízdu, palubku a ukazatele. Když má zároveň číst titulky, o obraz přijde — a přesně obraz je důvod, proč tvoje video pustil. U dynamických sekvencí to platí dvojnásob. Dabing tenhle konflikt ruší: oči zůstávají na autě, informace jde do uší.\n\n## Které trhy dávají smysl jako první\n\nNěmčina je u autoobsahu nejsilnější evropský trh, následuje polština (obrovská komunita kolem ojetin) a španělština, kde je publikum enormní a konkurence v kvalitních recenzích slabá. Tři jazyky stačí, aby se ti sledovanost běžně zdvojnásobila.\n\n## Technický detail, na kterém to stojí\n\nU autovidea musí dabing sedět do zvukové stopy, ne ji přebít. [TubeVoice](https://tubevoice.io) odděluje hlas od ruchů, takže motor, vítr i pneumatiky zůstanou v původní stopě a nový komentář se položí přes ně. Výsledek zní jako natočený v daném jazyce, ne jako přemluvený.\n\nVezmi tři nejsledovanější videa z posledního roku, nech je nadabovat a sleduj retenci v nových jazycích. Když čísla sednou, máš z jednoho kanálu tři.",
+  "category": "ai",
+  "tags": [
+    "autokanál",
+    "AI dabing",
+    "YouTube",
+    "recenze aut",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-09-20T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=800&q=80",
+  "imageAlt": "Sportovní auto zaparkované na okruhu",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "Kupsledujici",
+      "url": "https://kupsledujici.cz"
+    }
+  ],
+  "related": [
+    "tubevoice-product-reviews",
+    "tubevoice-gaming-channels",
+    "tubevoice-localization-strategy"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-automotive-channels-pl",
+  "lang": "pl",
+  "title": "Kanał motoryzacyjny w pięciu językach: dubbing poradzi sobie i z silnikiem",
+  "description": "Testy aut mają globalną widownię, ale twój komentarz tkwi w jednym języku. Jak dubbing AI otwiera Niemcy, Hiszpanię i Amerykę Łacińską bez ponownych zdjęć.",
+  "excerpt": "Ujęcia z toru rozumie każdy. Twojego komentarza nikt. Dubbing to najtańszy sposób, by z kanału zrobić markę międzynarodową.",
+  "content": "Motoryzacja to jedna z niewielu nisz, w których obraz jest już uniwersalny. Zbliżenie na zacisk hamulcowy, szybko wzięty zakręt, dźwięk wydechu — to działa tak samo w Warszawie jak w São Paulo. Nie podróżuje tylko komentarz, a w nim siedzi dziewięćdziesiąt procent twojej wartości.\n\n## Napisy nie sprawdzają się w treściach o autach\n\nWidz patrzy na drogę, deskę rozdzielczą, wskaźniki. Jeśli ma jeszcze czytać, traci obraz — czyli dokładnie to, po co kliknął. Przy dynamicznych sekwencjach jest jeszcze gorzej. Dubbing usuwa ten konflikt: oczy zostają przy aucie, informacja idzie do uszu.\n\n## Od jakich rynków zacząć\n\nNiemiecki to najmocniejsza motoryzacyjna widownia w Europie. Angielski daje zasięg, hiszpański ogromną publiczność przy zaskakująco słabej konkurencji w rzetelnych testach. Trzy języki zwykle wystarczą, żeby podwoić czas oglądania.\n\n## Techniczny szczegół, na którym wszystko stoi\n\nDubbing filmu o aucie musi wejść w istniejącą warstwę dźwiękową, a nie ją zagłuszyć. [TubeVoice](https://tubevoice.io) oddziela głos od tła, więc silnik, wiatr i opony zostają nietknięte, a nowy komentarz kładzie się na wierzchu. Brzmi to jak nagrane w danym języku, nie jak przegadane.\n\nWeź trzy najlepsze filmy z ostatniego roku, zleć dubbing i sprawdź retencję w nowych językach. Jeśli liczby się trzymają, masz trzy kanały zamiast jednego.",
+  "category": "ai",
+  "tags": [
+    "kanał motoryzacyjny",
+    "dubbing AI",
+    "YouTube",
+    "testy aut",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-09-20T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=800&q=80",
+  "imageAlt": "Samochód sportowy zaparkowany na torze wyścigowym",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "Kupsledujici",
+      "url": "https://kupsledujici.cz"
+    }
+  ],
+  "related": [
+    "tubevoice-product-reviews",
+    "tubevoice-gaming-channels",
+    "tubevoice-localization-strategy"
+  ]
+}

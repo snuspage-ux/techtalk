@@ -1,0 +1,29 @@
+{
+  "slug": "nemeckaplaketa-umweltzone-cities-zh",
+  "lang": "zh",
+  "title": "德国哪些城市设有环保区？自驾前先对照这份清单",
+  "description": "德国大多数较大城市都设有低排放环保区。哪些地方没有绿色环保标就进不去，以及出发前怎么把它办好。",
+  "excerpt": "柏林、慕尼黑、斯图加特、科隆，还有几十个小城市。没有绿色环保标，市中心对你就是关着的。",
+  "content": "环保区（Umweltzone）早就不只是大城市的事了。目前德国有五十多座城市设立低排放区，而且规则几乎一致：只有贴着绿色环保标的车才能进。\n\n## 哪些地方一定会遇到\n\n柏林的区域最大，覆盖整个 S-Bahn 环线以内，进城就必然穿过。慕尼黑的环保区在中环（Mittlerer Ring）以内，斯图加特几乎覆盖全城，科隆、杜塞尔多夫和法兰克福则包含市中心及周边城区。小城市同样会让外地司机中招：海德堡、弗莱堡、埃尔福特、哈雷、马格德堡、奥斯纳布吕克。\n\n## 开车时怎么认出环保区\n\n入口是一块红边圆形标志，上面写着 UMWELTZONE，下方附一块显示绿色环保标的辅助牌。出口是同一标志被划掉。没有闸机、没有关卡，只有摄像头和警察抽查。100 欧元的罚单常常几个月后才寄到你家。\n\n## 出发前该做的事\n\n环保标是一次性的，贴上后在整个车辆生命周期内有效，办一次就够了。最省事的方式是在 [nemeckaplaketa.cz](https://nemeckaplaketa.cz) 在线申请：上传行驶证、刷卡付款，标贴会邮寄过来，不用到了德国再去找 TÜV 或 DEKRA 检测站。\n\n今年打算开车去德国？现在就办，别等到出发前一晚——邮寄要几天。",
+  "category": "tools",
+  "tags": [
+    "环保区",
+    "绿色环保标",
+    "德国",
+    "自驾",
+    "罚款"
+  ],
+  "publishedAt": "2026-09-20T16:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=800&q=80",
+  "imageAlt": "德国街头的环保区标志",
+  "backlinks": [
+    {
+      "text": "nemeckaplaketa.cz",
+      "url": "https://nemeckaplaketa.cz"
+    }
+  ],
+  "related": [
+    "nemeckaplaketa-umweltplakette-guide"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "tubevoice-automotive-channels-en",
+  "lang": "en",
+  "title": "Car Channels in Five Languages: Dubbing Handles the Engine Too",
+  "description": "Car reviews have a global audience, but your commentary is locked in one language. How AI dubbing opens German, Polish and Latin American markets without reshooting.",
+  "excerpt": "Everyone understands track footage. Nobody understands your commentary. Dubbing is the cheapest way to turn a car channel into an international brand.",
+  "content": "Cars are one of the few niches where the visuals are already universal. A close-up on a brake caliper, a corner taken at speed, an exhaust note — that plays the same in Manchester and in São Paulo. What doesn't travel is the commentary, and that's where ninety percent of your value sits.\n\n## Subtitles fail automotive content\n\nYour viewer is watching the road, the dash, the gauges. Ask them to read subtitles at the same time and they lose the picture — which is the exact reason they clicked. On fast-moving sequences it's worse. Dubbing removes the conflict: eyes stay on the car, information goes to the ears.\n\n## Which markets to open first\n\nGerman is the strongest automotive audience in Europe. Polish comes next, with a massive used-car community. Spanish gives you an enormous audience and surprisingly thin competition in quality reviews. Three languages is usually enough to double your watch time.\n\n## The technical detail that makes or breaks it\n\nDubbing a car video means sitting inside the original soundscape, not on top of it. [TubeVoice](https://tubevoice.io) separates the voice track from the ambience, so the engine, wind and tyre noise stay intact while the new commentary lands over them. It sounds shot in that language, not overdubbed.\n\nTake your three best-performing videos from the last year, dub them, and watch retention in the new languages. If the numbers hold, you've turned one channel into three.",
+  "category": "ai",
+  "tags": [
+    "car channel",
+    "AI dubbing",
+    "YouTube",
+    "car reviews",
+    "TubeVoice"
+  ],
+  "publishedAt": "2026-09-20T05:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=800&q=80",
+  "imageAlt": "Sports car parked on a race track",
+  "backlinks": [
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    },
+    {
+      "text": "Kupsledujici",
+      "url": "https://kupsledujici.cz"
+    }
+  ],
+  "related": [
+    "tubevoice-product-reviews",
+    "tubevoice-gaming-channels",
+    "tubevoice-localization-strategy"
+  ]
+}
