@@ -1,0 +1,30 @@
+{
+  "slug": "nemeckaplaketa-pokuta-bez-plakety-zh",
+  "lang": "zh",
+  "title": "德国环保区罚款：无绿色贴纸 100 欧元起，实测执法流程",
+  "description": "开车进德国低排放区 Umweltzone 没有有效绿色贴纸，直接罚 100 欧元。本文讲清楚检查怎么做、跨境罚单会不会追到家。",
+  "excerpt": "环保区没贴纸 = 100 欧元罚款。执法到底怎么走 — 罚单会不会寄到你家。",
+  "content": "开进德国任何一个低排放区（Umweltzone）都必须在挡风玻璃上贴一张有效的绿色环保贴纸 Umweltplakette。没贴就是**固定 100 欧元罚款**，即便你的车实际上完全达标也不能免。检查只看玻璃上贴了什么。\n\n## 检查实际怎么走\n\n两种巡逻：市中心的徒步警察（柏林、慕尼黑、斯图加特最活跃）和开车沿街巡查的机动巡逻。他们不会挨车检查，但外国牌照 — 特别是波兰、捷克、奥地利 — 会被优先注意，因为统计上这些车没贴的比例最高。整个检查 30 秒：看玻璃、记车牌、打印罚单。当场不用付钱，通知会在 2–3 周后邮寄到你手上。\n\n## 罚单会寄到国外吗\n\n会。德国与大多数欧盟国家签有 70 欧元以上交通罚款的跨境执行协议。通知会被翻译并通过当地警方或直接寄送。如果拒不缴纳，下次入境德国时车辆可能被扣留直至付清。\n\n## 「买了贴纸只是忘贴」\n\n不算数。贴纸必须实际贴在挡风玻璃上，从驾驶座一侧可见。「在家里」和「没有」一样都是 100 欧元。上 [nemeckaplaketa.cz](https://nemeckaplaketa.cz) 购买，一到手立刻贴上。\n",
+  "category": "tools",
+  "tags": [
+    "罚款",
+    "环保区",
+    "德国",
+    "自驾",
+    "贴纸"
+  ],
+  "publishedAt": "2026-09-22T05:00:00Z",
+  "readingTime": 3,
+  "image": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&q=80",
+  "imageAlt": "德国 Umweltzone 交通标志与挡风玻璃上的绿色环保贴纸",
+  "backlinks": [
+    {
+      "text": "nemeckaplaketa.cz",
+      "url": "https://nemeckaplaketa.cz"
+    }
+  ],
+  "related": [
+    "nemeckaplaketa-umweltplakette-guide",
+    "nemeckaplaketa-umweltzone-cities"
+  ]
+}
