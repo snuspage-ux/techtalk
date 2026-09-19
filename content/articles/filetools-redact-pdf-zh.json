@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-redact-pdf-zh",
+  "lang": "zh",
+  "title": "PDF 打码怎么做，文字才是真的没了",
+  "description": "在账号上盖一个黑色方块不叫打码，下面的文字还在。教你真正从 PDF 里抹掉敏感信息，让对方复制不出来。",
+  "excerpt": "办公室里最常见的数据泄露不是被黑，而是有人在账号上画了个黑方块就把 PDF 发了出去。",
+  "content": "常见场景：要把合同发出去，但身份证号和银行账号不能给。你打开 PDF，在上面画几个黑色方块，保存，发送。问题是你什么都没删——你只是在文字上盖了一层图形。对方用鼠标框选那块区域，按下 Ctrl+C，拿到的正是你想遮住的内容。\n\n## 为什么方块不管用\n\nPDF 把文字和图形存在不同的图层里。方块属于图形，画在最上面；下面的文字完好无损，搜索、复制粘贴和任何提取工具都能找到它。如果 PDF 本身是由文字生成的，在看图软件里做模糊处理同样无效。\n\n## 真正有效的两种做法\n\n第一种：用支持真实涂密的工具，它会把选中区域的文字从文件内容里删掉，而不是盖住。第二种是通用的兜底方案：把页面转成图片，在图片上涂黑，再存回 PDF。代价是整份文档不能再搜索，但被删掉的信息是真的没了。\n\n## 别忘了元数据\n\n即使涂密做对了，文件里还留着作者名、文档标题、修改记录，有时还有批注。对合同和简历来说，这些往往和正文一样敏感。发送前把元数据清干净，顺便检查有没有内嵌附件。\n\n## 发出去之前验一遍\n\n在成品文件里搜一下被涂掉的那串内容，再跑一次文字提取。什么都搜不到，就算完成了。\n\n涂密、清理元数据、压缩 PDF，都可以直接在浏览器里用 [FileTools](https://filetools.eu) 完成。",
+  "category": "tools",
+  "tags": [
+    "PDF",
+    "安全",
+    "隐私",
+    "文档",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-21T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+  "imageAlt": "桌上摊开的文件，部分行被标出",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-password-protect",
+    "filetools-metadata-cleanup",
+    "filetools-fill-sign-pdf"
+  ]
+}

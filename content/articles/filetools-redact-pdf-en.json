@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-redact-pdf-en",
+  "lang": "en",
+  "title": "PDF redaction that actually removes the text",
+  "description": "A black box over a bank account number isn't redaction — the text underneath survives. How to strip sensitive data from a PDF so it can't be copied back out.",
+  "excerpt": "The most common data leak in offices isn't a hack. It's a PDF where someone drew a black rectangle over an account number and hit send.",
+  "content": "Classic situation: you need to send a contract, minus the ID number and bank details. You open the PDF, draw black rectangles over them, save, send. The problem is you deleted nothing — you laid a graphic on top of text. The recipient drags a selection over the area, hits Ctrl+C, and gets exactly what you tried to hide.\n\n## Why a rectangle isn't enough\n\nA PDF stores text and graphics in separate layers. The rectangle is a graphic and renders on top. The text below stays intact, so search, copy-paste, and any extraction tool still find it. Blurring in an image viewer fails the same way if the PDF was generated from text.\n\n## What actually works\n\nTwo reliable routes. First: use a tool with true redaction, which deletes the text inside the marked area from the file's content stream rather than covering it. Second, the universal fallback: rasterize the pages to images, paint black over them, and save back as PDF. You lose searchability across the whole document, but the removed data is genuinely gone.\n\n## Don't forget metadata\n\nEven after proper redaction, the file still carries author name, document title, edit history, and sometimes comments. On contracts and CVs that's often as sensitive as the body text. Clean the metadata and check for embedded attachments before sending.\n\n## Verify before you send\n\nSearch the finished file for the redacted value and run a text extraction over it. If nothing comes back, you're done.\n\nYou can redact, strip metadata, and compress PDFs straight in the browser at [FileTools](https://filetools.eu).",
+  "category": "tools",
+  "tags": [
+    "PDF",
+    "security",
+    "privacy",
+    "documents",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-21T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+  "imageAlt": "A document on a desk with highlighted lines",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-password-protect",
+    "filetools-metadata-cleanup",
+    "filetools-fill-sign-pdf"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-redact-pdf-es",
+  "lang": "es",
+  "title": "Tachar datos en un PDF para que desaparezcan de verdad",
+  "description": "Un rectángulo negro sobre un número de cuenta no es censurar: el texto sigue debajo. Cómo eliminar datos sensibles de un PDF sin que se puedan copiar.",
+  "excerpt": "La filtración de datos más común en una oficina no es un hackeo. Es un PDF con un rectángulo negro encima del número de cuenta y el botón de enviar.",
+  "content": "Situación clásica: tienes que enviar un contrato, pero sin el DNI ni el número de cuenta. Abres el PDF, dibujas rectángulos negros encima, guardas y envías. El problema es que no has borrado nada: has puesto un gráfico sobre el texto. El destinatario selecciona la zona con el ratón, pulsa Ctrl+C y obtiene justo lo que querías ocultar.\n\n## Por qué el rectángulo no basta\n\nUn PDF guarda el texto y los gráficos en capas separadas. El rectángulo es un gráfico y se dibuja encima. El texto de debajo sigue completo, así que la búsqueda, el copiar y pegar y cualquier extractor lo encuentran igual. Difuminar en un visor de imágenes falla del mismo modo si el PDF nació de texto.\n\n## Lo que sí funciona\n\nHay dos caminos fiables. El primero: usar una herramienta con censura real, que borra el texto del área marcada del contenido del archivo en lugar de taparlo. El segundo, el recurso universal: convertir las páginas en imágenes, pintar las zonas de negro y volver a guardar como PDF. Pierdes la búsqueda en todo el documento, pero los datos desaparecen de verdad.\n\n## No olvides los metadatos\n\nIncluso tras censurar bien, el archivo conserva autor, título, historial de ediciones y a veces comentarios. En contratos y currículums eso suele ser tan sensible como el propio texto. Limpia los metadatos antes de enviar.\n\n## Compruébalo antes\n\nBusca el dato censurado dentro del archivo final y pásale una extracción de texto. Si no aparece nada, está listo.\n\nCensurar, limpiar metadatos y comprimir PDF se hace directamente en el navegador en [FileTools](https://filetools.eu).",
+  "category": "tools",
+  "tags": [
+    "PDF",
+    "seguridad",
+    "privacidad",
+    "documentos",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-21T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+  "imageAlt": "Documento sobre una mesa con líneas marcadas",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-password-protect",
+    "filetools-metadata-cleanup",
+    "filetools-fill-sign-pdf"
+  ]
+}

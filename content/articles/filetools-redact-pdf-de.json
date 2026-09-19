@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-redact-pdf-de",
+  "lang": "de",
+  "title": "PDF schwärzen, sodass der Text wirklich weg ist",
+  "description": "Ein schwarzes Rechteck über der Kontonummer ist keine Schwärzung — der Text darunter bleibt. So entfernst du sensible Daten wirklich aus einem PDF.",
+  "excerpt": "Das häufigste Datenleck im Büro ist kein Hack. Es ist ein PDF, über dessen Kontonummer jemand ein schwarzes Rechteck gelegt und es verschickt hat.",
+  "content": "Klassiker: Du willst einen Vertrag verschicken, aber ohne Steuer-ID und Kontonummer. Du öffnest das PDF, ziehst schwarze Rechtecke darüber, speicherst, schickst ab. Nur hast du nichts gelöscht — du hast eine Grafik auf den Text gelegt. Der Empfänger markiert den Bereich mit der Maus, drückt Strg+C und hat genau das, was du verbergen wolltest.\n\n## Warum das Rechteck nicht reicht\n\nEin PDF speichert Text und Grafik in getrennten Ebenen. Das Rechteck ist Grafik und wird oben gezeichnet. Der Text darunter bleibt vollständig erhalten: Suche, Kopieren und jedes Extraktionswerkzeug finden ihn weiterhin. Unscharf machen im Bildbetrachter scheitert genauso, wenn das PDF aus Text entstanden ist.\n\n## Was wirklich funktioniert\n\nEs gibt zwei verlässliche Wege. Erstens: ein Werkzeug mit echter Redaktion nutzen, das den Text im markierten Bereich aus dem Inhalt der Datei löscht statt ihn zu überdecken. Zweitens, die universelle Notlösung: die Seiten in Bilder umwandeln, die Stellen schwarz übermalen und wieder als PDF speichern. Das Dokument ist dann nicht mehr durchsuchbar, die Daten sind aber tatsächlich weg.\n\n## Metadaten nicht vergessen\n\nAuch nach korrekter Schwärzung stecken Autorname, Dokumenttitel, Bearbeitungsverlauf und manchmal Kommentare in der Datei. Bei Verträgen und Lebensläufen ist das oft genauso heikel wie der Text selbst. Metadaten also vor dem Versand bereinigen.\n\n## Kurz gegenprüfen\n\nSuche in der fertigen Datei nach dem geschwärzten Wert und lass eine Textextraktion darüber laufen. Kommt nichts zurück, passt es.\n\nSchwärzen, Metadaten entfernen und PDFs komprimieren geht direkt im Browser bei [FileTools](https://filetools.eu).",
+  "category": "tools",
+  "tags": [
+    "PDF",
+    "Sicherheit",
+    "DSGVO",
+    "Dokumente",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-21T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+  "imageAlt": "Dokument auf einem Schreibtisch mit markierten Zeilen",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-password-protect",
+    "filetools-metadata-cleanup",
+    "filetools-fill-sign-pdf"
+  ]
+}

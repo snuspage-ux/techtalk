@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-redact-pdf-cs",
+  "lang": "cs",
+  "title": "Začernění v PDF, které opravdu funguje",
+  "description": "Černý obdélník přes rodné číslo není začernění — text pod ním zůstává. Jak citlivé údaje z PDF odstranit tak, aby se nedaly zkopírovat zpátky.",
+  "excerpt": "Nejčastější únik dat ve firmách není hack. Je to PDF, kde někdo přetáhl přes číslo účtu černý obdélník a poslal to dál.",
+  "content": "Klasika: potřebuješ poslat smlouvu, ale bez rodného čísla a čísla účtu. Otevřeš PDF, nakreslíš přes ně černý obdélník, uložíš, odešleš. Problém je, že jsi nic nesmazal — jen jsi na text položil grafiku. Příjemce označí myší oblast, dá Ctrl+C a má tam přesně to, cos chtěl skrýt.\n\n## Proč obdélník nestačí\n\nPDF drží text a grafiku ve dvou oddělených vrstvách. Obdélník je grafika, ta se vykreslí nahoře. Text pod ním zůstává kompletní — najde ho vyhledávání, kopírování i libovolný extraktor. Stejně tak nefunguje rozmazání v prohlížeči obrázků, pokud PDF vzniklo z textu.\n\n## Postup, který funguje\n\nJsou dvě spolehlivé cesty. První: použij nástroj s opravdovou redakcí, který text pod označenou oblastí skutečně smaže z obsahu souboru, ne jen překryje. Druhá, univerzální záloha: převeď stránky na obrázky, přes ně nakresli černé plochy a ulož zpátky do PDF. Ztratíš vyhledatelnost celého dokumentu, ale odstraněné údaje jsou fakt pryč.\n\n## Nezapomeň na metadata\n\nI po správném začernění zůstává v souboru autor, název dokumentu, historie úprav a někdy i komentáře. U smluv a životopisů to bývá stejně citlivé jako samotný text. Před odesláním vyčisti metadata a zkontroluj přílohy.\n\n## Ověř si to\n\nNež soubor pošleš, zkus si v něm sám vyhledat začerněný údaj a projet ho textovou extrakcí. Když se nic nenajde, je hotovo.\n\nZačernit, vyčistit metadata i zkomprimovat PDF zvládneš přímo v prohlížeči na [FileTools](https://filetools.eu).",
+  "category": "tools",
+  "tags": [
+    "PDF",
+    "bezpečnost",
+    "GDPR",
+    "dokumenty",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-21T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+  "imageAlt": "Dokument na stole s označenými řádky",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-password-protect",
+    "filetools-metadata-cleanup",
+    "filetools-fill-sign-pdf"
+  ]
+}

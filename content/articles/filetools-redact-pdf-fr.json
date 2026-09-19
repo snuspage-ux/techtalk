@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-redact-pdf-fr",
+  "lang": "fr",
+  "title": "Caviarder un PDF pour que le texte disparaisse vraiment",
+  "description": "Un rectangle noir sur un numéro de compte n'est pas un caviardage : le texte dessous reste. Comment supprimer réellement des données sensibles d'un PDF.",
+  "excerpt": "La fuite de données la plus courante au bureau n'est pas un piratage. C'est un PDF où quelqu'un a posé un rectangle noir sur un RIB avant de l'envoyer.",
+  "content": "Situation classique : tu dois envoyer un contrat, mais sans le numéro de sécurité sociale ni le RIB. Tu ouvres le PDF, tu traces des rectangles noirs dessus, tu enregistres, tu envoies. Sauf que tu n'as rien supprimé : tu as posé un graphique par-dessus du texte. Le destinataire sélectionne la zone à la souris, fait Ctrl+C, et récupère exactement ce que tu voulais cacher.\n\n## Pourquoi le rectangle ne suffit pas\n\nUn PDF stocke le texte et les graphiques dans des couches séparées. Le rectangle est un graphique, dessiné au-dessus. Le texte en dessous reste intact : la recherche, le copier-coller et n'importe quel extracteur le retrouvent. Flouter dans une visionneuse d'images échoue de la même manière si le PDF vient d'un texte.\n\n## Ce qui fonctionne vraiment\n\nDeux méthodes fiables. La première : utiliser un outil de caviardage réel, qui efface le texte de la zone marquée du contenu du fichier au lieu de le recouvrir. La seconde, solution de repli universelle : convertir les pages en images, peindre les zones en noir, puis réenregistrer en PDF. Tu perds la recherche dans tout le document, mais les données sont vraiment parties.\n\n## N'oublie pas les métadonnées\n\nMême après un caviardage correct, le fichier conserve l'auteur, le titre, l'historique des modifications et parfois des commentaires. Sur un contrat ou un CV, c'est souvent aussi sensible que le texte. Nettoie donc les métadonnées avant l'envoi.\n\n## Vérifie avant d'envoyer\n\nCherche la valeur caviardée dans le fichier final et lance une extraction de texte. Si rien ne remonte, c'est bon.\n\nCaviarder, nettoyer les métadonnées et compresser un PDF se fait directement dans le navigateur sur [FileTools](https://filetools.eu).",
+  "category": "tools",
+  "tags": [
+    "PDF",
+    "sécurité",
+    "RGPD",
+    "documents",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-21T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+  "imageAlt": "Document posé sur un bureau avec des lignes surlignées",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-password-protect",
+    "filetools-metadata-cleanup",
+    "filetools-fill-sign-pdf"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "filetools-redact-pdf-pl",
+  "lang": "pl",
+  "title": "Zaczernianie PDF, po którym tekstu naprawdę nie ma",
+  "description": "Czarny prostokąt na numerze konta to nie anonimizacja — tekst pod spodem zostaje. Jak usunąć wrażliwe dane z PDF tak, żeby nie dało się ich skopiować.",
+  "excerpt": "Najczęstszy wyciek danych w biurze to nie włamanie. To PDF, na którym ktoś położył czarny prostokąt na numerze konta i nacisnął wyślij.",
+  "content": "Klasyka: masz wysłać umowę, ale bez numeru PESEL i numeru konta. Otwierasz PDF, rysujesz na nich czarne prostokąty, zapisujesz, wysyłasz. Problem w tym, że niczego nie usunąłeś — położyłeś grafikę na tekście. Odbiorca zaznacza obszar myszą, wciska Ctrl+C i ma dokładnie to, co chciałeś ukryć.\n\n## Dlaczego prostokąt nie wystarcza\n\nPDF trzyma tekst i grafikę w osobnych warstwach. Prostokąt to grafika i rysuje się na wierzchu. Tekst pod spodem zostaje w całości, więc wyszukiwarka, kopiowanie i dowolne narzędzie do ekstrakcji wciąż go znajdą. Rozmycie w przeglądarce zdjęć zawodzi tak samo, jeśli PDF powstał z tekstu.\n\n## Co działa naprawdę\n\nSą dwie pewne drogi. Pierwsza: użyć narzędzia z prawdziwą redakcją, które kasuje tekst z zaznaczonego obszaru z zawartości pliku, zamiast go przykrywać. Druga, uniwersalna awaryjna: zamienić strony na obrazy, zamalować miejsca na czarno i zapisać z powrotem jako PDF. Tracisz wyszukiwanie w całym dokumencie, ale dane faktycznie znikają.\n\n## Nie zapomnij o metadanych\n\nNawet po poprawnym zaczernieniu w pliku zostaje autor, tytuł dokumentu, historia edycji, a czasem komentarze. Przy umowach i CV bywa to równie wrażliwe jak sama treść. Wyczyść metadane przed wysyłką.\n\n## Sprawdź to na końcu\n\nPoszukaj zaczernionej wartości w gotowym pliku i przepuść go przez ekstrakcję tekstu. Jeśli nic nie wyskoczy, jest dobrze.\n\nZaczernianie, czyszczenie metadanych i kompresję PDF zrobisz prosto w przeglądarce na [FileTools](https://filetools.eu).",
+  "category": "tools",
+  "tags": [
+    "PDF",
+    "bezpieczeństwo",
+    "RODO",
+    "dokumenty",
+    "FileTools"
+  ],
+  "publishedAt": "2026-09-21T16:00:00Z",
+  "readingTime": 4,
+  "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+  "imageAlt": "Dokument na biurku z zaznaczonymi wierszami",
+  "backlinks": [
+    {
+      "text": "FileTools",
+      "url": "https://filetools.eu"
+    },
+    {
+      "text": "TubeVoice",
+      "url": "https://tubevoice.io"
+    }
+  ],
+  "related": [
+    "filetools-password-protect",
+    "filetools-metadata-cleanup",
+    "filetools-fill-sign-pdf"
+  ]
+}
